@@ -1,7 +1,7 @@
 # Privacy Settings
 
 Privacy settings for:
-- [Google Account](https://github.com/the-weird-aquarian/privacy-settings/blob/main/%20Settings/Google-Account-Privacy-Settings.md)
+- [Google Account](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Account-Privacy-Settings.md)
 - [Facebook](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Facebook-Privacy-Settings.md)
 - [Windows 10](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10-Privacy-Settings.md)
 - [Android](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-Privacy-Settings.md)
