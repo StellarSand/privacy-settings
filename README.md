@@ -16,10 +16,10 @@ Privacy settings for:
 
 
 ## Recommended Adblockers
-- HTTPS Everywhere: [Google Chrome](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)
-- Privacy Badger: [Google Chrome](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
-- Decentraleyes: [Google Chrome](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
-- uBlock Origin: [Google Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+- HTTPS Everywhere: [Google Chrome/Chromium based browsers](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/https-everywhere/fchjpkplmbeeeaaogdbhjbgbknjobohb)
+- Privacy Badger: [Google Chrome/Chromium based browsers](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/privacy-badger/mkejgcgkdlddbggjhhflekkondicpnop)
+- Decentraleyes: [Google Chrome/Chromium based browsers](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/decentraleyes/lmijmgnfconjockjeepmlmkkibfgjmla)
+- uBlock Origin: [Google Chrome/Chromium based browsers](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)
 - Clear URLs: [Firefox Only](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)
 
 ### Adblocker Settings
