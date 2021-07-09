@@ -1,6 +1,6 @@
 # Google Chrome Privacy Settings
 
-Click 3 dots on top right and go to Settings.
+Go to Settings.
 
 
 
