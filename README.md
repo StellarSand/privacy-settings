@@ -22,6 +22,8 @@ Privacy settings for:
 - uBlock Origin: [Google Chrome/Chromium based browsers](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)
 - Clear URLs: [Firefox Only](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)
 
+NOTE: First 4 adblockers are also available for Firefox Beta Mobile and Fennec (F-droid version of firefox mobile) users in the Add-ons.
+
 ### Adblocker Settings
 Setting up the above mentioned adblockers:
 - [HTTPS Everywhere](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Adblocker%20Settings/HTTPS-Everywhere-Settings.md)
