@@ -23,4 +23,4 @@ Go to Settings
 - Toggle Off
 
 
-NOTE: Some other settings are same as Google Account settings. Check Google Account settings [here](https://github.com/the-weird-aquarian/privacy-settings/blob/main/%20Settings/Google-Account-Privacy-Settings.md)
+NOTE: Some other settings are same as Google Account settings. Check Google Account settings [here](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Account-Privacy-Settings.md)
