@@ -9,6 +9,9 @@ Privacy settings for:
 - Firefox: [Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Privacy-Settings.md), [Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-M-Privacy-Settings.md)
 - Brave: [Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Privacy-Settings.md), [Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-M-Privacy-Settings.md)
 - Microsoft Edge: [Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Privacy-Settings.md), [Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-M-Privacy-Settings.md)
+- [Firefox Focus](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus-Privacy-Settings.md)
+- [Bromite](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Bromite-Privacy-Settings.md)
+- [Gboard](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Gboard-Privacy-Settings.md) (Google Keyboard)
 - [Twitter](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Twitter-Privacy-Settings.md)
 - [Instagram](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Instagram-Privacy-Settings.md)
 - [Discord](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Discord-Privacy-Settings.md)
@@ -22,7 +25,7 @@ Privacy settings for:
 - uBlock Origin: [Google Chrome/Chromium based browsers](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)
 - Clear URLs: [Firefox Only](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)
 
-NOTE: First 4 adblockers are also available for Firefox Beta Mobile and Fennec (F-droid version of firefox mobile) users in the Add-ons.
+NOTE: First 4 adblockers are also available for Firefox Mobile and Fennec (F-droid version of firefox mobile) users in the Add-ons.
 
 ### Adblocker Settings
 Setting up the above mentioned adblockers:
@@ -65,4 +68,4 @@ For better privacy respecting alternatives, unbiased reviews and more informatio
 
 
 ## Contributing
-Any contribution would be much appreciated.
+Any contribution to the project would be much appreciated.
