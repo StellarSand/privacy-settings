@@ -1,10 +1,14 @@
 # Google Chrome Mobile Privacy Settings
 
+##### Following settings also apply to Ungoogled Chromium, except the Google services & new tab section.
+
 Go to Settings.
 
 
 
 ## Google services
+##### This section does not apply to Ungoogled Chromium
+
 - Allow Chrome sign-in: Off
 - Autocomplete searches and URLs: Off
 - Show suggestions for similar pages when a page can't be found: Off
@@ -16,7 +20,8 @@ Go to Settings.
 ## Basics
 
 #### Search engine
-- DuckDuckGo
+- Google Chrome: DuckDuckGo
+- Ungoogled Chromium: Qwant or any other privacy respecting search engine like DuckDuckGo, Searx, Startpage etc.
 
 #### Passwords
 - Save passwords: Off
@@ -55,5 +60,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 ---
 ---
+
+##### This section does not apply to Ungoogled Chromium
 
 On new tab page > Discover by Google: Off
