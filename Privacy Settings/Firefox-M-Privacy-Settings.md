@@ -34,7 +34,7 @@ NOTE: Never save payment info or credit card details in browsers. A password man
 - Open links in a private tab: On
 - Allow screenshots in private browsing: Off
 
-#### Enhanced Tracking Prtection
+#### Enhanced Tracking Protection
 - Toggle on
 - Strict
 
