@@ -36,8 +36,8 @@ Do not link
 ## Apps
 
 #### Apps & features
-Uninstall anything you don't use (like XBox, candy crush, some other preinstalled apps/games)
-BE SURE TO NOT UNINSTALL ANYTHING IMPORTANT..IF YOU HAVE DOUBTS ABOUT ANY APP EITHER ASK OR SEARCH THE NET.
+Uninstall anything you don't use like XBox, candy crush, some other preinstalled apps/games etc.
+Be sure not to uninstall anything important. If you have doubts about any app, either ask or search the net.
 
 
 
@@ -56,6 +56,7 @@ BE SURE TO NOT UNINSTALL ANYTHING IMPORTANT..IF YOU HAVE DOUBTS ABOUT ANY APP EI
 - Diagnostics & feedback > Tailored experiences: Off
 - Activity history > Send my activity history to Microsoft: Off
 - App permisions > Review each setting and disable accordingly (choose which apps can have access to camera, microphone, gps, notifications etc....if any app doesn't need something, turn it off.)
+- App permissions > App diagnostics > Change > Toggle off
 
 
 
