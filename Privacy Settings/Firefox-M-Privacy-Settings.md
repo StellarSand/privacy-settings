@@ -9,7 +9,7 @@ Go to Settings.
 ## General
 
 #### Search
-- Default search engine: DuckDuckGo or any other privacy respecting search engine like Qwant, Swisscows etc.
+- Default search engine: DuckDuckGo or add any other privacy respecting search engine like Qwant, Swisscows etc.
 - Autocomplete URLs: Off
 - Show clipboard suggestion: Off
 - Show voice search: Off
