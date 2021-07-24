@@ -1,5 +1,7 @@
 # Google Chrome Privacy Settings
 
+##### Following settings also apply to Ungoogled Chromium.
+
 Go to Settings.
 
 
@@ -7,10 +9,11 @@ Go to Settings.
 ## You and Google
 
 #### Sync and Google services
+- Allow Chrome/Chromium sign-in: Off
 - Autocomplete searches and URLs: Off
-- Help improve Chrome's featires and perormance: Off
+- Help improve Chrome's features and performance: Off (Does not apply to Ungoogled Chromium)
 - Make searches and browsing better: Off
-- Enhanced spell check: Off
+- Enhanced spell check: Off (Does not apply to Ungoogled Chromium)
 
 #### Passwords
 - Offer to save passwords: Off
