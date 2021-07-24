@@ -19,6 +19,12 @@ Go to Settings
 
 
 
+## Search engine
+- Search engine used in address bar: Qwant or any other 
+privacy respecting search engine like DuckDuckGo, Startpage etc.
+
+
+
 ## Additional settings
 
 #### Privacy and security
