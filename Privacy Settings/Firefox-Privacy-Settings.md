@@ -23,6 +23,11 @@ Go to Settings.
 
 
 
+## Search
+- Default Search Engine: DuckDuckGo or add any other privacy respecting search engine like Qwant, Swisscows etc.
+
+
+
 ## Privacy & Security
 
 #### Enhanced Tracking Protection
