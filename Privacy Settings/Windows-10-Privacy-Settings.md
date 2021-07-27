@@ -43,6 +43,15 @@ Be sure not to uninstall anything important. If you have doubts about any app, e
 
 ## Accounts
 
+#### Your info
+Delete your account picture and set it to default.
+Under Create your picture, click on Browse for one.
+- Go to C:\Users\Username\AppData\Roaming\Microsoft\Windows\AccountPictures and delete your picture.
+- Go to C:\ProgramData\Microsoft\User Account Pictures and select any one.
+
+NOTE: AppData is a hidden folder by default.
+- To enable: in file explorer on top click View > select Hidden items.
+
 #### Sign-in options
 - Require sign-in: When PC wakes up from sleep
 
