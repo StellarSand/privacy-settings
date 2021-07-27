@@ -26,3 +26,8 @@ Remove phone number if added
 
 #### Personalization and data
 - Toggle Off (When asked, select Yes, I'm sure)
+
+---
+---
+
+Remove Location and Birth date from your bio or provide false info if you want.
