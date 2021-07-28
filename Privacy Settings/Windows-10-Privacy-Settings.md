@@ -1,6 +1,6 @@
 # Windows 10 Privacy Settings
 
-First go to Settings.
+Go to Settings.
 
 
 
@@ -44,8 +44,7 @@ Be sure not to uninstall anything important. If you have doubts about any app, e
 ## Accounts
 
 #### Your info
-Delete your account picture and set it to default.
-Under Create your picture, click on Browse for one.
+Delete your account picture and set it to default. Under Create your picture, click on Browse for one.
 - Go to C:\Users\Username\AppData\Roaming\Microsoft\Windows\AccountPictures and delete your picture.
 - Go to C:\ProgramData\Microsoft\User Account Pictures and select any one.
 
@@ -54,18 +53,32 @@ NOTE: AppData is a hidden folder by default.
 
 #### Sign-in options
 - Require sign-in: When PC wakes up from sleep
+- Show account details such as my email address on the sign-in screen: Off
 
-#### Privacy
-- Show account details on sign-in screen: Off
-- General: All off
-- Speech > Online speech recognition: Off
-- Inking & typing presonalization > Getting to know you: Off
-- Diagnostics & feedback > Diagnostic data: Required diagnostic data
-- Diagnostics & feedback > Improve inking & typing recognition: Off
-- Diagnostics & feedback > Tailored experiences: Off
-- Activity history > Send my activity history to Microsoft: Off
-- App permisions > Review each setting and disable accordingly (choose which apps can have access to camera, microphone, gps, notifications etc....if any app doesn't need something, turn it off.)
-- App permissions > App diagnostics > Change > Toggle off
+
+
+## Privacy
+
+#### General
+- All off
+
+#### Speech
+- Online speech recognition: Off
+
+#### Inking & typing presonalization
+- Getting to know you: Off
+
+#### Diagnostics & feedback
+- Diagnostic data: Required diagnostic data
+- Improve inking & typing recognition: Off
+- Tailored experiences: Off
+
+#### Activity history
+- Send my activity history to Microsoft: Off
+
+#### App permisions
+- Review each permission and disable accordingly (choose which apps can have access to camera, microphone, gps, notifications etc. If any app doesn't need something, turn it off.)
+- App diagnostics > Change > Toggle off
 
 
 
@@ -73,5 +86,5 @@ NOTE: AppData is a hidden folder by default.
 
 #### Windows Security
 
-- Open Windows Security > Virus & Threat Protection > Virus & Threat Protection > Manage Settings > All protections on (Except automatic sample submission)
-- Open Windows Security > Firewall & Network Protection > All firewalls should be on for domain, public and private networks
+- Virus & threat protection > Virus & threat protection settings > Manage settings > All protections on (Except automatic sample submission)
+- Firewall & network protection > All firewalls should be on for domain, public and private networks.
