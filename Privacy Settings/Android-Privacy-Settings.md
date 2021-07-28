@@ -2,7 +2,7 @@
 
 Go to Settings
 
-##### The actual location of the settings might differ from device to device.
+**The actual location of the settings might differ from device to device.**
 
 
 
@@ -12,15 +12,34 @@ Go to Settings
 - Show sensitive content only when unlocked
 
 #### Autofill service from Google
-- Toggle off
+- Off
 
 #### Ads
 - Reset advertising ID > OK
-- Opt out of Ads Personalization: Toggle On > OK
-- Enable debug logging for ads: Toggle Off
+- Opt out of Ads Personalization: On > OK
+- Enable debug logging for ads: Off
 
 #### Usage and diagnostics
-- Toggle Off
+- Off
+
+NOTE: Additionally some OEMs might include few more settings for personalized ads & diagnostics.
+
+Search in your phone settings for "User Experience Program", "Personalized ad recommendations", "Send diagnostic data" or something similar.
 
 
-NOTE: Some other settings are same as Google Account settings. Check Google Account settings [here](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Account-Privacy-Settings.md)
+
+## Wi-Fi MAC Randomization
+- Go to Network & Internet > Wi-Fi > Tap gear icon associated with the Wi-Fi > Advanced > Privacy > Use randomized MAC
+
+- **Android 11 and above only:** Go to About phone > tap Build Number 7 times. This will unlock Developer options.
+
+  Go to System > Advanced > Developer options > Wi-fi-enhanced MAC randomization: On
+
+
+
+---
+---
+
+
+
+NOTE: Some other settings are same as [Google Account settings](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Account-Privacy-Settings.md)
