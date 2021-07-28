@@ -11,6 +11,7 @@ Privacy settings for:
 - Microsoft Edge: [Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Privacy-Settings.md), [Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-M-Privacy-Settings.md)
 - [Firefox Focus](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus-Privacy-Settings.md)
 - [Bromite](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Bromite-Privacy-Settings.md)
+- [Signal](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Signal-Privacy-Settings.md)
 - [Gboard](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Gboard-Privacy-Settings.md) (Google Keyboard)
 - [Twitter](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Twitter-Privacy-Settings.md)
 - [Instagram](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Instagram-Privacy-Settings.md)
@@ -45,6 +46,7 @@ The TL;DR version of best practices for digital privacy:
 - Use a password manager to generate and store strong, unique passwords.
 - Use better privacy respecting alternatives for search engines, emails, browsers etc.
 - Use multifactor authentication.
+- Keep apps and operating system updated.
 - Use open-source softwares and apps whenever possible (NOTE: open-source doesn't always necessarily mean secure).
 - Review permissions for softwares and apps and revoke unnecessary permissions.
 - Only provide information as much as necessary.
