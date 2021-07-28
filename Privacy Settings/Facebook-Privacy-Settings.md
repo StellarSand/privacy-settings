@@ -51,10 +51,10 @@ Remove anything you don't use
 ## Ads
 
 #### Advertisers
-If any advertsers shown, click Hide Ads
+If any advertisers shown, click Hide Ads
 
 #### Ad Topics
-See Fewer for all of them
+Click See Fewer for all of them
 
 #### Ad Settings
 - Data about your activity from partners > Use Data from Partners (Off)
