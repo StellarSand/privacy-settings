@@ -2,7 +2,7 @@
 
 Go to Settings
 
-**The actual location of the settings might differ from device to device.**
+**The actual location of the settings might differ from device to device. The following are according to stock android.**
 
 
 
