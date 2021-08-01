@@ -9,9 +9,10 @@ Login to [Google Account](https://myaccount.google.com) from browser.
 ### Choose what others see
 
 #### Basic info
-- Profile Picture: Only you
+- Profile Picture > Remove > Remove
+- Profile Picture > click on 3 dots on top right > Past profile pictures > Profile Photos > select each photo > click on 3 dots on top right > Delete photo > Delete
 - Gender: Only you
-- Birthday: Only you
+- Birthday: Only you (Provide false info if you can)
 
 #### About
 Remove everything
