@@ -62,3 +62,12 @@ Click See Fewer for all of them
 - Categories used to each you > Interest Categories and Other Categories. For both > Remove all (if too many, remove as many as you can, or do it over a period of few days)
 - Ads shown off of Facebook > Off
 - Social Interactions > Only me
+
+
+
+---
+---
+
+
+
+Remove any personally identifiable info like phone numbers, email, location etc from your Facebook bio.
