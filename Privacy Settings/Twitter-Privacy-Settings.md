@@ -31,3 +31,5 @@ Remove phone number if added
 ---
 
 Remove Location and Birth date from your bio or provide false info if you want.
+
+Also remove any other personally identifiable info like phone numbers or emails etc you might have added in your bio.
