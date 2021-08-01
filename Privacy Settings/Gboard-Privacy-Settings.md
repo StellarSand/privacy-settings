@@ -1,8 +1,8 @@
 # Gboard Privacy Settings
 
-Go to phone Settings > Languages & input > Virtual keyboard > Gboard
+Go to phone Settings > System > Languages & input > Virtual keyboard (or On-screen keyboard) > Gboard
 
-##### The actual location of the above setting might differ from device to device.
+**The above location is according to stock android and might differ from device to device.**
 
 
 
