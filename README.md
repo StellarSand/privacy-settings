@@ -24,7 +24,7 @@ Privacy settings for:
 - Privacy Badger: [Google Chrome/Chromium based browsers](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/privacy-badger/mkejgcgkdlddbggjhhflekkondicpnop)
 - Decentraleyes: [Google Chrome/Chromium based browsers](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/decentraleyes/lmijmgnfconjockjeepmlmkkibfgjmla)
 - uBlock Origin: [Google Chrome/Chromium based browsers](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)
-- Clear URLs: [Firefox Only](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)
+- ClearURLs: [Google Chrome/Chromium based browsers](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/clearurls/), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/clearurls/mdkdmaickkfdekbjdoojfalpbkgaddei)
 
 NOTE: First 4 adblockers are also available for Firefox Mobile and Fennec (F-droid version of firefox mobile) users in the Add-ons.
 
@@ -66,6 +66,7 @@ For better privacy respecting alternatives, unbiased reviews and more informatio
 - Mozilla: [Privacy & Security](https://blog.mozilla.org/en/category/privacy-security/), [Deep Dives](https://blog.mozilla.org/en/category/internet-culture/deep-dives/), [Mozilla Explains](https://blog.mozilla.org/en/category/internet-culture/mozilla-explains/), [Videos](https://blog.mozilla.org/en/category/videos/)
 - Techlore: [Main Site](https://techlore.tech), [Resources](https://techlore.tech/resources.html), [GitHub](https://github.com/techlore), [YouTube](https://www.youtube.com/c/Techlore/)
 - [The New Oil](https://thenewoil.xyz/)
+- [ThinkPrivacy](https://thinkprivacy.ch)
 
 
 
