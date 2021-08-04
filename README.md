@@ -1,4 +1,4 @@
-# Privacy Settings
+## Privacy Settings
 
 Privacy settings for:
 - [Google Account](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Account-Privacy-Settings.md)
@@ -9,6 +9,7 @@ Privacy settings for:
 - Firefox: [Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Privacy-Settings.md), [Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-M-Privacy-Settings.md)
 - Brave: [Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Privacy-Settings.md), [Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-M-Privacy-Settings.md)
 - Microsoft Edge: [Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Privacy-Settings.md), [Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-M-Privacy-Settings.md)
+- Vivaldi: [Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Privacy-Settings.md), [Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-M-Privacy-Settings.md)
 - [Firefox Focus](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus-Privacy-Settings.md)
 - [Bromite](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Bromite-Privacy-Settings.md)
 - [Signal](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Signal-Privacy-Settings.md)
@@ -19,17 +20,17 @@ Privacy settings for:
 
 
 
-## Recommended Adblockers
+## Recommended Extensions
 - HTTPS Everywhere: [Google Chrome/Chromium based browsers](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/https-everywhere/fchjpkplmbeeeaaogdbhjbgbknjobohb)
 - Privacy Badger: [Google Chrome/Chromium based browsers](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/privacy-badger/mkejgcgkdlddbggjhhflekkondicpnop)
 - Decentraleyes: [Google Chrome/Chromium based browsers](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/decentraleyes/lmijmgnfconjockjeepmlmkkibfgjmla)
 - uBlock Origin: [Google Chrome/Chromium based browsers](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)
 - ClearURLs: [Google Chrome/Chromium based browsers](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/clearurls/), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/clearurls/mdkdmaickkfdekbjdoojfalpbkgaddei)
 
-NOTE: First 4 adblockers are also available for Firefox Mobile and Fennec (F-droid version of firefox mobile) users in the Add-ons.
+NOTE: First 4 extensions are also available for Firefox Mobile and Fennec (F-droid version of firefox mobile) users in the Add-ons.
 
-### Adblocker Settings
-Setting up the above mentioned adblockers:
+### Extension Settings
+Setting up the above mentioned extensions:
 - [HTTPS Everywhere](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Adblocker%20Settings/HTTPS-Everywhere-Settings.md)
 - [Privacy Badger](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Adblocker%20Settings/Privacy-Badger-Settings.md)
 - [Decentraleyes](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Adblocker%20Settings/Decentraleyes-Settings.md)
@@ -61,12 +62,13 @@ The TL;DR version of best practices for digital privacy:
 ## Additional Resources
 
 For better privacy respecting alternatives, unbiased reviews and more information, check out:
-- [Restore Privacy](https://restoreprivacy.com/)
+- [RestorePrivacy](https://restoreprivacy.com/)
 - PrivacyTools: [Main Site](https://privacytools.io), [Blog](https://blog.privacytools.io)
 - Mozilla: [Privacy & Security](https://blog.mozilla.org/en/category/privacy-security/), [Deep Dives](https://blog.mozilla.org/en/category/internet-culture/deep-dives/), [Mozilla Explains](https://blog.mozilla.org/en/category/internet-culture/mozilla-explains/), [Videos](https://blog.mozilla.org/en/category/videos/)
 - Techlore: [Main Site](https://techlore.tech), [Resources](https://techlore.tech/resources.html), [GitHub](https://github.com/techlore), [YouTube](https://www.youtube.com/c/Techlore/)
 - [The New Oil](https://thenewoil.xyz/)
 - [ThinkPrivacy](https://thinkprivacy.ch)
+- [PRISM Break](https://prism-break.org/)
 
 
 
