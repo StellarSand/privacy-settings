@@ -28,7 +28,7 @@ Click on the extension on toolbar, click gear icon at the bottom right
 - Turn on all 3
 
 #### Privacy
-- Turn on all 3
+- Turn on all 4
 
 #### Malware domains
 - Turn on all 2
@@ -40,4 +40,4 @@ Click on the extension on toolbar, click gear icon at the bottom right
 - Turn on all 3
 
 
-##### Click Apply changes. Also click Update now if available
+**Click Apply changes. Also click Update now, if available**
