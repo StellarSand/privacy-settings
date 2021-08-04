@@ -73,7 +73,7 @@ Remove anything you don't use
 - Business personalization: Off
 
 #### Share recommendations in ads
-Shared endorsements in ads > Off
+- Shared endorsements in ads > Off
 
 
 
