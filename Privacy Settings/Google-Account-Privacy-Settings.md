@@ -22,10 +22,10 @@ Remove everything
 
 
 
-## Data & personalization
+## Data & privacy
 
 
-### Activity Controls
+### History settings
 
 #### Web & App Activity
 - Off > Pause
@@ -46,20 +46,33 @@ Remove everything
 - Off > Turn off
 
 
+### Personal results in search
+- Show personal results: Off
 
-## Security
 
-#### Your devices
-Remove any device you don't use anymore
+### Data from apps and services you use
 
 #### Third-party apps with account access
 Remove anything you don't use
 
 
 
+## Security
+
+#### Your devices
+- Manage devices > Remove any device you don't use anymore
+
+
+
 ## People & sharing
 
-#### Share recommendations
+#### Location sharing
+- Manage location sharing: Off (unless you want to share it with someone)
+
+#### Business features
+- Business personalization: Off
+
+#### Share recommendations in ads
 Shared endorsements in ads > Off
 
 
