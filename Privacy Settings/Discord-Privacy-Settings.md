@@ -6,6 +6,9 @@ Go to User settings
 
 ## Privacy & safety
 
+#### Safe Direct Messaging
+- Do not scan
+
 #### Find Your Friends
 - Sync Contacts: Off
 
