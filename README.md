@@ -31,11 +31,11 @@ NOTE: First 4 extensions are also available for Firefox Mobile and Fennec (F-dro
 
 ### Extension Settings
 Setting up the above mentioned extensions:
-- [HTTPS Everywhere](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Adblocker%20Settings/HTTPS-Everywhere-Settings.md)
-- [Privacy Badger](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Adblocker%20Settings/Privacy-Badger-Settings.md)
-- [Decentraleyes](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Adblocker%20Settings/Decentraleyes-Settings.md)
-- [uBlock Origin](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Adblocker%20Settings/uBlock-Origin-Settings.md)
-- [Clear URLs](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Adblocker%20Settings/Clear-URLs-Settings.md)
+- [HTTPS Everywhere](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Extensions%20Settings/HTTPS-Everywhere-Settings.md)
+- [Privacy Badger](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Extensions%20Settings/Privacy-Badger-Settings.md)
+- [Decentraleyes](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Extensions%20Settings/Decentraleyes-Settings.md)
+- [uBlock Origin](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Extensions%20Settings/uBlock-Origin-Settings.md)
+- [Clear URLs](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Extensions%20Settings/Clear-URLs-Settings.md)
 
 
 
