@@ -28,7 +28,7 @@ Click on Edit your public profile
 ## Email alerts, messages, and ads
 
 #### Advertising preferences
-- Do Not Personalize Ads from Amazon for this Internet Browser
+- Do not show me interest-based ads provided by Amazon
 
 
 
