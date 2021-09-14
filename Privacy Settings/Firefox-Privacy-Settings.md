@@ -61,4 +61,4 @@ NOTE: Never save passwords in browsers. Use a password manager instead. Check ou
 
 
 ## Further Hardening
-- For further hardening of Firefox, check out [PrivacyTools](https://www.privacytools.io/browsers/#about_config) and [arkenfox user.js](https://github.com/arkenfox/user.js)
+- For further hardening of Firefox, check out [Privacy Guides](https://www.privacyguides.org/browsers/#about_config) and [arkenfox user.js](https://github.com/arkenfox/user.js)
