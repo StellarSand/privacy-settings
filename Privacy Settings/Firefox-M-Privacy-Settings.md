@@ -1,6 +1,6 @@
 # Firefox Mobile Privacy Settings
 
-##### Following settings also apply to Fennec (F-droid version of firefox), except the Data Collection section.
+**Following settings also apply to Fennec (F-droid version of firefox), except the Data Collection section.**
 
 Go to Settings.
 
@@ -39,7 +39,7 @@ NOTE: Never save payment info or credit card details in browsers. A password man
 - Strict
 
 #### Data collection
-##### This section does not apply to Fennec
+**This section does not apply to Fennec**
 - Usage and technical data: Off
 - Marketing data: Off
 - Studies: Off
@@ -55,7 +55,7 @@ NOTE: Never save payment info or credit card details in browsers. A password man
 
 Firefox Beta and Fennec users can further harden firefox by changing about:config settings
 
-- For further hardening of Firefox, check out [PrivacyTools](https://www.privacytools.io/browsers/#about_config) and [arkenfox user.js](https://github.com/arkenfox/user.js)
+- For further hardening of Firefox, check out [Privacy Guides](https://www.privacyguides.org/browsers/#about_config) and [arkenfox user.js](https://github.com/arkenfox/user.js)
 
 NOTE: To use user.js, place it in
 - Firefox Beta: /data/data/org.mozilla.firefox_beta/files/mozilla/SomeAlphanumericText.default/
@@ -63,7 +63,7 @@ NOTE: To use user.js, place it in
 
 Check the permissions for pref.js and give the same to user.js
 
-##### Requires root access for the above steps
+**Requires root access for the above steps**
 
 Alternatively just change each and every setting manually in about:config
 
