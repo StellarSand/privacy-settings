@@ -63,7 +63,7 @@ The TL;DR version of best practices for digital privacy:
 
 For better privacy respecting alternatives, unbiased reviews and more information, check out:
 - [RestorePrivacy](https://restoreprivacy.com/)
-- PrivacyTools: [Main Site](https://privacytools.io), [Blog](https://blog.privacytools.io)
+- Privacy Guides: [Main Site](https://www.privacyguides.org), [Blog](https://www.privacyguides.org/blog/)
 - Mozilla: [Privacy & Security](https://blog.mozilla.org/en/category/privacy-security/), [Deep Dives](https://blog.mozilla.org/en/category/internet-culture/deep-dives/), [Mozilla Explains](https://blog.mozilla.org/en/category/internet-culture/mozilla-explains/), [Videos](https://blog.mozilla.org/en/category/videos/)
 - Techlore: [Main Site](https://techlore.tech), [Resources](https://techlore.tech/resources.html), [GitHub](https://github.com/techlore), [YouTube](https://www.youtube.com/c/Techlore/)
 - [The New Oil](https://thenewoil.xyz/)
