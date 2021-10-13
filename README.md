@@ -63,13 +63,14 @@ The TL;DR version of best practices for digital privacy:
 ## Additional Resources
 
 For better privacy respecting alternatives, unbiased reviews and more information, check out:
-- [RestorePrivacy](https://restoreprivacy.com/)
 - Privacy Guides: [Main Site](https://www.privacyguides.org), [Blog](https://www.privacyguides.org/blog/)
-- Mozilla: [Privacy & Security](https://blog.mozilla.org/en/category/privacy-security/), [Deep Dives](https://blog.mozilla.org/en/category/internet-culture/deep-dives/), [Mozilla Explains](https://blog.mozilla.org/en/category/internet-culture/mozilla-explains/), [Videos](https://blog.mozilla.org/en/category/videos/)
 - Techlore: [Main Site](https://techlore.tech), [Resources](https://techlore.tech/resources.html), [GitHub](https://github.com/techlore), [YouTube](https://www.youtube.com/c/Techlore/)
+- [RestorePrivacy](https://restoreprivacy.com/)
 - [The New Oil](https://thenewoil.xyz/)
-- [ThinkPrivacy](https://thinkprivacy.ch)
+- [EFF](https://www.eff.org/)
+- Mozilla: [Privacy & Security](https://blog.mozilla.org/en/category/privacy-security/), [Deep Dives](https://blog.mozilla.org/en/category/internet-culture/deep-dives/), [Mozilla Explains](https://blog.mozilla.org/en/category/internet-culture/mozilla-explains/), [Videos](https://blog.mozilla.org/en/category/videos/)
 - [PRISM Break](https://prism-break.org/)
+- [ThinkPrivacy](https://thinkprivacy.ch)
 
 
 
