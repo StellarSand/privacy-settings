@@ -15,6 +15,10 @@ Go to Settings.
 - Make searches and browsing better: Off
 - Enhanced spell check: Off (Does not apply to Ungoogled Chromium)
 
+
+
+## Autofill
+
 #### Passwords
 - Offer to save passwords: Off
 - Auto Sign-in: Off
@@ -41,6 +45,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 #### Security
 - Enhanced Protection
+- Always use secure connections: On
 
 
 
