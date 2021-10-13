@@ -5,6 +5,8 @@ Go to Settings
 
 
 ## Appearance
+- Show top sites in autocomplete suggestions: Off
+- Show Brave suggested sites in autocomplete suggestions: Off
 - Always show full URLs: On
 
 
@@ -19,6 +21,23 @@ Go to Settings
 
 
 
+## Privacy and security
+- Autocomplete searches and URLs: Off
+- Use Google services for push messaging: Off
+- Allow privacy-preserving product analytics (P3A): Off
+- Automatically send daily usage ping to Brave: Off
+- Help improve Brave's features and performance: Off
+
+#### Cookies and other site data
+- Block third-party cookies
+- Send a "Do Not Track" Request with your browser traffic: On
+
+#### Security
+- Standard protection
+- Always use secure connections: On
+
+
+
 ## Search engine
 - Search engine used in address bar: Qwant or any other 
 privacy respecting search engine like DuckDuckGo, Startpage etc.
@@ -27,10 +46,6 @@ privacy respecting search engine like DuckDuckGo, Startpage etc.
 
 ## Additional settings
 
-#### Privacy and security
-- Autocomplete searches and URLs: Off
-- Automatically send completely private product analytics to brave: Off
-- Cookies and other site data > Send a "Do Not Track" Request with your browser traffic: On
 
 ### Autofill
 
@@ -50,13 +65,11 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 - Save and fill addresses: Off
 
 
-
-## Languages
+### Languages
 - Spell check: Off
 
 
-
-## Downloads
+### Downloads
 - Ask where to save each file before downloading: On
 
 
