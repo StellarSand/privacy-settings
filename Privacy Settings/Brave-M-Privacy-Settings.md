@@ -7,25 +7,38 @@ Go to Settings
 ## Features
 
 #### Brave shields & privacy
-- Block trackers and ads: Aggressive
+- Block trackers and ads: Block trackers and ads (Aggressive)
 - Upgrade connection to HTTPS: On
+- Always use secure connection: On
 - Block Cookies: Block cross-site cookies
-- Fingerprinting Protection: Strict (If you face any issues with sites, change it back to standard)
+- Block Fingerprinting: Fingerprinting blocked (strict) (If you face any issues with sites, change it back to standard)
 
 #### Allow sites to check if you have payment methods saved
-- Toggle off
+- Off
 
 #### Preload pages for faster browsing and searching
-- Toggle off
+- Off
 
 #### "Do Not Track"
 - On
 
 #### Allow privacy-preserving product analytics (P3A)
-- Toggle off
+- Off
+
+#### Automatically send crash reports
+- Off
+
+#### Automatically send daily usage ping to Brave
+- Off
 
 #### Autocomplete searches and URLs
-- Toggle off
+- Off
+
+#### Show top sites in autocomplete
+- Off
+
+#### Show Brave suggested sites in autocomplete
+- Off
 
 
 
@@ -42,7 +55,7 @@ Go to Settings
 NOTE: Never save passwords in browsers. Use a password manager instead. Check out [Additional Resources](https://github.com/the-weird-aquarian/privacy-settings#additional-resources) for more info
 
 #### Privacy Report
-- Toggle on
+- On
 
 #### Site settings
 - Cookies: Block third-party cookies
@@ -63,9 +76,9 @@ NOTE: Never save passwords in browsers. Use a password manager instead. Check ou
 ## Online checkout
 
 #### Payment Methods
-- Toggle off
+- Save and fill payment methods: Off
 
 NOTE: Never save payment info in browsers. A password manager can be used to also save payment information.
 
 #### Addresses and more
-- Toggle off
+- Save and fill addresses: Off
