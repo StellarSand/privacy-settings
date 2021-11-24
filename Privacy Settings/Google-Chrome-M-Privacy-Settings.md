@@ -1,17 +1,16 @@
 # Google Chrome Mobile Privacy Settings
 
-##### Following settings also apply to Ungoogled Chromium, except the Google services & new tab section.
+**Following settings also apply to Ungoogled Chromium, except the Google services & new tab section.**
 
 Go to Settings.
 
 
 
 ## Google services
-##### This section does not apply to Ungoogled Chromium
+**This section does not apply to Ungoogled Chromium**
 
 - Allow Chrome sign-in: Off
 - Autocomplete searches and URLs: Off
-- Show suggestions for similar pages when a page can't be found: Off
 - Help improve Chrome's features and performance: Off
 - Make searches and browsing better: Off
 
@@ -38,9 +37,11 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 - Save and fill addresses: Off
 
 #### Privacy and security
-- Access payment methods: Off
+- Safe Browsing: Enhanced protection
+- Always use secure connections: On
 - Preload pages for faster browsing and searching: Off
 - "Do Not Track": On
+- Privacy Sandbox > FLoC > Off
 
 
 
@@ -48,9 +49,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 #### Site settings
 - Cookies: Block third-party cookies
-- Pop-ups and redirects: Off
 - Ads: Off
-- Automatic downloads: Off
 - Your device use: Off
 
 #### Downloads
@@ -61,6 +60,6 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 ---
 ---
 
-##### This section does not apply to Ungoogled Chromium
+**This section does not apply to Ungoogled Chromium**
 
 On new tab page > Discover by Google: Off
