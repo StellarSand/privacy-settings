@@ -37,11 +37,11 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 - Save and fill addresses: Off
 
 #### Privacy and security
-- Safe Browsing: Enhanced protection
+- Safe Browsing: Enhanced protection (Does not apply to Ungoogled Chromium)
 - Always use secure connections: On
 - Preload pages for faster browsing and searching: Off
 - "Do Not Track": On
-- Privacy Sandbox > FLoC > Off
+- Privacy Sandbox > FLoC > Off (Does not apply to Ungoogled Chromium)
 
 
 
