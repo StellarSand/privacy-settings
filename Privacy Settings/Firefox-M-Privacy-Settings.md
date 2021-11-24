@@ -17,7 +17,8 @@ Go to Settings.
 
 #### Logins and Passwords
 - Save logins and passwords: Never save
-- Autofill: Off
+- Autofill in Firefox: Off
+- Autofill in other apps: Off
 
 NOTE: Never save passwords in browsers. Use a password manager instead. Check out [Additional Resources](https://github.com/the-weird-aquarian/privacy-settings#additional-resources) for more info.
 
@@ -31,11 +32,10 @@ NOTE: Never save payment info or credit card details in browsers. A password man
 ## Privacy and security
 
 #### Private browsing
-- Open links in a private tab: On
 - Allow screenshots in private browsing: Off
 
 #### Enhanced Tracking Protection
-- Toggle on
+- On
 - Strict
 
 #### Data collection
