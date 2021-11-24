@@ -31,7 +31,7 @@ Click on the extension on toolbar, click gear icon at the bottom right
 - Turn on all 4
 
 #### Malware domains
-- Turn on all 2
+- Turn on all 3
 
 #### Annoyances
 - Turn on all 7
