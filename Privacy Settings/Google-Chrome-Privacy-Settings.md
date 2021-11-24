@@ -1,6 +1,6 @@
 # Google Chrome Privacy Settings
 
-##### Following settings also apply to Ungoogled Chromium.
+**Following settings also apply to Ungoogled Chromium.**
 
 Go to Settings.
 
