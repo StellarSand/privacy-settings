@@ -7,8 +7,8 @@ Go to Settings
 ## Profiles
 
 #### Personal info
-- Save and fill personal info: Off
-- Personal info: Remove any personal info if added
+- Save and fill basic info: Off
+- Save and fill custom info: Off
 
 #### Passwords
 - Offer to save passwords: Off
