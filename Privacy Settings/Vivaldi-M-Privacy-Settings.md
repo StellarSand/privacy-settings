@@ -46,7 +46,6 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 #### Site settings
 - Cookies: Block third-party cookies
 - Ads: Off
-- Automatic downloads: Off
 - Your device use: Off
 
 #### Downloads
