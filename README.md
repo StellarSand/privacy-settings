@@ -17,7 +17,7 @@ Privacy settings for:
 [Gboard](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Gboard-Privacy-Settings.md) (Google Keyboard) | 11.1.04.397969183 | Aug 01, 2021
 [Google Account](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Account-Privacy-Settings.md) | - | Aug 04, 2021
 [Google Chrome/Ungoogled Chromium Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Privacy-Settings.md) | 96.0.4664.45 | Oct 13, 2021
-[Google Chrome Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-M-Privacy-Settings.md) | 96.0.4664.45 | Nov 24, 2021
+[Google Chrome/Ungoogled Chromium Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-M-Privacy-Settings.md) | 96.0.4664.45 | Nov 24, 2021
 [Instagram](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Instagram-Privacy-Settings.md) | - | Jul 08, 2021
 [Microsoft Edge Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Privacy-Settings.md) | 96.0.1054.34 | Nov 24, 2021 
 [Microsoft Edge Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-M-Privacy-Settings.md) | 96.0.1054.36 | Nov 24, 2021
