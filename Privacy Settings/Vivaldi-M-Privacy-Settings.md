@@ -34,7 +34,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 - Manage Ad Blocking Sources > Depending on your region turn on what you want like English list, German list etc.
 
 #### Privacy and security
-- Access payment methods: Off
+- Always use secure conections: On
 - Preload pages for faster browsing and searching: Off
 - "Do Not Track": On
 - Broadcast IP for best WebRTC performance: Off
@@ -45,7 +45,6 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 #### Site settings
 - Cookies: Block third-party cookies
-- Pop-ups and redirects: Off
 - Ads: Off
 - Automatic downloads: Off
 - Your device use: Off
