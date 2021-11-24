@@ -24,11 +24,15 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 - Save and fill addresses: Off
 
 #### Privacy and security
+- Always use secure conenctions: On
 - Access payment methods: Off
 - Preload pages for faster browsing and searching: Off
 - Enable history in incognito mode: Off
 - "Do Not Track": On
 - Autocomplete searches and URLs: Off
+
+#### AdBlock settings
+- On
 
 
 
@@ -36,9 +40,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 #### Site settings
 - Cookies: Block third-party cookies
-- Pop-ups and redirects: Off
 - Ads: Off
-- Automatic downloads: Off
 - Your device use: Off
 
 #### Downloads
