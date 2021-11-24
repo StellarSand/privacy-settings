@@ -38,6 +38,7 @@ Go to Settings.
 ## Privacy
 
 #### Google Services
+- Phishing and malware protection: Off
 - Form Autofill Assist: Off
 
 #### Google Extensions
