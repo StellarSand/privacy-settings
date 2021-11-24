@@ -4,38 +4,50 @@ Go to Settings
 
 
 
-## Basic
+## Accounts
 
-#### Autofill and payments
-- Autofill forms: Off
-
-#### Save passwords
+#### Passwords
 - Save passwords: Off
 - Auto Sign-in: Off
+- Autofill for other apps: Off
+ 
+ NOTE: Never save passwords in browsers. Use a password manager instead. Check out [Additional Resources](https://github.com/the-weird-aquarian/privacy-settings#additional-resources) for more info.
+ 
+ #### Addresses and more
+- Save and fill addresses: Off
 
-NOTE: Never save passwords in browsers. Use a password manager instead. Check out [Additional Resources](https://github.com/the-weird-aquarian/privacy-settings#additional-resources) for more info.
+#### Payment info
+- Save and fill payment info: Off
 
-#### Content blockers
-- Block ads: On
-- Advanced settings > Allow acceptable ads: Off
-
+NOTE: Never save payment info in browsers. A password manager can be used to also save payment information.
 
 
-## Advanced
 
-#### Privacy and security
-- Search and URL suggestions: Off
-- Share info about websites you visit: Off
-- Share usage data for personalization: Off
-- Tracking prevention: On, Strict
-- Use payment methods: Off
-- Usage and crash reports: Off
-- "Do Not Track": On
+## Privacy and security
 
-#### Search
-- Default search engine: DuckDuckGo
+#### Diagnostic data
+- Optional diagnostic data: Off
 
 #### Site permissions
-- Cookies: Off, Block third-party cookies: On
-- Pop-ups and redirects: Off
+- Cookies: Block third-party cookies
+- Ads: Off
 - Automatic downloads: Off
+
+#### Show me search and site suggestions using my typed characters
+- Off
+
+#### Tracking Prevention
+- On
+- Strict
+
+#### Block ads
+- On
+- Allow acceptable ads: Off
+
+#### Do Not Track
+- On
+
+
+
+## General
+- Select search engine: DuckDuckGo
