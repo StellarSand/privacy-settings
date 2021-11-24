@@ -6,7 +6,7 @@ Go to Settings.
 
 ## Privacy & Security
 
-#### Tracking Protection
+#### Enhanced Tracking Protection
 - Block ad trackers: On
 - Block analytic trackers: On
 - Block social trackers: On
@@ -17,6 +17,9 @@ Go to Settings.
 
 #### Switching Apps
 - Stealth: On
+
+#### Safe Browsing
+- Block potentially dangerous and deceptive sites: On
 
 #### Data Choices
 - Send usage data: Off
@@ -29,7 +32,7 @@ Go to Settings.
 - DuckDuckGo or add any other privacy respecting search engine like Qwant, Swisscows etc.
 
 #### Get search suggestions
-- Toggle Off
+- Off
 
 #### URL Autocomplete
 - For Top sites: Off
