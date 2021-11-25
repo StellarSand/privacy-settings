@@ -8,17 +8,13 @@ Go to phone Settings > System > Languages & input > Virtual keyboard (or On-scre
 
 ## Text correction
 - Suggest contacts: Off
-- Personalization: Off
 
 
 
 ## Clipboard
- - Toggle off
- 
-
-
-## Dictionary
-- Delete learned words > Type number shown > OK
+ - Show recently copied text and images in suggestion bar: Off
+ - Show items such as addresses/phone numberswithin recently copied text: Off
+ - Save recent screenshots in clipboard: Off
 
 
 
@@ -29,3 +25,8 @@ Go to phone Settings > System > Languages & input > Virtual keyboard (or On-scre
 
 ## Advanced
 - Share usage statistics: Off
+
+#### Learning
+- Personalization: Off
+- Improve voice and typing for everyone: Off
+- Delete learned words > Type number shown > OK
