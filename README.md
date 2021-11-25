@@ -14,7 +14,7 @@ Privacy settings for:
 [Firefox Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Privacy-Settings.md) | 94.0.2 | Sep 14, 2021
 [Firefox Mobile/Fennec](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-M-Privacy-Settings.md) | 94.1.2 | Nov 24, 2021
 [Firefox Focus](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus-Privacy-Settings.md) | 94.1.2 | Nov 24, 2021
-[Gboard](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Gboard-Privacy-Settings.md) (Google Keyboard) | 11.1.04.397969183 | Aug 01, 2021
+[Gboard](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Gboard-Privacy-Settings.md) (Google Keyboard) | 11.1.04.397969183 | Nov 25, 2021
 [Google Account](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Account-Privacy-Settings.md) | - | Aug 04, 2021
 [Google Chrome/Ungoogled Chromium Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Privacy-Settings.md) | 96.0.4664.45 | Oct 13, 2021
 [Google Chrome/Ungoogled Chromium Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-M-Privacy-Settings.md) | 96.0.4664.45 | Nov 24, 2021
