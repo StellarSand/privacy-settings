@@ -1,0 +1,82 @@
+# Windows 11 Privacy Settings
+
+Go to Settings.
+
+
+
+## System
+
+#### Notifications
+- Offer suggestions on how I can set up my device: Off
+- Get tips and suggestions when I use Windows: Off
+
+
+
+## Apps
+
+#### Apps & features
+Uninstall anything you don't use like XBox, candy crush, some other preinstalled apps/games etc.
+Be sure not to uninstall anything important. If you have doubts about any app, either ask or search the net.
+
+
+
+## Accounts
+
+#### Your info
+Delete your account picture and set it to default.
+- Choose a file > Browse files
+- Go to C:\Users\Username\AppData\Roaming\Microsoft\Windows\AccountPictures and delete your picture.
+- Go to C:\ProgramData\Microsoft\User Account Pictures and select any one.
+
+NOTE: AppData is a hidden folder by default.
+- To enable: in file explorer on top click View > Show > select Hidden items.
+
+#### Sign-in options
+- Show account details such as my email address on the sign-in screen: Off
+
+
+
+
+## Time & language
+
+#### Typing
+- Show text suggestions when typing on the physical keyboard: Off
+- Typing insights: Off
+
+
+
+## Privacy & security
+
+#### Windows Security
+- Virus & threat protection > Virus & threat protection settings > Manage settings > All protections on (Except automatic sample submission)
+- Firewall & network protection > Firewall should be on for domain, public and private networks.
+
+#### Find my device
+- Find my device: Off
+
+#### General
+- All off
+
+#### Speech
+- Online speech recognition: Off
+
+#### Diagnostics & feedback
+- Diagnostic data > Send optional diagnostic data: Off
+- Improve inking & typing recognition: Off
+- Tailored experiences: Off
+
+#### Activity history
+- Send my activity history to Microsoft: Off
+
+#### App permisions
+- Review each permission and disable accordingly (choose which apps can have access to location, camera, microphone, notifications etc. If any app doesn't need something, turn it off.)
+- App diagnostics > Toggle off both
+
+
+
+
+
+
+
+
+
