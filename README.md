@@ -26,6 +26,7 @@ Privacy settings for:
 [Vivaldi Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Privacy-Settings.md) | 4.3.2439.65 | Nov 24, 2021
 [Vivaldi Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-M-Privacy-Settings.md) | 4.3.2439.72 | Nov 24, 2021
 [Windows 10](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10-Privacy-Settings.md) | 10.0.19044 | Jul 28, 2021
+[Windows 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11-Privacy-Setttings.md) | 21H2 (OS Build 22000.348) | Nov 29, 2021
 
 
 
