@@ -7,7 +7,7 @@ Privacy settings for:
 [Amazon](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Amazon-Privacy-Settings.md) | - | Sep 14, 2021
 [Android](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-Privacy-Settings.md) | Upto Android 11 | Aug 01, 2021
 [Brave Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Privacy-Settings.md) | 1.32.106 | Nov 24, 2021
-[Brave Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-M-Privacy-Settings.md) | 1.32.106 | Nov 24, 2021
+[Brave Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-M-Privacy-Settings.md) | 1.32.112 | Nov 30, 2021
 [Bromite](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Bromite-Privacy-Settings.md) | 95.0.4638.79 | Nov 24, 2021
 [Discord](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Discord-Privacy-Settings.md) | - | Aug 18, 2021
 [Facebook](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Facebook-Privacy-Settings.md) | - | Aug 01, 2021
@@ -20,7 +20,7 @@ Privacy settings for:
 [Google Chrome/Ungoogled Chromium Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-M-Privacy-Settings.md) | 96.0.4664.45 | Nov 24, 2021
 [Instagram](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Instagram-Privacy-Settings.md) | - | Jul 08, 2021
 [Microsoft Edge Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Privacy-Settings.md) | 96.0.1054.34 | Nov 24, 2021 
-[Microsoft Edge Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-M-Privacy-Settings.md) | 96.0.1054.36 | Nov 24, 2021
+[Microsoft Edge Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-M-Privacy-Settings.md) | 96.0.1054.41 | Nov 24, 2021
 [Signal](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Signal-Privacy-Settings.md) | - | Jul 28, 2021
 [Twitter](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Twitter-Privacy-Settings.md) | - | Oct 13, 2021
 [Vivaldi Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Privacy-Settings.md) | 4.3.2439.65 | Nov 24, 2021
