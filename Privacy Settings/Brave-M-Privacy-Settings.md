@@ -9,14 +9,14 @@ Go to Settings
 #### Brave shields & privacy
 - Block trackers and ads: Block trackers and ads (Aggressive)
 - Upgrade connection to HTTPS: On
-- Always use secure connection: On
+- Always use secure connections: On
 - Block Cookies: Block cross-site cookies
 - Block Fingerprinting: Fingerprinting blocked (strict) (If you face any issues with sites, change it back to standard)
 
-#### Allow sites to check if you have payment methods saved
-- Off
+#### Safe Browsing
+- Standard protection
 
-#### Preload pages for faster browsing and searching
+#### Allow sites to check if you have payment methods saved
 - Off
 
 #### "Do Not Track"
@@ -55,7 +55,7 @@ Go to Settings
 NOTE: Never save passwords in browsers. Use a password manager instead. Check out [Additional Resources](https://github.com/the-weird-aquarian/privacy-settings#additional-resources) for more info
 
 #### Privacy Report
-- On
+- Privacy Report: On
 
 #### Site settings
 - Cookies: Block third-party cookies
