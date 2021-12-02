@@ -76,7 +76,7 @@ For better privacy respecting alternatives, unbiased reviews and more informatio
 - Privacy Guides: [Main Site](https://www.privacyguides.org), [Blog](https://www.privacyguides.org/blog/)
 - Techlore: [Main Site](https://techlore.tech), [Resources](https://techlore.tech/resources.html), [GitHub](https://github.com/techlore), [YouTube](https://www.youtube.com/c/Techlore/)
 - [RestorePrivacy](https://restoreprivacy.com/)
-- [The New Oil](https://thenewoil.xyz/)
+- [The New Oil](https://thenewoil.org/)
 - [EFF](https://www.eff.org/)
 - Mozilla: [Privacy & Security](https://blog.mozilla.org/en/category/privacy-security/), [Deep Dives](https://blog.mozilla.org/en/category/internet-culture/deep-dives/), [Mozilla Explains](https://blog.mozilla.org/en/category/internet-culture/mozilla-explains/), [Videos](https://blog.mozilla.org/en/category/videos/)
 - [PRISM Break](https://prism-break.org/)
