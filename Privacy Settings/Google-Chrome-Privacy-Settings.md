@@ -48,6 +48,14 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 - Always use secure connections: On
 - Use secure DNS: With > NextDNS, Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://privacyguides.org/providers/dns/)
 
+#### Site Settings
+- Additional permissions > Your device use > Don't allow sites to know when you're actively using your device
+- Additional content settings > Ads > Block ads on sites that show intrusive or misleading ads
+
+#### Privacy Sandbox
+- Privacy Sandbox trials: Off
+- FLoC: Off
+
 
 
 ## Search engine
