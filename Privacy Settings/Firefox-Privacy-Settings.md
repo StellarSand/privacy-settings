@@ -13,6 +13,11 @@ Go to Settings.
 - Recommend extensions as you browse: Off
 - Recommend features as you browse: Off
 
+#### Network Settings
+Click Settings
+- Enable DNS over HTTPS: On
+- Use Provider: NextDNS, Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://privacyguides.org/providers/dns/)
+
 
 
 ## Home
@@ -24,7 +29,12 @@ Go to Settings.
 
 
 ## Search
-- Default Search Engine: DuckDuckGo or add any other privacy respecting search engine like Qwant, Swisscows etc.
+
+#### Default Search Engine
+- DuckDuckGo or add any other privacy respecting search engine like Qwant, Swisscows etc.
+
+#### Search Suggestions
+- Provide search suggestions: Off
 
 
 
@@ -38,13 +48,6 @@ Go to Settings.
 - Ask to save logins and passwords for websites: Off
 
 NOTE: Never save passwords in browsers. Use a password manager instead. Check out [Additional Resources](https://github.com/the-weird-aquarian/privacy-settings#additional-resources) for more info.
-
-#### History
-- Firefox will: Use custom settings for history
-- Always use private browsing mode: Off
-- Remember browsing and download history: On
-- Remember search and form history: Off
-- Clear history when Firefox closes: Off
 
 #### Permissions
 - Warn you when websites try to install add-ons: On
