@@ -11,15 +11,20 @@ Go to phone Settings > System > Languages & input > Virtual keyboard (or On-scre
 
 
 
+## Voice typing
+- Voice contributions: Off
+
+
+
 ## Clipboard
  - Show recently copied text and images in suggestion bar: Off
- - Show items such as addresses/phone numberswithin recently copied text: Off
+ - Show items such as addresses / phone numbers within recently copied text: Off
  - Save recent screenshots in clipboard: Off
 
 
 
-## Search
-- Predictive Content search: Off
+## Emojis, Stickers & GIF
+- Predictive content search: Off
 
 
 
