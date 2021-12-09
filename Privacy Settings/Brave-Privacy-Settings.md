@@ -15,7 +15,6 @@ Go to Settings
 - Default View: Advanced View
 - Trackers and ads blocking: Aggressive
 - Upgrade connection to HTTPS: On
-- Block scripts: Off
 - Cookie blocking: Only cross-site
 - Fingerprinting blocking: Strict (If you face any issues with sites, change it back to standard)
 
@@ -35,6 +34,7 @@ Go to Settings
 #### Security
 - Standard protection
 - Always use secure connections: On
+- Use secure DNS: With > Quad9, NextDNS, Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://privacyguides.org/providers/dns/)
 
 
 
