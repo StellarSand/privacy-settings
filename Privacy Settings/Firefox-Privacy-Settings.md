@@ -61,7 +61,8 @@ NOTE: Never save passwords in browsers. Use a password manager instead. Check ou
 #### HTTPS-Only Mode
 - Enable HTTPS-Only Mode in all windows
 
-
+---
+---
 
 ## Further Hardening
 - For further hardening of Firefox, check out [Privacy Guides](https://www.privacyguides.org/browsers/#about_config) and [arkenfox user.js](https://github.com/arkenfox/user.js)
