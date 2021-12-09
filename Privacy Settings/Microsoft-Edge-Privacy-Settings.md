@@ -31,12 +31,19 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 #### Privacy
 - Send "Do Not Track" requests: On
+- Allow sites to check if you have payment methods saved: Off
 
 #### Optional diagnostic data
 - Help improve Microsoft products by sending optional diagnostic ata about how you use the browser, webstes you visit, and crash reports: Off
 
 #### Personalize your web experience
 - Improve your web experience by allowing Microsoft to use your browsing history from this acount for personalizing advertising, search, news and other Microsoft services: Off
+
+
+#### Security
+- Use secure DNS to specify how to lookup the network adress for websites > Choose a service provider > NextDNS, Cloudflare or provide URL for other secure DNS from [this list](https://privacyguides.org/providers/dns/)
+- Enhance your security on the web: On, Strict
+
 
 #### Services
 - Address bar and search > Show me search and site suggestions using my typed characters: Off
@@ -56,6 +63,9 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 #### Manage and delete cookies and site data
 - Block third party cookies: On
 - Preload pages for faster browsing and searching: Off
+
+#### Site permissions
+- Ads > Block on sites that show intrusive or misleading ads: On
 
 
 
