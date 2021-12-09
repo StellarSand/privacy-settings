@@ -6,6 +6,13 @@ Go to Settings
 
 
 
+## Network & internet
+
+#### Advanced
+- Private DNS > Private DNS provider hostname: enter the appropriate tls_auth_name from [this list](https://privacyguides.org/providers/dns/) > Save
+
+
+
 ## Privacy
 
 #### Lock Screen
