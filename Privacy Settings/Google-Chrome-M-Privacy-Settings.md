@@ -51,7 +51,9 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 - "Do Not Track": On
 
 #### Privacy Sandbox
-- FLoC: Off (Does not apply to Ungoogled Chromium)
+**This section does not apply to Ungoogled Chromium**
+- Privacy Sandbox trials: Off
+- FLoC: Off
 
 
 
