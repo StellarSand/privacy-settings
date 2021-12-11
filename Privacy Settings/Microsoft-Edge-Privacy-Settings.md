@@ -47,7 +47,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 #### Services
 - Address bar and search > Show me search and site suggestions using my typed characters: Off
-- Search engine used in address bar: DuckDuckGo or add any other privacy respecting search engine like Qwant, Swisscows etc from Manage search engines.
+- Search engine used in address bar: DuckDuckGo or add any other privacy respecting search engine from Manage search engines.
 
 
 
