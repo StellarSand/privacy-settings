@@ -21,10 +21,10 @@ Go to Settings.
 ## Search
 
 #### Default Search Engine
-- DuckDuckGo, StartPage or add any other privacy respecting search engine like Qwant, Swisscows etc from Search Engines section.
+- DuckDuckGo, StartPage or add any other privacy respecting search engine from Search Engines section.
 
 #### Private Search Engine
-- DuckDuckGo, StartPage or add any other privacy respecting search engine like Qwant, Swisscows etc from Search Engines section.
+- DuckDuckGo, StartPage or add any other privacy respecting search engine from Search Engines section.
 
 #### Search Options
 - Keep Last Selected Search Engine: Off
