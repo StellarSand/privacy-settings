@@ -31,7 +31,7 @@ Click Settings
 ## Search
 
 #### Default Search Engine
-- DuckDuckGo or add any other privacy respecting search engine like Qwant, Swisscows etc.
+- DuckDuckGo or add any other privacy respecting search engine.
 
 #### Search Suggestions
 - Provide search suggestions: Off
@@ -65,4 +65,4 @@ NOTE: Never save passwords in browsers. Use a password manager instead. Check ou
 ---
 
 ## Further Hardening
-- For further hardening of Firefox, check out [Privacy Guides](https://www.privacyguides.org/browsers/#about_config) and [arkenfox user.js](https://github.com/arkenfox/user.js)
+- For further hardening of Firefox, [arkenfox user.js](https://github.com/arkenfox/user.js)
