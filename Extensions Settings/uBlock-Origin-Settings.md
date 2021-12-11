@@ -12,9 +12,6 @@ Click on the extension on toolbar, click gear icon at the bottom right
 #### Privacy
 - Turn everything on
 
-#### Default behavior
-- Turn everything off
-
 
 
 ## Filter lists
@@ -39,5 +36,11 @@ Click on the extension on toolbar, click gear icon at the bottom right
 #### Multipurpose
 - Turn on all 3
 
+#### Custom
+Select import and paste the following URL in the field given below
+
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
+
+---
 
 **Click Apply changes. Also click Update now, if available**
