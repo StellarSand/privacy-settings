@@ -24,8 +24,8 @@ Go to Settings
 
 
 ## Search engines
-- Standard Tab: Qwant or any other privacy respecting search engine like DuckDuckGo, Startpage etc.
-- Private Tab: Qwant or any other privacy respecting search engine like DuckDuckGo, Startpage etc.
+- Standard Tab: DuckDuckGo or any other privacy respecting search engine like Startpage etc.
+- Private Tab: DuckDuckGo or any other privacy respecting search engine like Startpage etc.
 
 
 
