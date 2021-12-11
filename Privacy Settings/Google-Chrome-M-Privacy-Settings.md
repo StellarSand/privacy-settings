@@ -18,7 +18,7 @@ Go to Settings.
 
 ## Search engine
 - Google Chrome: DuckDuckGo
-- Ungoogled Chromium: Qwant or any other privacy respecting search engine like DuckDuckGo, Searx, Startpage etc.
+- Ungoogled Chromium: DuckDuckGo or any other privacy respecting search engine like Searx, Startpage etc.
 
 
 
