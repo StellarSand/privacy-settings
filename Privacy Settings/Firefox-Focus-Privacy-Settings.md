@@ -29,7 +29,7 @@ Go to Settings.
 ## Search
 
 #### Search engine
-- DuckDuckGo or add any other privacy respecting search engine like Qwant, Swisscows etc.
+- DuckDuckGo or add any other privacy respecting search engine.
 
 #### Get search suggestions
 - Off
