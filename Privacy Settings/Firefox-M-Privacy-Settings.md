@@ -7,7 +7,7 @@ Go to Settings.
 
 
 ## Search
-- Default search engine: DuckDuckGo or add any other privacy respecting search engine like Qwant, Swisscows etc.
+- Default search engine: DuckDuckGo or add any other privacy respecting search engine.
 - Autocomplete URLs: Off
 - Show clipboard suggestions: Off
 - Show voice search: Off
@@ -64,7 +64,7 @@ Check [recommended extensions](https://github.com/the-weird-aquarian/privacy-set
 
 Firefox Beta and Fennec users can further harden firefox by changing about:config settings
 
-- For further hardening of Firefox, check out [Privacy Guides](https://www.privacyguides.org/browsers/#about_config) and [arkenfox user.js](https://github.com/arkenfox/user.js)
+- For further hardening of Firefox, [arkenfox user.js](https://github.com/arkenfox/user.js)
 
 NOTE 1: To use user.js, place it in
 - Firefox Beta: /data/data/org.mozilla.firefox_beta/files/mozilla/SomeAlphanumericText.default/
