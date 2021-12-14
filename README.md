@@ -21,6 +21,7 @@ Privacy settings for:
 [Instagram](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Instagram-Privacy-Settings.md) | - | Jul 08, 2021
 [Microsoft Edge Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Privacy-Settings.md) | 96.0.1054.43 | Dec 11, 2021 
 [Microsoft Edge Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-M-Privacy-Settings.md) | 96.0.1054.41 | Nov 24, 2021
+[Reddit](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Reddit-Privacy-Settings.md) | - | Dec 14, 2021
 [Signal](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Signal-Privacy-Settings.md) | - | Jul 28, 2021
 [Twitter](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Twitter-Privacy-Settings.md) | - | Oct 13, 2021
 [Vivaldi Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Privacy-Settings.md) | 5.0.2497.28 | Dec 11, 2021
