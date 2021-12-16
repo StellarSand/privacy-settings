@@ -20,4 +20,4 @@ Cick Settings on top and go to All Settings.
 ---
 
 
-**Clck Save and Exit**
+**Click Save and Exit**
