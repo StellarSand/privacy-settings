@@ -29,7 +29,7 @@ Privacy settings for:
 [Vivaldi Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Privacy-Settings.md) | 5.0.2497.28 | Dec 11, 2021
 [Vivaldi Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-M-Privacy-Settings.md) | 5.0.2498.20 | Dec 09, 2021
 [Windows 10](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10-Privacy-Settings.md) | 10.0.19044 | Jul 28, 2021
-[Windows 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11-Privacy-Setttings.md) | 21H2 (OS Build 22000.348) | Nov 29, 2021
+[Windows 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11-Privacy-Setttings.md) | 21H2 (OS Build 22000.348) | Dec 29, 2021
 [Zoom](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Zoom-Privacy-Settings.md) | - | Nov 30, 2021
 
 
@@ -73,11 +73,15 @@ For better privacy respecting alternatives, unbiased reviews and more informatio
 - Privacy Guides: [Main Site](https://www.privacyguides.org), [Blog](https://www.privacyguides.org/blog/)
 - Techlore: [Main Site](https://techlore.tech), [Resources](https://techlore.tech/resources.html), [GitHub](https://github.com/techlore), [YouTube](https://www.youtube.com/c/Techlore/)
 - [RestorePrivacy](https://restoreprivacy.com/)
+- [PRISM Break](https://prism-break.org/)
+- [ThinkPrivacy](https://thinkprivacy.ch)
 - [The New Oil](https://thenewoil.org/)
 - [EFF](https://www.eff.org/)
 - Mozilla: [Privacy & Security](https://blog.mozilla.org/en/category/privacy-security/), [Deep Dives](https://blog.mozilla.org/en/category/internet-culture/deep-dives/), [Mozilla Explains](https://blog.mozilla.org/en/category/internet-culture/mozilla-explains/), [Videos](https://blog.mozilla.org/en/category/videos/)
-- [PRISM Break](https://prism-break.org/)
-- [ThinkPrivacy](https://thinkprivacy.ch)
+- [Spread Privacy](https://spreadprivacy.com/)
+- [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html)
+- [Personal security checklist](https://github.com/Lissy93/personal-security-checklist)
+- [Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded/)
 
 
 
