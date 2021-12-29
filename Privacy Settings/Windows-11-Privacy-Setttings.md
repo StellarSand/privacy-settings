@@ -12,6 +12,20 @@ Go to Settings.
 
 
 
+## Bluetooth & devices
+
+#### Your Phone
+Do not link
+
+
+
+## Network & internet
+
+#### Wi-Fi
+- Random hardware addresses: On
+
+
+
 ## Apps
 
 #### Apps & features
