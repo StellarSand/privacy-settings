@@ -70,20 +70,39 @@ The TL;DR version of best practices for digital privacy:
 ## Additional Resources
 
 For better privacy respecting alternatives, unbiased reviews and more information, check out:
-- Privacy Guides: [Main Site](https://www.privacyguides.org), [Blog](https://www.privacyguides.org/blog/)
-- Techlore: [Main Site](https://techlore.tech), [Resources](https://techlore.tech/resources.html), [GitHub](https://github.com/techlore), [YouTube](https://www.youtube.com/c/Techlore/)
+
+#### Alternatives & reviews
+- [Privacy Guides](https://www.privacyguides.org)
+- [Techlore Resources](https://techlore.tech/resources.html)
 - [RestorePrivacy](https://restoreprivacy.com/)
 - [PRISM Break](https://prism-break.org/)
 - [ThinkPrivacy](https://thinkprivacy.ch)
-- [The New Oil](https://thenewoil.org/)
+
+#### Privacy news, blogs & other stuff
 - [EFF](https://www.eff.org/)
-- Mozilla: [Privacy & Security](https://blog.mozilla.org/en/category/privacy-security/), [Deep Dives](https://blog.mozilla.org/en/category/internet-culture/deep-dives/), [Mozilla Explains](https://blog.mozilla.org/en/category/internet-culture/mozilla-explains/), [Videos](https://blog.mozilla.org/en/category/videos/)
+- [Mozilla Blog](https://blog.mozilla.org/)
 - [Spread Privacy](https://spreadprivacy.com/)
+- [ProtonMail Blog](https://protonmail.com/blog/)
+- Techlore: [Main Site](https://techlore.tech), [GitHub](https://github.com/techlore), [YouTube](https://www.youtube.com/c/Techlore/)
+- [The New Oil](https://thenewoil.org/)
 - [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html)
 - [Personal security checklist](https://github.com/Lissy93/personal-security-checklist)
 - [Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded/)
+- [IVPN Privacy Guides](https://www.ivpn.net/privacy-guides/)
+- [r/privacy](https://www.reddit.com/r/privacy/)
+- [Fossbytes-Security](https://fossbytes.com/category/security/)
+- [Bitwarden Blog](https://bitwarden.com/blog/)
+- [Bleeping Computer](https://www.bleepingcomputer.com/)
+- [The Hacker News](https://thehackernews.com/)
 
 
 
 ## Contributing
+If you want to help out with the project, here are some ideas:
+
+- iOS privacy settings: I don't have an iOS device to guide privacy settings for. I would highly appreciate any help with this.
+- Clean up/improve the Markdown.
+- Suggest new services/softwares or help improve the existing ones.
+- Anything else related to privacy or security.
+
 Any contribution to the project would be much appreciated.
