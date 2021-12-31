@@ -14,7 +14,7 @@ Go to Settings
 ## Shields
 - Default View: Advanced View
 - Trackers and ads blocking: Aggressive
-- Upgrade connection to HTTPS: On
+- Upgrade connections to HTTPS: On
 - Cookie blocking: Only cross-site
 - Fingerprinting blocking: Strict (If you face any issues with sites, change it back to standard)
 
@@ -40,7 +40,7 @@ Go to Settings
 
 ## Search engine
 - Search engine used in address bar: DuckDuckGo or any other 
-privacy respecting search engine like Startpage etc.
+privacy respecting search engine like from Manage search engines.
 - Web Discovery Project: Off
 
 
@@ -58,6 +58,7 @@ NOTE: Never save passwords in browsers. Use a password manager instead. Check ou
 
 #### Payment methods
 - Save and fill payment methods: Off
+- Allow sites to check if you have payment methods saved: Off
 
 NOTE: Never save payment info in browsers. A password manager can be used to also save payment information.
 
