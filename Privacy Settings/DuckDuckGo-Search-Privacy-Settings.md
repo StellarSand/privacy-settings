@@ -1,6 +1,6 @@
 # DuckDuckGo Search Privacy Settings
 
-Cick Settings on top and go to All Settings.
+Click Settings on top and go to All Settings.
 
 
 
