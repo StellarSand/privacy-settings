@@ -8,20 +8,37 @@ Go to Settings.
 
 #### Notifications & actions
 - Show notifications on the lock screen: Off
-- Suggest ways I can finish setting up: Off
-- Get tips, tricks and suggestions: Off
+- Show reminders and incoming VoIP calls on the lock screen: Off
+- Suggest ways I can finish setting up my device to get the most out of Windows: Off
+- Get tips, tricks and suggestions as you use Windows: Off
 
 #### Shared experiences
+- Nearby sharing: Off (turn on if and only when needed)
 - Share across devices: Off
 
 
 
 ## Devices
 
-#### Typing
-Everything off
+### Typing
 
-#### Phone
+#### Spelling
+- Autocorrect misspelled words: Off
+- Highlight misspelled word: Off
+
+#### Typing
+- Show text suggestions as I type on the software keyboard: Off
+
+#### Hardware keyboard
+- Show text suggestions as I type: Off
+- Autocorrect misspelled words I type: Off
+
+#### Multilingual text suggestions
+- Show text suggestions based on the recognized languages you're typing in: Off
+
+
+
+## Phone
 Do not link
 
 
@@ -29,7 +46,14 @@ Do not link
 ## Network & Internet
 
 #### Wi-Fi
-- Use random hardware addresses (if available): On
+- Random hardware addresses (if available): On
+
+
+
+## Personalization
+
+#### Start
+- Show suggestions occasionally in Start: Off
 
 
 
