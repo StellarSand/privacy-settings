@@ -36,6 +36,9 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 #### Optional diagnostic data
 - Help improve Microsoft products by sending optional diagnostic ata about how you use the browser, webstes you visit, and crash reports: Off
 
+#### Search and service improvement
+- Help improve Microsoft products by sending the results from searches on the web: Off
+
 #### Personalize your web experience
 - Improve your web experience by allowing Microsoft to use your browsing history from this acount for personalizing advertising, search, news and other Microsoft services: Off
 
@@ -45,8 +48,10 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 - Enhance your security on the web: On, Strict
 
 
-#### Services
-- Address bar and search > Show me search and site suggestions using my typed characters: Off
+### Services
+
+#### Address bar and search
+- Show me search and site suggestions using my typed characters: Off
 - Search engine used in address bar: DuckDuckGo or add any other privacy respecting search engine from Manage search engines.
 
 
