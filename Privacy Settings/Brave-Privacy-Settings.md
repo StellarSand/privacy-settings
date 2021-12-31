@@ -40,7 +40,7 @@ Go to Settings
 
 ## Search engine
 - Search engine used in address bar: DuckDuckGo or any other 
-privacy respecting search engine like from Manage search engines.
+privacy respecting search engine from Manage search engines.
 - Web Discovery Project: Off
 
 
