@@ -12,7 +12,7 @@ Privacy settings for:
 [Discord](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Discord-Privacy-Settings.md) | - | Aug 18, 2021
 [DuckDuckGo Search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/DuckDuckGo-Search-Privacy-Settings.md) | - | Dec 16, 2021
 [Facebook](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Facebook-Privacy-Settings.md) | - | Dec 16, 2021
-[Firefox Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Privacy-Settings.md) | 95.0.1 | Dec 11, 2021
+[Firefox Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Privacy-Settings.md) | 95.0.2 | Dec 11, 2021
 [Firefox Mobile/Fennec](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-M-Privacy-Settings.md) | 95.2.0 | Dec 11, 2021
 [Firefox Focus](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus-Privacy-Settings.md) | 95.2.0 | Dec 11, 2021
 [Gboard](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Gboard-Privacy-Settings.md) (Google Keyboard) | 11.2.10.404227572 | Dec 09, 2021
@@ -67,6 +67,19 @@ The TL;DR version of best practices for digital privacy:
 
 
 
+## FAQs
+
+#### Would following the settings mentioned here make me completely private?
+If you are on the internet, you're never really private or secure. By following these settings, the amount of data collection and tracking performed by these services/softwares are significantly minimized but not completely eliminated. You should look for better privacy respecting alternatives and use them whenever possible.
+
+#### Why are privacy invading services like Facebook, Zoom, Google etc. mentioned here? Isn't this supposed to be a privacy focused repo?
+I’m all for privacy respecting services and I do recommend them, however, you might need to use Zoom for work meetings, a social media platform for business, Windows for some specific program/purpose or something similar. The only goal here is to minimize data collection and boost your digital privacy as much as possible even when using a privacy invading service/software. Do note that this does not mean you should keep using such services/softwares if you don't need them and I highly encourage you to look for better privacy respecting alternatives if available.
+
+#### The settings for a particular software/service was updated months ago, when will it be updated according to latest version?
+Settings don't change much with every new version of any software or service. More often than not they stay the same for several versions. If there aren't any changes necessary, it won't be updated. This is the reason versions are included along with last updated date above. If latest version is mentioned, then the settings already apply to that even if it was last updated months ago.
+
+
+
 ## Additional Resources
 
 For better privacy respecting alternatives, unbiased reviews and more information, check out:
@@ -78,7 +91,7 @@ For better privacy respecting alternatives, unbiased reviews and more informatio
 - [PRISM Break](https://prism-break.org/)
 - [ThinkPrivacy](https://thinkprivacy.ch)
 
-#### Privacy guides, news, blogs & other stuff
+#### Privacy news, blogs, guides & other stuff
 - [EFF](https://www.eff.org/)
 - [Mozilla Blog](https://blog.mozilla.org/)
 - [Spread Privacy](https://spreadprivacy.com/)
