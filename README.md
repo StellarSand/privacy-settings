@@ -5,7 +5,9 @@ Privacy settings for:
 **Name** | **Version (If Applicable)** | **Last Updated**
 --- | --- | ---
 [Amazon](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Amazon-Privacy-Settings.md) | - | Sep 14, 2021
-[Android](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-Privacy-Settings.md) | Upto Android 11 | Dec 09, 2021
+[Android 10](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10-Privacy-Settings.md) | 10 (Q) | Jan 04, 2022
+[Android 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11-Privacy-Settings.md) | 11 (R) | Jan 04, 2022
+[Android 12](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12-Privacy-Settings.md) | 12 (S) | Jan 04, 2022
 [Brave Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Privacy-Settings.md) | 1.33.106 | Dec 31, 2021
 [Brave Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-M-Privacy-Settings.md) | 1.33.106 | Dec 11 , 2021
 [Bromite](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Bromite-Privacy-Settings.md) | 96.0.4664.54 | Dec 09, 2021
@@ -99,10 +101,12 @@ For better privacy respecting alternatives, unbiased reviews and more informatio
 - Techlore: [Main Site](https://techlore.tech), [GitHub](https://github.com/techlore), [YouTube](https://www.youtube.com/c/Techlore/)
 - [The New Oil](https://thenewoil.org/)
 - [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html)
+- [The Data Detox Kit](https://datadetoxkit.org)
 - [Personal security checklist](https://github.com/Lissy93/personal-security-checklist)
 - [Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded/)
 - [IVPN Privacy Guides](https://www.ivpn.net/privacy-guides/)
 - [r/privacy](https://www.reddit.com/r/privacy/)
+- [Access Now Blog](https://www.accessnow.org/blog/)
 - [Fossbytes-Security](https://fossbytes.com/category/security/)
 - [Bitwarden Blog](https://bitwarden.com/blog/)
 - [Bleeping Computer](https://www.bleepingcomputer.com/)
