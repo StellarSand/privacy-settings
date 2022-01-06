@@ -5,9 +5,9 @@ Privacy settings for:
 **Name** | **Version (If Applicable)** | **Last Updated**
 --- | --- | ---
 [Amazon](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Amazon-Privacy-Settings.md) | - | Sep 14, 2021
-[Android 10](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10-Privacy-Settings.md) | 10 (Q) | Jan 04, 2022
-[Android 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11-Privacy-Settings.md) | 11 (R) | Jan 04, 2022
-[Android 12](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12-Privacy-Settings.md) | 12 (S) | Jan 04, 2022
+[Android 10](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10-Privacy-Settings.md) | 10 (Q) | Jan 03, 2022
+[Android 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11-Privacy-Settings.md) | 11 (R) | Jan 03, 2022
+[Android 12](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12-Privacy-Settings.md) | 12 (S) | Jan 03, 2022
 [Brave Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Privacy-Settings.md) | 1.33.106 | Dec 31, 2021
 [Brave Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-M-Privacy-Settings.md) | 1.33.106 | Dec 11 , 2021
 [Bromite](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Bromite-Privacy-Settings.md) | 96.0.4664.54 | Dec 09, 2021
@@ -15,12 +15,12 @@ Privacy settings for:
 [DuckDuckGo Search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/DuckDuckGo-Search-Privacy-Settings.md) | - | Dec 16, 2021
 [Facebook](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Facebook-Privacy-Settings.md) | - | Dec 16, 2021
 [Firefox Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Privacy-Settings.md) | 95.0.2 | Dec 11, 2021
-[Firefox Mobile/Fennec](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-M-Privacy-Settings.md) | 95.2.0 | Dec 11, 2021
+[Firefox Mobile/Fennec](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-M-Privacy-Settings.md) | 96.1.0 | Dec 11, 2021
 [Firefox Focus](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus-Privacy-Settings.md) | 95.2.0 | Dec 11, 2021
 [Gboard](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Gboard-Privacy-Settings.md) (Google Keyboard) | 11.2.10.404227572 | Dec 09, 2021
 [Google Account](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Account-Privacy-Settings.md) | - | Aug 04, 2021
-[Google Chrome/Ungoogled Chromium Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Privacy-Settings.md) | 96.0.4664.110 | Dec 11, 2021
-[Google Chrome/Ungoogled Chromium Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-M-Privacy-Settings.md) | 96.0.4664.104 | Dec 11, 2021
+[Google Chrome/Ungoogled Chromium Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Privacy-Settings.md) | 97.0.4692.71 | Dec 11, 2021
+[Google Chrome/Ungoogled Chromium Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-M-Privacy-Settings.md) | 97.0.4692.70 | Dec 11, 2021
 [Instagram](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Instagram-Privacy-Settings.md) | - | Jul 08, 2021
 [Microsoft Edge Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Privacy-Settings.md) | 96.0.1054.62 | Dec 31, 2021 
 [Microsoft Edge Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-M-Privacy-Settings.md) | 96.0.1054.62 | Nov 24, 2021
@@ -51,10 +51,10 @@ Setting up the above mentioned extensions:
 
 ## Privacy Best Practices
 The TL;DR version of best practices for digital privacy:
-- Follow the privacy settings mentioned here.
 - Use strong passwords (preferably atleast 10 characters containing alphabets, numbers and special characters).
 - Don't reuse passwords.
 - Use a password manager to generate and store strong, unique passwords.
+- Follow the privacy settings mentioned here.
 - Use better privacy respecting alternatives for search engines, emails, browsers etc.
 - Use multifactor authentication.
 - Keep apps and operating system updated.
