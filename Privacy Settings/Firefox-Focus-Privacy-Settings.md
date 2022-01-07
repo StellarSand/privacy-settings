@@ -23,6 +23,7 @@ Go to Settings.
 
 #### Data Choices
 - Send usage data: Off
+- Studies: Off
 
 
 
