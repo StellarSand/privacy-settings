@@ -26,6 +26,15 @@ Do not link
 
 
 
+## Personalization
+
+#### Lock screen
+- Personalize your lock screen
+  - select Picture or Slideshow
+  - Get fun facts, tips, tricks and more on your lock screen: Off
+
+
+
 ## Apps
 
 #### Apps & features
@@ -74,10 +83,22 @@ NOTE: AppData is a hidden folder by default.
 #### Speech
 - Online speech recognition: Off
 
+#### Inking & typing personalization
+- Personal inking and typing dictionary: Off
+
 #### Diagnostics & feedback
 - Diagnostic data > Send optional diagnostic data: Off
 - Improve inking & typing recognition: Off
 - Tailored experiences: Off
+- Delete diagnostic data: Delete
+
+#### Search permissions
+- Cloud content search
+  - Microsoft account: Off
+  - Work or School account: Off
+- History
+  - Search history on this device: Off
+  - Clear device search history
 
 #### Activity history
 - Send my activity history to Microsoft: Off
@@ -88,9 +109,7 @@ NOTE: AppData is a hidden folder by default.
 
 
 
+## Windows Update
 
-
-
-
-
-
+#### Advanced options
+- Delivery Optimization > Allow downloads from other PCs: Off
