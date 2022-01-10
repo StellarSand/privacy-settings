@@ -48,6 +48,10 @@ Do not link
 
 ## Personalization
 
+#### Lock screen
+- Background: select Picture or Slideshow
+- Get fun facts, tips, tricks and more on your lock screen: Off
+
 #### Start
 - Show suggestions occasionally in Start: Off
 
