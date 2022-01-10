@@ -118,7 +118,7 @@ NOTE: AppData is a hidden folder by default.
 ## Update & Security
 
 #### Delivery Optimization
-- Allow download from other PCs: Off
+- Allow downloads from other PCs: Off
 
 #### Windows Security
 
