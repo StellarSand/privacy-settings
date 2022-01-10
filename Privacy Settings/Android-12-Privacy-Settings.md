@@ -10,6 +10,9 @@ Go to Settings
 
 #### Wi-Fi
 - Tap gear icon associated with the Wi-Fi > Advanced > Privacy > Use randomized MAC
+- Wi-Fi preferences > 
+  - Turn on Wi-Fi automatically: Off
+  - Notify for public networks: Off
 
 #### Private DNS
 - Private DNS provider hostname: enter the appropriate tls_auth_name from [this list](https://privacyguides.org/providers/dns/) > Save
@@ -21,7 +24,9 @@ Go to Settings
 #### Connection preferences
 - Bluetooth: Off
 - Printing > Default Print Service: Off
-- Nearby Share: Off
+- Nearby Share >
+  - Off
+  - Device visibility: Hidden
 - Android Auto: Off
 
 NOTE: Enable the above settings only when required. Remember to turn them off when no longer required.
@@ -69,6 +74,14 @@ After setting screen lock, tap on gear icon.
 - Lock after screen timeout: Immediately
 - Power button instantly locks: On
 
+#### SIM card lock
+- Lock SIM card: On > Enter default PIN > OK
+- Change SIM PIN > Enter old and new SIM PIN > OK (Create a secure new SIM PIN)
+
+NOTE 1: The default PIN code is usually 1234 or 0000. However, if these two don't work, you should look on SIM card's packaging or contact your SIM provider's customer support.
+
+NOTE 2: If you enter the PIN code wrong 3 times, you'll be asked to enter a PUK (Personal Unlock Key) code. This code can be obtained from the carrier, after they verify you are the rightful owner of the SIM. DO NOT try to guess the PUK code. If you enter it wrong 3 times, the SIM will be permanently locked and you might have to get a new SIM from your carrier.
+
 #### Encryption & credentials
 - Encrypt phone: Encrypted
 
@@ -114,6 +127,13 @@ Search in your phone settings for "User Experience Program", "Personalized ad re
 - Google Location Accuracy > Improve Location Accuracy: Off
 - Wi-Fi scanning: Off
 - Bluetooth scanning: Off
+
+
+
+## System
+
+#### Advanced
+- Multiple users > Add users from lock screen: Off
 
 
 
