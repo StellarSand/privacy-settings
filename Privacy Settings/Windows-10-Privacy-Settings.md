@@ -20,21 +20,17 @@ Go to Settings.
 
 ## Devices
 
-### Typing
-
-#### Spelling
-- Autocorrect misspelled words: Off
-- Highlight misspelled word: Off
-
 #### Typing
-- Show text suggestions as I type on the software keyboard: Off
-
-#### Hardware keyboard
-- Show text suggestions as I type: Off
-- Autocorrect misspelled words I type: Off
-
-#### Multilingual text suggestions
-- Show text suggestions based on the recognized languages you're typing in: Off
+- Spelling
+  - Autocorrect misspelled words: Off
+  - Highlight misspelled word: Off
+- Typing
+  - Show text suggestions as I type on the software keyboard: Off
+- Hardware keyboard
+  - Show text suggestions as I type: Off
+  - Autocorrect misspelled words I type: Off
+- Multilingual text suggestions
+  - Show text suggestions based on the recognized languages you're typing in: Off
 
 
 
@@ -81,6 +77,18 @@ NOTE: AppData is a hidden folder by default.
 
 
 
+## Search
+
+#### Permissions & history
+- Cloud content search
+  - Microsoft account: Off
+  - Work or school account: Off
+- History
+  - Search history on this device: Off
+  - Clear device search history
+
+
+
 ## Privacy
 
 #### General
@@ -96,6 +104,7 @@ NOTE: AppData is a hidden folder by default.
 - Diagnostic data: Required diagnostic data
 - Improve inking & typing recognition: Off
 - Tailored experiences: Off
+- Delete diagnostic data: Delete
 
 #### Activity history
 - Send my activity history to Microsoft: Off
@@ -107,6 +116,9 @@ NOTE: AppData is a hidden folder by default.
 
 
 ## Update & Security
+
+#### Delivery Optimization
+- Allow download from other PCs: Off
 
 #### Windows Security
 
