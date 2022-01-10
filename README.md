@@ -1,3 +1,17 @@
+## Contents
+- [Privacy Settings](#privacy-settings)
+- [Recommended Extensions](#recommended-extensions)
+  - [Extension Settings](#extension-settings)
+- [Changelog](#changelog)
+- [Privacy Best Practices](#privacy-best-practices)
+- [FAQs](#faqs)
+- [Additional Resources](#additional-resources)
+  - [Alternatives & reviews](#alternatives--reviews)
+  - [Privacy news, blogs, guides & other stuff](#privacy-news-blogs-guides--other-stuff)
+- [Contributing](#contributing)
+
+
+
 ## Privacy Settings
 
 Privacy settings for:
@@ -5,11 +19,11 @@ Privacy settings for:
 **Name** | **Version (If Applicable)** | **Last Updated**
 --- | --- | ---
 [Amazon](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Amazon-Privacy-Settings.md) | - | Sep 14, 2021
-[Android 10](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10-Privacy-Settings.md) | 10 (Q) | Jan 03, 2022
-[Android 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11-Privacy-Settings.md) | 11 (R) | Jan 03, 2022
-[Android 12](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12-Privacy-Settings.md) | 12 (S) | Jan 03, 2022
-[Brave Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Privacy-Settings.md) | 1.33.106 | Dec 31, 2021
-[Brave Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-M-Privacy-Settings.md) | 1.33.106 | Dec 11 , 2021
+[Android 10](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10-Privacy-Settings.md) | 10 (Q) | Jan 10, 2022
+[Android 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11-Privacy-Settings.md) | 11 (R) | Jan 10, 2022
+[Android 12](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12-Privacy-Settings.md) | 12 (S) | Jan 10, 2022
+[Brave Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Privacy-Settings.md) | 1.34.80 | Dec 31, 2021
+[Brave Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-M-Privacy-Settings.md) | 1.34.80 | Dec 11 , 2021
 [Bromite](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Bromite-Privacy-Settings.md) | 96.0.4664.54 | Dec 09, 2021
 [Discord](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Discord-Privacy-Settings.md) | - | Aug 18, 2021
 [DuckDuckGo Search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/DuckDuckGo-Search-Privacy-Settings.md) | - | Dec 16, 2021
@@ -30,8 +44,8 @@ Privacy settings for:
 [Twitter](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Twitter-Privacy-Settings.md) | - | Oct 13, 2021
 [Vivaldi Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Privacy-Settings.md) | 5.0.2497.35 | Dec 11, 2021
 [Vivaldi Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-M-Privacy-Settings.md) | 5.0.2498.24 | Dec 09, 2021
-[Windows 10](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10-Privacy-Settings.md) | 21H2 (OS Build 19044.1415) | Dec 31, 2021
-[Windows 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11-Privacy-Setttings.md) | 21H2 (OS Build 22000.376) | Dec 29, 2021
+[Windows 10](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10-Privacy-Settings.md) | 21H2 (OS Build 19044.1415) | Jan 10, 2022
+[Windows 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11-Privacy-Setttings.md) | 21H2 (OS Build 22000.376) | Jan 10, 2022
 [Zoom](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Zoom-Privacy-Settings.md) | - | Nov 30, 2021
 
 
@@ -46,6 +60,11 @@ NOTE: Above extensions are also available for Firefox Mobile and Fennec (F-droid
 Setting up the above mentioned extensions:
 - [Decentraleyes](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Extensions%20Settings/Decentraleyes-Settings.md)
 - [uBlock Origin](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Extensions%20Settings/uBlock-Origin-Settings.md)
+
+
+
+## Changelog
+Any changes in the settings will be accounted in the [changelog](https://github.com/the-weird-aquarian/privacy-settings/blob/main/CHANGELOG.md).
 
 
 
@@ -103,6 +122,7 @@ For better privacy respecting alternatives, unbiased reviews and more informatio
 - [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html)
 - [The Data Detox Kit](https://datadetoxkit.org)
 - [Personal security checklist](https://github.com/Lissy93/personal-security-checklist)
+- [Security in a Box](https://securityinabox.org/)
 - [Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded/)
 - [IVPN Privacy Guides](https://www.ivpn.net/privacy-guides/)
 - [r/privacy](https://www.reddit.com/r/privacy/)
