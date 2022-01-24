@@ -6,7 +6,7 @@
 - [Privacy Best Practices](#privacy-best-practices)
 - [FAQs](#faqs)
 - [Additional Resources](#additional-resources)
-  - [Alternatives & reviews](#alternatives--reviews)
+  - [Recommendations, alternatives & reviews](#recommendations-alternatives--reviews)
   - [Privacy news, blogs, guides & other stuff](#privacy-news-blogs-guides--other-stuff)
 - [Contributing](#contributing)
 
@@ -107,7 +107,7 @@ Settings don't change much with every new version of any software or service. Mo
 
 For better privacy respecting alternatives, unbiased reviews and more information, check out:
 
-#### Alternatives & reviews
+#### Recommendations, alternatives & reviews
 - [Privacy Guides](https://www.privacyguides.org)
 - [Techlore Resources](https://techlore.tech/resources.html)
 - [RestorePrivacy](https://restoreprivacy.com/)
