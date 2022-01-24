@@ -25,7 +25,7 @@ Remove any device you don't use.
 #### Two-step verification
 - Turn on
 - Select Authenticator App. Never choose Phone Number (SMS)
-- Don't use Microsoft Authenticator as instructed there. Instead use a privacy respecting authenticator app. Check out [recommendations, alternatives and reviews](https://github.com/the-weird-aquarian/privacy-settings#alternatives--reviews).
+- Don't use Microsoft Authenticator as instructed there. Instead use a privacy respecting authenticator app. Check out [recommendations, alternatives & reviews](https://github.com/the-weird-aquarian/privacy-settings#recommendations-alternatives--reviews).
 
 
 
