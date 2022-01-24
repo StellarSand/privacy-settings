@@ -5,7 +5,7 @@ Login to [Apple ID](https://appleid.apple.com/account/manage) using browser.
 ## Sign-In and Security
 
 #### App-specific passwords
-Don't save any password. Use a password manager instead. Check out [recommendations and reviews](https://github.com/the-weird-aquarian/privacy-settings#alternatives--reviews).
+Don't save any password. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/the-weird-aquarian/privacy-settings#recommendations-alternatives--reviews).
 
 
 
