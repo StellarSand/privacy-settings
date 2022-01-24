@@ -6,15 +6,20 @@ Any changes in the settings will be accounted here.
 
 ## Jan 24, 2022
 
-### New
+### Privacy Settings
 - added [Apple ID](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Apple-ID.md)
 - added [LinkedIn](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/LinkedIn.md)
 
 ### Additional Resources
-Added the following under [Privacy news, blogs, guides & other stuff](https://github.com/the-weird-aquarian/privacy-settings/tree/main#privacy-news-blogs-guides--other-stuff)
-- [CR Security Planner](https://securityplanner.consumerreports.org/)
-- [National Cybersecurity Alliance - Stay Safe Online](https://staysafeonline.org/stay-safe-online/)
-- [Zebra Crossing: An easy-to-use digital safety checklist](https://github.com/narwhalacademy/zebra-crossing)
+
+#### Recommendations, alternatives & reviews
+- added [Awesome Privacy](https://github.com/pluja/awesome-privacy)
+- added [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
+
+#### Privacy news, blogs, guides & other stuff
+- added [CR Security Planner](https://securityplanner.consumerreports.org/)
+- added [National Cybersecurity Alliance - Stay Safe Online](https://staysafeonline.org/stay-safe-online/)
+- added [Zebra Crossing: An easy-to-use digital safety checklist](https://github.com/narwhalacademy/zebra-crossing)
 
 
 
