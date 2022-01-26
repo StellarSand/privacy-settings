@@ -4,7 +4,7 @@ Any changes in the settings will be accounted here.
 
 
 
-## Jan 25, 2022
+## Jan 26, 2022
 
 ### Privacy Settings
 Added 2FA for:
