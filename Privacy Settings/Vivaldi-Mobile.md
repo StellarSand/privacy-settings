@@ -23,7 +23,7 @@ Go to Settings.
 - Save passwords: Off
 - Auto Sign-in: Off
 
-NOTE: Never save passwords in browsers. Use a password manager instead. Check out [Additional Resources](https://github.com/the-weird-aquarian/privacy-settings#additional-resources) for more info.
+NOTE: Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/the-weird-aquarian/privacy-settings#recommendations-alternatives--reviews).
 
 
 
@@ -56,7 +56,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 ## Privacy and security
 - Access payment methods: Off
-- Always use secure conections: On
+- Always use secure connections: On
 - Preload pages for faster browsing and searching: Off
 - "Do Not Track": On
 - Use secure DNS > Choose another provider > Quad9, NextDNS, Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://privacyguides.org/providers/dns/)

@@ -59,6 +59,17 @@ Remove anything you don't use
 
 ## Security
 
+#### Signing in to Google
+To setup 2FA, first a phone needs to be added.
+- 2-Step Verification > Get Started > Continue > Use Another Backup Option > Download the backup codes > Next > Turn On
+
+Once the above step is completed, 
+- Authenticator app: Set Up > Next > Scan the barcode using an authenticator app > Enter 6 digit code > Verify
+
+NOTE 1: Don't use Google Authenticator as mentioned there. Instead use a privacy respecting authenticator app. Check out [recommendations, alternatives & reviews](https://github.com/the-weird-aquarian/privacy-settings#recommendations-alternatives--reviews).
+
+NOTE 2: The backup codes downloaded in the first step is required to login, if 2FA method is lost, broken or unavailable. Keep these codes somewhere safe, to prevent loss or unauthorised access. They can be stored in a password manager, in an encrypted note, or write them down somewhere safe.
+
 #### Your devices
 - Manage devices > Remove any device you don't use anymore
 
@@ -82,6 +93,6 @@ Remove anything you don't use
 
 
 
-- Go to [Google Dashboard](https://myaccount.google.com/dashboard) and check all services you use. Remove anything you don't.
-- Go to [Google Takeout](https://takeout.google.com/?continue=https://myaccount.google.com/dashboard&hl=en) and download your data that Google has collected about you. Uncheck Drive & Gmail or else it will result in a huge file size.
+- Go to [Google Dashboard](https://myaccount.google.com/dashboard) and check all services you use.
+- Go to [Google Takeout](https://takeout.google.com/?continue=https://myaccount.google.com/dashboard) and download your data that Google has collected about you. Uncheck Drive & Gmail or else it will result in a huge file size.
 - Go to [Google Activity](https://myactivity.google.com/more-activity?continue=https%3A%2F%2Fmyactivity.google.com%2Fmyactivity) and delete/manage every activity you can.

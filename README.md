@@ -18,33 +18,33 @@ Privacy settings for:
 
 **Name** | **Version (If Applicable)** | **Last Updated**
 --- | --- | ---
-[Amazon](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Amazon.md) | - | Sep 14, 2021
+[Amazon](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Amazon.md) | - | Jan 25, 2022
 [Android 10](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10.md) | 10 (Q) | Jan 10, 2022
 [Android 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11.md) | 11 (R) | Jan 10, 2022
 [Android 12](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md) | 12 (S) | Jan 10, 2022
 [Apple ID](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Apple-ID.md) | - | Jan 24, 2022
-[Brave Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md) | 1.34.80 | Dec 31, 2021
-[Brave Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md) | 1.34.80 | Dec 11 , 2021
+[Brave Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md) | 1.34.81 | Dec 31, 2021
+[Brave Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md) | 1.34.81 | Dec 11 , 2021
 [Bromite](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Bromite.md) | 96.0.4664.54 | Dec 09, 2021
 [Discord](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Discord.md) | - | Aug 18, 2021
 [DuckDuckGo Search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/DuckDuckGo-Search.md) | - | Dec 16, 2021
-[Facebook](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Facebook.md) | - | Dec 16, 2021
+[Facebook](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Facebook.md) | - | Jan 25, 2022
 [Firefox Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md) | 96.0.2 | Dec 11, 2021
 [Firefox Mobile/Fennec](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md) | 96.2.0 | Dec 11, 2021
 [Firefox Focus](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus.md) | 96.2.0 | Jan 07, 2022
 [Gboard](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Gboard.md) (Google Keyboard) | 11.3.02.410497392 | Dec 09, 2021
-[Google Account](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md) | - | Aug 04, 2021
-[Google Chrome/Ungoogled Chromium Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md) | 97.0.4692.71 | Dec 11, 2021
-[Google Chrome/Ungoogled Chromium Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md) | 97.0.4692.87 | Dec 11, 2021
-[Instagram](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Instagram.md) | - | Jul 08, 2021
-[LinkedIn](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/LinkedIn.md) | - | Jan 24, 2022
-[Microsoft Edge Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md) | 97.0.1072.62 | Dec 31, 2021 
-[Microsoft Edge Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md) | 97.0.1072.62 | Nov 24, 2021
-[Reddit](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Reddit.md) | - | Dec 14, 2021
-[Signal](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Signal.md) | - | Jul 28, 2021
+[Google Account](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md) | - | Jan 25, 2022
+[Google Chrome/Ungoogled Chromium Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md) | 97.0.4692.99 | Dec 11, 2021
+[Google Chrome/Ungoogled Chromium Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md) | 97.0.4692.98 | Dec 11, 2021
+[Instagram](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Instagram.md) | - | Jan 25, 2022
+[LinkedIn](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/LinkedIn.md) | - | Jan 25, 2022
+[Microsoft Edge Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md) | 97.0.1072.69 | Dec 31, 2021 
+[Microsoft Edge Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md) | 97.0.1072.69 | Nov 24, 2021
+[Reddit](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Reddit.md) | - | Jan 25, 2022
+[Signal](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Signal.md) | - | Jan 25, 2022
 [Spotify](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Spotify.md) | - | Dec 16, 2021
-[Twitter](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Twitter.md) | - | Oct 13, 2021
-[Vivaldi Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md) | 5.0.2497.38 | Dec 11, 2021
+[Twitter](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Twitter.md) | - | Jan 25, 2022
+[Vivaldi Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md) | 5.0.2497.48 | Dec 11, 2021
 [Vivaldi Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md) | 5.0.2498.36 | Dec 09, 2021
 [Windows 10](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md) | 21H2 (OS Build 19044.1469) | Jan 10, 2022
 [Windows 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md) | 21H2 (OS Build 22000.376) | Jan 10, 2022
@@ -72,7 +72,7 @@ Any changes in the settings will be accounted in the [changelog](https://github.
 
 ## Privacy Best Practices
 The TL;DR version of best practices for digital privacy:
-- Use strong passwords (preferably atleast 10 characters containing alphabets, numbers and special characters).
+- Use strong passwords (preferably at least 10 characters containing alphabets, numbers and special characters).
 - Don't reuse passwords.
 - Use a password manager to generate and store strong, unique passwords.
 - Follow the privacy settings mentioned here.

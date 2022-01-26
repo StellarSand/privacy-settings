@@ -4,6 +4,22 @@ Any changes in the settings will be accounted here.
 
 
 
+## Jan 25, 2022
+
+### Privacy Settings
+Added 2FA for:
+- [Amazon](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Amazon.md#login--security)
+- [Facebook](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Facebook.md#security-and-login)
+- [Google Account](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md#security)
+- [Instagram](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Instagram.md#security)
+- [LinkedIn](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/LinkedIn.md#sign-in--security)
+- [Reddit](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Reddit.md#safety--privacy)
+- [Twitter](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Twitter.md#security-and-account-access)
+
+Added [Verify safety number](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Signal.md#verify-safety-number) in [Signal](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Signal.md)
+
+
+
 ## Jan 24, 2022
 
 ### Privacy Settings

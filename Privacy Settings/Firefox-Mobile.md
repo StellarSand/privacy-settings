@@ -20,7 +20,7 @@ Go to Settings.
 - Autofill in Firefox/Fennec: Off
 - Autofill in other apps: Off
 
-NOTE: Never save passwords in browsers. Use a password manager instead. Check out [Additional Resources](https://github.com/the-weird-aquarian/privacy-settings#additional-resources) for more info.
+NOTE: Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/the-weird-aquarian/privacy-settings#recommendations-alternatives--reviews).
 
 
 
@@ -64,7 +64,7 @@ Check [recommended extensions](https://github.com/the-weird-aquarian/privacy-set
 
 Firefox Beta and Fennec users can further harden firefox by changing about:config settings
 
-- For further hardening of Firefox, [arkenfox user.js](https://github.com/arkenfox/user.js)
+- For further hardening of Firefox, check out [arkenfox user.js](https://github.com/arkenfox/user.js).
 
 NOTE 1: To use user.js, place it in
 - Firefox Beta: /data/data/org.mozilla.firefox_beta/files/mozilla/SomeAlphanumericText.default/

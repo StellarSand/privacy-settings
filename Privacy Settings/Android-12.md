@@ -140,7 +140,7 @@ Search in your phone settings for "User Experience Program", "Personalized ad re
 ## Wi-Fi MAC Randomization
 - About phone > tap Build Number 7 times. This will unlock Developer options.
 
-Go to System > Advanced > Developer options > Wi-fi non persistant MAC randomization: On
+Go to System > Advanced > Developer options > Wi-fi non persistent MAC randomization: On
 
 
 
@@ -149,4 +149,4 @@ Go to System > Advanced > Developer options > Wi-fi non persistant MAC randomiza
 
 
 
-NOTE: Some other settings are same as [Google Account settings](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Account-Privacy-Settings.md)
+NOTE: Some other settings are same as [Google Account settings](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md)

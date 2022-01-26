@@ -101,7 +101,7 @@ NOTE: AppData is a hidden folder by default.
 #### Speech
 - Online speech recognition: Off
 
-#### Inking & typing presonalization
+#### Inking & typing personalization
 - Getting to know you: Off
 
 #### Diagnostics & feedback
@@ -113,7 +113,7 @@ NOTE: AppData is a hidden folder by default.
 #### Activity history
 - Send my activity history to Microsoft: Off
 
-#### App permisions
+#### App permissions
 - Review each permission and disable accordingly (choose which apps can have access to camera, microphone, gps, notifications etc. If any app doesn't need something, turn it off.)
 - App diagnostics > Change > Toggle off
 

@@ -19,6 +19,14 @@ Click dropdown arrow on top right and go to Settings & Privacy > Settings
 #### Setting up extra security
 - Get alerts about unrecognized logins: select Get Notifications and Get Emails
 
+#### Two-Factor Authentication
+- Use two-factor authentication > Edit > Use Authentication App > Scan the QR code using an authenticator app > Continue > Enter 6 digit code > Continue > Done
+- After the above step is complete, setup recovery codes and save them.
+
+NOTE 1: Don't use Google Authenticator or Duo as mentioned there. Instead use a privacy respecting authenticator app. Check out [recommendations, alternatives & reviews](https://github.com/the-weird-aquarian/privacy-settings#recommendations-alternatives--reviews).
+
+NOTE 2: The backup codes downloaded is required to login, if 2FA method is lost, broken or unavailable. Keep these codes somewhere safe, to prevent loss or unauthorised access. They can be stored in a password manager, in an encrypted note, or write them down somewhere safe.
+
 
 
 ## Your Facebook information

@@ -11,7 +11,7 @@ Go to Settings
 - Auto Sign-in: Off
 - Autofill for other apps: Off
  
- NOTE: Never save passwords in browsers. Use a password manager instead. Check out [Additional Resources](https://github.com/the-weird-aquarian/privacy-settings#additional-resources) for more info.
+ NOTE: Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/the-weird-aquarian/privacy-settings#recommendations-alternatives--reviews).
  
  #### Addresses and more
 - Save and fill addresses: Off

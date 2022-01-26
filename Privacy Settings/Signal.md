@@ -5,7 +5,7 @@ Go to Settings.
 
 
 ## Account
-- Create your PIN > Create a secure PIN (1234 or 0987 is not a secure pin. Create with atleast 6-8 numbers.)
+- Create your PIN > Create a secure PIN (1234 or 0987 is not a secure pin. Create with at least 6-8 numbers.)
 - After PIN is created, Registration Lock: On
 
 
@@ -40,3 +40,10 @@ Remove any device you don't use.
 #### Advanced
 - Always relay calls: On (Might reduce call quality)
 
+
+## Verify safety number
+Go to a particular chat > Click 3 dots > Conversation settings > View safety number
+
+Compare the numbers or scan the code. If you and the other person has the same numbers, the session is secure.
+
+Tap Mark as verified.
