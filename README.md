@@ -48,7 +48,7 @@ Privacy settings for:
 [Vivaldi Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md) | 5.0.2498.36 | Dec 09, 2021
 [Windows 10](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md) | 21H2 (OS Build 19044.1469) | Jan 10, 2022
 [Windows 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md) | 21H2 (OS Build 22000.376) | Jan 10, 2022
-[Zoom](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Zoom.md) | - | Nov 30, 2021
+[Zoom](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Zoom.md) | - | Jan 28, 2022
 
 
 
@@ -122,7 +122,7 @@ For better privacy respecting alternatives, unbiased reviews and more informatio
 - [Spread Privacy](https://spreadprivacy.com/)
 - [ProtonMail Blog](https://protonmail.com/blog/)
 - Techlore: [Main Site](https://techlore.tech), [GitHub](https://github.com/techlore), [YouTube](https://www.youtube.com/c/Techlore/)
-- [The New Oil](https://thenewoil.org/)
+- The New Oil: [Main Site](https://thenewoil.org/) ,[YouTube](https://www.youtube.com/c/TheNewOil)
 - [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html)
 - [The Data Detox Kit](https://datadetoxkit.org)
 - [Personal security checklist](https://github.com/Lissy93/personal-security-checklist)

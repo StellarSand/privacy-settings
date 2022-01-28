@@ -4,6 +4,19 @@ Any changes in the settings will be accounted here.
 
 
 
+## Jan 28, 2022
+
+### Privacy Settings
+- Added 2FA for [Zoom](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Zoom.md#profile)
+- 
+
+### Additional Resources
+
+#### Privacy news, blogs, guides & other stuff
+- Added [Youtube channel](https://www.youtube.com/c/TheNewOil) of [The New Oil](https://thenewoil.org/)
+
+
+
 ## Jan 26, 2022
 
 ### Privacy Settings
