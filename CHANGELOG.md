@@ -8,7 +8,6 @@ Any changes in the settings will be accounted here.
 
 ### Privacy Settings
 - Added 2FA for [Zoom](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Zoom.md#profile)
-- 
 
 ### Additional Resources
 
