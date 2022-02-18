@@ -4,6 +4,28 @@ Any changes in the settings will be accounted here.
 
 
 
+## Feb 18, 2022
+
+### Bromite
+- Fixed typos and other mistakes.
+
+### Firefox Focus
+- added HTTPS-only mode in [Security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus.md#security)
+
+### Google Chrome Mobile
+- Some very minor changes in [Privacy and security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md#privacy-and-security).
+
+### Vivaldi Mobile
+- Some very minor changes in [Privacy and security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#privacy-and-security).
+
+### Windows 10
+- added [Encrypted DNS](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10-Privacy-Settings.md#encrypted-dns)
+
+### Windows 11
+- added [Encrypted DNS](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11-Privacy-Settings.md#encrypted-dns)
+
+
+
 ## Jan 28, 2022
 
 ### Privacy Settings

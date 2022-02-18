@@ -128,3 +128,20 @@ NOTE: AppData is a hidden folder by default.
 
 - Virus & threat protection > Virus & threat protection settings > Manage settings > All protections on (Except automatic sample submission)
 - Firewall & network protection > All firewalls should be on for domain, public and private networks.
+
+
+
+## Encrypted DNS
+Win key + r > type ncpa.cpl > press enter
+
+Right click on Ethernet or Wifi depending on what you are using > Properties
+
+- Select Internet Protocol Version 4 (TCP/IPv4) > Properties > select Use the following DNS server addresses:
+  - Preferred DNS server: enter IPv4 address of a provider from [this list](https://privacyguides.org/providers/dns/)
+  - Alternate DNS server: enter alternate IPv4 address of the same provider as above
+
+- Select Internet Protocol Version 6 (TCP/IPv6) > Properties > select Use the following DNS server addresses:
+  - Preferred DNS server: enter IPv6 address of a provider from [this list](https://privacyguides.org/providers/dns/)
+  - Alternate DNS server: enter alternate IPv6 address of the same provider as above
+  
+Click OK

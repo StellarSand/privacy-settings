@@ -18,8 +18,9 @@ Go to Settings.
 #### Switching Apps
 - Stealth: On
 
-#### Safe Browsing
+#### Security
 - Block potentially dangerous and deceptive sites: On
+- HTTPS-Only Mode: On
 
 #### Data Choices
 - Send usage data: Off

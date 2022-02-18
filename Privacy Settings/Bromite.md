@@ -17,7 +17,7 @@ NOTE: Never save passwords in browsers. Use a password manager instead. Check ou
 
 
 
-## Payment Methods
+## Payment methods
 - Save and fill payment methods: Off
 
 NOTE: Never save payment info in browsers. A password manager can be used to also save payment information.
@@ -30,11 +30,12 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 
 ## Privacy and security
-- Always use secure conenctions: On
+- Always use secure connections: On
 - Access payment methods: Off
 - Preload pages for faster browsing and searching: Off
-- Enable history in incognito mode: Off
-- Use secure DNS > Choose another provider > Quad9, NextDNS, Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://privacyguides.org/providers/dns/)
+- Use secure DNS >
+  - On
+  - Choose another provider > Quad9/NextDNS/Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://privacyguides.org/providers/dns/)
 - Enable history in incognito mode: Off
 - "Do Not Track": On
 - Autocomplete searches and URLs: Off

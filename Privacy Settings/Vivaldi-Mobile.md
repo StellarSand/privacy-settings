@@ -57,9 +57,11 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 ## Privacy and security
 - Access payment methods: Off
 - Always use secure connections: On
-- Preload pages for faster browsing and searching: Off
+- Preload pages: Off
 - "Do Not Track": On
-- Use secure DNS > Choose another provider > Quad9, NextDNS, Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://privacyguides.org/providers/dns/)
+- Use secure DNS >
+  - On
+  - Choose another provider > Quad9/NextDNS/Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://privacyguides.org/providers/dns/)
 - Broadcast IP for best WebRTC performance: Off
 
 
