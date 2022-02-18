@@ -19,10 +19,10 @@ Any changes in the settings will be accounted here.
 - Some very minor changes in [Privacy and security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#privacy-and-security).
 
 ### Windows 10
-- added [Encrypted DNS](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10-Privacy-Settings.md#encrypted-dns)
+- added [Encrypted DNS](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#encrypted-dns)
 
 ### Windows 11
-- added [Encrypted DNS](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11-Privacy-Settings.md#encrypted-dns)
+- added [Encrypted DNS](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#encrypted-dns)
 
 
 
