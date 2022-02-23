@@ -32,7 +32,8 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 ## Privacy and security
 - Always use secure connections: On
 - Access payment methods: Off
-- Preload pages for faster browsing and searching: Off
+- Preload pages: No preloading
+- Disable JIT: On
 - Use secure DNS >
   - On
   - Choose another provider > Quad9/NextDNS/Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://privacyguides.org/providers/dns/)
