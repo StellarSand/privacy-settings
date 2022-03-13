@@ -4,6 +4,29 @@ Any changes in the settings will be accounted here.
 
 
 
+## Mar 13, 2022
+
+### Brave Desktop
+- Added Show autocomplete in address bar in [Appearance](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md#appearance)
+- Added Automatically send diagnostic reports in [Security and Privacy](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md#security-and-privacy)
+
+### Brave Mobile
+- Added [Brave News](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-news)
+
+### Bromite
+- Moved Disable JIT from [Privacy and security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Bromite.md#privacy-and-security) to [Site settings](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Bromite.md#site-settings)
+
+### Firefox Mobile
+- Added [Site permissions](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md#site-permissions)
+
+### Google Chrome Mobile
+- Added Touch to Search in [Google services](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md#google-services)
+
+### Microsoft Edge Mobile
+- Added [New tab page](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#new-tab-page) and some other home page settings.
+
+
+
 ## Feb 23, 2022
 
 - Added [Startpage Search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Startpage-Search.md)

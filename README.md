@@ -29,7 +29,7 @@ Privacy settings for:
 [Discord](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Discord.md) | - | Aug 18, 2021
 [DuckDuckGo Search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/DuckDuckGo-Search.md) | - | Dec 16, 2021
 [Facebook](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Facebook.md) | - | Jan 26, 2022
-[Firefox Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md) | 97.0.1 | Dec 11, 2021
+[Firefox Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md) | 98.0 | Dec 11, 2021
 [Firefox Focus](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus.md) | 98.1.1 | Feb 18, 2022
 [Firefox Mobile/Fennec](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md) | 98.1.1 | Mar 13, 2022
 [Gboard](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Gboard.md) (Google Keyboard) | 11.4.07.422524001 | Dec 09, 2021
