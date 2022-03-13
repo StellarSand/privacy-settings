@@ -6,13 +6,15 @@ Go to Settings
 
 ## Brave shields & privacy
 - Block trackers and ads: Block trackers and ads (Aggressive)
-- Upgrade connection to HTTPS: On
+- Upgrade connections to HTTPS: On
 - Always use secure connections: On
 - Block Cookies: Block cross-site cookies
 - Block Fingerprinting: Fingerprinting blocked (strict) (If you face any issues with sites, change it back to standard)
 - Safe Browsing: Standard protection
 - Allow sites to check if you have payment methods saved: Off
-- Use secure DNS > Choose another provider > Quad9, NextDNS, Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://privacyguides.org/providers/dns/)
+- Use secure DNS >
+  - On
+  - Choose another provider > Quad9/NextDNS/Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://privacyguides.org/providers/dns/)
 - "Do Not Track": On
 - Allow privacy-preserving product analytics (P3A): Off
 - Automatically send crash reports: Off
@@ -20,6 +22,11 @@ Go to Settings
 - Autocomplete searches and URLs: Off
 - Show top sites in autocomplete: Off
 - Show Brave suggested sites in autocomplete: Off
+
+
+
+## Brave News
+- Enable Brave News: Off
 
 
 

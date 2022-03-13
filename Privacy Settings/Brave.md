@@ -5,6 +5,7 @@ Go to Settings
 
 
 ## Appearance
+- Show autocomplete in address bar: Off
 - Show top sites in autocomplete suggestions: Off
 - Show Brave suggested sites in autocomplete suggestions: Off
 - Always show full URLs: On
@@ -20,12 +21,12 @@ Go to Settings
 
 
 
-## Privacy and security
+## Security and Privacy
 - Autocomplete searches and URLs: Off
 - Use Google services for push messaging: Off
 - Allow privacy-preserving product analytics (P3A): Off
 - Automatically send daily usage ping to Brave: Off
-- Help improve Brave's features and performance: Off
+- Automatically send diagnostic reports: Off
 
 #### Cookies and other site data
 - Block third-party cookies
@@ -34,7 +35,9 @@ Go to Settings
 #### Security
 - Standard protection
 - Always use secure connections: On
-- Use secure DNS: With > Quad9, NextDNS, Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://privacyguides.org/providers/dns/)
+- Use secure DNS >
+  - On
+  - With > Quad9/NextDNS/Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://privacyguides.org/providers/dns/)
 
 
 

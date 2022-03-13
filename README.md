@@ -3,8 +3,8 @@
 - [Recommended Extensions](#recommended-extensions)
   - [Extension Settings](#extension-settings)
 - [Changelog](#changelog)
-- [Privacy Best Practices](#privacy-best-practices)
 - [FAQs](#faqs)
+- [Privacy Best Practices](#privacy-best-practices)
 - [Additional Resources](#additional-resources)
   - [Recommendations, alternatives & reviews](#recommendations-alternatives--reviews)
   - [Privacy news, blogs, guides & other stuff](#privacy-news-blogs-guides--other-stuff)
@@ -23,30 +23,30 @@ Privacy settings for:
 [Android 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11.md) | 11 (R) | Jan 10, 2022
 [Android 12](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md) | 12 (S) | Jan 10, 2022
 [Apple ID](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Apple-ID.md) | - | Jan 24, 2022
-[Brave Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md) | 1.35.103 | Dec 31, 2021
-[Brave Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md) | 1.35.103 | Dec 11 , 2021
-[Bromite](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Bromite.md) | 98.0.4758.108 | Feb 23, 2022
+[Brave Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md) | 1.36.112 | Mar 13, 2022
+[Brave Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md) | 1.36.112 | Mar 13, 2022
+[Bromite](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Bromite.md) | 99.0.4844.58 | Mar 13, 2022
 [Discord](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Discord.md) | - | Aug 18, 2021
 [DuckDuckGo Search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/DuckDuckGo-Search.md) | - | Dec 16, 2021
 [Facebook](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Facebook.md) | - | Jan 26, 2022
 [Firefox Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md) | 97.0.1 | Dec 11, 2021
-[Firefox Focus](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus.md) | 97.2.0 | Feb 18, 2022
-[Firefox Mobile/Fennec](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md) | 97.2.0 | Dec 11, 2021
+[Firefox Focus](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus.md) | 98.1.1 | Feb 18, 2022
+[Firefox Mobile/Fennec](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md) | 98.1.1 | Mar 13, 2022
 [Gboard](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Gboard.md) (Google Keyboard) | 11.4.07.422524001 | Dec 09, 2021
 [Google Account](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md) | - | Jan 26, 2022
-[Google Chrome/Ungoogled Chromium Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md) | 98.0.4758.102 | Dec 11, 2021
-[Google Chrome/Ungoogled Chromium Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md) | 98.0.4758.101 | Feb 18, 2022
+[Google Chrome/Ungoogled Chromium Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md) | 99.0.4844.51 | Dec 11, 2021
+[Google Chrome/Ungoogled Chromium Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md) | 99.0.4844.58 | Mar 13, 2022
 [Instagram](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Instagram.md) | - | Jan 26, 2022
 [LinkedIn](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/LinkedIn.md) | - | Jan 26, 2022
-[Microsoft Edge Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md) | 98.0.1108.56 | Dec 31, 2021 
-[Microsoft Edge Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md) | 98.0.1108.55 | Nov 24, 2021
+[Microsoft Edge Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md) | 99.0.1150.39 | Dec 31, 2021 
+[Microsoft Edge Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md) | 99.0.1150.39 | Mar 13, 2022
 [Reddit](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Reddit.md) | - | Jan 26, 2022
 [Signal](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Signal.md) | - | Jan 26, 2022
 [Spotify](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Spotify.md) | - | Dec 16, 2021
 [Startpage Search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Startpage-Search.md) | - | Feb 23, 2022
 [Twitter](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Twitter.md) | - | Jan 26, 2022
 [Vivaldi Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md) | 5.1.2567.45 | Dec 11, 2021
-[Vivaldi Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md) | 5.1.2567.52 | Feb 18, 2022
+[Vivaldi Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md) | 5.1.2567.60 | Feb 18, 2022
 [Windows 10](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md) | 21H2 (OS Build 19044.1566) | Feb 18, 2022
 [Windows 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md) | 21H2 (OS Build 22000.527) | Feb 18, 2022
 [Zoom](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Zoom.md) | - | Jan 28, 2022
@@ -57,7 +57,7 @@ Privacy settings for:
 - Decentraleyes: [Google Chrome/Chromium based browsers](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/decentraleyes/lmijmgnfconjockjeepmlmkkibfgjmla), Not required for Firefox
 - uBlock Origin: [Google Chrome/Chromium based browsers](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)
 
-NOTE: Above extensions are also available for Firefox Mobile and Fennec (F-droid version of firefox mobile) users in the Add-ons.
+NOTE: Above extensions are also available for Firefox Mobile and Fennec in the Add-ons.
 
 ### Extension Settings
 Setting up the above mentioned extensions:
@@ -68,6 +68,19 @@ Setting up the above mentioned extensions:
 
 ## Changelog
 Any changes in the settings will be accounted in the [changelog](https://github.com/the-weird-aquarian/privacy-settings/blob/main/CHANGELOG.md).
+
+
+
+## FAQs
+
+### Would following the settings mentioned here make me completely private?
+If you are on the internet, you're never really private or secure. By following these settings, the amount of data collection and tracking performed by these services/softwares are significantly minimized but not completely eliminated. You should look for better privacy respecting alternatives and use them whenever possible.
+
+### Why are privacy invading services like Facebook, Zoom, Google etc. mentioned here? Isn't this supposed to be a privacy focused repo?
+I’m all for privacy respecting services and I do recommend them, however, you might need to use Zoom for work meetings, a social media platform for business, Windows for some specific program/purpose or something similar. The only goal here is to minimize data collection and boost your digital privacy as much as possible even when using a privacy invading service/software. Do note that this does not mean you should keep using such services/softwares if you don't need them and I highly encourage you to look for better privacy respecting alternatives if available.
+
+### The settings for a particular software/service was updated months ago, when will it be updated according to latest version?
+Settings don't change much with every new version of any software or service. More often than not they stay the same for several versions. If there aren't any changes necessary, it won't be updated. This is the reason versions are included along with last updated date above. If latest version is mentioned, then the settings already apply to that even if it was last updated months ago.
 
 
 
@@ -88,19 +101,6 @@ The TL;DR version of best practices for digital privacy:
 - Keep devices encrypted.
 - Make regular backups.
 - Spread the good information and make people aware around you.
-
-
-
-## FAQs
-
-### Would following the settings mentioned here make me completely private?
-If you are on the internet, you're never really private or secure. By following these settings, the amount of data collection and tracking performed by these services/softwares are significantly minimized but not completely eliminated. You should look for better privacy respecting alternatives and use them whenever possible.
-
-### Why are privacy invading services like Facebook, Zoom, Google etc. mentioned here? Isn't this supposed to be a privacy focused repo?
-I’m all for privacy respecting services and I do recommend them, however, you might need to use Zoom for work meetings, a social media platform for business, Windows for some specific program/purpose or something similar. The only goal here is to minimize data collection and boost your digital privacy as much as possible even when using a privacy invading service/software. Do note that this does not mean you should keep using such services/softwares if you don't need them and I highly encourage you to look for better privacy respecting alternatives if available.
-
-### The settings for a particular software/service was updated months ago, when will it be updated according to latest version?
-Settings don't change much with every new version of any software or service. More often than not they stay the same for several versions. If there aren't any changes necessary, it won't be updated. This is the reason versions are included along with last updated date above. If latest version is mentioned, then the settings already apply to that even if it was last updated months ago.
 
 
 

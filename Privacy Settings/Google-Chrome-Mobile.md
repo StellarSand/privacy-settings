@@ -1,6 +1,6 @@
 # Google Chrome Mobile Privacy Settings
 
-**Following settings also apply to Ungoogled Chromium, except the Google services & new tab section.**
+**Following settings also apply to Ungoogled Chromium, except where mentioned.**
 
 Go to Settings.
 
@@ -13,6 +13,7 @@ Go to Settings.
 - Autocomplete searches and URLs: Off
 - Help improve Chrome's features and performance: Off
 - Make searches and browsing better: Off
+- Touch to Search: Off
 
 
 

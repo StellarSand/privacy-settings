@@ -1,6 +1,6 @@
 # Firefox Mobile Privacy Settings
 
-**Following settings also apply to Fennec (F-droid version of firefox), except the Data Collection section.**
+**Following settings also apply to Fennec, except the Data collection section.**
 
 Go to Settings.
 
@@ -39,6 +39,12 @@ NOTE: Never save payment info or credit card details in browsers. A password man
 ## Enhanced Tracking Protection
 - Enhanced Tracking Protection: On
 - Strict
+
+
+
+## Site permissions
+- Cross-site cookies: Blocked
+
 
 
 

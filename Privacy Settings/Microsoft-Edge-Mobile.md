@@ -51,3 +51,15 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 ## General
 - Select search engine: DuckDuckGo
+
+
+
+## New tab page
+- Show image of the day title: Off
+
+---
+---
+
+On home page > Tap icon on top right > Custom >
+ - Image of the day: Off
+ - Show feeds: Off
