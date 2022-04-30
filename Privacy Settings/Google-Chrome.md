@@ -46,7 +46,9 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 #### Security
 - Enhanced Protection
 - Always use secure connections: On
-- Use secure DNS: With > NextDNS, Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://privacyguides.org/providers/dns/)
+- Use secure DNS: With > NextDNS/Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
+
+  Example: For Quad9, enter https://dns.quad9.net/dns-query
 
 #### Site Settings
 - Additional permissions > Your device use > Don't allow sites to know when you're actively using your device

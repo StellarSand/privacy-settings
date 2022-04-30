@@ -19,7 +19,7 @@ Click on the extension on toolbar, click gear icon at the bottom right
 - Parse and enforce cosmetic filters: On
 
 #### Built-in
-- Turn on all 5
+- Turn on all 6
 
 #### Ads
 - Turn on all 3
@@ -34,7 +34,7 @@ Click on the extension on toolbar, click gear icon at the bottom right
 - Turn on all 7
 
 #### Multipurpose
-- Turn on all 3
+- Turn on all 2
 
 #### Custom
 Select import and paste the following URL in the field given below

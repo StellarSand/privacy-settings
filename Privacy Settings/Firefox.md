@@ -16,7 +16,9 @@ Go to Settings.
 #### Network Settings
 Click Settings
 - Enable DNS over HTTPS: On
-- Use Provider: NextDNS, Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://privacyguides.org/providers/dns/)
+- Use Provider: NextDNS/Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
+  
+  Example: For Quad9, enter https://dns.quad9.net/dns-query
 
 
 

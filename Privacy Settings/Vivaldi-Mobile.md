@@ -55,13 +55,17 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 
 ## Privacy and security
-- Access payment methods: Off
 - Always use secure connections: On
-- Preload pages: Off
-- "Do Not Track": On
+- Access payment methods: Off
+- Preload pages: No preloading
 - Use secure DNS >
   - On
-  - Choose another provider > Quad9/NextDNS/Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://privacyguides.org/providers/dns/)
+  - Choose another provider > Quad9/NextDNS/Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
+  
+    Example: For MullvadDNS, enter https://adblock.doh.mullvad.net/dns-query
+
+- "Do Not Track": On
+- Touch to Search: Off
 - Broadcast IP for best WebRTC performance: Off
 
 

@@ -13,11 +13,11 @@ Go to Settings
 
 
 ## Shields
-- Default View: Advanced View
+- Auto-redirect AMP pages: On
 - Trackers and ads blocking: Aggressive
 - Upgrade connections to HTTPS: On
-- Cookie blocking: Only cross-site
-- Fingerprinting blocking: Strict (If you face any issues with sites, change it back to standard)
+- Block fingerprinting: Strict (If you face any issues with sites, change it back to standard)
+- Block cookies: Only cross-site
 
 
 
@@ -37,7 +37,9 @@ Go to Settings
 - Always use secure connections: On
 - Use secure DNS >
   - On
-  - With > Quad9/NextDNS/Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://privacyguides.org/providers/dns/)
+  - With > Quad9/NextDNS/Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
+
+    Example: For MullvadDNS, enter https://adblock.doh.mullvad.net/dns-query
 
 
 
@@ -100,13 +102,3 @@ Open a new tab. Click on Customize at the bottom
 ## Cards
 - Click Hide for all of them
 - Cards: Off
-
-
-
-
-
-
-
-
-
-

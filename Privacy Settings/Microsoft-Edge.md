@@ -44,7 +44,11 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 
 #### Security
-- Use secure DNS to specify how to lookup the network adress for websites > Choose a service provider > NextDNS, Cloudflare or provide URL for other secure DNS from [this list](https://privacyguides.org/providers/dns/)
+- Typosquatting Checker: On
+- Use secure DNS to specify how to lookup the network adress for websites > Choose a service provider > NextDNS/Cloudflare or provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
+
+  Example: For Quad9, enter https://dns.quad9.net/dns-query
+
 - Enhance your security on the web: On, Strict
 
 

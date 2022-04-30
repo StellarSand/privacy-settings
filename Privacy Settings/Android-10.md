@@ -15,7 +15,10 @@ Go to Settings
   - Notify for public networks: Off
 
 #### Advanced
-- Private DNS > Private DNS provider hostname: enter the appropriate tls_auth_name from [this list](https://privacyguides.org/providers/dns/) > Save
+- Private DNS > Private DNS provider hostname: enter the hostname of DNS provider from [this list](https://www.privacyguides.org/dns/) > Save
+
+  Example: For Quad9, enter dns.quad9.net
+
 
 
 

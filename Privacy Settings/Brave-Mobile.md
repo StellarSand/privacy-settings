@@ -6,6 +6,7 @@ Go to Settings
 
 ## Brave shields & privacy
 - Block trackers and ads: Block trackers and ads (Aggressive)
+- Auto-redirect AMP pages: On
 - Upgrade connections to HTTPS: On
 - Always use secure connections: On
 - Block Cookies: Block cross-site cookies
@@ -14,7 +15,10 @@ Go to Settings
 - Allow sites to check if you have payment methods saved: Off
 - Use secure DNS >
   - On
-  - Choose another provider > Quad9/NextDNS/Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://privacyguides.org/providers/dns/)
+  - Choose another provider > Quad9/NextDNS/Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
+    
+    Example: For MullvadDNS, enter https://adblock.doh.mullvad.net/dns-query
+
 - "Do Not Track": On
 - Allow privacy-preserving product analytics (P3A): Off
 - Automatically send crash reports: Off
