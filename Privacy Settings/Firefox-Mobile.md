@@ -10,8 +10,12 @@ Go to Settings.
 - Default search engine: DuckDuckGo or add any other privacy respecting search engine.
 - Autocomplete URLs: Off
 - Show clipboard suggestions: Off
-- Show voice search: Off
 - Show search suggestions: Off
+
+
+
+## Homepage
+- Sponsored shortcuts: Off
 
 
 
@@ -33,6 +37,12 @@ NOTE: Never save payment info or credit card details in browsers. A password man
 
 ## Private browsing
 - Allow screenshots in private browsing: Off
+
+
+
+## HTTPS-Only Mode
+- On
+- Enable in all tabs
 
 
 
@@ -68,9 +78,7 @@ Check [recommended extensions](https://github.com/the-weird-aquarian/privacy-set
 
 ## Further Hardening
 
-Firefox Beta and Fennec users can further harden firefox by changing about:config settings
-
-- For further hardening of Firefox, check out [arkenfox user.js](https://github.com/arkenfox/user.js).
+- For further hardening of Firefox Beta and Fennec, check out [arkenfox user.js](https://github.com/arkenfox/user.js).
 
 NOTE 1: To use user.js, place it in
 - Firefox Beta: /data/data/org.mozilla.firefox_beta/files/mozilla/SomeAlphanumericText.default/
@@ -80,5 +88,4 @@ Check the permissions for pref.js already present in that path and give the same
 
 NOTE 2:
 - Root access is required for placing user.js in above mentioned path and changing permissions. 
-- Users without root access can just change each and every setting manually in about:config
-
+- Users without root access can change each and every setting manually in about:config
