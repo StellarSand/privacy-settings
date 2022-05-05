@@ -31,7 +31,7 @@ Privacy settings for:
 [Facebook](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Facebook.md) | - | Jan 26, 2022
 [Firefox Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md) | 100.0 | Apr 30, 2022
 [Firefox Focus](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus.md) | 100.1.1 | Feb 18, 2022
-[Firefox Mobile/Fennec](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md) | 100.1.1 | Mar 13, 2022
+[Firefox Mobile/Fennec](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md) | 100.1.1 | May 5, 2022
 [Gboard](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Gboard.md) (Google Keyboard) | 11.6.10.433184565 | Dec 09, 2021
 [Google Account](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md) | - | Jan 26, 2022
 [Google Chrome/Ungoogled Chromium Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md) | 101.0.4951.54 | Apr 30, 2022

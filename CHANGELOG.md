@@ -4,6 +4,13 @@ Any changes in the settings will be accounted here.
 
 
 
+## May 5, 2022:
+
+### Firefox Mobile
+- Added [Homepage](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md#homepage) and [HTTPS-Only Mode](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md#https-only-mode)
+
+
+
 ## Apr 30, 2022
 - Updated URL of [DNS providers list](https://www.privacyguides.org/dns) and added encrypted DNS examples for non-technical users in [Android 10](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#advanced), [Android 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11.md#advanced), [Android 12](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md#private-dns), [Brave Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md#security), [Brave Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy), [Bromite](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Bromite.md#privacy-and-security), [Firefox Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#network-settings), [Google Chrome Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md#security), [Google Chrome Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md#privacy-and-security), [Microsoft Edge Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#security), [Vivaldi Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#privacy-and-security), [Windows 10](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#encrypted-dns) and [Windows 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#encrypted-dns)
 
