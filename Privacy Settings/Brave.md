@@ -14,6 +14,7 @@ Go to Settings
 
 ## Shields
 - Auto-redirect AMP pages: On
+- Prevent sites from fingerprinting me based on my language preferences: On
 - Trackers and ads blocking: Aggressive
 - Upgrade connections to HTTPS: On
 - Block fingerprinting: Strict (If you face any issues with sites, change it back to standard)

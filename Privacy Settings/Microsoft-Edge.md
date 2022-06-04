@@ -21,6 +21,9 @@ NOTE: Never save passwords in browsers. Use a password manager instead. Check ou
 
 NOTE: Never save payment info in browsers. A password manager can be used to also save payment information.
 
+#### Share browsing data with other Windows features
+- Share browsing data with other Windows features: Off
+
 
 
 ## Privacy, search, and services
@@ -45,7 +48,9 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 #### Security
 - Typosquatting Checker: On
-- Use secure DNS to specify how to lookup the network adress for websites > Choose a service provider > NextDNS/Cloudflare or provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
+- Use secure DNS to specify how to lookup the network adress for websites >
+  - On
+  - Choose a service provider > NextDNS/Cloudflare or provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
 
   Example: For Quad9, enter https://dns.quad9.net/dns-query
 
@@ -86,3 +91,21 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 ## Languages
 - Check Spelling: Off
+
+
+
+---
+---
+
+
+
+Open a new tab. Click the gear icon on right
+
+
+
+## Page layout
+- Custom >
+  - Show promoted links: Off
+  - Show greeting: Off
+  - Background: Off, Your own image or Custom theme
+  - Content: Content off

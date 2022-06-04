@@ -44,9 +44,12 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 - Preload pages for faster browsing and searching: Off
 
 #### Security
-- Enhanced Protection
+- Standard Protection
+  - Help improve security on the web for everyone: Off
 - Always use secure connections: On
-- Use secure DNS: With > NextDNS/Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
+- Use secure DNS >
+  - On
+  - With > NextDNS/Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
 
   Example: For Quad9, enter https://dns.quad9.net/dns-query
 

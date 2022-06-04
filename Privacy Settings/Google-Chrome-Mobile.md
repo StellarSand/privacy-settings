@@ -44,13 +44,15 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 
 ## Privacy and security
-- Safe Browsing: Enhanced protection (Does not apply to Ungoogled Chromium)
+- Safe Browsing (Does not apply to Ungoogled Chromium) >
+  - Standard Protection
+  - Standard Protection > Help improve security on the web: Off
 - Always use secure connections: On
 - Access payment methods: Off
 - Preload pages: No preloading
 - Use secure DNS > 
   - On
-  - Choose another provider > Quad9/NextDNS/Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
+  - Choose another provider > NextDNS/Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
 
     Example: For MullvadDNS, enter https://adblock.doh.mullvad.net/dns-query
 
