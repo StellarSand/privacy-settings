@@ -4,7 +4,23 @@ Any changes in the settings will be accounted here.
 
 
 
-## May 5, 2022:
+## June 04, 2022:
+
+### Brave Desktop
+- Added Prevent sites from fingerprinting me based on my language preferences in [Shields](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md#shields)
+
+### Google Chrome Desktop
+- Changed Enhanced Protection to Standard Protection in [Security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md#security)
+
+### Google Chrome Mobile
+- Changed Safe Browsing to Standard Protection in [Privacy and security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md#privacy-and-security)
+
+### Microsoft Edge Desktop
+- Added [Share browsing data with other Windows features](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#share-browsing-data-with-other-windows-features)
+
+
+
+## May 05, 2022:
 
 ### Firefox Mobile
 - Added [Homepage](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md#homepage) and [HTTPS-Only Mode](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md#https-only-mode)
