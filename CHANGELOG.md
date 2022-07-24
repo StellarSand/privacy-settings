@@ -4,6 +4,14 @@ Any changes in the settings will be accounted here.
 
 
 
+## July 24, 2022:
+Added
+- [Brave Search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Search.md)
+- [Gmail](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Gmail.md)
+- [Proton Mail](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Proton-Mail.md)
+
+
+
 ## June 04, 2022:
 
 ### Brave Desktop
