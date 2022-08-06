@@ -13,8 +13,13 @@ Go to Settings.
 - Get tips, tricks and suggestions as you use Windows: Off
 
 #### Shared experiences
-- Nearby sharing: Off (turn on if and only when needed)
+- Nearby sharing: Off (Enable this only when needed. Remember to turn it off when no longer required.)
 - Share across devices: Off
+
+#### Remote Desktop
+**This feature is not available in Home editions**
+- Off (Enable this only when needed. Remember to turn it off when no longer required.)
+- Require device to use Network Level Authentication to connect: On
 
 
 
@@ -32,6 +37,8 @@ Go to Settings.
 - Multilingual text suggestions
   - Show text suggestions based on the recognized languages you're typing in: Off
 
+#### AutoPlay
+- Use AutoPlay for all media and devices: Off
 
 
 ## Phone
@@ -77,13 +84,14 @@ NOTE: AppData is a hidden folder by default.
 
 #### Sign-in options
 - Require sign-in: When PC wakes up from sleep
-- Show account details such as my email address on the sign-in screen: Off
+- Privacy
+  - Show account details such as my email address on the sign-in screen: Off
 
 
 
 ## Search
 
-#### Permissions & history
+#### Permissions & History
 - Cloud content search
   - Microsoft account: Off
   - Work or school account: Off
@@ -115,7 +123,7 @@ NOTE: AppData is a hidden folder by default.
 
 #### App permissions
 - Review each permission and disable accordingly (choose which apps can have access to camera, microphone, gps, notifications etc. If any app doesn't need something, turn it off.)
-- App diagnostics > Change > Toggle off
+- App diagnostics > Change > Off
 
 
 

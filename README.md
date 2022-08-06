@@ -23,25 +23,25 @@ Privacy settings for:
 [Android 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11.md) | 11 (R) | Apr 30, 2022
 [Android 12](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md) | 12(S), 12.1(12L) | Apr 30, 2022
 [Apple ID](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Apple-ID.md) | - | Jan 24, 2022
-[Brave Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md) | 1.40.109 | June 04, 2022
-[Brave Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md) | 1.40.111 | Apr 30, 2022
+[Brave Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md) | 1.42.87 | Aug 06, 2022
+[Brave Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md) | 1.41.100 | Apr 30, 2022
 [Brave Search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Search.md) | - | Jul 24, 2022
-[Bromite](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Bromite.md) | 102.0.5005.96 | Apr 30, 2022
+[Bromite](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Bromite.md) | 103.0.5060.140 | Apr 30, 2022
 [Discord](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Discord.md) | - | Aug 18, 2021
 [DuckDuckGo Search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/DuckDuckGo-Search.md) | - | Jan 24, 2022
 [Facebook](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Facebook.md) | - | Jan 26, 2022
-[Firefox Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md) | 102.0 | Apr 30, 2022
-[Firefox Focus](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus.md) | 102.1.1 | Feb 18, 2022
-[Firefox Mobile/Fennec](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md) | 102.1.1 | May 5, 2022
-[Gboard](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Gboard.md) (Google Keyboard) | 11.6.10.433184565 | Dec 09, 2021
+[Firefox Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md) | 103.0 | Apr 30, 2022
+[Firefox Focus](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus.md) | 103.2.0 | Feb 18, 2022
+[Firefox Mobile/Fennec](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md) | 103.2.0 | May 5, 2022
+[Gboard](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Gboard.md) (Google Keyboard) | 11.9.06.452014594 | Dec 09, 2021
 [Gmail](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Gmail.md) | - | Jul 24, 2022
 [Google Account](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md) | - | Jan 26, 2022
-[Google Chrome/Ungoogled Chromium Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md) | 103.0.5060.114 | June 04, 2022
-[Google Chrome/Ungoogled Chromium Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md) | 103.0.5060.71 | June 04, 2022
+[Google Chrome/Ungoogled Chromium Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md) | 104.0.5112.81 | Jun 04, 2022
+[Google Chrome/Ungoogled Chromium Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md) | 104.0.5112.69 | Jun 04, 2022
 [Instagram](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Instagram.md) | - | Jan 26, 2022
 [LinkedIn](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/LinkedIn.md) | - | Jan 26, 2022
-[Microsoft Edge Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md) | 103.0.1264.44 | June 04, 2022
-[Microsoft Edge Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md) | 103.0.1264.47 | Mar 13, 2022
+[Microsoft Edge Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md) | 104.0.1293.47 | Jun 04, 2022
+[Microsoft Edge Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md) | 103.0.1264.77 | Mar 13, 2022
 [Proton Mail](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Proton-Mail.md) | - | Jul 24, 2022
 [Reddit](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Reddit.md) | - | Jan 26, 2022
 [Signal](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Signal.md) | - | Jan 26, 2022
@@ -49,9 +49,9 @@ Privacy settings for:
 [Startpage Search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Startpage-Search.md) | - | Feb 23, 2022
 [Twitter](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Twitter.md) | - | Jan 26, 2022
 [Vivaldi Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md) | 5.3.2679.61 | Dec 11, 2021
-[Vivaldi Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md) | 5.3.2683.47 | Apr 30, 2022
-[Windows 10](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md) | 21H2 (OS Build 19044.1679) | Apr 30, 2022
-[Windows 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md) | 21H2 (OS Build 22000.651) | Apr 30, 2022
+[Vivaldi Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md) | 5.3.2683.49 | Apr 30, 2022
+[Windows 10](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md) | 21H2 (OS Build 19044.1865) | Aug 06, 2022
+[Windows 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md) | 21H2 (OS Build 22000.795) | Aug 06, 2022
 [Zoom](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Zoom.md) | - | Jan 28, 2022
 
 
@@ -70,20 +70,20 @@ Setting up the above mentioned extensions:
 
 
 ## Changelog
-Any changes in the settings will be accounted in the [changelog](https://github.com/the-weird-aquarian/privacy-settings/blob/main/CHANGELOG.md).
+Any notable changes will be accounted in the [changelog](https://github.com/the-weird-aquarian/privacy-settings/blob/main/CHANGELOG.md).
 
 
 
 ## FAQs
 
-### Would following the settings mentioned here make me completely private?
+#### Would following the settings mentioned here make me completely private?
 If you are on the internet, you're never really private or secure. By following these settings, the amount of data collection and tracking performed by these services/softwares are significantly minimized but not completely eliminated. You should look for better privacy respecting alternatives and use them whenever possible.
 
-### Why are privacy invading services like Facebook, Zoom, Google etc. mentioned here? Isn't this supposed to be a privacy focused repo?
+#### Why are privacy invading services like Facebook, Zoom, Google etc. mentioned here? Isn't this supposed to be a privacy focused repo?
 I’m all for privacy respecting services and I do recommend them, however, you might need to use Zoom for work meetings, a social media platform for business, Windows for some specific program/purpose or something similar. The only goal here is to minimize data collection and boost your digital privacy as much as possible even when using a privacy invading service/software. Do note that this does not mean you should keep using such services/softwares if you don't need them and I highly encourage you to look for better privacy respecting alternatives if available.
 
-### The settings for a particular software/service was updated months ago, when will it be updated according to latest version?
-Settings don't change much with every new version of any software or service. More often than not they stay the same for several versions. If there aren't any changes necessary, it won't be updated. This is the reason versions are included along with last updated date above. If latest version is mentioned, then the settings already apply to that even if it was last updated months ago.
+#### The settings for a particular software/service was updated months ago, when will it be updated according to latest version?
+Settings don't change much with every new version of any software or service. If there aren't any changes necessary, it won't be updated. This is the reason versions are included along with last updated date above. If latest version is mentioned, then the settings already apply to that even if it was last updated months ago.
 
 
 
@@ -100,7 +100,7 @@ The TL;DR version of best practices for digital privacy:
 - Review permissions for softwares and apps and revoke unnecessary permissions.
 - Only provide information as much as necessary.
 - Provide false information when possible (Never knowingly give false information on a legal document, to a law enforcement officer, federal agency, medical personnel, banks etc).
-- Use E2EE (End to End Encrypted) messaging services.
+- Use E2EE (End-to-End Encrypted) messaging services.
 - Keep devices encrypted.
 - Make regular backups.
 - Spread the good information and make people aware around you.
@@ -127,7 +127,7 @@ For better privacy respecting alternatives, unbiased reviews and more informatio
 - [ProtonMail Blog](https://protonmail.com/blog/)
 - Techlore: [Main Site](https://techlore.tech), [GitHub](https://github.com/techlore), [YouTube](https://www.youtube.com/c/Techlore/)
 - The New Oil: [Main Site](https://thenewoil.org/) ,[YouTube](https://www.youtube.com/c/TheNewOil)
-- [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html)
+- [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet-ng.org/guide.html)
 - [The Data Detox Kit](https://datadetoxkit.org)
 - [Personal security checklist](https://github.com/Lissy93/personal-security-checklist)
 - [Security in a Box](https://securityinabox.org/)

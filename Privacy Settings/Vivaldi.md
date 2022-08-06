@@ -35,17 +35,15 @@ Go to Settings.
 
 
 
-## Privacy
+## Privacy and Security
 
 #### Google Services
 - Phishing and malware protection: On
 - Form Autofill Assist: Off
 
 #### Google Extensions
-- Crypto Token: Off
 - Hangouts: Off
-- Chromecast Media Router: Off
-- Web Store: Off (Turn it on when you need to download any extension from chrome web store.)
+- Web Store: Off (Enable it when you need to download any extension from Chrome web store.)
 
 #### Search
 - Suggestions in Address Field: Off

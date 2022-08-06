@@ -10,19 +10,69 @@ Go to Settings.
 - Offer suggestions on how I can set up my device: Off
 - Get tips and suggestions when I use Windows: Off
 
+#### Remote Desktop
+**This feature is not available in Home editions**
+- Off (Enable this only when needed. Remember to turn it off when no longer required.)
+- Require device to use Network Level Authentication to connect: On
+
 
 
 ## Bluetooth & devices
 
-#### Your Phone
+#### Phone Link
 Do not link
+
+#### AutoPlay
+- Use AutoPlay for all media and devices: Off
 
 
 
 ## Network & internet
 
+#### Ethernet
+- DNS server assignment > Edit >
+  - Edit DNS settings: Manual
+  - IPv4: On
+    - Preferred DNS: enter IPv4 address of a provider from [this list](https://www.privacyguides.org/dns/)
+
+      Example: For Quad9, enter 9.9.9.9
+    - Preferred DNS encryption: Encrypted only (DNS over HTTPS)
+    - Alternate DNS server: enter alternate IPv4 address of the same provider as above or a different provider
+
+      Example: For Quad9, enter 149.112.112.112
+    - Alternate DNS encryption: Encrypted only (DNS over HTTPS)
+  - IPv6: On
+    - Preferred DNS: enter IPv4 address of a provider from [this list](https://www.privacyguides.org/dns/)
+
+      Example: For Quad9, enter 2620:fe::fe
+    - Preferred DNS encryption: Encrypted only (DNS over HTTPS)
+    - Alternate DNS server: enter alternate IPv4 address of the same provider as above or a different provider
+
+      Example: For Quad9, enter 2620:fe::fe:9
+    - Alternate DNS encryption: Encrypted only (DNS over HTTPS)
+
 #### Wi-Fi
 - Random hardware addresses: On
+- Hardware properties > DNS server assignment > Edit
+  - Edit DNS settings: Manual
+  - IPv4: On
+    - Preferred DNS: enter IPv4 address of a provider from [this list](https://www.privacyguides.org/dns/)
+
+      Example: For Quad9, enter 9.9.9.9
+    - Preferred DNS encryption: Encrypted only (DNS over HTTPS)
+    - Alternate DNS server: enter alternate IPv4 address of the same provider as above or a different provider
+
+      Example: For Quad9, enter 149.112.112.112
+    - Alternate DNS encryption: Encrypted only (DNS over HTTPS)
+  - IPv6: On
+    - Preferred DNS: enter IPv4 address of a provider from [this list](https://www.privacyguides.org/dns/)
+
+      Example: For Quad9, enter 2620:fe::fe
+    - Preferred DNS encryption: Encrypted only (DNS over HTTPS)
+    - Alternate DNS server: enter alternate IPv4 address of the same provider as above or a different provider
+
+      Example: For Quad9, enter 2620:fe::fe:9
+    - Alternate DNS encryption: Encrypted only (DNS over HTTPS)
 
 
 
@@ -32,6 +82,9 @@ Do not link
 - Personalize your lock screen
   - select Picture or Slideshow
   - Get fun facts, tips, tricks and more on your lock screen: Off
+
+#### Device usage
+- Turn everything off
 
 
 
@@ -92,6 +145,9 @@ NOTE: AppData is a hidden folder by default.
 - Tailored experiences: Off
 - Delete diagnostic data: Delete
 
+#### Activity history
+- Send my activity history to Microsoft: Off
+
 #### Search permissions
 - Cloud content search
   - Microsoft account: Off
@@ -99,9 +155,8 @@ NOTE: AppData is a hidden folder by default.
 - History
   - Search history on this device: Off
   - Clear device search history
-
-#### Activity history
-- Send my activity history to Microsoft: Off
+- More settings
+  - Show search highlights: Off
 
 #### App permissions
 - Review each permission and disable accordingly (choose which apps can have access to location, camera, microphone, notifications etc. If any app doesn't need something, turn it off.)
@@ -113,32 +168,3 @@ NOTE: AppData is a hidden folder by default.
 
 #### Advanced options
 - Delivery Optimization > Allow downloads from other PCs: Off
-
-
-
-## Encrypted DNS
-Win key + r > type ncpa.cpl > press enter
-
-Right click on Ethernet or Wifi depending on what you are using > Properties
-
-- Select Internet Protocol Version 4 (TCP/IPv4) > Properties > select Use the following DNS server addresses:
-  - Preferred DNS server: enter IPv4 address of a provider from [this list](https://www.privacyguides.org/dns/)
-
-    Example: For Quad9, enter 9.9.9.9
-  
-  - Alternate DNS server: enter alternate IPv4 address of the same provider as above or a different provider
-
-    Example: For Quad9, enter 149.112.112.112
-
-  Click OK
-
-- Select Internet Protocol Version 6 (TCP/IPv6) > Properties > select Use the following DNS server addresses:
-  - Preferred DNS server: enter IPv6 address of a provider from [this list](https://www.privacyguides.org/dns/)
-
-    Example: For Quad9, enter 2620:fe::fe
-  
-  - Alternate DNS server: enter alternate IPv6 address of the same provider as above or a different provider
-
-    Example: For Quad9, enter 2620:fe::9
-
-Click OK

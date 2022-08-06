@@ -12,6 +12,7 @@ Go to Settings
 
 #### Passwords
 - Offer to save passwords: Off
+- Automatically save passwords: Off
 
 NOTE: Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/the-weird-aquarian/privacy-settings#recommendations-alternatives--reviews).
 
@@ -54,7 +55,9 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
   Example: For Quad9, enter https://dns.quad9.net/dns-query
 
-- Enhance your security on the web: On, Strict
+- Enhance your security on the web >
+  - On
+  - Strict
 
 
 ### Services
@@ -90,22 +93,18 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 
 ## Languages
-- Check Spelling: Off
-
+- Enable spellcheck: Off
 
 
 ---
 ---
-
 
 
 Open a new tab. Click the gear icon on right
 
-
-
-## Page layout
-- Custom >
-  - Show promoted links: Off
-  - Show greeting: Off
-  - Background: Off, Your own image or Custom theme
-  - Content: Content off
+## Page settings
+- Layout: Custom
+- Show promoted links: Off
+- Background: Off, Your own image or Custom theme
+- Show greeting: Off
+- Content: Content off

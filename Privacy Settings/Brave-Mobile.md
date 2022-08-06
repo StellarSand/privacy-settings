@@ -30,7 +30,7 @@ Go to Settings
 
 
 ## Brave News
-- Enable Brave News: Off
+- Show Brave News: Off
 
 
 

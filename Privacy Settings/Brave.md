@@ -5,9 +5,9 @@ Go to Settings
 
 
 ## Appearance
-- Show autocomplete in address bar: Off
-- Show top sites in autocomplete suggestions: Off
-- Show Brave suggested sites in autocomplete suggestions: Off
+- Show autocomplete suggestions in address bar >
+  - Top sites: Off
+  - Suggested sites: Off
 - Always show full URLs: On
 
 
@@ -22,7 +22,7 @@ Go to Settings
 
 
 
-## Security and Privacy
+## Privacy and security
 - Autocomplete searches and URLs: Off
 - Use Google services for push messaging: Off
 - Allow privacy-preserving product analytics (P3A): Off
@@ -38,9 +38,9 @@ Go to Settings
 - Always use secure connections: On
 - Use secure DNS >
   - On
-  - With > Quad9/NextDNS/Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
+  - With > Cloudflare/NextDNS or select Custom and provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
 
-    Example: For MullvadDNS, enter https://adblock.doh.mullvad.net/dns-query
+    Example: For Quad9, enter https://dns.quad9.net/dns-query
 
 
 
@@ -51,10 +51,7 @@ privacy respecting search engine from Manage search engines.
 
 
 
-## Additional settings
-
-
-### Autofill
+## Autofill
 
 #### Passwords
 - Offer to save passwords: Off
@@ -72,23 +69,21 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 - Save and fill addresses: Off
 
 
-### Languages
+
+## Languages
 - Spell check: Off
 
 
-### Downloads
+
+## Downloads
 - Ask where to save each file before downloading: On
 
 
-
 ---
 ---
-
 
 
 Open a new tab. Click on Customize at the bottom
-
-
 
 ## Background Image
 - Show Sponsored Images: Off
