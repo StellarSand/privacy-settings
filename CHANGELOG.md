@@ -4,6 +4,27 @@ Any changes in the settings will be accounted here.
 
 
 
+## Aug 06, 2022
+
+### Brave Desktop
+- Minor changes in [Appearance](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md#appearance)
+
+### Microsoft Edge Desktop
+- Added Automatically save passwords in [Passwords](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#passwords)
+
+### Windows 10
+- Added [Remote Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#remote-desktop) in [System](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#system)
+- Added [AutoPlay](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#autoplay) in [Devices](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#devices)
+
+### Windows 11
+- Added [Remote Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#remote-desktop) in [System](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#system)
+- Added [AutoPlay](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#autoplay) in [Bluetooth & devices](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#bluetooth--devices)
+- Added DNS over HTTPS (DoH) in [Network & internet](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#network--internet)
+- Added [Device usage](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#device-usage) in [Personalization](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#personalization)
+- Added More settings in [Search permissions](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#search-permissions)
+
+
+
 ## July 24, 2022:
 Added
 - [Brave Search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Search.md)
