@@ -168,3 +168,15 @@ NOTE: AppData is a hidden folder by default.
 
 #### Advanced options
 - Delivery Optimization > Allow downloads from other PCs: Off
+
+
+---
+---
+
+
+## Disable ads in file explorer
+Open file explorer. Click 3 dots menu on top, located to the right of "View" > Options >
+  - Click "View" on top of the new popup >
+    - Uncheck "Show sync provider notifications"
+    - Click Apply
+    - Also click "Apply to Folders" on top (if available)

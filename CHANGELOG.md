@@ -4,6 +4,13 @@ Any changes in the settings will be accounted here.
 
 
 
+## Aug 08, 2022
+
+### Windows 11
+- Added [Disable ads in file explorer](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#disable-ads-in-file-explorer)
+
+
+
 ## Aug 06, 2022
 
 ### Brave Desktop
@@ -25,7 +32,7 @@ Any changes in the settings will be accounted here.
 
 
 
-## July 24, 2022:
+## Jul 24, 2022:
 Added
 - [Brave Search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Search.md)
 - [Gmail](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Gmail.md)
@@ -33,7 +40,7 @@ Added
 
 
 
-## June 04, 2022:
+## Jun 04, 2022:
 
 ### Brave Desktop
 - Added Prevent sites from fingerprinting me based on my language preferences in [Shields](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md#shields)
