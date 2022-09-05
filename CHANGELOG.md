@@ -1,6 +1,19 @@
 # Changelog
 
-Any changes in the settings will be accounted here.
+Any notable changes in the settings will be accounted here.
+
+
+
+## Sep 05, 2022
+
+### Firefox Focus
+- Changed block cookies to cross-site in [Cookies and Site Data](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus.md#cookies-and-site-data)
+
+### Windows 10
+- Added [Disable telemetry service](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#disable-telemetry-service)
+
+### Windows 11
+- Added [Disable telemetry service](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#disable-telemetry-service)
 
 
 
@@ -142,23 +155,23 @@ Added
 ### Additional Resources
 
 #### Privacy news, blogs, guides & other stuff
-- Added [Youtube channel](https://www.youtube.com/c/TheNewOil) of [The New Oil](https://thenewoil.org/)
+- Added [The New Oil](https://thenewoil.org/)'s [Youtube channel](https://www.youtube.com/c/TheNewOil)
 
 
 
 ## Jan 26, 2022
 
 ### Privacy Settings
-Added 2FA for:
-- [Amazon](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Amazon.md#login--security)
-- [Facebook](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Facebook.md#security-and-login)
-- [Google Account](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md#security)
-- [Instagram](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Instagram.md#security)
-- [LinkedIn](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/LinkedIn.md#sign-in--security)
-- [Reddit](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Reddit.md#safety--privacy)
-- [Twitter](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Twitter.md#security-and-account-access)
+- Added 2FA for:
+  - [Amazon](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Amazon.md#login--security)
+  - [Facebook](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Facebook.md#security-and-login)
+  - [Google Account](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md#security)
+  - [Instagram](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Instagram.md#security)
+  - [LinkedIn](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/LinkedIn.md#sign-in--security)
+  - [Reddit](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Reddit.md#safety--privacy)
+  - [Twitter](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Twitter.md#security-and-account-access)
 
-Added [Verify safety number](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Signal.md#verify-safety-number) in [Signal](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Signal.md)
+- Added [Verify safety number](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Signal.md#verify-safety-number) in [Signal](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Signal.md)
 
 
 
@@ -184,35 +197,35 @@ Added [Verify safety number](https://github.com/the-weird-aquarian/privacy-setti
 ## Jan 10, 2022
 
 ### Android 10
-- Added Wi-Fi preferences in [Wi-Fi](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#wi-fi) under [Network & internet](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#network--internet)
-- Added Device visibility in Nearby Share under [Connection preferences](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#connection-preferences) in [Connected devices](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#connected-devices)
-- Added [SIM card lock](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#sim-card-lock) under [Security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#security)
+- Added Wi-Fi preferences in [Network & internet](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#network--internet) > [Wi-Fi](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#wi-fi)
+- Added Nearby Share > Device visibility in [Connected devices](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#connected-devices) > [Connection preferences](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#connection-preferences)
+- Added [SIM card lock](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#sim-card-lock) in [Security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#security)
 - Added [System](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#system)
 
 ### Android 11
-- Added Wi-Fi preferences in [Wi-Fi](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11.md#wi-fi) under [Network & internet](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11.md#network--internet)
-- Added Device visibility in Nearby Share under [Connection preferences](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11.md#connection-preferences) in [Connected devices](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11.md#connected-devices)
-- Added [SIM card lock](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11-Privacy-Settings.md#sim-card-lock) under [Security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11.md#security)
+- Added Wi-Fi preferences in [Network & internet](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11.md#network--internet) > [Wi-Fi](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11.md#wi-fi)
+- Added Nearby Share > Device visibility in [Connected devices](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11.md#connected-devices) > [Connection preferences](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11.md#connection-preferences)
+- Added [SIM card lock](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11-Privacy-Settings.md#sim-card-lock) in [Security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11.md#security)
 - Added [System](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11.md#system)
 
 ### Android 12
-- Added Wi-Fi preferences in [Wi-Fi](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md#wi-fi) under [Network & internet](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md#network--internet)
-- Added Device visibility in Nearby Share under [Connection preferences](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md#connection-preferences) in [Connected devices](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md#connected-devices)
-- Added [SIM card lock](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md#sim-card-lock) under [Security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md#security)
+- Added Wi-Fi preferences in [Network & internet](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md#network--internet) > [Wi-Fi](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md#wi-fi) 
+- Added Nearby Share > Device visibility in [Connected devices](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md#connected-devices) > [Connection preferences](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md#connection-preferences)
+- Added [SIM card lock](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md#sim-card-lock) in [Security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md#security)
 - Added [System](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md#system)
 
 ### Windows 10
-- Added [Lock screen](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#lock-screen) under [Personalization](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#personalization)
+- Added [Lock screen](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#lock-screen) in [Personalization](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#personalization)
 - Added [Search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#search)
-- Added Delete diagnostic data in [Diagnostics & feedback](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#diagnostics--feedback) under [Privacy](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#privacy)
-- Added [Delivery Optimization](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#delivery-optimization) under [Update & security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#update--security)
+- Added Delete diagnostic data in [Privacy](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#privacy) > [Diagnostics & feedback](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#diagnostics--feedback)
+- Added [Delivery Optimization](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#delivery-optimization) in [Update & security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#update--security)
 
 ### Windows 11
 - Added [Personalization](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#personalization)
-- Added [Inking & typing personalization](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#inking--typing-personalization) under [Privacy & security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#privacy--security)
-- Added Delete diagnostic data in [Diagnostics & feedback](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#diagnostics--feedback) under [Privacy & security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#privacy--security)
-- Added [Search permissions](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#search-permissions) under [Privacy & security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#privacy--security)
+- Added [Inking & typing personalization](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#inking--typing-personalization) in [Privacy & security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#privacy--security)
+- Added Delete diagnostic data in  [Privacy & security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#privacy--security) > [Diagnostics & feedback](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#diagnostics--feedback)
+- Added [Search permissions](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#search-permissions) in [Privacy & security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#privacy--security)
 - Added [Windows Update](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#windows-update)
 
 ### Additional Resources
-- Added [Security in a Box](https://securityinabox.org/) under [Privacy news, blogs, guides & other stuff](https://github.com/the-weird-aquarian/privacy-settings/tree/main#privacy-news-blogs-guides--other-stuff)
+- Added [Security in a Box](https://securityinabox.org/) in [Privacy news, blogs, guides & other stuff](https://github.com/the-weird-aquarian/privacy-settings/tree/main#privacy-news-blogs-guides--other-stuff)
