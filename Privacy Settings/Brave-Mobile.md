@@ -21,7 +21,7 @@ Go to Settings
 
 - "Do Not Track": On
 - Allow privacy-preserving product analytics (P3A): Off
-- Automatically send crash reports: Off
+- Automatically send diagnostic reports: Off
 - Automatically send daily usage ping to Brave: Off
 - Autocomplete searches and URLs: Off
 - Show top sites in autocomplete: Off

@@ -1,6 +1,6 @@
 # DuckDuckGo Search Privacy Settings
 
-Click Settings on top and go to All Settings.
+Go to [DuckDuckGo Search settings](https://duckduckgo.com/settings).
 
 
 
@@ -8,7 +8,6 @@ Click Settings on top and go to All Settings.
 - Autocomplete Suggestions: Off
 - Advertisements: Off
 - Install DuckDuckGo: Off
-- Privacy Newsletters: Off
 - Homepage Privacy Tips: Off
 - Help Improve DuckDuckGo: Off
 

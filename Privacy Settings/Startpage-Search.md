@@ -1,6 +1,6 @@
 # Startpage Search Privacy Settings
 
-Go to Settings.
+Go to [Startpage Search settings](https://www.startpage.com/do/settings)
 
 
 

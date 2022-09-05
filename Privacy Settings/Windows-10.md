@@ -165,3 +165,13 @@ Right click on Ethernet or Wifi depending on what you are using > Properties
     Example: For Quad9, enter 2620:fe::9
   
 Click OK
+
+
+
+## Disable telemetry service
+Win key + r > type services.msc > press enter
+
+- Double-click on "Connected User Experiences and Telemetry" >
+  - Service Status: Stopped (Click on Stop, if service is running)
+  - Startup Type: Disabled
+  - Click OK

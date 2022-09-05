@@ -13,7 +13,7 @@ Go to Settings.
 - Block other content trackers: On (If you face issues with any website, turn it off)
 
 #### Cookies and Site Data
-- Block cookies: Block 3rd-party cookies only
+- Block cookies: Block cross-site cookies
 
 #### Switching Apps
 - Stealth: On

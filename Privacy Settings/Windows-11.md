@@ -180,3 +180,13 @@ Open file explorer. Click 3 dots menu on top, located to the right of "View" > O
     - Uncheck "Show sync provider notifications"
     - Click Apply
     - Also click "Apply to Folders" on top (if available)
+
+
+
+## Disable telemetry service
+Win key + r > type services.msc > press enter
+
+- Double-click on "Connected User Experiences and Telemetry" >
+  - Service Status: Stopped (Click on Stop, if service is running)
+  - Startup Type: Disabled 
+  - Click OK
