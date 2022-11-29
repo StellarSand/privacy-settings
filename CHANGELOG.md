@@ -4,6 +4,29 @@ Any notable changes in the settings will be accounted here.
 
 
 
+## Nov 29, 2022
+
+### Brave Mobile
+- Added Prevent fingerprinting via language settings in [Brave shields & privacy](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
+
+### Firefox Mobile
+- Added [Autofill](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md#autofill)
+
+### Microsoft Edge Desktop
+- Added Autofill passwords in [Profiles](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#profiles) > [Passwords](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#passwords)
+- Added Show suggestions and Get notifications in [Privacy, search, and services](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#privacy-search-and-services) > [Services](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#services)
+- Added [Share additional OS regional format](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#share-additional-os-regional-format) in [Languages](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#languages)
+
+### Vivaldi Desktop
+- Added Always Use Secure Connection (HTTPS) in [Address Bar](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md#address-bar) > [Security Features](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md#security-features)
+- Added [Autofill](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md#autofill) in [Privacy and Security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md#privacy-and-security)
+
+### Windows 11
+- Added [Nearby sharing](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#nearby-sharing) in [System](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#system)
+- Updated DNS settings in [Network & internet](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#network--internet) > [Ethernet](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#ethernet) and [Wi-Fi](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#wi-fi)
+
+
+
 ## Sep 05, 2022
 
 ### Firefox Focus
