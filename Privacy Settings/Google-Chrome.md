@@ -1,6 +1,6 @@
 # Google Chrome Privacy Settings
 
-**Following settings also apply to Ungoogled Chromium.**
+**Following settings also apply to Ungoogled Chromium, except where mentioned otherwise.**
 
 Go to Settings.
 
@@ -19,13 +19,13 @@ Go to Settings.
 
 ## Autofill
 
-#### Passwords
+#### Password Manager
 - Offer to save passwords: Off
 - Auto Sign-in: Off
 
 NOTE: Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/the-weird-aquarian/privacy-settings#recommendations-alternatives--reviews).
 
-#### Payment Methods
+#### Payment methods
 - Save and fill payment methods: Off
 - Allow sites to check if you have payment methods saved: Off
 
@@ -59,8 +59,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 #### Privacy Sandbox
 **This section does not apply to Ungoogled Chromium**
-- Privacy Sandbox trials: Off
-- FLoC: Off
+- Trials: Off
 
 
 

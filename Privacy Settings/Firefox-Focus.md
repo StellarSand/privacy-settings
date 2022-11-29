@@ -38,8 +38,3 @@ Go to Settings.
 
 #### URL Autocomplete
 - For Top sites: Off
-
-
-
-## Mozilla
-- Show home screen tips: Off

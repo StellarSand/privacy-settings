@@ -13,6 +13,7 @@ Go to Settings
 #### Passwords
 - Offer to save passwords: Off
 - Automatically save passwords: Off
+- Autofill passwords: Off
 
 NOTE: Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/the-weird-aquarian/privacy-settings#recommendations-alternatives--reviews).
 
@@ -48,8 +49,8 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 
 #### Security
-- Typosquatting Checker: On
-- Use secure DNS to specify how to lookup the network adress for websites >
+- Website Typo Protection: On
+- Use secure DNS to specify how to lookup the network address for websites >
   - On
   - Choose a service provider > NextDNS/Cloudflare or provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
 
@@ -61,6 +62,8 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 
 ### Services
+- Show suggestions to follow creators in Microsoft Edge: Off
+- Get notifications of related things you can explore with Discover: Off
 
 #### Address bar and search
 - Show me search and site suggestions using my typed characters: Off
@@ -93,7 +96,10 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 
 ## Languages
-- Enable spellcheck: Off
+- Use writing assistance: Off
+
+#### Share additional OS regional format
+- Share additional operating system region: Limited
 
 
 ---

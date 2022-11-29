@@ -1,6 +1,6 @@
 # Google Chrome Mobile Privacy Settings
 
-**Following settings also apply to Ungoogled Chromium, except where mentioned.**
+**Following settings also apply to Ungoogled Chromium, except where mentioned otherwise.**
 
 Go to Settings.
 

@@ -7,8 +7,12 @@ Go to Settings.
 ## System
 
 #### Notifications
-- Offer suggestions on how I can set up my device: Off
-- Get tips and suggestions when I use Windows: Off
+- Additional settings >
+  - Suggest ways to get the most out of Windows and finish setting up this device: Off
+  - Get tips and suggestions when using Windows: Off
+
+#### Nearby sharing
+- Off (Enable this only when needed. Remember to turn it off when no longer required.)
 
 #### Remote Desktop
 **This feature is not available in Home editions**
@@ -36,20 +40,24 @@ Do not link
     - Preferred DNS: enter IPv4 address of a provider from [this list](https://www.privacyguides.org/dns/)
 
       Example: For Quad9, enter 9.9.9.9
-    - Preferred DNS encryption: Encrypted only (DNS over HTTPS)
-    - Alternate DNS server: enter alternate IPv4 address of the same provider as above or a different provider
+    - DNS over HTTPS: On (automatic template)
+    - Fallback to plaintext: Off
+    - Alternate DNS: enter alternate IPv4 address of the same provider as above or a different provider
 
       Example: For Quad9, enter 149.112.112.112
-    - Alternate DNS encryption: Encrypted only (DNS over HTTPS)
+    - DNS over HTTPS: On (automatic template)
+    - Fallback to plaintext: Off
   - IPv6: On
-    - Preferred DNS: enter IPv4 address of a provider from [this list](https://www.privacyguides.org/dns/)
+    - Preferred DNS: enter IPv6 address of a provider from [this list](https://www.privacyguides.org/dns/)
 
       Example: For Quad9, enter 2620:fe::fe
-    - Preferred DNS encryption: Encrypted only (DNS over HTTPS)
-    - Alternate DNS server: enter alternate IPv4 address of the same provider as above or a different provider
+    - DNS over HTTPS: On (automatic template)
+    - Fallback to plaintext: Off
+    - Alternate DNS: enter alternate IPv6 address of the same provider as above or a different provider
 
-      Example: For Quad9, enter 2620:fe::fe:9
-    - Alternate DNS encryption: Encrypted only (DNS over HTTPS)
+      Example: For Quad9, enter 2620:fe::9
+    - DNS over HTTPS: On (automatic template)
+    - Fallback to plaintext: Off
 
 #### Wi-Fi
 - Random hardware addresses: On
@@ -59,20 +67,24 @@ Do not link
     - Preferred DNS: enter IPv4 address of a provider from [this list](https://www.privacyguides.org/dns/)
 
       Example: For Quad9, enter 9.9.9.9
-    - Preferred DNS encryption: Encrypted only (DNS over HTTPS)
-    - Alternate DNS server: enter alternate IPv4 address of the same provider as above or a different provider
+    - DNS over HTTPS: On (automatic template)
+    - Fallback to plaintext: Off
+    - Alternate DNS: enter alternate IPv4 address of the same provider as above or a different provider
 
       Example: For Quad9, enter 149.112.112.112
-    - Alternate DNS encryption: Encrypted only (DNS over HTTPS)
+    - DNS over HTTPS: On (automatic template)
+    - Fallback to plaintext: Off
   - IPv6: On
-    - Preferred DNS: enter IPv4 address of a provider from [this list](https://www.privacyguides.org/dns/)
+    - Preferred DNS: enter IPv6 address of a provider from [this list](https://www.privacyguides.org/dns/)
 
       Example: For Quad9, enter 2620:fe::fe
-    - Preferred DNS encryption: Encrypted only (DNS over HTTPS)
-    - Alternate DNS server: enter alternate IPv4 address of the same provider as above or a different provider
+    - DNS over HTTPS: On (automatic template)
+    - Fallback to plaintext: Off
+    - Alternate DNS: enter alternate IPv6 address of the same provider as above or a different provider
 
-      Example: For Quad9, enter 2620:fe::fe:9
-    - Alternate DNS encryption: Encrypted only (DNS over HTTPS)
+      Example: For Quad9, enter 2620:fe::9
+    - DNS over HTTPS: On (automatic template)
+    - Fallback to plaintext: Off
 
 
 
@@ -90,7 +102,7 @@ Do not link
 
 ## Apps
 
-#### Apps & features
+#### Installed apps
 Uninstall anything you don't use like XBox, candy crush, some other preinstalled apps/games etc.
 Be sure not to uninstall anything important. If you have doubts about any app, either ask or search the net.
 
@@ -141,7 +153,7 @@ NOTE: AppData is a hidden folder by default.
 
 #### Diagnostics & feedback
 - Diagnostic data > Send optional diagnostic data: Off
-- Improve inking & typing recognition: Off
+- Improve inking & typing: Off
 - Tailored experiences: Off
 - Delete diagnostic data: Delete
 
@@ -152,9 +164,6 @@ NOTE: AppData is a hidden folder by default.
 - Cloud content search
   - Microsoft account: Off
   - Work or School account: Off
-- History
-  - Search history on this device: Off
-  - Clear device search history
 - More settings
   - Show search highlights: Off
 

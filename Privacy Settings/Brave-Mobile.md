@@ -11,7 +11,7 @@ Go to Settings
 - Always use secure connections: On
 - Block Cookies: Block cross-site cookies
 - Block Fingerprinting: Fingerprinting blocked (strict) (If you face any issues with sites, change it back to standard)
-- Safe Browsing: Standard protection
+- Prevent fingerprinting via language settings: On
 - Allow sites to check if you have payment methods saved: Off
 - Use secure DNS >
   - On
@@ -69,7 +69,7 @@ NOTE: Never save passwords in browsers. Use a password manager instead. Check ou
 
 
 
-## Payment Methods
+## Payment methods
 - Save and fill payment methods: Off
 
 NOTE: Never save payment info in browsers. A password manager can be used to also save payment information.

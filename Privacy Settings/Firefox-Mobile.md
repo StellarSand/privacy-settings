@@ -27,8 +27,8 @@ Go to Settings.
 NOTE: Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/the-weird-aquarian/privacy-settings#recommendations-alternatives--reviews).
 
 
-
-## Credit cards
+## Autofill
+- Save and autofill addresses: Off
 - Save and autofill cards: Off
 
 NOTE: Never save payment info or credit card details in browsers. A password manager can be used to also save payment information or card details.

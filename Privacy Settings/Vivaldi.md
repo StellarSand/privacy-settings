@@ -13,6 +13,7 @@ Go to Settings.
 - Enabled: Off
 
 #### Security Features
+- Always Use Secure Connection (HTTPS): On
 - Strip javaScript From Pasted Text: On
 - Highlight Base Domain in Address: On
 
@@ -58,7 +59,10 @@ Go to Settings.
 - In Address Field: Off
 - In Search Field: Off
 
-#### Trackers And Ad Blocking
+#### Autofill
+- Credit Card Autofill: Off
+
+#### Tracker And Ad Blocking
 - Blocking Level: Block Trackers and Ads
 
 #### Passwords

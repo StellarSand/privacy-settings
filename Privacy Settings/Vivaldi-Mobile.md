@@ -27,7 +27,7 @@ NOTE: Never save passwords in browsers. Use a password manager instead. Check ou
 
 
 
-## Payment Methods
+## Payment methods
 - Save and fill payment methods: Off
 
 NOTE: Never save payment info in browsers. A password manager can be used to also save payment information.

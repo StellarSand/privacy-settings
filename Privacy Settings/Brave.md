@@ -53,7 +53,7 @@ privacy respecting search engine from Manage search engines.
 
 ## Autofill
 
-#### Passwords
+#### Password Manager
 - Offer to save passwords: Off
 - Auto Sign-in: Off
 
