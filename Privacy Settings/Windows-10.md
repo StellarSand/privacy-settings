@@ -172,7 +172,7 @@ Right click on Ethernet or Wifi depending on what you are using > Properties
 
 
 ## Disable ads in file explorer
-Open file explorer. Click 3 dots menu on top, located to the right of "View" > Options >
+Open file explorer > click "View" on top > Options > Change folder and search options
 - Click "View" on top of the new popup >
   - Uncheck "Show sync provider notifications"
   - Click Apply
