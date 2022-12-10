@@ -109,7 +109,7 @@ NOTE: AppData is a hidden folder by default.
 #### Speech
 - Online speech recognition: Off
 
-#### Inking & typing personalization
+#### Inking & typing
 - Getting to know you: Off
 
 #### Diagnostics & feedback
@@ -164,7 +164,19 @@ Right click on Ethernet or Wifi depending on what you are using > Properties
 
     Example: For Quad9, enter 2620:fe::9
   
-Click OK
+  Click OK
+
+
+---
+---
+
+
+## Disable ads in file explorer
+Open file explorer. Click 3 dots menu on top, located to the right of "View" > Options >
+- Click "View" on top of the new popup >
+  - Uncheck "Show sync provider notifications"
+  - Click Apply
+  - Also click "Apply to Folders" on top (if available)
 
 
 
@@ -175,3 +187,18 @@ Win key + r > type services.msc > press enter
   - Service Status: Stopped (Click on Stop, if service is running)
   - Startup Type: Disabled
   - Click OK
+  
+
+
+## Disable search highlights in search bar
+Right click on taskbar > Search > uncheck "Show search highlights"
+
+
+
+## Disable trending searches & web search in search bar
+Win key + r > type regedit > press enter > Yes
+
+- Navigate to `Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Search`
+- Right click > New > DWORD (32-bit) Value > name it as `BingSearchEnabled`
+- Double click it and make sure "Value data" is set to 0
+- Open Task Manager > Processes > select Windows Explorer > Right click > Restart

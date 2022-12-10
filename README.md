@@ -23,35 +23,35 @@ Privacy settings for:
 [Android 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11.md) | 11 (R) | Apr 30, 2022
 [Android 12](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md) | 12(S), 12.1(12L) | Apr 30, 2022
 [Apple ID](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Apple-ID.md) | - | Jan 24, 2022
-[Brave Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md) | 1.45.133 | Aug 06, 2022
-[Brave Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md) | 1.45.133 | Nov 29, 2022
+[Brave Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md) | 1.46.140 | Aug 06, 2022
+[Brave Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md) | 1.46.134 | Nov 29, 2022
 [Brave Search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Search.md) | - | Jul 24, 2022
-[Bromite](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Bromite.md) | 107.0.5304.114 | Apr 30, 2022
+[Bromite](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Bromite.md) | 108.0.5359.109 | Apr 30, 2022
 [Discord](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Discord.md) | - | Aug 18, 2021
 [DuckDuckGo Search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/DuckDuckGo-Search.md) | - | Sep 05, 2022
 [Facebook](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Facebook.md) | - | Jan 26, 2022
-[Firefox Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md) | 107.0 | Apr 30, 2022
-[Firefox Focus](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus.md) | 107.1.0 | Nov 29, 2022
-[Firefox Mobile/Fennec](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md) | 107.1.0 | Nov 29, 2022
+[Firefox Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md) | 107.0.1 | Apr 30, 2022
+[Firefox Focus](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus.md) | 107.2.0 | Nov 29, 2022
+[Firefox Mobile/Fennec](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md) | 107.2.0 | Nov 29, 2022
 [Gboard](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Gboard.md) (Google Keyboard) | 12.3.04.475639976 | Dec 09, 2021
 [Gmail](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Gmail.md) | - | Jul 24, 2022
 [Google Account](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md) | - | Jan 26, 2022
-[Google Chrome/Ungoogled Chromium Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md) | 107.0.5304.122 | Nov 29, 2022
-[Google Chrome/Ungoogled Chromium Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md) | 107.0.5304.141 | Jun 04, 2022
+[Google Chrome/Ungoogled Chromium Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md) | 108.0.5359.99 | Nov 29, 2022
+[Google Chrome/Ungoogled Chromium Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md) | 108.0.5359.79 | Jun 04, 2022
 [Instagram](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Instagram.md) | - | Jan 26, 2022
 [LinkedIn](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/LinkedIn.md) | - | Jan 26, 2022
-[Microsoft Edge Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md) | 107.0.1418.62 | Nov 29, 2022
-[Microsoft Edge Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md) | 107.0.1418.43 | Mar 13, 2022
+[Microsoft Edge Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md) | 108.0.1462.46 | Dec 10, 2022
+[Microsoft Edge Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md) | 107.0.1418.62 | Mar 13, 2022
 [Proton Mail](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Proton-Mail.md) | - | Jul 24, 2022
 [Reddit](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Reddit.md) | - | Jan 26, 2022
 [Signal](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Signal.md) | - | Jan 26, 2022
 [Spotify](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Spotify.md) | - | Dec 16, 2021
 [Startpage Search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Startpage-Search.md) | - | Sep 05, 2022
-[Twitter](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Twitter.md) | - | Jan 26, 2022
-[Vivaldi Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md) | 5.5.2805.48 | Nov 29, 2022
-[Vivaldi Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md) | 5.5.2807.41 | Apr 30, 2022
-[Windows 10](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md) | 21H2 (OS Build 19044.1949) | Sep 05, 2022
-[Windows 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md) | 22H2 (OS Build 22621.819) | Nov 29, 2022
+[Twitter](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Twitter.md) | - | Dec 10, 2022
+[Vivaldi Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md) | 5.6.2867.40 | Nov 29, 2022
+[Vivaldi Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md) | 5.5.2807.43 | Apr 30, 2022
+[Windows 10](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md) | 22H2 (OS Build 19045.2311) | Dec 10, 2022
+[Windows 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md) | 22H2 (OS Build 22621.900) | Dec 10, 2022
 [Zoom](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Zoom.md) | - | Jan 28, 2022
 
 

@@ -199,3 +199,13 @@ Win key + r > type services.msc > press enter
   - Service Status: Stopped (Click on Stop, if service is running)
   - Startup Type: Disabled 
   - Click OK
+
+
+
+## Disable trending searches & web search in search bar
+Win key + r > type regedit > press enter > Yes
+
+- Navigate to `Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Search`
+- Right click > New > DWORD (32-bit) Value > name it as `BingSearchEnabled`
+- Double click it and make sure "Value data" is set to 0
+- Open Task Manager > Processes > select Windows Explorer > Right click > Restart

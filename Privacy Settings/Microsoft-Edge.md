@@ -44,8 +44,8 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 #### Search and service improvement
 - Help improve Microsoft products by sending the results from searches on the web: Off
 
-#### Personalize your web experience
-- Improve your web experience by allowing Microsoft to use your browsing history from this acount for personalizing advertising, search, news and other Microsoft services: Off
+#### Personalization and advertising
+- Allow Microsoft to use your browsing activity including history, favorites, usage and other browsing data to personalize Microsoft Edge and Microsoft services like ads, search, shopping and news: Off
 
 
 #### Security
