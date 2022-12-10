@@ -4,6 +4,21 @@ Any notable changes in the settings will be accounted here.
 
 
 
+## Dec 10, 2022
+
+### Twitter
+- Added [Audience and tagging](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Twitter.md#audience-and-tagging), [Direct messages](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Twitter.md#direct-messages) and [Spaces](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Twitter.md#spaces) in [Privacy and safety](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Twitter.md#privacy-and-safety)
+
+### Windows 10
+- Added [Disable ads in file explorer](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#disable-ads-in-file-explorer)
+- Added [Disable search highlights in search bar](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#disable-search-highlights-in-search-bar)
+- Added [Disable trending searches & web search in search bar](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#disable-trending-searches--web-search-in-search-bar)
+
+### Windows 11
+- Added [Disable trending searches & web search in search bar](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#disable-trending-searches--web-search-in-search-bar)
+
+
+
 ## Nov 29, 2022
 
 ### Brave Mobile
