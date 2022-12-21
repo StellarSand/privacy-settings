@@ -35,7 +35,6 @@ NOTE 2: The backup code is required to login, if 2FA method is lost, broken or u
 - If you suspect that someone else has access to your account, you can check your login activity in the authentication logs by enabling this. If you enable advanced logs, it'll capture IP addresses and the date and time of activity. However, this also means your login IP address is kept permanently until you manually wipe the logs.
 
 #### Privacy and data collection
-- Collect usage diagnostics: Off
 - Send crash reports: Off
 
 
@@ -52,7 +51,7 @@ NOTE 2: The backup code is required to login, if 2FA method is lost, broken or u
 
 
 ## Email privacy
-- Ask before loading remote content: On
+- Auto show remote images: On (Make sure to enable the next setting below too)
 - Block email tracking: On
 
 

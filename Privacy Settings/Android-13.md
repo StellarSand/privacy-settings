@@ -1,4 +1,4 @@
-# Android 12 Privacy Settings
+# Android 13 Privacy Settings
 
 Go to Settings
 
@@ -8,9 +8,8 @@ Go to Settings
 
 ## Network & internet
 
-#### Wi-Fi
-- Tap gear icon associated with the Wi-Fi > Advanced > Privacy > Use randomized MAC
-- Wi-Fi preferences > 
+#### Internet
+- Network preferences >
   - Turn on Wi-Fi automatically: Off
   - Notify for public networks: Off
 
@@ -27,7 +26,7 @@ Go to Settings
 - Bluetooth: Off
 - Printing > Default Print Service: Off
 - Nearby Share >
-  - Off
+  - Use Nearby Share: Off
   - Device visibility: Hidden
 - Android Auto: Off
 
@@ -59,7 +58,7 @@ NOTE: Enable the above settings only when required. Remember to turn them off wh
 
 #### Text-to-speech output
 
-Tap on gear icon next to Preferred engine
+Tap on gear icon next to "Preferred engine"
 
 - Anonymous usage reports: Off
 
@@ -76,19 +75,20 @@ After setting screen lock, tap on gear icon.
 - Lock after screen timeout: Immediately
 - Power button instantly locks: On
 
-#### SIM card lock
-- Lock SIM card: On > Enter default PIN > OK
-- Change SIM PIN > Enter old and new SIM PIN > OK (Create a secure new SIM PIN)
+#### More security settings
+- SIM card lock
+  - Lock SIM card: On > Enter default PIN > OK
+  - Change SIM PIN > Enter old and new SIM PIN > OK (Create a secure new SIM PIN)
 
 NOTE 1: The default PIN code is usually 1234 or 0000. However, if these two don't work, you should look on SIM card's packaging or contact your SIM provider's customer support.
 
 NOTE 2: If you enter the PIN code wrong 3 times, you'll be asked to enter a PUK (Personal Unlock Key) code. This code can be obtained from the carrier, after they verify you are the rightful owner of the SIM. DO NOT try to guess the PUK code. If you enter it wrong 3 times, the SIM will be permanently locked and you might have to get a new SIM from your carrier.
 
-#### Encryption & credentials
-- Encrypt phone: Encrypted
+- Encryption & credentials
+  - Encrypt phone: Encrypted
 
-#### Trust agents
-- Smart Lock (Google): Off
+- Trust agents
+  - Smart Lock (Google): Off
 
 
 
@@ -106,8 +106,8 @@ NOTE 2: If you enter the PIN code wrong 3 times, you'll be asked to enter a PUK 
 #### Personalize using app data
 - Off
 
-#### Auto-fill service from Google
-- Use auto-fill with Google: Off
+#### Autofill service from Google
+- Use Autofill with Google: Off
 
 #### Ads
 - Reset advertising ID > OK
@@ -135,14 +135,14 @@ Search in your phone settings for "User Experience Program", "Personalized ad re
 ## System
 
 #### Multiple users
-- Add users from lock screen: Off
+-  Add users from lock screen: Off
 
 
 
 ## Wi-Fi MAC Randomization
 - About phone > tap Build Number 7 times. This will unlock Developer options.
 
-Go to System > Advanced > Developer options > Wi-fi non persistent MAC randomization: On
+Go to System > Developer options > Wi-fi non persistent MAC randomization: On
 
 
 
@@ -152,3 +152,4 @@ Go to System > Advanced > Developer options > Wi-fi non persistent MAC randomiza
 
 
 NOTE: Some other settings are same as [Google Account settings](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md)
+

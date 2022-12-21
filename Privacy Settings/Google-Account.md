@@ -28,25 +28,25 @@ Remove everything
 ### History settings
 
 #### Web & App Activity
-- Off > Pause
-- Manage Activity > Delete any past activity
+- Turn off > Pause
+- Manage all Web & App Activity > Delete any past activity
 
 #### Location History
-- Off > Pause
+- Turn off > Pause
 - Auto Delete > Auto-delete activity older than > 3 months
 
-#### Youtube History
-- Off (Turning it off will not save your future watch and search history. If you want it don't change the setting.)
-- Manage Activity > Delete any past activity
+#### YouTube History
+- Turn off > Pause (Turning it off will not save your future watch and search history. If you want it don't change the setting.)
+- Manage history > Delete any past activity
 
 
-### Ad settings
+### Personalized ads
 
-#### Ad personalization
-- Off > Turn off
+#### My Ad Center
+- Personalized ads > Turn off
 
 
-### Personal results in search
+### Personal results in Search
 - Show personal results: Off
 
 
@@ -71,7 +71,10 @@ NOTE 1: Don't use Google Authenticator as mentioned there. Instead use a privacy
 NOTE 2: The backup codes downloaded in the first step is required to login, if 2FA method is lost, broken or unavailable. Keep these codes somewhere safe, to prevent loss or unauthorised access. They can be stored in a password manager, in an encrypted note, or write them down somewhere safe.
 
 #### Your devices
-- Manage devices > Remove any device you don't use anymore
+- Manage all devices > Remove any device you don't use anymore
+
+#### Enhanced Safe Browsing for your account
+- Enhanced Safe Browsing: Off
 
 
 
@@ -84,7 +87,7 @@ NOTE 2: The backup codes downloaded in the first step is required to login, if 2
 - Business personalization: Off
 
 #### Share recommendations in ads
-- Shared endorsements in ads > Off
+- Shared endorsements in ads > Uncheck "Based upon my activity, Google may show my profile name, profile photo, and activity in shared endorsements in ads"
 
 
 
