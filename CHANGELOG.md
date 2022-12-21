@@ -4,6 +4,18 @@ Any notable changes in the settings will be accounted here.
 
 
 
+## Dec 21, 2022
+- Added [Android 13](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-13.md)
+- Added [YouTube](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/YouTube.md)
+
+### Google Account
+- Added [Enhanced Safe Browsing for your account](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md#enhanced-safe-browsing-for-your-account) in [Security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md#security)
+
+### Microsoft Edge Desktop
+- Added Search on new tabs uses search box or address bar in [Privacy, search, and services](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#privacy-search-and-services) > [Services](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#services) > [Address bar and search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#address-bar-and-search)
+
+
+
 ## Dec 10, 2022
 
 ### Twitter
