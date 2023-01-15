@@ -5,7 +5,7 @@ Click 3 dots on top > Settings
 
 
 ## Account
-- Two-step verification > Turn on > Create a secure PIN (123456 or 098765 is not a secure passcode.)
+- Two-step verification > Turn on > Create a secure PIN (123456 or 098765 is not a secure PIN.)
 
 NOTE: When asked for Email, make sure you provide an email which has adequate security measures like a strong password and 2FA enabled. Alternatively you can skip this, but then if you forget your PIN, you won't be able to re-register your phone number with WhatsApp.
 
