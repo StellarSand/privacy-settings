@@ -4,6 +4,11 @@ Any notable changes in the settings will be accounted here.
 
 
 
+## Jan 15, 2023
+- Added [Telegram](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Telegram.md) and [WhatsApp](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md)
+
+
+
 ## Dec 21, 2022
 - Added [Android 13](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-13.md)
 - Added [YouTube](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/YouTube.md)
