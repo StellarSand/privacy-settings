@@ -5,15 +5,16 @@ Go to Settings
 
 
 ## Appearance
+- Always show full URLs: On
 - Show autocomplete suggestions in address bar >
   - Top sites: Off
   - Suggested sites: Off
-- Always show full URLs: On
 
 
 
 ## Shields
 - Auto-redirect AMP pages: On
+- Auto-redirect tracking URLs: On
 - Prevent sites from fingerprinting me based on my language preferences: On
 - Trackers and ads blocking: Aggressive
 - Upgrade connections to HTTPS: On

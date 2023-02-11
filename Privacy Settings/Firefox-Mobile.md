@@ -16,6 +16,7 @@ Go to Settings.
 
 ## Homepage
 - Sponsored shortcuts: Off
+- Thought-provoking stories: Off (Does not apply to Fennec)
 
 
 
