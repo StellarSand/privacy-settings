@@ -4,6 +4,16 @@ Any notable changes in the settings will be accounted here.
 
 
 
+## Feb 11, 2023
+
+### Brave Desktop
+- Added Auto-redirect tracking URLs in [Shields](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md#shields)
+
+### Firefox Mobile
+- Added Thought-provoking stories in [Homepage](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md#homepage)
+
+
+
 ## Jan 15, 2023
 - Added [Telegram](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Telegram.md) and [WhatsApp](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md)
 
