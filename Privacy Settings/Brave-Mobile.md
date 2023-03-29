@@ -7,6 +7,7 @@ Go to Settings
 ## Brave shields & privacy
 - Block trackers and ads: Block trackers and ads (Aggressive)
 - Auto-redirect AMP pages: On
+- Auto-redirect tracking URLs: On
 - Upgrade connections to HTTPS: On
 - Always use secure connections: On
 - Block Cookies: Block cross-site cookies
@@ -25,7 +26,6 @@ Go to Settings
 - Automatically send daily usage ping to Brave: Off
 - Autocomplete searches and URLs: Off
 - Show top sites in autocomplete: Off
-- Show Brave suggested sites in autocomplete: Off
 
 
 
@@ -40,7 +40,7 @@ Go to Settings
 
 
 
-## Passwords
+## Password Manager
 - Save passwords: Off
 - Auto Sign-in: Off
 

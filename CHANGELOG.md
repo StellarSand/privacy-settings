@@ -4,6 +4,13 @@ Any notable changes in the settings will be accounted here.
 
 
 
+## March 29, 2023
+
+### Brave Mobile
+- Added Auto-redirect tracking URLs in [Brave shields & privacy](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
+
+
+
 ## Feb 11, 2023
 
 ### Brave Desktop
