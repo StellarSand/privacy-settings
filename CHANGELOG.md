@@ -4,6 +4,11 @@ Any notable changes in the settings will be accounted here.
 
 
 
+## May 04, 2023
+- Added [ChatGPT privacy settings](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/ChatGPT.md)
+
+
+
 ## March 29, 2023
 
 ### Brave Mobile
