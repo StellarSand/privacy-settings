@@ -4,6 +4,17 @@ Any notable changes in the settings will be accounted here.
 
 
 
+## May 27, 2023
+
+### Firefox Desktop
+- Added Sponsored shortcuts in [Home](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#home) > [Firefox Home Content](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#firefox-home-content)
+
+### Microsoft Edge Desktop
+ - Added [Microsoft Rewards](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#microsoft-rewards) in [Profiles](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#profiles)
+ - Added [Sidebar](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#sidebar)
+
+
+
 ## May 04, 2023
 - Added [ChatGPT privacy settings](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/ChatGPT.md)
 
