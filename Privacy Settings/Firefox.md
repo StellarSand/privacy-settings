@@ -25,6 +25,7 @@ Click Settings
 ## Home
 
 #### Firefox Home Content
+- Shortcuts > Sponsored shortcuts: Off
 - Recommended by Pocket: Off
 - Snippets: Off
 

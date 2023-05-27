@@ -6,6 +6,9 @@ Go to Settings
 
 ## Profiles
 
+#### Microsoft Rewards
+- Earn Microsoft Rewards in Microsoft Edge: Off
+
 #### Personal info
 - Save and fill basic info: Off
 - Save and fill custom info: Off
@@ -61,7 +64,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
   - Strict
 
 
-### Services
+#### Services
 - Show suggestions to follow creators in Microsoft Edge: Off
 - Get notifications of related things you can explore with Discover: Off
 
@@ -69,6 +72,17 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 - Show me search and site suggestions using my typed characters: Off
 - Search engine used in address bar: DuckDuckGo or add any other privacy respecting search engine from Manage search engines.
 - Search on new tabs uses search box or address bar: Address bar (if "Search box" is selected it will continue searching with Bing as the search engine)
+
+
+
+## Sidebar
+- Personalize my top sites in customize sidebar: Off
+
+#### App and notification settings
+- Bing Chat >
+  - Automatically open Bing Chat in the sidebar: Off
+  - Page Context: Off
+- Search > Automatically open Search: Off
 
 
 

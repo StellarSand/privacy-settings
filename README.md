@@ -17,60 +17,58 @@
 
 Privacy settings for:
 
-| Name | Version (If Applicable) | Last Updated |
-| --- | -- | --- |
-| [Amazon](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Amazon.md) | - | Jan 26, 2022 |
-| [Android 10](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10.md) | 10 (Q) | Apr 30, 2022 |
-| [Android 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11.md) | 11 (R) | Apr 30, 2022 |
-| [Android 12/12.1](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md) | 12(S), 12.1(12L) | Dec 21, 2022 |
-| [Android 13](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-13.md) | 13(T) | Dec 21, 2022 |
-| [Apple ID](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Apple-ID.md) | - | Jan 24, 2022 |
-| [Brave Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md) | 1.51.110 | Feb 11, 2023 |
-| [Brave Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md) | 1.50.121 | Mar 29, 2023 |
-| [Brave Search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Search.md) | - | Jul 24, 2022 |
-| [Bromite](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Bromite.md) | 108.0.5359.156 | Apr 30, 2022 |
-| [ChatGPT](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/ChatGPT.md) | - | May 04, 2023 |
-| [Discord](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Discord.md) | - | Aug 18, 2021 |
-| [DuckDuckGo Search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/DuckDuckGo-Search.md) | - | Sep 05, 2022 |
-| [Facebook](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Facebook.md) | - | Jan 26, 2022 |
-| [Firefox Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md) | 112.0 | Apr 30, 2022 |
-| [Firefox Focus](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus.md) | 112.2.0 | Nov 29, 2022 |
-| [Firefox Mobile/Fennec](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md) | 113.0 | Feb 11, 2023 |
-| [Gboard](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Gboard.md) (Google Keyboard) | 12.9.16.521739039 | Dec 09, 2021 |
-| [Gmail](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Gmail.md) | - | Jul 24, 2022 |
-| [Google Account](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md) | - | Dec 21, 2022 |
-| [Google Chrome/Ungoogled Chromium Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md) | 113.0.5672.64 | Nov 29, 2022 |
-| [Google Chrome/Ungoogled Chromium Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md) | 113.0.5672.76 | Jun 04, 2022 |
-| [Instagram](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Instagram.md) | - | Jan 26, 2022 |
-| [LinkedIn](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/LinkedIn.md) | - | Jan 26, 2022 |
-| [Microsoft Edge Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md) | 112.0.1722.68 | Dec 10, 2022 |
-| [Microsoft Edge Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md) | 112.0.1722.59 | Mar 13, 2022 |
-| [Proton Mail](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Proton-Mail.md) | - | Dec 21, 2022 |
-| [Reddit](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Reddit.md) | - | Jan 26, 2022 |
-| [Signal](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Signal.md) | - | Jan 26, 2022 |
-| [Spotify](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Spotify.md) | - | Dec 16, 2021 |
-| [Startpage Search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Startpage-Search.md) | - | Sep 05, 2022 |
-| [Telegram](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Telegram.md) | - | Jan 15, 2023 |
-| [Twitter](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Twitter.md) | - | Dec 10, 2022 |
-| [Vivaldi Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md) | 6.0.2979.18 | Nov 29, 2022 |
-| [Vivaldi Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md) | 6.0.2980.33 | Apr 30, 2022 |
-| [WhatsApp](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md) | - | Jan 15, 2023
-| [Windows 10](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md) | 22H2 (OS Build 19045.2913) | Dec 10, 2022 |
-| [Windows 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md) | 22H2 (OS Build 22621.1635) | Dec 10, 2022 |
-| [YouTube](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/YouTube.md) | - | Dec 21, 2022 |
-| [Zoom](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Zoom.md) | - | Jan 28, 2022 |
+| Name | Version <br>(If Applicable)</br> |
+| --- | -- |
+| [Amazon](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Amazon.md) | - |
+| [Android 10](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10.md) | 10 (Q) |
+| [Android 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11.md) | 11 (R) |
+| [Android 12/12.1](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md) | 12(S), 12.1(12L) |
+| [Android 13](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-13.md) | 13(T) |
+| [Apple ID](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Apple-ID.md) | - |
+| [Brave Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md) | 1.51.118 |
+| [Brave Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md) | 1.50.121 |
+| [Brave Search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Search.md) | - |
+| [Bromite](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Bromite.md) | 108.0.5359.156 |
+| [ChatGPT](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/ChatGPT.md) | - |
+| [Discord](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Discord.md) | - |
+| [DuckDuckGo Search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/DuckDuckGo-Search.md) | - |
+| [Facebook](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Facebook.md) | - |
+| [Firefox Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md) | 113.0.2 |
+| [Firefox Focus](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus.md) | 112.2.0 |
+| [Firefox Mobile/Fennec](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md) | 113.0 |
+| [Gboard](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Gboard.md) (Google Keyboard) | 12.9.16.521739039 |
+| [Gmail](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Gmail.md) | - |
+| [Google Account](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md) | - |
+| [Google Chrome/Ungoogled Chromium Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md) | 113.0.5672.127 |
+| [Google Chrome/Ungoogled Chromium Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md) | 113.0.5672.76 |
+| [Instagram](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Instagram.md) | - |
+| [LinkedIn](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/LinkedIn.md) | - |
+| [Microsoft Edge Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md) | 113.0.1774.57 |
+| [Microsoft Edge Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md) | 112.0.1722.59 |
+| [Proton Mail](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Proton-Mail.md) | - |
+| [Reddit](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Reddit.md) | - |
+| [Signal](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Signal.md) | - |
+| [Spotify](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Spotify.md) | - |
+| [Startpage Search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Startpage-Search.md) | - |
+| [Telegram](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Telegram.md) | - |
+| [Twitter](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Twitter.md) | - |
+| [Vivaldi Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md) | 6.0.2979.22 |
+| [Vivaldi Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md) | 6.0.2980.33 |
+| [WhatsApp](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md) | - |
+| [Windows 10](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md) | 22H2 (OS Build 19045.3031) |
+| [Windows 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md) | 22H2 (OS Build 22621.1778) |
+| [YouTube](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/YouTube.md) | - |
+| [Zoom](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Zoom.md) | - |
 
 
 
 ## Recommended Extensions
-- Decentraleyes: [Google Chrome/Chromium based browsers](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/decentraleyes/lmijmgnfconjockjeepmlmkkibfgjmla), Not required for Firefox
 - uBlock Origin: [Google Chrome/Chromium based browsers](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)
 
 NOTE: Above extensions are also available for Firefox Mobile and Fennec in the Add-ons.
 
 ### Extension Settings
 Setting up the above mentioned extensions:
-- [Decentraleyes](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Extensions%20Settings/Decentraleyes-Settings.md)
 - [uBlock Origin](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Extensions%20Settings/uBlock-Origin-Settings.md)
 
 
@@ -82,39 +80,38 @@ Any notable changes will be accounted in the [changelog](https://github.com/the-
 
 ## FAQs
 
-#### Would following the settings mentioned here make me completely private?
-If you are on the internet, you're never really private or secure. By following these settings, the amount of data collection and tracking performed by these services/softwares are significantly minimized but not completely eliminated. You should look for better privacy respecting alternatives and use them whenever possible.
+#### Will following the settings mentioned here ensure complete privacy?
+While following these settings can significantly minimize data collection and tracking by the mentioned services/software, it is important to note that absolute privacy and security on the internet are difficult to achieve. Even with these settings, there may still be some level of data collection or tracking. It is advisable to explore and utilize privacy-respecting alternatives whenever possible for enhanced privacy.
 
-#### Why are privacy invading services like Facebook, Zoom, Google etc. mentioned here? Isn't this supposed to be a privacy focused repo?
-I’m all for privacy respecting services and I do recommend them, however, you might need to use Zoom for work meetings, a social media platform for business, Windows for some specific program/purpose or something similar. The only goal here is to minimize data collection and boost your digital privacy as much as possible even when using a privacy invading service/software. Do note that this does not mean you should keep using such services/softwares if you don't need them and I highly encourage you to look for better privacy respecting alternatives if available.
+#### Why are privacy invading services like Facebook, Zoom, Google etc. mentioned here? Isn't this repo focused on privacy?
+While the aim of this repo is to promote privacy, there may be instances where the use of privacy-invading services/software is necessary. For example, using Zoom for work meetings or a social media platform for business purposes. The goal here is to minimize data collection and enhance digital privacy as much as possible, even when using privacy-invading services/software. However, it is highly encouraged to explore and adopt better privacy-respecting alternatives whenever available and suitable for your needs.
 
 #### The settings for a particular software/service was updated months ago, when will it be updated according to latest version?
-Settings don't change much with every new version of any software or service. If there aren't any changes necessary, it won't be updated. This is the reason versions are included along with last updated date above. If latest version is mentioned, then the settings already apply to that even if it was last updated months ago.
+Settings for software or services may not require frequent updates with each new version. If there have been no significant changes that affect the settings, it will not be updated. If the latest version is mentioned, the settings provided already apply to that version, even if they were last updated months ago.
 
 
 
 ## Privacy Best Practices
 The TL;DR version of best practices for digital privacy:
-- Use strong passwords (preferably at least 10 characters containing alphabets, numbers and special characters).
-- Don't reuse passwords.
-- Use a password manager to generate and store strong, unique passwords.
-- Follow the privacy settings mentioned here.
-- Use better privacy respecting alternatives for search engines, emails, browsers etc.
-- Use multifactor authentication.
-- Keep apps and operating system updated.
+- Create strong passwords (preferably 10+ characters with a mix of letters, numbers, and special characters).
+- Avoid reusing passwords.
+- Utilize a password manager to generate and securely store unique passwords.
+- Follow the privacy settings recommended here.
+- Opt for privacy respecting alternatives for search engines, emails, browsers etc.
+- Enable multifactor authentication for added security.
+- Keep your apps and operating system updated.
 - Use open-source softwares and apps whenever possible (NOTE: open-source doesn't always necessarily mean secure).
-- Review permissions for softwares and apps and revoke unnecessary permissions.
-- Only provide information as much as necessary.
-- Provide false information when possible (Never knowingly give false information on a legal document, to a law enforcement officer, federal agency, medical personnel, banks etc).
-- Use E2EE (End-to-End Encrypted) messaging services.
-- Keep devices encrypted.
-- Make regular backups.
-- Spread the good information and make people aware around you.
+- Regularly review and revoke unnecessary permissions for software and apps.
+- Share information sparingly & only provide what is necessary.
+- Consider using false information when appropriate (Never knowingly provide false information to legal entities, law enforcement, medical professionals, banks, etc.).
+- Utilize End-to-End Encrypted (E2EE) messaging services.
+- Encrypt your devices for enhanced security.
+- Perform regular backups of your data.
+- Educate others and raise awareness about digital privacy. Spread the word!
 
 
 
 ## Additional Resources
-
 For better privacy respecting alternatives, unbiased reviews and more information, check out:
 
 #### Recommendations, alternatives & reviews
@@ -154,7 +151,7 @@ For better privacy respecting alternatives, unbiased reviews and more informatio
 ## Contributing
 If you want to help out with the project, here are some ideas:
 
-- iOS/macOS privacy settings: I don't have an iOS/macOS device to guide privacy settings for. I would highly appreciate any help with this.
+- iOS/macOS privacy settings.
 - Clean up/improve the Markdown.
 - Suggest new services/softwares or help improve the existing ones.
 - Translate it to your own language.
@@ -165,4 +162,4 @@ Pull requests can be submitted [here](https://github.com/the-weird-aquarian/priv
 
 
 ## License
-This project is licensed under the terms of [MIT License](https://github.com/the-weird-aquarian/privacy-settings/blob/main/LICENSE)
+This project is licensed under the terms of [MIT License](https://github.com/the-weird-aquarian/privacy-settings/blob/main/LICENSE).
