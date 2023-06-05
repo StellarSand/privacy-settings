@@ -60,8 +60,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 #### Privacy Sandbox
 **This section does not apply to Ungoogled Chromium**
-- Privacy Sandbox trials: Off
-- FLoC: Off
+- Trials: Off
 
 
 
