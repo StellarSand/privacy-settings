@@ -13,13 +13,6 @@ Go to Settings.
 - Recommend extensions as you browse: Off
 - Recommend features as you browse: Off
 
-#### Network Settings
-Click Settings
-- Enable DNS over HTTPS: On
-- Use Provider: NextDNS/Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
-  
-  Example: For Quad9, enter https://dns.quad9.net/dns-query
-
 
 
 ## Home
@@ -60,9 +53,17 @@ NOTE: Never save passwords in browsers. Use a password manager instead. Check ou
 
 #### Security
 - Turn on everything
+- Certificates >
+  - Query OCSP responder servers to confirm the current validity of certificates: On
 
 #### HTTPS-Only Mode
 - Enable HTTPS-Only Mode in all windows
+
+#### DNS over HTTPS
+- Enable secure DNS using: Max Protection >
+  - Choose provider: NextDNS/Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/).
+  
+    Example: For Quad9, enter https://dns.quad9.net/dns-query
 
 ---
 ---

@@ -67,6 +67,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 #### Services
 - Show suggestions to follow creators in Microsoft Edge: Off
 - Get notifications of related things you can explore with Discover: Off
+- Enhance images in Microsoft Edge: Off
 
 #### Address bar and search
 - Show me search and site suggestions using my typed characters: Off
