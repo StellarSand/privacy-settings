@@ -4,6 +4,17 @@ Any notable changes in the settings will be accounted here.
 
 
 
+## June 21, 2023
+
+### Firefox Desktop
+- Added Certificates in [Privacy & Security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#privacy--security) > [Security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#security)
+- Moved [DNS over HTTPS](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#dns-over-https) from [General](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#general) to [Privacy & Security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#privacy--security)
+
+### Microsoft Edge Desktop
+- Added Enhance images in Microsoft Edge in [Privacy, search, and services](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#privacy-search-and-services) > [Services](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#services)
+
+
+
 ## May 27, 2023
 
 ### Firefox Desktop
