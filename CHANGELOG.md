@@ -4,21 +4,31 @@ Any notable changes in the settings will be accounted here.
 
 
 
+## July 25, 2023
+
+## Brave Mobile
+- Some changes to `Upgrade connections to HTTPS` in [Brave shields & privacy](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
+- Added `Safe Browsing` in [Brave shields & privacy](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
+- Added `Improve search suggestions` in [Brave shields & privacy](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
+- Added `Show download progress notifications` in [Downloads](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#downloads)
+
+
+
 ## June 21, 2023
 
 ### Firefox Desktop
-- Added Certificates in [Privacy & Security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#privacy--security) > [Security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#security)
+- Added `Certificates` in [Privacy & Security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#privacy--security) > [Security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#security)
 - Moved [DNS over HTTPS](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#dns-over-https) from [General](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#general) to [Privacy & Security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#privacy--security)
 
 ### Microsoft Edge Desktop
-- Added Enhance images in Microsoft Edge in [Privacy, search, and services](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#privacy-search-and-services) > [Services](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#services)
+- Added `Enhance images in Microsoft Edge` in [Privacy, search, and services](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#privacy-search-and-services) > [Services](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#services)
 
 
 
 ## May 27, 2023
 
 ### Firefox Desktop
-- Added Sponsored shortcuts in [Home](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#home) > [Firefox Home Content](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#firefox-home-content)
+- Added `Sponsored shortcuts` in [Home](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#home) > [Firefox Home Content](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#firefox-home-content)
 
 ### Microsoft Edge Desktop
  - Added [Microsoft Rewards](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#microsoft-rewards) in [Profiles](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#profiles)
@@ -34,17 +44,17 @@ Any notable changes in the settings will be accounted here.
 ## March 29, 2023
 
 ### Brave Mobile
-- Added Auto-redirect tracking URLs in [Brave shields & privacy](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
+- Added `Auto-redirect tracking URLs` in [Brave shields & privacy](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
 
 
 
 ## Feb 11, 2023
 
 ### Brave Desktop
-- Added Auto-redirect tracking URLs in [Shields](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md#shields)
+- Added `Auto-redirect tracking URLs` in [Shields](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md#shields)
 
 ### Firefox Mobile
-- Added Thought-provoking stories in [Homepage](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md#homepage)
+- Added `Thought-provoking stories` in [Homepage](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md#homepage)
 
 
 
@@ -61,7 +71,7 @@ Any notable changes in the settings will be accounted here.
 - Added [Enhanced Safe Browsing for your account](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md#enhanced-safe-browsing-for-your-account) in [Security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md#security)
 
 ### Microsoft Edge Desktop
-- Added Search on new tabs uses search box or address bar in [Privacy, search, and services](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#privacy-search-and-services) > [Services](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#services) > [Address bar and search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#address-bar-and-search)
+- Added `Search on new tabs uses search box or address bar` in [Privacy, search, and services](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#privacy-search-and-services) > [Services](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#services) > [Address bar and search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#address-bar-and-search)
 
 
 
@@ -83,18 +93,18 @@ Any notable changes in the settings will be accounted here.
 ## Nov 29, 2022
 
 ### Brave Mobile
-- Added Prevent fingerprinting via language settings in [Brave shields & privacy](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
+- Added `Prevent fingerprinting via language settings` in [Brave shields & privacy](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
 
 ### Firefox Mobile
 - Added [Autofill](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md#autofill)
 
 ### Microsoft Edge Desktop
-- Added Autofill passwords in [Profiles](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#profiles) > [Passwords](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#passwords)
-- Added Show suggestions and Get notifications in [Privacy, search, and services](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#privacy-search-and-services) > [Services](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#services)
+- Added `Autofill passwords` in [Profiles](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#profiles) > [Passwords](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#passwords)
+- Added `Show suggestions` and `Get notifications` in [Privacy, search, and services](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#privacy-search-and-services) > [Services](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#services)
 - Added [Share additional OS regional format](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#share-additional-os-regional-format) in [Languages](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#languages)
 
 ### Vivaldi Desktop
-- Added Always Use Secure Connection (HTTPS) in [Address Bar](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md#address-bar) > [Security Features](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md#security-features)
+- Added `Always Use Secure Connection (HTTPS)` in [Address Bar](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md#address-bar) > [Security Features](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md#security-features)
 - Added [Autofill](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md#autofill) in [Privacy and Security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md#privacy-and-security)
 
 ### Windows 11
@@ -129,7 +139,7 @@ Any notable changes in the settings will be accounted here.
 - Minor changes in [Appearance](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md#appearance)
 
 ### Microsoft Edge Desktop
-- Added Automatically save passwords in [Passwords](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#passwords)
+- Added `Automatically save passwords` in [Passwords](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#passwords)
 
 ### Windows 10
 - Added [Remote Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#remote-desktop) in [System](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#system)
@@ -138,9 +148,9 @@ Any notable changes in the settings will be accounted here.
 ### Windows 11
 - Added [Remote Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#remote-desktop) in [System](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#system)
 - Added [AutoPlay](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#autoplay) in [Bluetooth & devices](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#bluetooth--devices)
-- Added DNS over HTTPS (DoH) in [Network & internet](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#network--internet)
+- Added `DNS over HTTPS (DoH)` in [Network & internet](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#network--internet)
 - Added [Device usage](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#device-usage) in [Personalization](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#personalization)
-- Added More settings in [Search permissions](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#search-permissions)
+- Added `More settings` in [Search permissions](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#search-permissions)
 
 
 
@@ -155,13 +165,13 @@ Added
 ## Jun 04, 2022:
 
 ### Brave Desktop
-- Added Prevent sites from fingerprinting me based on my language preferences in [Shields](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md#shields)
+- Added `Prevent sites from fingerprinting me based on my language preferences` in [Shields](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md#shields)
 
 ### Google Chrome Desktop
-- Changed Enhanced Protection to Standard Protection in [Security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md#security)
+- Changed `Enhanced Protection` to `Standard Protection` in [Security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md#security)
 
 ### Google Chrome Mobile
-- Changed Safe Browsing to Standard Protection in [Privacy and security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md#privacy-and-security)
+- Changed `Safe Browsing` to `Standard Protection` in [Privacy and security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md#privacy-and-security)
 
 ### Microsoft Edge Desktop
 - Added [Share browsing data with other Windows features](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#share-browsing-data-with-other-windows-features)
@@ -179,36 +189,36 @@ Added
 - Updated URL of [DNS providers list](https://www.privacyguides.org/dns) and added encrypted DNS examples for non-technical users in [Android 10](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#advanced), [Android 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11.md#advanced), [Android 12](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md#private-dns), [Brave Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md#security), [Brave Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy), [Bromite](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Bromite.md#privacy-and-security), [Firefox Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#network-settings), [Google Chrome Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md#security), [Google Chrome Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md#privacy-and-security), [Microsoft Edge Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#security), [Vivaldi Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#privacy-and-security), [Windows 10](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#encrypted-dns) and [Windows 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#encrypted-dns)
 
 ### Brave Desktop
-- Added Auto-redirect AMP pages in [Shields](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md#shields)
+- Added `Auto-redirect AMP pages` in [Shields](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md#shields)
 
 ### Brave mobile
-- Added Auto-redirect AMP pages in [Brave shields & privacy](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
+- Added `Auto-redirect AMP pages` in [Brave shields & privacy](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
 
 ### Microsoft Edge Desktop
-- Added Typosquatting Checker in [Security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#security)
+- Added `Typosquatting Checker` in [Security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#security)
 
 ### Vivaldi Mobile
-- Added Touch to Search in [Privacy and security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#privacy-and-security)
+- Added `Touch to Search` in [Privacy and security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#privacy-and-security)
 
 
 
 ## Mar 13, 2022
 
 ### Brave Desktop
-- Added Show autocomplete in address bar in [Appearance](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md#appearance)
+- Added `Show autocomplete in address bar` in [Appearance](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md#appearance)
 - Added Automatically send diagnostic reports in [Security and Privacy](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md#security-and-privacy)
 
 ### Brave Mobile
 - Added [Brave News](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-news)
 
 ### Bromite
-- Moved Disable JIT from [Privacy and security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Bromite.md#privacy-and-security) to [Site settings](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Bromite.md#site-settings)
+- Moved `Disable JIT` from [Privacy and security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Bromite.md#privacy-and-security) to [Site settings](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Bromite.md#site-settings)
 
 ### Firefox Mobile
 - Added [Site permissions](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md#site-permissions)
 
 ### Google Chrome Mobile
-- Added Touch to Search in [Google services](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md#google-services)
+- Added `Touch to Search` in [Google services](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md#google-services)
 
 ### Microsoft Edge Mobile
 - Added [New tab page](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#new-tab-page) and some other home page settings.
@@ -220,7 +230,7 @@ Added
 - Added [Startpage Search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Startpage-Search.md)
 
 ### Bromite
-- Added Disable JIT in [Privacy and security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Bromite.md#privacy-and-security)
+- Added `Disable JIT` in [Privacy and security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Bromite.md#privacy-and-security)
 
 
 
@@ -230,7 +240,7 @@ Added
 - Fixed typos and other mistakes.
 
 ### Firefox Focus
-- Added HTTPS-only mode in [Security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus.md#security)
+- Added `HTTPS-only mode` in [Security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus.md#security)
 
 ### Google Chrome Mobile
 - Some very minor changes in [Privacy and security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md#privacy-and-security)
@@ -296,33 +306,33 @@ Added
 ## Jan 10, 2022
 
 ### Android 10
-- Added Wi-Fi preferences in [Network & internet](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#network--internet) > [Wi-Fi](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#wi-fi)
-- Added Nearby Share > Device visibility in [Connected devices](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#connected-devices) > [Connection preferences](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#connection-preferences)
+- Added `Wi-Fi preferences` in [Network & internet](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#network--internet) > [Wi-Fi](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#wi-fi)
+- Added `Nearby Share` > `Device visibility` in [Connected devices](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#connected-devices) > [Connection preferences](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#connection-preferences)
 - Added [SIM card lock](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#sim-card-lock) in [Security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#security)
 - Added [System](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#system)
 
 ### Android 11
-- Added Wi-Fi preferences in [Network & internet](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11.md#network--internet) > [Wi-Fi](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11.md#wi-fi)
-- Added Nearby Share > Device visibility in [Connected devices](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11.md#connected-devices) > [Connection preferences](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11.md#connection-preferences)
+- Added `Wi-Fi preferences` in [Network & internet](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11.md#network--internet) > [Wi-Fi](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11.md#wi-fi)
+- Added `Nearby Share` > `Device visibility` in [Connected devices](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11.md#connected-devices) > [Connection preferences](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11.md#connection-preferences)
 - Added [SIM card lock](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11-Privacy-Settings.md#sim-card-lock) in [Security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11.md#security)
 - Added [System](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11.md#system)
 
 ### Android 12
-- Added Wi-Fi preferences in [Network & internet](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md#network--internet) > [Wi-Fi](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md#wi-fi) 
-- Added Nearby Share > Device visibility in [Connected devices](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md#connected-devices) > [Connection preferences](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md#connection-preferences)
+- Added `Wi-Fi preferences` in [Network & internet](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md#network--internet) > [Wi-Fi](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md#wi-fi) 
+- Added `Nearby Share` > `Device visibility` in [Connected devices](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md#connected-devices) > [Connection preferences](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md#connection-preferences)
 - Added [SIM card lock](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md#sim-card-lock) in [Security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md#security)
 - Added [System](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md#system)
 
 ### Windows 10
 - Added [Lock screen](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#lock-screen) in [Personalization](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#personalization)
 - Added [Search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#search)
-- Added Delete diagnostic data in [Privacy](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#privacy) > [Diagnostics & feedback](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#diagnostics--feedback)
+- Added `Delete diagnostic data` in [Privacy](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#privacy) > [Diagnostics & feedback](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#diagnostics--feedback)
 - Added [Delivery Optimization](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#delivery-optimization) in [Update & security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#update--security)
 
 ### Windows 11
 - Added [Personalization](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#personalization)
 - Added [Inking & typing personalization](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#inking--typing-personalization) in [Privacy & security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#privacy--security)
-- Added Delete diagnostic data in  [Privacy & security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#privacy--security) > [Diagnostics & feedback](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#diagnostics--feedback)
+- Added `Delete diagnostic data` in  [Privacy & security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#privacy--security) > [Diagnostics & feedback](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#diagnostics--feedback)
 - Added [Search permissions](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#search-permissions) in [Privacy & security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#privacy--security)
 - Added [Windows Update](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#windows-update)
 
