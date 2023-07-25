@@ -8,23 +8,23 @@ Go to Settings
 - Block trackers and ads: Block trackers and ads (Aggressive)
 - Auto-redirect AMP pages: On
 - Auto-redirect tracking URLs: On
-- Upgrade connections to HTTPS: On
-- Always use secure connections: On
+- Upgrade connections to HTTPS: Require all connections to use HTTPS (strict)
 - Block Cookies: Block cross-site cookies
 - Block Fingerprinting: Fingerprinting blocked (strict) (If you face any issues with sites, change it back to standard)
 - Prevent fingerprinting via language settings: On
+- Safe Browsing: Standard protection
 - Allow sites to check if you have payment methods saved: Off
 - Use secure DNS >
   - On
-  - Choose another provider > Quad9/NextDNS/Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
+  - Choose another provider > NextDNS/Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
     
-    Example: For MullvadDNS, enter https://adblock.doh.mullvad.net/dns-query
+    Example: For Quad9, enter https://dns.quad9.net/dns-query
 
 - "Do Not Track": On
 - Allow privacy-preserving product analytics (P3A): Off
 - Automatically send diagnostic reports: Off
 - Automatically send daily usage ping to Brave: Off
-- Autocomplete searches and URLs: Off
+- Improve search suggestions: Off
 - Show top sites in autocomplete: Off
 
 
@@ -35,8 +35,8 @@ Go to Settings
 
 
 ## Search engines
-- Standard Tab: DuckDuckGo or any other privacy respecting search engine like Startpage etc.
-- Private Tab: DuckDuckGo or any other privacy respecting search engine like Startpage etc.
+- Standard Tab: DuckDuckGo or any other privacy respecting search engine like Brave/Startpage etc.
+- Private Tab: DuckDuckGo or any other privacy respecting search engine like Brave/Startpage etc.
 
 
 
@@ -61,6 +61,7 @@ NOTE: Never save passwords in browsers. Use a password manager instead. Check ou
 ## Downloads
 - Ask where to save files: On
 - Automatically open when possible: Off
+- Show download progress notifications: On
 
 
 

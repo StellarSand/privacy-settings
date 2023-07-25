@@ -17,7 +17,7 @@
 
 Privacy settings for:
 
-| Name | Version <br>(If Applicable)</br> |
+| Name | Version <br>(If Applicable) |
 | --- | -- |
 | [Amazon](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Amazon.md) | - |
 | [Android 10](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-10.md) | 10 (Q) |
@@ -25,8 +25,8 @@ Privacy settings for:
 | [Android 12/12.1](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md) | 12 (S), 12.1 (12L) |
 | [Android 13](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-13.md) | 13 (T) |
 | [Apple ID](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Apple-ID.md) | - |
-| [Brave Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md) | 1.52.126 |
-| [Brave Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md) | 1.52.126 |
+| [Brave Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md) | 1.56.11 |
+| [Brave Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md) | 1.52.130 |
 | [Brave Search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Search.md) | - |
 | [Bromite](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Bromite.md) | 108.0.5359.156 |
 | [ChatGPT](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/ChatGPT.md) | - |
@@ -34,17 +34,17 @@ Privacy settings for:
 | [DuckDuckGo Search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/DuckDuckGo-Search.md) | - |
 | [Facebook](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Facebook.md) | - |
 | [Firefox Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md) | 114.0.2 |
-| [Firefox Focus](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus.md) | 114.1.1 |
-| [Firefox Mobile/Fennec](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md) | 114.1.1 |
-| [Gboard](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Gboard.md) (Google Keyboard) | 12.9.16.521739039 |
+| [Firefox Focus](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus.md) | 115.2.1 |
+| [Firefox Mobile/Fennec](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md) | 115.2.1 |
+| [Gboard](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Gboard.md) (Google Keyboard) | 13.1.07.536370540 |
 | [Gmail](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Gmail.md) | - |
 | [Google Account](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md) | - |
-| [Google Chrome/Ungoogled Chromium Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md) | 114.0.5735.134 |
-| [Google Chrome/Ungoogled Chromium Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md) | 114.0.5735.131 |
+| [Google Chrome/Ungoogled Chromium Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md) | 115.0.5790.102 |
+| [Google Chrome/Ungoogled Chromium Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md) | 114.0.5735.226 |
 | [Instagram](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Instagram.md) | - |
 | [LinkedIn](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/LinkedIn.md) | - |
-| [Microsoft Edge Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md) | 114.0.1823.51 |
-| [Microsoft Edge Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md) | 114.0.1823.43 |
+| [Microsoft Edge Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md) | 115.0.1901.183 |
+| [Microsoft Edge Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md) | 114.0.1823.74 |
 | [Proton Mail](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Proton-Mail.md) | - |
 | [Reddit](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Reddit.md) | - |
 | [Signal](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Signal.md) | - |
@@ -52,11 +52,11 @@ Privacy settings for:
 | [Startpage Search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Startpage-Search.md) | - |
 | [Telegram](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Telegram.md) | - |
 | [Twitter](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Twitter.md) | - |
-| [Vivaldi Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md) | 6.1.3035.100 |
-| [Vivaldi Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md) | 6.1.3035.86 |
+| [Vivaldi Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md) | 6.1.3035.204 |
+| [Vivaldi Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md) | 6.1.3035.110 |
 | [WhatsApp](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md) | - |
-| [Windows 10](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md) | 22H2 (OS Build 19045.3086) |
-| [Windows 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md) | 22H2 (OS Build 22621.1848) |
+| [Windows 10](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md) | 22H2 (OS Build 19045.3208) |
+| [Windows 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md) | 22H2 (OS Build 22621.1992) |
 | [YouTube](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/YouTube.md) | - |
 | [Zoom](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Zoom.md) | - |
 
@@ -87,7 +87,7 @@ While following these settings can significantly minimize data collection and tr
 While the aim of this repo is to promote privacy, there may be instances where the use of privacy-invading services/software is necessary. For example, using Zoom for work meetings or a social media platform for business purposes. The goal here is to minimize data collection and enhance digital privacy as much as possible, even when using privacy-invading services/software. However, it is highly encouraged to explore and adopt better privacy-respecting alternatives whenever available and suitable for your needs.
 
 #### The settings for a particular software/service was updated months ago, when will it be updated according to latest version?
-Settings for software or services may not require frequent updates with each new version. If there have been no significant changes that affect the settings, it will not be updated. If the latest version is mentioned, the settings provided already apply to that version, even if they were last updated months ago.
+Settings for softwares/services may not require frequent updates with each new version. If there have been no significant changes that affect the settings, it will not be updated. If the latest version is mentioned, the settings provided already apply to that version, even if they were last updated months ago.
 
 
 

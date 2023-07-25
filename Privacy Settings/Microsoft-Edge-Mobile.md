@@ -54,9 +54,6 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 
 
-## New tab page
-- Show image of the day title: Off
-
 ---
 ---
 
