@@ -4,6 +4,11 @@ Any notable changes in the settings will be accounted here.
 
 
 
+## July 28, 2023
+- Added [Google Search settings](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Search.md)
+
+
+
 ## July 25, 2023
 
 ## Brave Mobile
