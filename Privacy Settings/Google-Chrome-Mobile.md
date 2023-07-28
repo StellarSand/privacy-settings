@@ -57,10 +57,8 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
     Example: For MullvadDNS, enter https://adblock.doh.mullvad.net/dns-query
 
 - "Do Not Track": On
-
-#### Privacy Sandbox
-**This section does not apply to Ungoogled Chromium**
-- Trials: Off
+- Privacy Sandbox (Does not apply to Ungoogled Chromium) >
+  - Trials: Off
 
 
 
