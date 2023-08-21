@@ -15,13 +15,13 @@ Go to Settings
 
 #### Passwords
 - Offer to save passwords: Off
-- Automatically save passwords: Off
 - Autofill passwords: Off
 
 NOTE: Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/the-weird-aquarian/privacy-settings#recommendations-alternatives--reviews).
 
 #### Payment info
 - Save and fill payment info: Off
+- Show Express checkout on sites when you shop: Off
 - Cards you've saved on this device: Remove any payment info if added
 
 NOTE: Never save payment info in browsers. A password manager can be used to also save payment information.
@@ -42,7 +42,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 - Allow sites to check if you have payment methods saved: Off
 
 #### Optional diagnostic data
-- Help improve Microsoft products by sending optional diagnostic ata about how you use the browser, webstes you visit, and crash reports: Off
+- Help improve Microsoft products by sending optional diagnostic ata about how you use the browser, websites you visit, and crash reports: Off
 
 #### Search and service improvement
 - Help improve Microsoft products by sending the results from searches on the web: Off
@@ -67,6 +67,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 #### Services
 - Show suggestions to follow creators in Microsoft Edge: Off
 - Get notifications of related things you can explore with Discover: Off
+- Include related matches in Find on Page: Off
 - Enhance images in Microsoft Edge: Off
 
 #### Address bar and search

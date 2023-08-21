@@ -8,7 +8,6 @@ Go to Settings
 - Always show full URLs: On
 - Show autocomplete suggestions in address bar >
   - Top sites: Off
-  - Suggested sites: Off
 
 
 
@@ -17,14 +16,13 @@ Go to Settings
 - Auto-redirect tracking URLs: On
 - Prevent sites from fingerprinting me based on my language preferences: On
 - Trackers and ads blocking: Aggressive
-- Upgrade connections to HTTPS: On
+- Upgrade connections to HTTPS: Strict
 - Block fingerprinting: Strict (If you face any issues with sites, change it back to standard)
 - Block cookies: Only cross-site
 
 
 
 ## Privacy and security
-- Autocomplete searches and URLs: Off
 - Use Google services for push messaging: Off
 - Allow privacy-preserving product analytics (P3A): Off
 - Automatically send daily usage ping to Brave: Off
@@ -36,7 +34,6 @@ Go to Settings
 
 #### Security
 - Standard protection
-- Always use secure connections: On
 - Use secure DNS >
   - On
   - With > Cloudflare/NextDNS or select Custom and provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
@@ -46,8 +43,11 @@ Go to Settings
 
 
 ## Search engine
-- Search engine used in address bar: DuckDuckGo or any other 
+- Normal window: DuckDuckGo or any other 
 privacy respecting search engine from Manage search engines.
+- Private window: DuckDuckGo or any other 
+privacy respecting search engine from Manage search engines.
+- Improve search suggestions: Off
 - Web Discovery Project: Off
 
 

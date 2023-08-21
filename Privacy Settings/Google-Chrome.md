@@ -10,18 +10,19 @@ Go to Settings.
 
 #### Sync and Google services
 - Allow Chrome/Chromium sign-in: Off
-- Autocomplete searches and URLs: Off
 - Help improve Chrome's features and performance: Off (Does not apply to Ungoogled Chromium)
 - Make searches and browsing better: Off
 - Enhanced spell check: Off (Does not apply to Ungoogled Chromium)
+- Improve search suggestions: Off
 
 
 
 ## Autofill
 
-#### Password Manager
-- Offer to save passwords: Off
-- Auto Sign-in: Off
+#### Google Password Manager
+- Settings >
+  - Offer to save passwords: Off
+  - Sign-in automatically: Off
 
 NOTE: Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/the-weird-aquarian/privacy-settings#recommendations-alternatives--reviews).
 
@@ -41,7 +42,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 #### Cookies and other site data
 - Block third-party cookies
 - Send a "Do Not Track" request with your browsing traffic: On
-- Preload pages for faster browsing and searching: Off
+- Preload pages > No preloading
 
 #### Security
 - Standard Protection
@@ -55,7 +56,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 #### Site Settings
 - Additional permissions > Your device use > Don't allow sites to know when you're actively using your device
-- Additional content settings > Ads > Block ads on sites that show intrusive or misleading ads
+- Additional content settings > Intrusive ads > Ads are blocked on sites known to show intrusive or misleading ads
 
 #### Privacy Sandbox
 **This section does not apply to Ungoogled Chromium**

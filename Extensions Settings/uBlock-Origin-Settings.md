@@ -10,34 +10,18 @@ Click on the extension on toolbar, click gear icon at the bottom right
 - Make use of context menu where appropriate: On
 
 #### Privacy
-- Turn everything on
+- Enable everything
 
 
 
 ## Filter lists
 - Auto-update filter lists: On
+- Suspend network activity until all filter lists are loaded: On
 - Parse and enforce cosmetic filters: On
+- Enable everything for `Built-in`, `Ads`, `Privacy`, `Malware protection, security`, `Multipurpose` & `Annoyances`
 
-#### Built-in
-- Turn on all 6
-
-#### Ads
-- Turn on all 3
-
-#### Privacy
-- Turn on all 4
-
-#### Malware domains
-- Turn on all 3
-
-#### Annoyances
-- Turn on all 7
-
-#### Multipurpose
-- Turn on all 2
-
-#### Custom
-Select import and paste the following URL in the field given below
+#### Import
+Paste the following URL in the field given below
 
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
 
