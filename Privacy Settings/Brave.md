@@ -5,6 +5,7 @@ Go to Settings
 
 
 ## Appearance
+- Show Brave News button in address bar: Off
 - Always show full URLs: On
 - Show autocomplete suggestions in address bar >
   - Top sites: Off
@@ -19,6 +20,13 @@ Go to Settings
 - Upgrade connections to HTTPS: Strict
 - Block fingerprinting: Strict (If you face any issues with sites, change it back to standard)
 - Block cookies: Only cross-site
+
+
+
+## Brave Rewards
+- Show Brave Rewards icon in address bar: Off
+- Show Tip button on sites: Off
+- Open full Brave Rewards settings > Brave Private Ads: Off
 
 
 
@@ -40,19 +48,38 @@ Go to Settings
 
     Example: For Quad9, enter https://dns.quad9.net/dns-query
 
+#### Site and Shields Settings
+- Additional permissions >
+  - Ethereum: Block sites from accessing the Ethereum provider API
+  - Solana: Block sites from accessing the Solana provider API
+
 
 
 ## Search engine
-- Normal window: DuckDuckGo or any other 
-privacy respecting search engine from Manage search engines.
-- Private window: DuckDuckGo or any other 
-privacy respecting search engine from Manage search engines.
+- Normal window: DuckDuckGo/Brave/Startpage or any other 
+privacy respecting search engine from `Manage search engines and site search`.
+- Private window: DuckDuckGo/Brave/Startpage or any other 
+privacy respecting search engine from `Manage search engines and site search`.
 - Improve search suggestions: Off
 - Web Discovery Project: Off
 
 
 
-## Autofill
+## Web3
+
+#### Wallet
+- Show Brave Wallet icon on toolbar: Off
+- Enable NFT discovery
+- Automatically pin NFTs: Off
+
+#### Web3 Domains
+- Resolve Unstoppable Domains domain names: Disabled
+- Resolve Ethereum Name Service (ENS) domain names: Disabled
+- Resolve Solana Name Service (SNS) domain names: Disabled
+
+
+
+## Autofill and passwords
 
 #### Password Manager
 - Offer to save passwords: Off

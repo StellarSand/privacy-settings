@@ -17,7 +17,7 @@ Go to Settings.
 
 
 
-## Autofill
+## Autofill and passwords
 
 #### Google Password Manager
 - Settings >
@@ -39,10 +39,15 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 ## Privacy and security
 
-#### Cookies and other site data
+#### Third-party cookies
 - Block third-party cookies
 - Send a "Do Not Track" request with your browsing traffic: On
 - Preload pages > No preloading
+
+#### Ad privacy
+- Ad topics: Off
+- Site-suggested ads: Off
+- Ad measurement: Off
 
 #### Security
 - Standard Protection
@@ -58,14 +63,10 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 - Additional permissions > Your device use > Don't allow sites to know when you're actively using your device
 - Additional content settings > Intrusive ads > Ads are blocked on sites known to show intrusive or misleading ads
 
-#### Privacy Sandbox
-**This section does not apply to Ungoogled Chromium**
-- Trials: Off
-
 
 
 ## Search engine
-- Search engine used in address bar: DuckDuckGo or add any other privacy respecting search engine from Manage search engines.
+- Search engine used in address bar: DuckDuckGo or add any other privacy respecting search engine from `Manage search engines and site search`.
 
 
 

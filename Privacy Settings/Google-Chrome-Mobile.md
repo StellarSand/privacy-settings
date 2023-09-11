@@ -54,7 +54,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
   - On
   - Choose another provider > NextDNS/Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
 
-    Example: For MullvadDNS, enter https://adblock.doh.mullvad.net/dns-query
+    Example: For Quad9, enter https://dns.quad9.net/dns-query
 
 - "Do Not Track": On
 - Privacy Sandbox (Does not apply to Ungoogled Chromium) >

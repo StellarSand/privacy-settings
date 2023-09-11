@@ -14,6 +14,9 @@ Go to Settings
 - Prevent fingerprinting via language settings: On
 - Safe Browsing: Standard protection
 - Allow sites to check if you have payment methods saved: Off
+- Unstoppable Domains: Disabled
+- Ethereum Name Service: Disabled
+- Solana Name Service: Disabled
 - Use secure DNS >
   - On
   - Choose another provider > NextDNS/Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
@@ -31,6 +34,12 @@ Go to Settings
 
 ## Brave News
 - Show Brave News: Off
+
+
+
+## Brave wallet
+- Display Web3 notifications: Off
+- Enable NFT discovery: Off
 
 
 
@@ -62,6 +71,12 @@ NOTE: Never save passwords in browsers. Use a password manager instead. Check ou
 - Ask where to save files: On
 - Automatically open when possible: Off
 - Show download progress notifications: On
+
+
+
+## Appearance
+- Show Rewards icon: Off
+- Brave Ads: Off
 
 
 

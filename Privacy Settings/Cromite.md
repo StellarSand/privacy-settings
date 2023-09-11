@@ -1,15 +1,15 @@
-# Bromite Privacy Settings
+# Cromite Privacy Settings
 
 Go to Settings.
 
 
 
-## Search Engine
+## Search engine
 - DuckDuckGo
 
 
 
-## Passwords
+## Password Manager
 - Save passwords: Off
 - Auto Sign-in: Off
 
@@ -30,6 +30,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 
 ## Privacy and security
+- Safe Browsing: Standard Protection
 - Always use secure connections: On
 - Access payment methods: Off
 - Preload pages: No preloading
@@ -37,11 +38,13 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
   - On
   - Choose another provider > NextDNS/Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
 
-    Example: For MullvadDNS, enter https://adblock.doh.mullvad.net/dns-query
+    Example: For Quad9, enter https://dns.quad9.net/dns-query
 
 - Incognito mode > Enable history: Off
-- "Do Not Track": On
-- Autocomplete searches and URLs: Off
+- Send a "Do Not Track" request: On
+- Privacy Sandbox >
+  - Trials: Off
+- Improve search suggestions: Off
 
 
 
@@ -50,13 +53,29 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 
 
+## Ad blocking
+- Enable Adblock Plus: On
+- Filter lists: Select lists based on your language
+
+
+
 ## Site settings
 - Cookies: Block third-party cookies
-- JavaScript JIT: Off
 - Ads: Off
 - Your device use: Off
+- JavaScript JIT: Off
+- Viewport Size Protection: On
 
 
 
 ## Downloads
 - Ask where to save files: On
+
+
+
+## Google services
+- Allow Cromite sign-in: Off
+- Help improve Cromite's features and performance: Off
+- Make searches and browsing better: Off
+- Improve search suggestions: Off
+- Touch to Search: Off

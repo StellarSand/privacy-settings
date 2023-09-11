@@ -1,7 +1,6 @@
 ## Contents
 - [Privacy Settings](#privacy-settings)
-- [Recommended Extensions](#recommended-extensions)
-  - [Extension Settings](#extension-settings)
+- [Extension Settings](#extension-settings)
 - [Changelog](#changelog)
 - [FAQs](#faqs)
 - [Privacy Best Practices](#privacy-best-practices)
@@ -24,29 +23,29 @@
 | [Android 13](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-13.md) | 13 (T) |
 | [Android Studio](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-Studio.md) | - |
 | [Apple ID](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Apple-ID.md) | - |
-| [Brave Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md) | 1.57.49 |
-| [Brave Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md) | 1.56.20 |
+| [Brave Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md) | 1.57.62 |
+| [Brave Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md) | 1.57.62 |
 | [Brave Search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Search.md) | - |
-| [Bromite](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Bromite.md) | 108.0.5359.156 |
 | [ChatGPT](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/ChatGPT.md) | - |
+| [Cromite](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Cromite.md) | 116.0.5845.180 |
 | [Discord](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Discord.md) | - |
 | [DuckDuckGo Search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/DuckDuckGo-Search.md) | - |
 | [Facebook](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Facebook.md) | - |
-| [Firefox Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md) | 116.0.3 |
-| [Firefox Focus](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus.md) | 116.3.0 |
-| [Firefox Mobile/Fennec](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md) | 116.3.0 |
-| [Gboard](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Gboard.md) (Google Keyboard) | 13.2.04.543712237 |
+| [Firefox Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox.md) | 117.0 |
+| [Firefox Focus](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus.md) | 117.0.1 |
+| [Firefox Mobile/Fennec](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md) | 117.0.1 |
+| [Gboard](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Gboard.md) (Google Keyboard) | 13.3.06.551538635 |
 | [Gmail](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Gmail.md) | - |
 | [Google Account](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md) | - |
-| [Google Chrome/Ungoogled Chromium Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md) | 116.0.5845.97 |
-| [Google Chrome/Ungoogled Chromium Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md) | 115.0.5790.168 |
+| [Google Chrome/Ungoogled Chromium Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md) | 116.0.5845.180 |
+| [Google Chrome/Ungoogled Chromium Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md) | 116.0.5845.172 |
 | [Google Search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Search.md) | - |
 | [Instagram](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Instagram.md) | - |
 | [LinkedIn](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/LinkedIn.md) | - |
 | [Logi Options+](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Logi-Options%2B.md) | - |
 | [Logitech Options](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Logitech-Options.md) | - |
-| [Microsoft Edge Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md) | 115.0.1901.203 |
-| [Microsoft Edge Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md) | 115.0.1901.208 |
+| [Microsoft Edge Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md) | 116.0.1938.76 |
+| [Microsoft Edge Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md) | 116.0.1938.75 |
 | [Proton Mail](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Proton-Mail.md) | - |
 | [Reddit](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Reddit.md) | - |
 | [Signal](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Signal.md) | - |
@@ -56,23 +55,19 @@
 | [Twitter](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Twitter.md) | - |
 | [Visual Studio Code](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Visual-Studio-Code.md) | - |
 | [Vivaldi Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md) | 6.1.3035.302 |
-| [Vivaldi Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md) | 6.1.3035.277 |
+| [Vivaldi Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md) | 6.2.3110.52 |
 | [WhatsApp](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md) | - |
-| [Windows 10](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md) | 22H2 (OS Build 19045.3324) |
-| [Windows 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md) | 22H2 (OS Build 22621.2134) |
+| [Windows 10](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md) | 22H2 (OS Build 19045.3393) |
+| [Windows 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md) | 22H2 (OS Build 22621.2215) |
 | [YouTube](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/YouTube.md) | - |
 | [Zoom](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Zoom.md) | - |
 
 
 
-## Recommended Extensions
-- uBlock Origin: [Google Chrome/Chromium based browsers](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)
-
-NOTE: Above extensions are also available for Firefox Mobile and Fennec in the Add-ons.
-
-### Extension Settings
-Setting up the above mentioned extensions:
-- [uBlock Origin](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Extensions%20Settings/uBlock-Origin-Settings.md)
+## Extension Settings
+- Download uBlock Origin: [Google Chrome/Chromium based browsers](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)
+<br>Also available for Firefox Mobile and Fennec in the `Add-ons`.
+- [uBlock Origin settings](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Extensions%20Settings/uBlock-Origin-Settings.md)
 
 
 
@@ -103,7 +98,7 @@ The TL;DR version of best practices for digital privacy:
 - Opt for privacy respecting alternatives for search engines, emails, browsers etc.
 - Enable multifactor authentication for added security.
 - Keep your apps and operating system updated.
-- Use open-source softwares and apps whenever possible (NOTE: open-source doesn't always necessarily mean secure).
+- Use open-source softwares and apps whenever possible (open-source doesn't always necessarily mean secure).
 - Regularly review and revoke unnecessary permissions for software and apps.
 - Share information sparingly & only provide what is necessary.
 - Consider using false information when appropriate (Never knowingly provide false information to legal entities, law enforcement, medical professionals, banks, etc.).
@@ -115,12 +110,12 @@ The TL;DR version of best practices for digital privacy:
 
 
 ## Additional Resources
-For better privacy respecting alternatives, unbiased reviews and more information, check out:
+For better privacy respecting alternatives, reviews and more information, check out:
 
 #### Recommendations, alternatives & reviews
 - [Privacy Guides](https://www.privacyguides.org)
-- [Techlore Resources](https://techlore.tech/resources.html)
-- [RestorePrivacy](https://restoreprivacy.com/)
+- [Techlore Resources](https://www.techlore.tech/resources.html)
+- [RestorePrivacy](https://restoreprivacy.com/) (Only for reviews, not recommendations)
 - [PRISM Break](https://prism-break.org/)
 - [Awesome Privacy](https://github.com/pluja/awesome-privacy)
 - [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
@@ -131,8 +126,8 @@ For better privacy respecting alternatives, unbiased reviews and more informatio
 - [Mozilla Blog](https://blog.mozilla.org/)
 - [Spread Privacy](https://spreadprivacy.com/)
 - [ProtonMail Blog](https://protonmail.com/blog/)
-- Techlore: [Main Site](https://techlore.tech), [GitHub](https://github.com/techlore), [YouTube](https://www.youtube.com/c/Techlore/)
-- The New Oil: [Main Site](https://thenewoil.org/) ,[YouTube](https://www.youtube.com/c/TheNewOil)
+- Techlore: [Website](https://www.techlore.tech), [GitHub](https://github.com/techlore), [YouTube](https://www.youtube.com/c/Techlore/)
+- The New Oil: [Website](https://thenewoil.org/) ,[YouTube](https://www.youtube.com/c/TheNewOil)
 - [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html)
 - [The Data Detox Kit](https://datadetoxkit.org)
 - [Personal security checklist](https://github.com/Lissy93/personal-security-checklist)
