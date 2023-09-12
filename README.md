@@ -21,7 +21,7 @@
 | <img src="icons/android.png" width="20" align="center"> [Android 11](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-11.md) | 11 (R) |
 | <img src="icons/android.png" width="20" align="center"> [Android 12/12.1](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-12.md) | 12 (S), 12.1 (12L) |
 | <img src="icons/android.png" width="20" align="center"> [Android 13](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-13.md) | 13 (T) |
-| <img src="icons/android_studio.ico" width="20" align="center"> [Android Studio](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-Studio.md) | - |
+| <img src="icons/android_studio.png" width="20" align="center"> [Android Studio](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Android-Studio.md) | - |
 | <img src="icons/apple.ico" width="20" align="center"> [Apple ID](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Apple-ID.md) | - |
 | <img src="icons/brave.ico" width="20" align="center"> [Brave Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md) | 1.57.62 |
 | <img src="icons/brave.ico" width="20" align="center"> [Brave Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md) | 1.57.62 |
