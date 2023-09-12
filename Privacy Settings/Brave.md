@@ -69,7 +69,7 @@ privacy respecting search engine from `Manage search engines and site search`.
 
 #### Wallet
 - Show Brave Wallet icon on toolbar: Off
-- Enable NFT discovery
+- Enable NFT discovery: Off
 - Automatically pin NFTs: Off
 
 #### Web3 Domains
