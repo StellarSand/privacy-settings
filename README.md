@@ -41,7 +41,7 @@
 | <img src="icons/google_chrome.ico" width="20" align="center"> [Google Chrome/Ungoogled Chromium Mobile](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md) | 116.0.5845.172 |
 | <img src="icons/google.ico" width="20" align="center"> [Google Search](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Search.md) | - |
 | <img src="icons/instagram.ico" width="20" align="center"> [Instagram](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Instagram.md) | - |
-| <img src="icons/instagram.ico" width="20" align="center"> [LinkedIn](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/LinkedIn.md) | - |
+| <img src="icons/linkedin.ico" width="20" align="center"> [LinkedIn](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/LinkedIn.md) | - |
 | <img src="icons/logitech.ico" width="20" align="center"> [Logi Options+](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Logi-Options%2B.md) | - |
 | <img src="icons/logitech.ico" width="20" align="center"> [Logitech Options](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Logitech-Options.md) | - |
 | <img src="icons/microsoft_edge.ico" width="20" align="center"> [Microsoft Edge Desktop](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md) | 116.0.1938.76 |
