@@ -27,6 +27,10 @@ Remove any device you don't use.
 
 ## Privacy
 
+#### Messaging
+- Read receipts: Off
+- Typing indicators: Off
+
 #### Disappearing messages
 - Default timer for new chats: Select whatever suits you
 - For enabling disappearing messages for existing chats: Go to a particular chat > Click 3 dots > Disappearing messages
@@ -37,13 +41,18 @@ Remove any device you don't use.
 - Screen security: On
 - Incognito keyboard: On
 
+#### Payments
+- Payment lock: On
+
 #### Advanced
 - Always relay calls: On (Might reduce call quality)
 
+---
+---
 
 ## Verify safety number
-Go to a particular chat > Click 3 dots > Conversation settings > View safety number
+Go to a particular chat > Click 3 dots > Chat settings > View safety number
 
 Compare the numbers or scan the code. If you and the other person has the same numbers, the session is secure.
 
-Tap Mark as verified.
+Tap `Mark as verified`.

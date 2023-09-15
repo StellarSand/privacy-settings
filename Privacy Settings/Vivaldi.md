@@ -50,7 +50,7 @@ Go to Settings.
 - Suggestions in Address Field: Off
 - Suggestions in Search Field: Off
 
-#### Do Not Track
+#### Tracking prevention
 - Ask Websites Not to Track Me: On
 - Block Ads on Abusive Sites: On
 - Broadcast IP for Best WebRTC Performance: Off
@@ -60,6 +60,7 @@ Go to Settings.
 - In Search Field: Off
 
 #### Autofill
+- Form Autofill: Off
 - Credit Card Autofill: Off
 
 #### Tracker And Ad Blocking
@@ -77,3 +78,4 @@ NOTE: Never save passwords in browsers. Use a password manager instead. Check ou
 
 ## Downloads
 - Save Files to Default Location Without Asking: Off
+- Notify on Completed Downloads: On

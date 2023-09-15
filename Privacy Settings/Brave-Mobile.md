@@ -8,7 +8,8 @@ Go to Settings
 - Block trackers and ads: Block trackers and ads (Aggressive)
 - Auto-redirect AMP pages: On
 - Auto-redirect tracking URLs: On
-- Upgrade connections to HTTPS: Require all connections to use HTTPS (strict)
+- Upgrade connections to HTTPS: On
+- Always use secure connections: On
 - Block Cookies: Block cross-site cookies
 - Block Fingerprinting: Fingerprinting blocked (strict) (If you face any issues with sites, change it back to standard)
 - Prevent fingerprinting via language settings: On
@@ -23,7 +24,7 @@ Go to Settings
     
     Example: For Quad9, enter https://dns.quad9.net/dns-query
 
-- "Do Not Track": On
+- Send a "Do Not Track" request: On
 - Allow privacy-preserving product analytics (P3A): Off
 - Automatically send diagnostic reports: Off
 - Automatically send daily usage ping to Brave: Off
@@ -75,7 +76,7 @@ NOTE: Never save passwords in browsers. Use a password manager instead. Check ou
 
 
 ## Appearance
-- Show Rewards icon: Off
+- Brave Rewards icon: Off
 - Brave Ads: Off
 
 

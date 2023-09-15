@@ -10,9 +10,9 @@ Go to Settings.
 **This section does not apply to Ungoogled Chromium**
 
 - Allow Chrome sign-in: Off
-- Autocomplete searches and URLs: Off
 - Help improve Chrome's features and performance: Off
 - Make searches and browsing better: Off
+- Improve search suggestions: Off
 - Touch to Search: Off
 
 
@@ -23,7 +23,7 @@ Go to Settings.
 
 
 
-## Passwords
+## Password Manager
 - Save passwords: Off
 - Auto Sign-in: Off
 
@@ -56,7 +56,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
     Example: For Quad9, enter https://dns.quad9.net/dns-query
 
-- "Do Not Track": On
+- Send a "Do Not Track" request: On
 - Privacy Sandbox (Does not apply to Ungoogled Chromium) >
   - Trials: Off
 

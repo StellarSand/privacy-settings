@@ -19,7 +19,7 @@ Go to Settings.
 
 
 
-## Passwords
+## Password Manager
 - Save passwords: Off
 - Auto Sign-in: Off
 
@@ -64,7 +64,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
   
     Example: For MullvadDNS, enter https://adblock.doh.mullvad.net/dns-query
 
-- "Do Not Track": On
+- Send a"Do Not Track" request: On
 - Touch to Search: Off
 - Broadcast IP for best WebRTC performance: Off
 

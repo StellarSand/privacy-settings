@@ -28,7 +28,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 #### Diagnostic data
 - Optional diagnostic data: Off
 
-#### Site permissions
+#### Site settings
 - Cookies: Block third-party cookies
 - Ads: Off
 - Your device use: Off
@@ -36,7 +36,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 #### Show me search and site suggestions using my typed characters
 - Off
 
-#### Tracking Prevention
+#### Tracking prevention
 - On
 - Strict
 
@@ -51,6 +51,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 ## General
 - Select search engine: DuckDuckGo
+- Shopping: Off
 
 
 
@@ -58,5 +59,4 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 ---
 
 On home page > Tap icon on top right > Custom >
- - Image of the day: Off
  - Show feeds: Off

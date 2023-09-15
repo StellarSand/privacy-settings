@@ -1,4 +1,4 @@
-# Twitter Privacy Settings
+# Twitter (X) Privacy Settings
 
 Go to Settings & Support > Settings and privacy
 
@@ -30,20 +30,25 @@ NOTE 2: The backup code is required to login, if 2FA method is lost, broken or u
 
 ## Privacy and safety
 
-#### Audience and tagging
+#### Audience, media and tagging
 - Photo tagging: Only people you follow can tag you
 
+#### Your posts
+- Add location information to your posts > 
+  - Add location information to your posts: Off
+  - Remove all location information attached to your posts > Delete
+
 #### Direct messages
-- Allow message requests from everyone: Off
+- Allow message requests from: No one (Your followers will still be able to message you)
 - Send read receipts: Off
 
 #### Spaces
-- Let followers see which Spaces you're listening to: Off
+- Allow followers to see which Spaces you're listening to: Off
 
 #### Discoverability and contacts
-- Let others find you by your email: Off
-- Let others find you by your phone: Off
-- Sync address book contacts: Off
+- Let people who have your email find you on X: Off
+- Let people who have your phone number find you on X: Off
+- Manage contacts > Remove all contacts
 
 #### Ads preferences
 - Personalized ads: Off
@@ -56,11 +61,10 @@ NOTE 2: The backup code is required to login, if 2FA method is lost, broken or u
 
 #### Location information
 - Personalize based on places you've been: Off
-- Personalize based on precise location: Off
 
 ---
 ---
 
 Remove Location and Birth date from your bio or provide false info if you want.
 
-Also remove any other personally identifiable info like phone numbers or emails etc you might have added in your bio.
+Also remove any other personally identifiable info like phone numbers, emails etc. you might have added in your bio.

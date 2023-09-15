@@ -65,15 +65,16 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 
 #### Services
+- Save time and money with Shopping in Microsoft Edge: Off (use something else like [Keepa](https://keepa.com/), [camelcamelcamel](https://camelcamelcamel.com/), [Price History](https://pricehistoryapp.com/) etc)
 - Show suggestions to follow creators in Microsoft Edge: Off
+- Show opportunities to support causes and nonprofits you care about: Off (use their own methods to show your support)
 - Get notifications of related things you can explore with Discover: Off
 - Include related matches in Find on Page: Off
-- Enhance images in Microsoft Edge: Off
 
 #### Address bar and search
 - Show me search and site suggestions using my typed characters: Off
 - Search engine used in address bar: DuckDuckGo or add any other privacy respecting search engine from Manage search engines.
-- Search on new tabs uses search box or address bar: Address bar (if "Search box" is selected it will continue searching with Bing as the search engine)
+- Search on new tabs uses search box or address bar: Address bar (if `Search box` is selected it will continue searching with Bing as the search engine)
 
 
 
@@ -83,7 +84,8 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 #### App and notification settings
 - Bing Chat >
   - Automatically open Bing Chat in the sidebar: Off
-  - Page Context: Off
+  - Allow access to any webpage or PDF: Off
+  - Show shopping notifications: Off
 - Search > Automatically open Search: Off
 
 
@@ -101,9 +103,6 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 - Block third party cookies: On
 - Preload pages for faster browsing and searching: Off
 
-#### Site permissions
-- Ads > Block on sites that show intrusive or misleading ads: On
-
 
 
 ## Downloads
@@ -113,21 +112,21 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 
 ## Languages
-- Use writing assistance: Off
+- Use text prediction: Off
+- Enable grammar and spellcheck assistance: Off
 
 #### Share additional OS regional format
-- Share additional operating system region: Limited
+- Share additional operating system region: Never
 
 
 ---
 ---
 
 
-Open a new tab. Click the gear icon on right
+Open a new tab. Click the gear icon on top right
 
 ## Page settings
 - Layout: Custom
-- Show promoted links: Off
-- Background: Off, Your own image or Custom theme
+- Show sponsored links: Off
 - Show greeting: Off
 - Content: Content off

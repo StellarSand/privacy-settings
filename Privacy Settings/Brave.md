@@ -26,7 +26,9 @@ Go to Settings
 ## Brave Rewards
 - Show Brave Rewards icon in address bar: Off
 - Show Tip button on sites: Off
-- Open full Brave Rewards settings > Brave Private Ads: Off
+- Open full Brave Rewards settings > 
+  - New tab page ads: Off
+  - Notification ads: Off
 
 
 

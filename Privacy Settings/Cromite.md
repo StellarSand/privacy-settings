@@ -30,7 +30,9 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 
 ## Privacy and security
-- Safe Browsing: Standard Protection
+- Safe Browsing >
+  - Standard Protection
+  - Standard Protection > Help improve security on the web: Off
 - Always use secure connections: On
 - Access payment methods: Off
 - Preload pages: No preloading
@@ -40,22 +42,24 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
     Example: For Quad9, enter https://dns.quad9.net/dns-query
 
-- Incognito mode > Enable history: Off
+- Always incognito mode > Enable history: Off
 - Send a "Do Not Track" request: On
 - Privacy Sandbox >
   - Trials: Off
 - Improve search suggestions: Off
+- Touch to Search: Off
 
 
 
-## AdBlock settings
-- On
-
-
-
-## Ad blocking
+## Adblock Plus settings
 - Enable Adblock Plus: On
 - Filter lists: Select lists based on your language
+- Enable anti-circumvention and snippets: On
+
+
+
+## Legacy Adblock settings
+- On
 
 
 
@@ -64,6 +68,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 - Ads: Off
 - Your device use: Off
 - JavaScript JIT: Off
+- Timezone override: Random
 - Viewport Size Protection: On
 
 
