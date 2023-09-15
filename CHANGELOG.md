@@ -4,6 +4,43 @@ Any notable changes in the settings will be accounted here.
 
 
 
+## Sep 15, 2023
+
+#### Brave Desktop
+- Added `New tab page ads` and `Notification ads` in [Brave Rewards](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave.md#brave-rewards)
+
+#### Brave Mobile
+- Added `Always use secure connections` in [Brave shields & privacy](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
+
+#### Cromite
+- Some changes to `Safe Browsing` in [Privacy and security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Cromite.md#privacy-and-security)
+- Added `Touch to Search` in [Privacy and security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Cromite.md#privacy-and-security)
+- Added `Enable anti-circumvention and snippets` in [Adblock Plus settings](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Cromite.md#adblock-plus-settings)
+- Added `Timezone override` in [Site settings](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Cromite.md#site-settings)
+
+#### Google Chrome Mobile
+- Added `Improve search suggestions` in [Google services](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md#google-services)
+
+#### Microsoft Edge Desktop
+- Added `Save time and money with Shopping in Microsoft Edge` and `Show opportunities to support causes and nonprofits you care about` in [Privacy, search, and services](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#privacy-search-and-services) > [Services](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#services)
+- Added `Allow access to any webpage or PDF` and `Show shopping notifications` in [Sidebar](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#sidebar) > [App and notification settings](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#app-and-notification-settings) > Bing Chat
+- Some changes in [Languages](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#languages) > [Share additional OS regional format](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#share-additional-os-regional-format)
+
+#### Microsoft Edge Mobile
+- Added `Shopping` in [General](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#general)
+
+#### Signal
+- Added [Messaging](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Signal.md#messaging) and [Payments](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Signal.md#payments) in [Privacy](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Signal.md#privacy)
+
+#### Twitter (X)
+- Added [Your posts](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Twitter.md#your-posts) in [Privacy and safety](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Twitter.md#privacy-and-safety)
+
+#### Vivaldi Desktop
+- Added `Form Autofill` in [Privacy and Security](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md#privacy-and-security) > [Autofill](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md#autofill)
+- Added `Notify on Completed Downloads` in [Downloads](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md#downloads)
+
+
+
 ## Sep 11, 2023
 - Added [Cromite](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Cromite.md)
 <br>Since [Bromite](https://github.com/bromite/bromite) has been abandoned, it has been replaced with [Cromite](https://github.com/uazo/cromite).
@@ -51,8 +88,7 @@ Added
 
 #### Brave Mobile
 - Some changes to `Upgrade connections to HTTPS` in [Brave shields & privacy](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
-- Added `Safe Browsing` in [Brave shields & privacy](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
-- Added `Improve search suggestions` in [Brave shields & privacy](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
+- Added `Safe Browsing` and `Improve search suggestions` in [Brave shields & privacy](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
 - Added `Show download progress notifications` in [Downloads](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#downloads)
 
 
