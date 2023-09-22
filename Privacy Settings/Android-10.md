@@ -142,4 +142,4 @@ Tap on gear icon next to Preferred engine
 
 
 
-NOTE: Some other settings are same as [Google Account settings](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Account-Privacy-Settings.md)
+NOTE: Some other settings are same as [Google Account settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Account-Privacy-Settings.md)

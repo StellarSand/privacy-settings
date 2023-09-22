@@ -42,7 +42,7 @@ Go to Settings
 
 NOTE 1: When asked for Recovery Email, make sure you provide an email which has adequate security measures like a strong password and 2FA enabled. Alternatively you can skip this, but then if you forget your password, you'll lose access to your Telegram account and there'll be no way to restore it.
 
-NOTE 2: Use a password manager to generate and store strong & unique passwords. Check out [recommendations, alternatives & reviews](https://github.com/the-weird-aquarian/privacy-settings#recommendations-alternatives--reviews).
+NOTE 2: Use a password manager to generate and store strong & unique passwords. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
 
 #### Auto-Delete messages
 - Self destruct timer: Select whatever suits you

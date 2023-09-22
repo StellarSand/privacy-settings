@@ -149,4 +149,4 @@ Go to System > Advanced > Developer options > Wi-fi-enhanced MAC randomization: 
 
 
 
-NOTE: Some other settings are same as [Google Account settings](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Account-Privacy-Settings.md)
+NOTE: Some other settings are same as [Google Account settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Account-Privacy-Settings.md)

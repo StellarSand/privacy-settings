@@ -151,5 +151,5 @@ Go to System > Developer options > Wi-fi non persistent MAC randomization: On
 
 
 
-NOTE: Some other settings are same as [Google Account settings](https://github.com/the-weird-aquarian/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md)
+NOTE: Some other settings are same as [Google Account settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md)
 

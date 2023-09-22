@@ -17,7 +17,7 @@ Go to Settings
 - Offer to save passwords: Off
 - Autofill passwords: Off
 
-NOTE: Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/the-weird-aquarian/privacy-settings#recommendations-alternatives--reviews).
+NOTE: Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
 
 #### Payment info
 - Save and fill payment info: Off

@@ -87,7 +87,7 @@ privacy respecting search engine from `Manage search engines and site search`.
 - Offer to save passwords: Off
 - Auto Sign-in: Off
 
-NOTE: Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/the-weird-aquarian/privacy-settings#recommendations-alternatives--reviews).
+NOTE: Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
 
 #### Payment methods
 - Save and fill payment methods: Off

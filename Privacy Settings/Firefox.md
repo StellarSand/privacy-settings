@@ -43,7 +43,7 @@ Go to Settings.
 #### Logins and Passwords
 - Ask to save logins and passwords for websites: Off
 
-NOTE: Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/the-weird-aquarian/privacy-settings#recommendations-alternatives--reviews).
+NOTE: Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
 
 #### Permissions
 - Warn you when websites try to install add-ons: On

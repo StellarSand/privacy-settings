@@ -25,7 +25,7 @@ Go to Settings.
 - Autofill in Firefox/Fennec: Off
 - Autofill in other apps: Off
 
-NOTE: Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/the-weird-aquarian/privacy-settings#recommendations-alternatives--reviews).
+NOTE: Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
 
 
 ## Autofill
@@ -68,7 +68,7 @@ NOTE: Never save payment info or credit card details in browsers. A password man
 
 
 ## Add-ons
-Check [recommended extensions](https://github.com/the-weird-aquarian/privacy-settings#recommended-extensions) to add
+Check [recommended extensions](https://github.com/StellarSand/privacy-settings#recommended-extensions) to add
 
 
 
