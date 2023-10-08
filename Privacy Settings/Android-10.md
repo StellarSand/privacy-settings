@@ -74,10 +74,8 @@ NOTE: Enable the above settings only when needed. Remember to turn them off when
 
 #### Usage and diagnostics
 - Off
-
-NOTE: Additionally some OEMs might include few more settings for personalized ads & diagnostics.
-
-Search in your phone settings for "User Experience Program", "Personalized ad recommendations", "Send diagnostic data" or something similar.
+<br>NOTE: Additionally some OEMs might include few more settings for personalized ads & diagnostics.
+<br>Search in your phone settings for `User Experience Program`, `Personalized ad recommendations`, `Send diagnostic data` or something similar.
 
 
 
@@ -96,11 +94,11 @@ Search in your phone settings for "User Experience Program", "Personalized ad re
 ## Security
 
 #### Screen lock
-- Password, PIN or Pattern. Don't set to None or Swipe.
+- Password, PIN or Pattern. Don't set to `None` or `Swipe`.
 
 After setting screen lock, tap on gear icon next to Screen lock.
 
-- Make pattern visible: Off (only available if Screen lock is set to Pattern)
+- Make pattern visible: Off (only available if Screen lock is set to `Pattern`)
 - Lock after screen timeout: Immediately
 - Power button instantly locks: On
 
@@ -124,7 +122,7 @@ NOTE 2: If you enter the PIN code wrong 3 times, you'll be asked to enter a PUK 
 
 #### Text-to-speech output
 
-Tap on gear icon next to Preferred engine
+Tap on gear icon next to `Preferred engine`
 
 - Anonymous usage reports: Off
 
@@ -142,4 +140,6 @@ Tap on gear icon next to Preferred engine
 
 
 
-NOTE: Some other settings are same as [Google Account settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Account-Privacy-Settings.md)
+**NOTE 1:** Some other settings are same as [Google Account settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md)
+
+**NOTE 2:** Gboard settings are available [here](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Gboard.md)

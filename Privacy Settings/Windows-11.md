@@ -8,6 +8,7 @@ Go to Settings.
 
 #### Notifications
 - Additional settings >
+  - Show the Windows welcome experience after updates and when signed in to show what's new and suggested: Off
   - Suggest ways to get the most out of Windows and finish setting up this device: Off
   - Get tips and suggestions when using Windows: Off
 
@@ -95,6 +96,9 @@ Do not link
   - select Picture or Slideshow
   - Get fun facts, tips, tricks and more on your lock screen: Off
 
+#### Start
+- Show recommendations for tips, shortcuts, new apps and more: Off
+
 #### Device usage
 - Turn everything off
 
@@ -111,13 +115,12 @@ Be sure not to uninstall anything important. If you have doubts about any app, e
 ## Accounts
 
 #### Your info
-Delete your account picture and set it to default.
+Delete your account picture and set it to default as mentioned below:
 - Choose a file > Browse files
-- Go to C:\Users\Username\AppData\Roaming\Microsoft\Windows\AccountPictures and delete your picture.
-- Go to C:\ProgramData\Microsoft\User Account Pictures and select any one.
+- Go to `C:\Users\Username\AppData\Roaming\Microsoft\Windows\AccountPictures` and delete your picture.
+- Go to `C:\ProgramData\Microsoft\User Account Pictures` and select any one.
 
-NOTE: AppData is a hidden folder by default.
-- To enable: in file explorer on top click View > Show > select Hidden items.
+NOTE: `AppData` is a hidden folder by default. To enable: in file explorer on top click `View` > Show > select `Hidden items`.
 
 #### Sign-in options
 - Show account details such as my email address on the sign-in screen: Off
@@ -149,13 +152,14 @@ NOTE: AppData is a hidden folder by default.
 - Online speech recognition: Off
 
 #### Inking & typing personalization
-- Personal inking and typing dictionary: Off
+- Custom inking and typing dictionary: Off
 
 #### Diagnostics & feedback
 - Diagnostic data > Send optional diagnostic data: Off
 - Improve inking & typing: Off
 - Tailored experiences: Off
 - Delete diagnostic data: Delete
+- Feedback frequency: Never
 
 #### Activity history
 - Send my activity history to Microsoft: Off
@@ -184,28 +188,28 @@ NOTE: AppData is a hidden folder by default.
 
 
 ## Disable ads in file explorer
-Open file explorer. Click 3 dots menu on top, located to the right of "View" > Options >
-  - Click "View" on top of the new popup >
-    - Uncheck "Show sync provider notifications"
+Open file explorer. Click 3 dots menu on top > Options >
+  - Click `View` on top of the new popup >
+    - Uncheck `Show sync provider notifications`
     - Click Apply
     - Also click "Apply to Folders" on top (if available)
 
 
 
 ## Disable telemetry service
-Win key + r > type services.msc > press enter
+Win key + r > type `services.msc` > press enter
 
-- Double-click on "Connected User Experiences and Telemetry" >
-  - Service Status: Stopped (Click on Stop, if service is running)
+- Double-click on `Connected User Experiences and Telemetry` >
+  - Service Status: Stopped (Click on `Stop`, if service is running)
   - Startup Type: Disabled 
-  - Click OK
+  - Click `OK`
 
 
 
 ## Disable trending searches & web search in search bar
-Win key + r > type regedit > press enter > Yes
+Win key + r > type `regedit` > press enter > Yes
 
 - Navigate to `Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Search`
-- Right click > New > DWORD (32-bit) Value > name it as `BingSearchEnabled`
-- Double click it and make sure "Value data" is set to 0
-- Open Task Manager > Processes > select Windows Explorer > Right click > Restart
+- Right click on empty space > New > DWORD (32-bit) Value > name it as `BingSearchEnabled`
+- Double click it and make sure `Value data` is set to 0
+- Open Task Manager > Processes > select `Windows Explorer` > Right click > Restart

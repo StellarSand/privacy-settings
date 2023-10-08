@@ -1,18 +1,16 @@
 # Gboard Privacy Settings
 
-Go to phone Settings > System > Languages & input > Virtual keyboard (or On-screen keyboard) > Gboard
+Go to phone Settings > System >
+- up to Android 13: Languages & input > Virtual keyboard (or `On-screen keyboard`) > Gboard
+- Android 14: Keyboard > On-screen keyboard > Gboard
 
 **The above location is according to stock android and might differ from device to device.**
 
 
 
 ## Text correction
-- Suggest contacts: Off
-
-
-
-## Voice typing
-- Voice contributions: Off
+- Suggest Contacts: Off
+- Smart Compose: Off
 
 
 
@@ -28,10 +26,9 @@ Go to phone Settings > System > Languages & input > Virtual keyboard (or On-scre
 
 
 
-## Advanced
+## Privacy
 - Share usage statistics: Off
-
-#### Learning
-- Personalization: Off
-- Improve voice and typing for everyone: Off
+- Personalize for you: Off
+- Improve for everyone: Off
 - Delete learned words > Type number shown > OK
+- Audio donations: Off

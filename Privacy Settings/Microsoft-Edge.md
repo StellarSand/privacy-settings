@@ -86,6 +86,11 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
   - Automatically open Bing Chat in the sidebar: Off
   - Allow access to any webpage or PDF: Off
   - Show shopping notifications: Off
+- Action center >
+  - Automatically open Action Center to see how you can be rewarded for using Microsoft Edge: Off
+- Games >
+  - Automatically open Casual Games in the side pane: Off
+  - Allow access to page URLs: Off
 - Search > Automatically open Search: Off
 
 

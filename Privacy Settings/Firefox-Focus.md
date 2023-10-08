@@ -37,4 +37,4 @@ Go to Settings.
 - Off
 
 #### URL Autocomplete
-- For Top sites: Off
+- For top sites: Off

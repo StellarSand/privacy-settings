@@ -8,8 +8,7 @@ Go to Settings
 - Block trackers and ads: Block trackers and ads (Aggressive)
 - Auto-redirect AMP pages: On
 - Auto-redirect tracking URLs: On
-- Upgrade connections to HTTPS: On
-- Always use secure connections: On
+- Upgrade connections to HTTPS: Require all connections to use HTTPS (strict)
 - Block Cookies: Block cross-site cookies
 - Block Fingerprinting: Fingerprinting blocked (strict) (If you face any issues with sites, change it back to standard)
 - Prevent fingerprinting via language settings: On

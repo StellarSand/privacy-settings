@@ -41,6 +41,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 #### Third-party cookies
 - Block third-party cookies
+  - Allow related sites to see your activity in the group: Off
 - Send a "Do Not Track" request with your browsing traffic: On
 - Preload pages > No preloading
 
@@ -55,7 +56,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 - Always use secure connections: On
 - Use secure DNS >
   - On
-  - With > NextDNS/Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
+  - With > `NextDNS/Cloudflare`, or select `Customized` and provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
 
   Example: For Quad9, enter https://dns.quad9.net/dns-query
 
