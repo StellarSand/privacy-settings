@@ -4,6 +4,35 @@ Any notable changes in the settings will be accounted here.
 
 
 
+## Oct 08, 2023
+- Added [Android 14](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-14.md)
+
+#### Android 12
+- Added [Google](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-12.md#google)
+
+#### Android 13
+- Added [Google](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-13.md#google)
+
+#### Gboard
+- Added `Smart compose` in [Text correction](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Gboard.md#text-correction)
+- Added [Privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Gboard.md#privacy)
+
+#### Google Chrome Desktop
+- Added `Allow related sites to see your activity in the group` in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md#privacy-and-security) > [Third-party cookies](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md#third-party-cookies) > Block third-party cookies
+
+#### Microsoft Edge Desktop
+- Added `Action center` and `Games` in [Sidebar](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#sidebar) > [App and notification settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#app-and-notification-settings)
+
+#### Reddit
+- Added `Personalize ads based on your Reddit activity and account info` in [Safety & Privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Reddit.md#safety--privacy) > [Privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Reddit.md#privacy)
+
+#### Windows 11
+- Added `Show the Windows welcome experience after updates and when signed in to show what's new and suggested` in [System](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#system) > [Notifications](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#notifications) > Additional settings
+- Added [Start](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#start) in [Personalization](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#personalization)
+- Added `Feedback frequency` in [Privacy & security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#privacy--security) > [Diagnostics & feedback](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#diagnostics--feedback)
+
+
+
 ## Sep 15, 2023
 
 #### Brave Desktop
