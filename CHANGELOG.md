@@ -4,6 +4,34 @@ Any notable changes in the settings will be accounted here.
 
 
 
+## Nov 13, 2023
+
+#### Brave Desktop
+- Added `Leo AI Assistant` in [Appearance](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#appearance) > `Show autocomplete suggestions in address bar`
+- Added [Leo](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#leo)
+- Added [Allow auto-fill in private windows](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#allow-auto-fill-in-private-windows) in [Autofill and passwords](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#autofill-and-passwords)
+
+#### Brave Mobile
+- Added `Block cookie consent notices` in [Brave shields & privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
+
+##### Google Chrome Desktop
+- Added [Performance](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md#performance)
+
+#### Google Chrome Mobile
+- Added `Third-party cookies` and `Ad privacy` in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md#privacy-and-security)
+
+#### Microsoft Edge Desktop
+- Added `Copilot` in [Sidebar](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#sidebar) > [App and notification settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#app-and-notification-settings)
+
+#### Reddit
+- Changes in [Safety & Privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Reddit.md#safety--privacy) > [Privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Reddit.md#privacy)
+- Added [Sensitive Advertising Categories](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Reddit.md#sensitive-advertising-categories) in [Safety & Privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Reddit.md#safety--privacy)
+
+#### Whatsapp
+- Added [Calls](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#calls), [Fingerprint lock](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#fingerprint-lock) and [Advanced](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#advanced) in [Privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#privacy)
+
+
+
 ## Oct 08, 2023
 - Added [Android 14](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-14.md)
 
@@ -51,7 +79,7 @@ Any notable changes in the settings will be accounted here.
 - Added `Improve search suggestions` in [Google services](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md#google-services)
 
 #### Microsoft Edge Desktop
-- Added `Save time and money with Shopping in Microsoft Edge` and `Show opportunities to support causes and nonprofits you care about` in [Privacy, search, and services](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#privacy-search-and-services) > [Services](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#services)
+- Added `Save time and money with Shopping in Microsoft Edge` in [Privacy, search, and services](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#privacy-search-and-services) > [Services](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#services)
 - Added `Allow access to any webpage or PDF` and `Show shopping notifications` in [Sidebar](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#sidebar) > [App and notification settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#app-and-notification-settings) > Bing Chat
 - Some changes in [Languages](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#languages) > [Share additional OS regional format](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#share-additional-os-regional-format)
 
@@ -127,9 +155,6 @@ Added
 #### Firefox Desktop
 - Added `Certificates` in [Privacy & Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#privacy--security) > [Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#security)
 - Moved [DNS over HTTPS](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#dns-over-https) from [General](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#general) to [Privacy & Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#privacy--security)
-
-#### Microsoft Edge Desktop
-- Added `Enhance images in Microsoft Edge` in [Privacy, search, and services](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#privacy-search-and-services) > [Services](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#services)
 
 
 
@@ -301,9 +326,6 @@ Added
 
 #### Brave mobile
 - Added `Auto-redirect AMP pages` in [Brave shields & privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
-
-#### Microsoft Edge Desktop
-- Added `Typosquatting Checker` in [Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#security)
 
 #### Vivaldi Mobile
 - Added `Touch to Search` in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#privacy-and-security)
