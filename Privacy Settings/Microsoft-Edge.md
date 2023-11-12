@@ -66,8 +66,6 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 #### Services
 - Save time and money with Shopping in Microsoft Edge: Off (use something else like [Keepa](https://keepa.com/), [camelcamelcamel](https://camelcamelcamel.com/), [Price History](https://pricehistoryapp.com/) etc)
-- Show suggestions to follow creators in Microsoft Edge: Off
-- Show opportunities to support causes and nonprofits you care about: Off (use their own methods to show your support)
 - Get notifications of related things you can explore with Discover: Off
 - Include related matches in Find on Page: Off
 
@@ -82,16 +80,15 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 - Personalize my top sites in customize sidebar: Off
 
 #### App and notification settings
-- Bing Chat >
-  - Automatically open Bing Chat in the sidebar: Off
-  - Allow access to any webpage or PDF: Off
+- Copilot >
+  - Show Copilot: Off
   - Show shopping notifications: Off
 - Action center >
   - Automatically open Action Center to see how you can be rewarded for using Microsoft Edge: Off
+- Search > Automatically open Search: Off
 - Games >
   - Automatically open Casual Games in the side pane: Off
   - Allow access to page URLs: Off
-- Search > Automatically open Search: Off
 
 
 

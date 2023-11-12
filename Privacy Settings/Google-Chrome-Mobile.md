@@ -44,28 +44,36 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 
 ## Privacy and security
+- Third-party cookies >
+  - Block third-party cookies
+  - Block third-party cookies > Allow related sites to see your activity in the group: Off
+- Ad privacy (Does not apply to Ungoogled Chromium) >
+  - Ad topics: Off
+  - Site-suggested ads: Off
+  - Ad measurement: Off
+- Send a "Do Not Track" request: On
+- Preload pages: No preloading
 - Safe Browsing (Does not apply to Ungoogled Chromium) >
   - Standard Protection
   - Standard Protection > Help improve security on the web: Off
 - Always use secure connections: On
-- Access payment methods: Off
-- Preload pages: No preloading
 - Use secure DNS > 
   - On
   - Choose another provider > NextDNS/Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
 
     Example: For Quad9, enter https://dns.quad9.net/dns-query
 
-- Send a "Do Not Track" request: On
-- Privacy Sandbox (Does not apply to Ungoogled Chromium) >
-  - Trials: Off
+- Access payment methods: Off
 
 
 
 ## Site settings
-- Cookies: Block third-party cookies
-- Ads: Off
+
+#### Permissions
 - Your device use: Off
+
+#### Content
+- Intrusive ads: Off
 
 
 

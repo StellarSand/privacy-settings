@@ -12,12 +12,10 @@ Remove all optional info like About etc and don't use your own picture as Avatar
 ## Safety & Privacy
 
 #### Privacy
-- Show up in search results: Off
-- Personalize all of Reddit based on the outbound links you click on: Off
-- Personalize ads based on your Reddit activity and account info: Off
-- Personalize ads based on information from our partners: Off
-- Personalize ads based on your activity with our partners: Off
-- Personalize recommendations based on your activity with our partners: Off
+- Turn off everything
+
+#### Sensitive Advertising Categories
+- Turn off everything
 
 #### Advanced Security
 - Use two-factor authentication > Scan the barcode using an authenticator app > Enter 6 digit code > Complete Setup > Click backup codes and save them > OK

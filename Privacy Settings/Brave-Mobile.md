@@ -23,6 +23,7 @@ Go to Settings
     
     Example: For Quad9, enter https://dns.quad9.net/dns-query
 
+- Block cookie consent notices: On
 - Send a "Do Not Track" request: On
 - Allow privacy-preserving product analytics (P3A): Off
 - Automatically send diagnostic reports: Off
@@ -63,7 +64,8 @@ NOTE: Never save passwords in browsers. Use a password manager instead. Check ou
 
 
 ## Site settings
-- Cookies: Block third-party cookies
+- Cookies >
+  - Block third-party cookies
 
 
 

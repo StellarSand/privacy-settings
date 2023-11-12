@@ -9,6 +9,7 @@ Go to Settings
 - Always show full URLs: On
 - Show autocomplete suggestions in address bar >
   - Top sites: Off
+  - Leo AI Assistant: Off
 
 
 
@@ -57,16 +58,6 @@ Go to Settings
 
 
 
-## Search engine
-- Normal window: DuckDuckGo/Brave/Startpage or any other 
-privacy respecting search engine from `Manage search engines and site search`.
-- Private window: DuckDuckGo/Brave/Startpage or any other 
-privacy respecting search engine from `Manage search engines and site search`.
-- Improve search suggestions: Off
-- Web Discovery Project: Off
-
-
-
 ## Web3
 
 #### Wallet
@@ -81,11 +72,28 @@ privacy respecting search engine from `Manage search engines and site search`.
 
 
 
+## Leo
+- Show Leo icon in the sidebar: Off
+- Show suggested prompts in the conversation: Off
+
+
+
+## Search engine
+- Normal window: DuckDuckGo/Brave/Startpage or any other 
+privacy respecting search engine from `Manage search engines and site search`.
+- Private window: DuckDuckGo/Brave/Startpage or any other 
+privacy respecting search engine from `Manage search engines and site search`.
+- Improve search suggestions: Off
+- Web Discovery Project: Off
+
+
+
 ## Autofill and passwords
 
 #### Password Manager
-- Offer to save passwords: Off
-- Auto Sign-in: Off
+- Settings >
+  - Offer to save passwords: Off
+  - Auto Sign-in: Off
 
 NOTE: Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
 
@@ -97,6 +105,9 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 #### Addresses and more
 - Save and fill addresses: Off
+
+#### Allow auto-fill in private windows
+- Off
 
 
 

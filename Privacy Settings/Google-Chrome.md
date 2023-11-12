@@ -43,7 +43,6 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 - Block third-party cookies
   - Allow related sites to see your activity in the group: Off
 - Send a "Do Not Track" request with your browsing traffic: On
-- Preload pages > No preloading
 
 #### Ad privacy
 - Ad topics: Off
@@ -63,6 +62,13 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 #### Site Settings
 - Additional permissions > Your device use > Don't allow sites to know when you're actively using your device
 - Additional content settings > Intrusive ads > Ads are blocked on sites known to show intrusive or misleading ads
+
+
+
+## Performance
+
+#### Speed
+- Preload pages: Off
 
 
 

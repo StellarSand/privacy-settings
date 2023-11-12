@@ -1,5 +1,7 @@
 # Android 10 Privacy Settings
 
+### :warning: Support for Android 10 has officially ended on Mar 06, 2023.<br>To ensure your device's security, please upgrade to the latest Android version.
+
 Go to Settings
 
 **The actual location of the settings might differ from device to device. The following are according to stock android.**

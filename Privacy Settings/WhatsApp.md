@@ -36,11 +36,20 @@ NOTE: When asked for Email, make sure you provide an email which has adequate se
 #### Live location
 - Check with whom you're sharing your live location and disable accordingly.
 
+#### Calls
+- Silence unknown callers: On
+
+#### Fingerprint lock
+- Unlock with fingerprint: On
+
+#### Advanced
+- Protect IP address in calls: On (Will reduce call quality)
+
 
 
 ## Storage and data
 
 #### Media auto-download
-- When using mobile data: Off
-- When connected on Wi-Fi: Off
-- When roaming: Off
+- When using mobile data: Uncheck everything
+- When connected on Wi-Fi: Uncheck everything
+- When roaming: Uncheck everything
