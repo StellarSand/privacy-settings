@@ -4,6 +4,16 @@ Any notable changes in the settings will be accounted here.
 
 
 
+## Nov 25, 2023
+
+#### Firefox Desktop
+- Added [Website Privacy Preferences](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#website-privacy-preferences) in [Privacy & Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#privacy--security)
+
+#### Windows 11
+- Added [Disable Copilot](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#disable-copilot)
+
+
+
 ## Nov 13, 2023
 
 #### Brave Desktop
