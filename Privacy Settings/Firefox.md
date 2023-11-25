@@ -38,7 +38,10 @@ Go to Settings.
 
 #### Enhanced Tracking Protection
 - Strict
-- Send websites a “Do Not Track” signal that you don’t want to be tracked: Always
+
+#### Website Privacy Preferences
+- Tell websites not to sell or share my data: On
+- Send websites a “Do Not Track” request: On
 
 #### Logins and Passwords
 - Ask to save logins and passwords for websites: Off
@@ -52,7 +55,8 @@ NOTE: Never save passwords in browsers. Use a password manager instead. Check ou
 - Turn off everything
 
 #### Security
-- Turn on everything
+- Deceptive Content and Dangerous Software Protection >
+  - Enable everything
 - Certificates >
   - Query OCSP responder servers to confirm the current validity of certificates: On
 

@@ -210,6 +210,17 @@ Win key + r > type `services.msc` > press enter
 Win key + r > type `regedit` > press enter > Yes
 
 - Navigate to `Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Search`
-- Right click on empty space > New > DWORD (32-bit) Value > name it as `BingSearchEnabled`
-- Double click it and make sure `Value data` is set to 0
+- Right click on empty space > New > DWORD (32-bit) Value > name it `BingSearchEnabled`
+- Double click it and make sure `Value data` is set to `0`
+- Open Task Manager > Processes > select `Windows Explorer` > Right click > Restart
+
+
+
+## Disable Copilot
+Win key + r > type `regedit` > press enter > Yes
+
+- Navigate to `Computer\HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows`
+- In the left navigation window, right click on `Windows` > New > Key > name it `WindowsCopilot`
+- Right click on `WindowsCopilot` > New > DWORD (32-bit) Value > name it `TurnOffWindowsCopilot`
+- Double click it and set `Value data` to `1` > OK
 - Open Task Manager > Processes > select `Windows Explorer` > Right click > Restart
