@@ -41,7 +41,7 @@ Go to Settings
 
 #### Cookies and other site data
 - Block third-party cookies
-- Send a "Do Not Track" Request with your browser traffic: On
+- Send a "Do Not Track" Request with your browser traffic: Off
 
 #### Security
 - Standard protection

@@ -42,7 +42,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 #### Third-party cookies
 - Block third-party cookies
   - Allow related sites to see your activity in the group: Off
-- Send a "Do Not Track" request with your browsing traffic: On
+- Send a "Do Not Track" request with your browsing traffic: Off
 
 #### Ad privacy
 - Ad topics: Off

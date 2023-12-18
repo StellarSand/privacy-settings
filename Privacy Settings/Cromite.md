@@ -30,12 +30,17 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 
 ## Privacy and security
+
+#### Privacy
+- Third-party cookies: Block third-party cookies
+- Send a "Do Not Track" request: Off
+- Preload pages: No preloading
+
+#### Security
 - Safe Browsing >
   - Standard Protection
   - Standard Protection > Help improve security on the web: Off
 - Always use secure connections: On
-- Access payment methods: Off
-- Preload pages: No preloading
 - Use secure DNS >
   - On
   - Choose another provider > NextDNS/Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
@@ -43,11 +48,11 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
     Example: For Quad9, enter https://dns.quad9.net/dns-query
 
 - Always incognito mode > Enable history: Off
-- Send a "Do Not Track" request: On
-- Privacy Sandbox >
-  - Trials: Off
+
+#### Other services
 - Improve search suggestions: Off
 - Touch to Search: Off
+- Access payment methods: Off
 
 
 
@@ -64,9 +69,12 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 
 ## Site settings
-- Cookies: Block third-party cookies
-- Ads: Off
+
+#### Permissions
 - Your device use: Off
+
+#### Content
+- Intrusive ads: Off
 - JavaScript JIT: Off
 - Timezone override: Random
 - Viewport Size Protection: On

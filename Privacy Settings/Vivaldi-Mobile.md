@@ -64,7 +64,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
   
     Example: For MullvadDNS, enter https://adblock.doh.mullvad.net/dns-query
 
-- Send a"Do Not Track" request: On
+- Send a"Do Not Track" request: Off
 - Touch to Search: Off
 - Broadcast IP for best WebRTC performance: Off
 

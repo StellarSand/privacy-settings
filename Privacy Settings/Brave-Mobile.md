@@ -15,7 +15,9 @@ Go to Settings
 - Safe Browsing: Standard protection
 - Allow sites to check if you have payment methods saved: Off
 - Unstoppable Domains: Disabled
-- Ethereum Name Service: Disabled
+- Ethereum Name Service >
+  - Resolve method: Disabled
+  - ENS offchain lookup: Disabled
 - Solana Name Service: Disabled
 - Use secure DNS >
   - On
@@ -24,7 +26,7 @@ Go to Settings
     Example: For Quad9, enter https://dns.quad9.net/dns-query
 
 - Block cookie consent notices: On
-- Send a "Do Not Track" request: On
+- Send a "Do Not Track" request: Off
 - Allow privacy-preserving product analytics (P3A): Off
 - Automatically send diagnostic reports: Off
 - Automatically send daily usage ping to Brave: Off
@@ -64,7 +66,7 @@ NOTE: Never save passwords in browsers. Use a password manager instead. Check ou
 
 
 ## Site settings
-- Cookies >
+- Third-party cookies >
   - Block third-party cookies
 
 

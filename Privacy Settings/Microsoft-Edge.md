@@ -38,7 +38,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 - Strict
 
 #### Privacy
-- Send "Do Not Track" requests: On
+- Send "Do Not Track" requests: Off
 - Allow sites to check if you have payment methods saved: Off
 
 #### Optional diagnostic data

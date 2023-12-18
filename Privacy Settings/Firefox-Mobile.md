@@ -7,10 +7,16 @@ Go to Settings.
 
 
 ## Search
+
+#### Search engines
 - Default search engine: DuckDuckGo or add any other privacy respecting search engine.
-- Autocomplete URLs: Off
-- Show clipboard suggestions: Off
+
+#### Suggestions from search engine
 - Show search suggestions: Off
+
+#### Address bar preferences
+- Show clipboard suggestions: Off
+- Autocomplete URLs: Off
 
 
 
@@ -58,7 +64,6 @@ NOTE: Never save payment info or credit card details in browsers. A password man
 
 
 
-
 ## Data collection
 **This section does not apply to Fennec**
 - Usage and technical data: Off
@@ -71,10 +76,8 @@ NOTE: Never save payment info or credit card details in browsers. A password man
 Check [recommended extensions](https://github.com/StellarSand/privacy-settings#recommended-extensions) to add
 
 
-
 ---
 ---
-
 
 
 ## Further Hardening
@@ -82,8 +85,8 @@ Check [recommended extensions](https://github.com/StellarSand/privacy-settings#r
 - For further hardening of Firefox Beta and Fennec, check out [arkenfox user.js](https://github.com/arkenfox/user.js).
 
 NOTE 1: To use user.js, place it in
-- Firefox Beta: /data/data/org.mozilla.firefox_beta/files/mozilla/SomeAlphanumericText.default/
-- Fennec: /data/data/org.mozilla.fennec_fdroid/files/mozilla/SomeAlphanumericText.default/
+- Firefox Beta: `/data/data/org.mozilla.firefox_beta/files/mozilla/<profile name>.default/`
+- Fennec: `/data/data/org.mozilla.fennec_fdroid/files/mozilla/<profile name>.default/`
 
 Check the permissions for pref.js already present in that path and give the same permissions to user.js
 

@@ -51,7 +51,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
   - Ad topics: Off
   - Site-suggested ads: Off
   - Ad measurement: Off
-- Send a "Do Not Track" request: On
+- Send a "Do Not Track" request: Off
 - Preload pages: No preloading
 - Safe Browsing (Does not apply to Ungoogled Chromium) >
   - Standard Protection

@@ -41,7 +41,7 @@ Go to Settings.
 
 #### Website Privacy Preferences
 - Tell websites not to sell or share my data: On
-- Send websites a “Do Not Track” request: On
+- Send websites a “Do Not Track” request: Off
 
 #### Logins and Passwords
 - Ask to save logins and passwords for websites: Off

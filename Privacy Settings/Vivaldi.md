@@ -38,6 +38,12 @@ Go to Settings.
 
 ## Privacy and Security
 
+#### Tracking prevention
+- Ask Websites Not to Track Me: Off
+- Block Ads on Abusive Sites: On
+- Block Hyperlink Audit Tracking: On
+- Broadcast IP for Best WebRTC Performance: Off
+
 #### Google Services
 - Phishing and malware protection: On
 - Form Autofill Assist: Off
@@ -49,11 +55,6 @@ Go to Settings.
 #### Search
 - Suggestions in Address Field: Off
 - Suggestions in Search Field: Off
-
-#### Tracking prevention
-- Ask Websites Not to Track Me: On
-- Block Ads on Abusive Sites: On
-- Broadcast IP for Best WebRTC Performance: Off
 
 #### Show Typed History
 - In Address Field: Off

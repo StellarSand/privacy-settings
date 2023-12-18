@@ -29,9 +29,11 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 - Optional diagnostic data: Off
 
 #### Site settings
-- Cookies: Block third-party cookies
-- Ads: Off
 - Your device use: Off
+- Third-party cookies >
+  - Block third-party cookies
+  - Block third-party cookies > Allow related sites to see your activity in the group: Off
+- Intrusive ads: Off
 
 #### Show me search and site suggestions using my typed characters
 - Off
@@ -45,7 +47,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 - Allow acceptable ads: Off
 
 #### Do Not Track
-- On
+- Off
 
 
 
