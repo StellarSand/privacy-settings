@@ -4,6 +4,23 @@ Any notable changes in the settings will be accounted here.
 
 
 
+## Dec 18, 2023
+- Disabled "Do not track" on all browsers
+
+#### Brave Mobile
+- Added `ENS offchain lookup` in [Brave shields & privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy) > `Ethereum Name Service`
+
+#### Cromite
+- Added `Third-party cookies` in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Cromite.md#privacy-and-security) > [Privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Cromite.md#privacy)
+
+#### Microsoft Edge Mobile
+- Added `Allow related sites to see your activity in the group` in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#privacy-and-security) > [Site settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#site-settings) > Third-party cookies
+
+#### Vivaldi Desktop
+- Added `Block Hyperlink Audit Tracking` in [Privacy and Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md#privacy-and-security) > [Tracking prevention](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md#tracking-prevention)
+
+
+
 ## Nov 25, 2023
 
 #### Firefox Desktop
