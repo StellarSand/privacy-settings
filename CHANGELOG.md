@@ -1,7 +1,5 @@
 # Changelog
 
-Any notable changes in the settings will be accounted here.
-
 
 
 ## Dec 18, 2023
