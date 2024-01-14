@@ -24,29 +24,29 @@
 | <img src="icons/android.png" width="20" align="center"> [Android 14](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-14.md) | 14 (U) |
 | <img src="icons/android_studio.png" width="20" align="center"> [Android Studio](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-Studio.md) | - |
 | <img src="icons/apple.png" width="20" align="center"> [Apple ID](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Apple-ID.md) | - |
-| <img src="icons/brave.png" width="20" align="center"> [Brave Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md) | 1.61.109 |
-| <img src="icons/brave.png" width="20" align="center"> [Brave Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md) | 1.61.109 |
+| <img src="icons/brave.png" width="20" align="center"> [Brave Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md) | 1.61.116 |
+| <img src="icons/brave.png" width="20" align="center"> [Brave Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md) | 1.61.116 |
 | <img src="icons/brave_search.png" width="20" align="center"> [Brave Search](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Search.md) | - |
 | <img src="icons/chatgpt.png" width="20" align="center"> [ChatGPT](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/ChatGPT.md) | - |
-| <img src="icons/cromite.png" width="20" align="center"> [Cromite](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Cromite.md) | 120.0.6099.144 |
+| <img src="icons/cromite.png" width="20" align="center"> [Cromite](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Cromite.md) | 120.0.6099.216 |
 | <img src="icons/discord.png" width="20" align="center"> [Discord](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Discord.md) | - |
 | <img src="icons/duckduckgo.png" width="20" align="center"> [DuckDuckGo Search](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/DuckDuckGo-Search.md) | - |
 | <img src="icons/facebook.png" width="20" align="center"> [Facebook](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Facebook.md) | - |
-| <img src="icons/firefox.png" width="20" align="center"> [Firefox Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md) | 121.0 |
-| <img src="icons/firefox_focus.png" width="20" align="center"> [Firefox Focus](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus.md) | 121.0 |
-| <img src="icons/firefox.png" width="20" align="center"> [Firefox Mobile/Fennec](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md) | 121.0 |
+| <img src="icons/firefox.png" width="20" align="center"> [Firefox Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md) | 121.0.1 |
+| <img src="icons/firefox_focus.png" width="20" align="center"> [Firefox Focus](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus.md) | 121.1.0 |
+| <img src="icons/firefox.png" width="20" align="center"> [Firefox Mobile/Fennec](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md) | 121.1.0 |
 | <img src="icons/gboard.png" width="20" align="center"> [Gboard](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Gboard.md) (Google Keyboard) | 13.5.04.566637127 |
 | <img src="icons/gmail.png" width="20" align="center"> [Gmail](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Gmail.md) | - |
 | <img src="icons/google.png" width="20" align="center"> [Google Account](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md) | - |
-| <img src="icons/google_chrome.png" width="20" align="center"> [Google Chrome/Ungoogled Chromium Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md) | 120.0.6099.130 |
-| <img src="icons/google_chrome.png" width="20" align="center"> [Google Chrome/Ungoogled Chromium Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md) | 120.0.6099.115 |
+| <img src="icons/google_chrome.png" width="20" align="center"> [Google Chrome/Ungoogled Chromium Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md) | 120.0.6099.217 |
+| <img src="icons/google_chrome.png" width="20" align="center"> [Google Chrome/Ungoogled Chromium Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md) | 120.0.6099.210 |
 | <img src="icons/google.png" width="20" align="center"> [Google Search](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Search.md) | - |
 | <img src="icons/instagram.png" width="20" align="center"> [Instagram](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Instagram.md) | - |
 | <img src="icons/linkedin.png" width="20" align="center"> [LinkedIn](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/LinkedIn.md) | - |
 | <img src="icons/logitech.png" width="20" align="center"> [Logi Options+](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Logi-Options%2B.md) | - |
 | <img src="icons/logitech.png" width="20" align="center"> [Logitech Options](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Logitech-Options.md) | - |
-| <img src="icons/microsoft_edge.png" width="20" align="center"> [Microsoft Edge Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md) | 120.0.2210.91 |
-| <img src="icons/microsoft_edge.png" width="20" align="center"> [Microsoft Edge Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md) | 120.0.2210.84 |
+| <img src="icons/microsoft_edge.png" width="20" align="center"> [Microsoft Edge Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md) | 120.0.2210.133 |
+| <img src="icons/microsoft_edge.png" width="20" align="center"> [Microsoft Edge Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md) | 120.0.2210.126 |
 | <img src="icons/proton_mail.svg" width="20" align="center"> [Proton Mail](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Proton-Mail.md) | - |
 | <img src="icons/reddit.png" width="20" align="center"> [Reddit](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Reddit.md) | - |
 | <img src="icons/signal.png" width="20" align="center"> [Signal](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Signal.md) | - |
@@ -55,11 +55,11 @@
 | <img src="icons/telegram.png" width="20" align="center"> [Telegram](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Telegram.md) | - |
 | <img src="icons/twitter.png" width="20" align="center"> [Twitter (X)](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Twitter.md) | - |
 | <img src="icons/vscode.png" width="20" align="center"> [Visual Studio Code](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Visual-Studio-Code.md) | - |
-| <img src="icons/vivaldi.png" width="20" align="center"> [Vivaldi Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md) | 6.5.3206.48 |
-| <img src="icons/vivaldi.png" width="20" align="center"> [Vivaldi Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md) | 6.4.3171.110 |
+| <img src="icons/vivaldi.png" width="20" align="center"> [Vivaldi Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md) | 6.5.3206.53 |
+| <img src="icons/vivaldi.png" width="20" align="center"> [Vivaldi Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md) | 6.5.3217.45 |
 | <img src="icons/whatsapp.png" width="20" align="center"> [WhatsApp](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md) | - |
-| <img src="icons/windows.png" width="20" align="center"> [Windows 10](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md) | 22H2 (OS Build 19045.3803) |
-| <img src="icons/windows.png" width="20" align="center"> [Windows 11](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md) | 23H2 (OS Build 22631.2861) |
+| <img src="icons/windows.png" width="20" align="center"> [Windows 10](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md) | 22H2 (OS Build 19045.3930) |
+| <img src="icons/windows.png" width="20" align="center"> [Windows 11](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md) | 23H2 (OS Build 22631.3007) |
 | <img src="icons/youtube.png" width="20" align="center"> [YouTube](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/YouTube.md) | - |
 | <img src="icons/zoom.png" width="20" align="center"> [Zoom](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Zoom.md) | - |
 
@@ -80,10 +80,10 @@ All notable changes are accounted in the [changelog](https://github.com/StellarS
 ## FAQs
 
 #### Will following the settings mentioned here ensure complete privacy?
-While following these settings can significantly minimize data collection and tracking by the mentioned services/software, it is important to note that absolute privacy and security on the internet are difficult to achieve. Even with these settings, there may still be some level of data collection or tracking. It is advisable to explore and utilize privacy-respecting alternatives whenever possible for enhanced privacy.
+Following these settings can significantly minimize data collection and tracking by the mentioned services/software, but it is important to note that absolute privacy and security on the internet are difficult to achieve. Even with these settings, there may still be some level of data collection or tracking. It is advisable to explore and utilize privacy-respecting alternatives whenever possible for enhanced privacy.
 
 #### Why are privacy invading services like Facebook, Zoom, Google etc. mentioned here? Isn't this repo focused on privacy?
-While the aim of this repo is to promote privacy, there may be instances where the use of privacy-invading services/software is necessary. For example, using Zoom for work meetings or a social media platform for business purposes. The goal here is to minimize data collection and enhance digital privacy as much as possible, even when using privacy-invading services/software. However, it is highly encouraged to explore and adopt better privacy-respecting alternatives whenever available and suitable for your needs.
+Although the aim of this repo is to promote privacy, there may be instances where the use of privacy-invading services/software is necessary. For example, using Zoom for work meetings or a social media platform for business purposes. The goal here is to minimize data collection and enhance digital privacy as much as possible, even when using privacy-invading services/software. However, it is highly encouraged to explore and adopt better privacy-respecting alternatives whenever available and suitable for your needs.
 
 #### The settings for a particular software/service was updated months ago, when will it be updated according to latest version?
 Settings for softwares/services may not require frequent updates with each new version. If there have been no significant changes that affect the settings, it will not be updated. If the latest version is mentioned, the settings provided already apply to that version, even if they were last updated months ago.
