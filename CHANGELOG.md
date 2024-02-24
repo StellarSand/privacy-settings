@@ -2,6 +2,47 @@
 
 
 
+## Feb 23, 2024
+
+#### Brave Desktop
+- Added `Manage V8 security` in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#privacy-and-security) > [Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#security)
+
+#### ChatGPT
+- Added [Personalization](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/ChatGPT.md#personalization)
+- Added `Improve the model for everyone` in [Data Controls](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/ChatGPT.md#data-controls)
+
+#### Cromite
+- Added `Lock Incognito tabs when you leave Chrome` in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Cromite.md#privacy-and-security) > [Privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Cromite.md#privacy)
+
+#### FireFox Focus
+- Added `Use fingerprint to unlock app` in [Privacy & Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus.md#privacy--security) > [Switching Apps](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus.md#switching-apps)
+
+#### Firefox Mobile
+- Added `Tell websites not to share & sell data` in [Enhanced Tracking Protection](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md#enhanced-tracking-protection)
+
+#### Google Chrome Desktop
+- Added `Manage V8 security` in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md#privacy-and-security) > [Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md#security)
+
+#### Google Chrome Mobile
+- Added `Lock Incognito tabs when you leave Chrome` in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md#privacy-and-security)
+
+#### Microsoft Edge Desktop
+- Added [Microsoft Wallet](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#microsoft-wallet) in [Profiles](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#profiles)
+
+#### Microsoft Edge Mobile
+- Added `Require biometric or PIN` in [Accounts](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#accounts) > [Passwords](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#passwords)
+- Added [Improve quality of shortcuts on homepage](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#improve-quality-of-shortcuts-on-homepage) in [Privacy an security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#privacy-and-security)
+- Added `Copilot` in [General](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#general)
+
+#### Reddit
+- Added [Advanced](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Reddit.md#advanced) in [Profile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Reddit.md#profile)
+
+#### Vivaldi Mobile
+- Added [Search Engine settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#search-engine-settings)
+- Added `AdBlock Warning Removal List` in [Tracker and Ad Blocking](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#tracker-and-ad-blocking) > [Manage Ad Blocking Sources](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#manage-ad-blocking-sources)
+
+
+
 ## Dec 18, 2023
 - Disabled "Do not track" on all browsers
 
@@ -344,7 +385,7 @@ Added
 
 
 ## Apr 30, 2022
-- Updated URL of [DNS providers list](https://www.privacyguides.org/dns) and added encrypted DNS examples for non-technical users in [Android 10](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#advanced), [Android 11](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-11.md#advanced), [Android 12](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-12.md#private-dns), [Brave Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#security), [Brave Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy), [Firefox Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#network-settings), [Google Chrome Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md#security), [Google Chrome Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md#privacy-and-security), [Microsoft Edge Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#security), [Vivaldi Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#privacy-and-security), [Windows 10](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#encrypted-dns) and [Windows 11](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#encrypted-dns)
+- Updated URL of [DNS providers list](https://www.privacyguides.org/dns) and added encrypted DNS examples for non-technical users in [Android 11](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-11.md#advanced), [Android 12](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-12.md#private-dns), [Brave Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#security), [Brave Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy), [Firefox Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#network-settings), [Google Chrome Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md#security), [Google Chrome Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md#privacy-and-security), [Microsoft Edge Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#security), [Vivaldi Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#privacy-and-security), [Windows 10](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#encrypted-dns) and [Windows 11](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#encrypted-dns)
 
 #### Brave Desktop
 - Added `Auto-redirect AMP pages` in [Shields](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#shields)
@@ -448,12 +489,6 @@ Added
 
 
 ## Jan 10, 2022
-
-#### Android 10
-- Added `Wi-Fi preferences` in [Network & internet](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#network--internet) > [Wi-Fi](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#wi-fi)
-- Added `Nearby Share` > `Device visibility` in [Connected devices](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#connected-devices) > [Connection preferences](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#connection-preferences)
-- Added [SIM card lock](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#sim-card-lock) in [Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#security)
-- Added [System](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-10.md#system)
 
 #### Android 11
 - Added `Wi-Fi preferences` in [Network & internet](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-11.md#network--internet) > [Wi-Fi](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-11.md#wi-fi)
