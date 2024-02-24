@@ -35,6 +35,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 - Third-party cookies: Block third-party cookies
 - Send a "Do Not Track" request: Off
 - Preload pages: No preloading
+- Lock Incognito tabs when you leave Cromite: On
 
 #### Security
 - Safe Browsing >

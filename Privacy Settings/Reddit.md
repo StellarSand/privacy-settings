@@ -5,7 +5,10 @@ Go to [User Settings](https://www.reddit.com/settings/account).
 
 
 ## Profile
-Remove all optional info like About etc and don't use your own picture as Avatar or Banner images or completely remove them.
+Remove all optional info like `About` etc. Don't use your own picture as Avatar or Banner images or completely remove them.
+
+#### Advanced
+- Active in communities visibility: Off
 
 
 
@@ -29,3 +32,11 @@ NOTE 2: The backup codes is required to login, if 2FA method is lost, broken or 
 ## Chat & Messaging
 - Who can send you chat requests: Accounts older than 30 days
 - Who can send you private messages: select `Everyone` or `Nobody` and manually add users who can send private messages
+
+
+---
+---
+
+
+Click on your username on top right
+- Online Status: Off

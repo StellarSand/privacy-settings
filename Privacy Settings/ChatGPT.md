@@ -2,5 +2,12 @@
 
 At the bottom left, click on your username > go to Settings.
 
+
+
+## Personalization
+- Memory: Off
+
+
+
 ## Data Controls
-- Chat History & Training: Off
+- Improve the model for everyone: Off

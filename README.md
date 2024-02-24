@@ -17,36 +17,35 @@
 | Name | Version <br>(If Applicable) |
 | --- | -- |
 | <img src="icons/amazon.png" width="20" align="center"> [Amazon](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Amazon.md) | - |
-| <img src="icons/android.png" width="20" align="center"> [Android 10](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-10.md) | 10 (Q) |
 | <img src="icons/android.png" width="20" align="center"> [Android 11](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-11.md) | 11 (R) |
 | <img src="icons/android.png" width="20" align="center"> [Android 12/12.1](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-12.md) | 12 (S), 12.1 (12L) |
 | <img src="icons/android.png" width="20" align="center"> [Android 13](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-13.md) | 13 (T) |
 | <img src="icons/android.png" width="20" align="center"> [Android 14](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-14.md) | 14 (U) |
 | <img src="icons/android_studio.png" width="20" align="center"> [Android Studio](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-Studio.md) | - |
 | <img src="icons/apple.png" width="20" align="center"> [Apple ID](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Apple-ID.md) | - |
-| <img src="icons/brave.png" width="20" align="center"> [Brave Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md) | 1.61.116 |
-| <img src="icons/brave.png" width="20" align="center"> [Brave Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md) | 1.61.116 |
+| <img src="icons/brave.png" width="20" align="center"> [Brave Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md) | 1.63.162 |
+| <img src="icons/brave.png" width="20" align="center"> [Brave Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md) | 1.62.165 |
 | <img src="icons/brave_search.png" width="20" align="center"> [Brave Search](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Search.md) | - |
 | <img src="icons/chatgpt.png" width="20" align="center"> [ChatGPT](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/ChatGPT.md) | - |
-| <img src="icons/cromite.png" width="20" align="center"> [Cromite](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Cromite.md) | 120.0.6099.216 |
+| <img src="icons/cromite.png" width="20" align="center"> [Cromite](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Cromite.md) | 122.0.6261.64 |
 | <img src="icons/discord.png" width="20" align="center"> [Discord](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Discord.md) | - |
 | <img src="icons/duckduckgo.png" width="20" align="center"> [DuckDuckGo Search](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/DuckDuckGo-Search.md) | - |
 | <img src="icons/facebook.png" width="20" align="center"> [Facebook](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Facebook.md) | - |
-| <img src="icons/firefox.png" width="20" align="center"> [Firefox Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md) | 121.0.1 |
-| <img src="icons/firefox_focus.png" width="20" align="center"> [Firefox Focus](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus.md) | 121.1.0 |
-| <img src="icons/firefox.png" width="20" align="center"> [Firefox Mobile/Fennec](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md) | 121.1.0 |
-| <img src="icons/gboard.png" width="20" align="center"> [Gboard](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Gboard.md) (Google Keyboard) | 13.5.04.566637127 |
+| <img src="icons/firefox.png" width="20" align="center"> [Firefox Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md) | 123.0 |
+| <img src="icons/firefox_focus.png" width="20" align="center"> [Firefox Focus](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus.md) | 123.0 |
+| <img src="icons/firefox.png" width="20" align="center"> [Firefox Mobile/Fennec](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md) | 123.0 |
+| <img src="icons/gboard.png" width="20" align="center"> [Gboard](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Gboard.md) (Google Keyboard) | 13.7.12.582282722 |
 | <img src="icons/gmail.png" width="20" align="center"> [Gmail](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Gmail.md) | - |
 | <img src="icons/google.png" width="20" align="center"> [Google Account](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md) | - |
-| <img src="icons/google_chrome.png" width="20" align="center"> [Google Chrome/Ungoogled Chromium Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md) | 120.0.6099.217 |
-| <img src="icons/google_chrome.png" width="20" align="center"> [Google Chrome/Ungoogled Chromium Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md) | 120.0.6099.210 |
+| <img src="icons/google_chrome.png" width="20" align="center"> [Google Chrome/Ungoogled Chromium Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md) | 122.0.6261.70 |
+| <img src="icons/google_chrome.png" width="20" align="center"> [Google Chrome/Ungoogled Chromium Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md) | 121.0.6167.180 |
 | <img src="icons/google.png" width="20" align="center"> [Google Search](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Search.md) | - |
 | <img src="icons/instagram.png" width="20" align="center"> [Instagram](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Instagram.md) | - |
 | <img src="icons/linkedin.png" width="20" align="center"> [LinkedIn](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/LinkedIn.md) | - |
 | <img src="icons/logitech.png" width="20" align="center"> [Logi Options+](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Logi-Options%2B.md) | - |
 | <img src="icons/logitech.png" width="20" align="center"> [Logitech Options](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Logitech-Options.md) | - |
-| <img src="icons/microsoft_edge.png" width="20" align="center"> [Microsoft Edge Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md) | 120.0.2210.133 |
-| <img src="icons/microsoft_edge.png" width="20" align="center"> [Microsoft Edge Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md) | 120.0.2210.126 |
+| <img src="icons/microsoft_edge.png" width="20" align="center"> [Microsoft Edge Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md) | 122.0.2365.52 |
+| <img src="icons/microsoft_edge.png" width="20" align="center"> [Microsoft Edge Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md) | 121.0.2277.133 |
 | <img src="icons/proton_mail.svg" width="20" align="center"> [Proton Mail](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Proton-Mail.md) | - |
 | <img src="icons/reddit.png" width="20" align="center"> [Reddit](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Reddit.md) | - |
 | <img src="icons/signal.png" width="20" align="center"> [Signal](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Signal.md) | - |
@@ -56,10 +55,10 @@
 | <img src="icons/twitter.png" width="20" align="center"> [Twitter (X)](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Twitter.md) | - |
 | <img src="icons/vscode.png" width="20" align="center"> [Visual Studio Code](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Visual-Studio-Code.md) | - |
 | <img src="icons/vivaldi.png" width="20" align="center"> [Vivaldi Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md) | 6.5.3206.53 |
-| <img src="icons/vivaldi.png" width="20" align="center"> [Vivaldi Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md) | 6.5.3217.45 |
+| <img src="icons/vivaldi.png" width="20" align="center"> [Vivaldi Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md) | 6.5.3217.122 |
 | <img src="icons/whatsapp.png" width="20" align="center"> [WhatsApp](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md) | - |
-| <img src="icons/windows.png" width="20" align="center"> [Windows 10](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md) | 22H2 (OS Build 19045.3930) |
-| <img src="icons/windows.png" width="20" align="center"> [Windows 11](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md) | 23H2 (OS Build 22631.3007) |
+| <img src="icons/windows.png" width="20" align="center"> [Windows 10](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md) | 22H2 (OS Build 19045.4046) |
+| <img src="icons/windows.png" width="20" align="center"> [Windows 11](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md) | 23H2 (OS Build 22631.3155) |
 | <img src="icons/youtube.png" width="20" align="center"> [YouTube](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/YouTube.md) | - |
 | <img src="icons/zoom.png" width="20" align="center"> [Zoom](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Zoom.md) | - |
 

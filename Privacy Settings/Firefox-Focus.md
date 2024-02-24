@@ -16,7 +16,8 @@ Go to Settings.
 - Block cookies: Block cross-site cookies
 
 #### Switching Apps
-- Stealth: On
+- Use fingerprint to unlock app: On
+- Stealth: On (Only applicable if the above setting is disabled)
 
 #### Security
 - Block potentially dangerous and deceptive sites: On

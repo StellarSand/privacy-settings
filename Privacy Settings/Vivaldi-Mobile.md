@@ -5,17 +5,13 @@ Go to Settings.
 
 
 ## Search engine
-- DuckDuckGo or Startpage.com
+- Standard Tab: DuckDuckGo or Startpage.com
+- Private Tab: DuckDuckGo or Startpage.com
 
 
 
-## Allow Search Suggestions in Address Field
-- Off
-
-
-
-## Show Search Engine Suggestion
-- Off
+## Search Engine settings
+- Allow Search Suggestions in Address Field: Off
 
 
 
@@ -48,6 +44,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 #### Manage Ad Blocking Sources
 - ABP anti-circumvention list: On
+- AdBlock Warning Removal List: On
 - Allow ads from our partners: Off
 - EasyList: On
 - Depending on your region turn on other lists if required like English, German etc.
@@ -71,9 +68,15 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 
 ## Site settings
-- Cookies: Block third-party cookies
-- Ads: Off
+
+#### Permissions
 - Your device use: Off
+
+#### Content
+- Third-party cookies >
+  - Block third-party cookies
+  - Block third-party cookies > Allow related sites to see your activity in the group: Off
+- Intrusive ads: Off
 
 
 

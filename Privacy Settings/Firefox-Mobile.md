@@ -56,6 +56,7 @@ NOTE: Never save payment info or credit card details in browsers. A password man
 ## Enhanced Tracking Protection
 - Enhanced Tracking Protection: On
 - Strict
+- Tell websites not to share & sell data: On
 
 
 

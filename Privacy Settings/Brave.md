@@ -5,31 +5,24 @@ Go to Settings
 
 
 ## Appearance
-- Show Brave News button in address bar: Off
-- Always show full URLs: On
+- Show Brave News button: Off
+- Show Brave Rewards button: Off
+- Show Brave Wallet button: Off
 - Show autocomplete suggestions in address bar >
   - Top sites: Off
   - Leo AI Assistant: Off
+- Always show full URLs: On
 
 
 
 ## Shields
-- Auto-redirect AMP pages: On
-- Auto-redirect tracking URLs: On
-- Prevent sites from fingerprinting me based on my language preferences: On
 - Trackers and ads blocking: Aggressive
 - Upgrade connections to HTTPS: Strict
 - Block fingerprinting: Strict (If you face any issues with sites, change it back to standard)
 - Block cookies: Only cross-site
-
-
-
-## Brave Rewards
-- Show Brave Rewards icon in address bar: Off
-- Show Tip button on sites: Off
-- Open full Brave Rewards settings > 
-  - New tab page ads: Off
-  - Notification ads: Off
+- Auto-redirect AMP pages: On
+- Auto-redirect tracking URLs: On
+- Prevent sites from fingerprinting me based on my language preferences: On
 
 
 
@@ -39,17 +32,16 @@ Go to Settings
 - Automatically send daily usage ping to Brave: Off
 - Automatically send diagnostic reports: Off
 
-#### Cookies and other site data
+#### Third-party cookies
 - Block third-party cookies
 - Send a "Do Not Track" Request with your browser traffic: Off
 
 #### Security
 - Standard protection
-- Use secure DNS >
-  - On
-  - With > Cloudflare/NextDNS or select Custom and provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
-
-    Example: For Quad9, enter https://dns.quad9.net/dns-query
+Encrypt the names of sites that you visit: On
+- Select DNS provider: `Cloudflare`, or select `Add custom DNS service provider` and provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
+<br>Example: For Quad9, enter https://dns.quad9.net/dns-query
+- Manage V8 security: Don’t allow sites to use the V8 optimiser
 
 #### Site and Shields Settings
 - Additional permissions >
@@ -61,7 +53,6 @@ Go to Settings
 ## Web3
 
 #### Wallet
-- Show Brave Wallet icon on toolbar: Off
 - Enable NFT discovery: Off
 - Automatically pin NFTs: Off
 
@@ -74,14 +65,13 @@ Go to Settings
 
 ## Leo
 - Show Leo icon in the sidebar: Off
-- Show suggested prompts in the conversation: Off
 
 
 
 ## Search engine
-- Normal window: DuckDuckGo/Brave/Startpage or any other 
+- Normal window: `DuckDuckGo`/`Brave`/`Startpage` or any other 
 privacy respecting search engine from `Manage search engines and site search`.
-- Private window: DuckDuckGo/Brave/Startpage or any other 
+- Private window: `DuckDuckGo`/`Brave`/`Startpage` or any other 
 privacy respecting search engine from `Manage search engines and site search`.
 - Improve search suggestions: Off
 - Web Discovery Project: Off
@@ -93,7 +83,7 @@ privacy respecting search engine from `Manage search engines and site search`.
 #### Password Manager
 - Settings >
   - Offer to save passwords: Off
-  - Auto Sign-in: Off
+  - Sign in automatically: Off
 
 NOTE: Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
 
@@ -124,18 +114,20 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 ---
 
 
-Open a new tab. Click on Customize at the bottom
+## Brave Rewards
+To disable Brave Rewards go to `brave://rewards` using the URL bar on top.
+<br>If it is currently enabled, click on `Reset (with gear icon)` on top > select the checkbox > click `Reset`
 
-## Background Image
+
+## Additional settings
+Open a new tab. Click on `Customize` at the bottom
+
+#### Background Image
 - Show Sponsored Images: Off
 
-
-
-## Brave News
+#### Brave News
 - Show Brave News: Off
 
-
-
-## Cards
+#### Cards
 - Click Hide for all of them
 - Cards: Off

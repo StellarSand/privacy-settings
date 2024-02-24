@@ -7,7 +7,8 @@ Go to Settings.
 ## General
 
 #### Files and Applications
-- Always ask you where to save files
+- Downloads >
+  - Always ask you where to save files: On
 
 #### Browsing
 - Recommend extensions as you browse: Off
@@ -20,7 +21,6 @@ Go to Settings.
 #### Firefox Home Content
 - Shortcuts > Sponsored shortcuts: Off
 - Recommended by Pocket: Off
-- Snippets: Off
 
 
 
@@ -43,8 +43,8 @@ Go to Settings.
 - Tell websites not to sell or share my data: On
 - Send websites a “Do Not Track” request: Off
 
-#### Logins and Passwords
-- Ask to save logins and passwords for websites: Off
+#### Passwords
+- Ask to save passwords: Off
 
 NOTE: Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
 
@@ -64,7 +64,8 @@ NOTE: Never save passwords in browsers. Use a password manager instead. Check ou
 - Enable HTTPS-Only Mode in all windows
 
 #### DNS over HTTPS
-- Enable secure DNS using: Max Protection >
+- Enable secure DNS using >
+  - Max Protection
   - Choose provider: NextDNS/Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/).
   
     Example: For Quad9, enter https://dns.quad9.net/dns-query

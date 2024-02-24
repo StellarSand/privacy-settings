@@ -10,6 +10,7 @@ Go to Settings
 - Save passwords: Off
 - Auto Sign-in: Off
 - Autofill for other apps: Off
+- Require biometric or PIN: On
  
  NOTE: Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
  
@@ -38,6 +39,9 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 #### Show me search and site suggestions using my typed characters
 - Off
 
+#### Improve quality of shortcuts on homepage
+- Off
+
 #### Tracking prevention
 - On
 - Strict
@@ -52,6 +56,8 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 
 ## General
+- Copilot >
+  - Show Copilot: Off
 - Select search engine: DuckDuckGo
 - Shopping: Off
 

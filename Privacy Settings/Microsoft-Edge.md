@@ -9,25 +9,22 @@ Go to Settings
 #### Microsoft Rewards
 - Earn Microsoft Rewards in Microsoft Edge: Off
 
-#### Personal info
-- Save and fill basic info: Off
-- Save and fill custom info: Off
-
-#### Passwords
-- Offer to save passwords: Off
-- Autofill passwords: Off
-
-NOTE: Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
-
-#### Payment info
-- Save and fill payment info: Off
-- Show Express checkout on sites when you shop: Off
-- Cards you've saved on this device: Remove any payment info if added
-
-NOTE: Never save payment info in browsers. A password manager can be used to also save payment information.
-
 #### Share browsing data with other Windows features
 - Share browsing data with other Windows features: Off
+
+#### Microsoft Wallet
+ Click on `Open Wallet` > Settings
+ 
+- Save and fill payment info: Off
+- Show Express checkout on sites when you shop: Off
+- Track your order status: Off
+- Offer to save passwords: Off
+- Autofill passwords and passkeys: Off
+- Save and fill basic info: Off
+
+NOTE 1: Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
+
+NOTE 2: Never save payment info in browsers. A password manager can be used to also save payment information.
 
 
 
@@ -70,9 +67,16 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 - Include related matches in Find on Page: Off
 
 #### Address bar and search
-- Show me search and site suggestions using my typed characters: Off
-- Search engine used in address bar: DuckDuckGo or add any other privacy respecting search engine from Manage search engines.
+- First click on `Manage search engines` > Add > Add a privacy respecting search engine here like DuckDuckGo, StartPage, Brave etc.
+<br>Example (for DuckDuckGo):
+  - Search engine: DuckDuckGo
+  - Shortcut: duckduckgo.com
+  - URL: `https://duckduckgo.com/?q=%s&ia=web`
+  - Click on 3 dots > Select `Make default`
+
 - Search on new tabs uses search box or address bar: Address bar (if `Search box` is selected it will continue searching with Bing as the search engine)
+- Search suggestions and filters >
+  - Show me search and site suggestions using my typed characters: Off
 
 
 
@@ -83,8 +87,6 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 - Copilot >
   - Show Copilot: Off
   - Show shopping notifications: Off
-- Action center >
-  - Automatically open Action Center to see how you can be rewarded for using Microsoft Edge: Off
 - Search > Automatically open Search: Off
 - Games >
   - Automatically open Casual Games in the side pane: Off
@@ -129,6 +131,5 @@ Open a new tab. Click the gear icon on top right
 
 ## Page settings
 - Layout: Custom
-- Show sponsored links: Off
-- Show greeting: Off
+- Show promoted links: Off
 - Content: Content off
