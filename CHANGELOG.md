@@ -14,7 +14,7 @@
 #### Cromite
 - Added `Lock Incognito tabs when you leave Chrome` in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Cromite.md#privacy-and-security) > [Privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Cromite.md#privacy)
 
-#### FireFox Focus
+#### Firefox Focus
 - Added `Use fingerprint to unlock app` in [Privacy & Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus.md#privacy--security) > [Switching Apps](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus.md#switching-apps)
 
 #### Firefox Mobile
@@ -31,7 +31,7 @@
 
 #### Microsoft Edge Mobile
 - Added `Require biometric or PIN` in [Accounts](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#accounts) > [Passwords](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#passwords)
-- Added [Improve quality of shortcuts on homepage](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#improve-quality-of-shortcuts-on-homepage) in [Privacy an security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#privacy-and-security)
+- Added [Improve quality of shortcuts on homepage](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#improve-quality-of-shortcuts-on-homepage) in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#privacy-and-security)
 - Added `Copilot` in [General](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#general)
 
 #### Reddit

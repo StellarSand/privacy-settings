@@ -38,7 +38,7 @@ Go to Settings
 
 #### Security
 - Standard protection
-Encrypt the names of sites that you visit: On
+- Encrypt the names of sites that you visit: On
 - Select DNS provider: `Cloudflare`, or select `Add custom DNS service provider` and provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
 <br>Example: For Quad9, enter https://dns.quad9.net/dns-query
 - Manage V8 security: Don’t allow sites to use the V8 optimiser
