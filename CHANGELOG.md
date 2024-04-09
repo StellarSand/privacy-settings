@@ -24,7 +24,7 @@
 - Added `Allow audio and video calls from` & `Enhanced call privacy` in [Privacy and safety](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Twitter.md#privacy-and-safety) > [Direct messages](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Twitter.md#direct-messages)
 
 #### Vivaldi Mobile
-- - Added `Lock Private tabs when you leave Vivaldi` in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#privacy-and-security)
+- Added `Lock Private tabs when you leave Vivaldi` in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#privacy-and-security)
 
 
 

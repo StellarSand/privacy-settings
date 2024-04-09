@@ -34,7 +34,7 @@
 | <img src="icons/firefox.png" width="20" align="center"> [Firefox Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md) | 124.2.0 |
 | <img src="icons/firefox_focus.png" width="20" align="center"> [Firefox Focus](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus.md) | 124.2.0 |
 | <img src="icons/firefox.png" width="20" align="center"> [Firefox Mobile/Fennec](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md) | 124.2.0 |
-| <img src="icons/gboard.png" width="20" align="center"> [Gboard](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Gboard.md) (Google Keyboard) | 13.7.12.582282722 |
+| <img src="icons/gboard.png" width="20" align="center"> [Gboard](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Gboard.md) (Google Keyboard) | 14.0.11.612796517 |
 | <img src="icons/gmail.png" width="20" align="center"> [Gmail](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Gmail.md) | - |
 | <img src="icons/google.png" width="20" align="center"> [Google Account](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md) | - |
 | <img src="icons/google_chrome.png" width="20" align="center"> [Google Chrome/Ungoogled Chromium Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md) | 123.0.6312.106 |
@@ -85,7 +85,7 @@ Following these settings can significantly minimize data collection and tracking
 Although the aim of this repo is to promote privacy, there may be instances where the use of privacy-invading services/software is necessary. For example, using Zoom for work meetings or a social media platform for business purposes. The goal here is to minimize data collection and enhance digital privacy as much as possible, even when using privacy-invading services/software. However, it is highly encouraged to explore and adopt better privacy-respecting alternatives whenever available and suitable for your needs.
 
 #### The settings for a particular software/service was updated months ago, when will it be updated according to latest version?
-Settings for softwares/services may not require frequent updates with each new version. If there have been no significant changes that affect the settings, it will not be updated. If the latest version is mentioned, the settings provided already apply to that version, even if they were last updated months ago.
+Settings for softwares/services may not require frequent updates with each new version. If there have been no significant changes that affect the settings, it will not be updated. If the latest version is mentioned, the settings provided already apply to that version, even if they were last updated months ago. Check out the [changelog](https://github.com/StellarSand/privacy-settings/blob/main/CHANGELOG.md) for all the changes.
 
 
 
