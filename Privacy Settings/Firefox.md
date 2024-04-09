@@ -20,7 +20,7 @@ Go to Settings.
 
 #### Firefox Home Content
 - Shortcuts > Sponsored shortcuts: Off
-- Recommended by Pocket: Off
+- Recommended stories: Off
 
 
 

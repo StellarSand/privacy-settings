@@ -53,6 +53,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 ## Privacy and security
 - Always use secure connections: On
+- Lock Private tabs when you leave Vivaldi: On
 - Access payment methods: Off
 - Preload pages: No preloading
 - Use secure DNS >
@@ -75,7 +76,6 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 #### Content
 - Third-party cookies >
   - Block third-party cookies
-  - Block third-party cookies > Allow related sites to see your activity in the group: Off
 - Intrusive ads: Off
 
 

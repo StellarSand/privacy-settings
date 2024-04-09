@@ -15,11 +15,11 @@ Go to Settings & Support > Settings and privacy
 
 #### Security
 - Two-factor authentication >
-  - Authenticator app > Start > Scan the barcode using an authenticator app > Enter 6 digit code > Verify > Save the backup code. 
+  - Authenticator app > Get started > Scan the barcode using an authenticator app > Enter 6 digit code > Confirm > Save the backup code. 
 
 NOTE 1: Use a privacy respecting authenticator app. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
 
-NOTE 2: The backup code is required to login, if 2FA method is lost, broken or unavailable. Keep this code somewhere safe, to prevent loss or unauthorised access. It can be stored in a password manager, in an encrypted note, or write it down somewhere safe.
+NOTE 2: The backup code is required to login, if 2FA method is lost, broken or unavailable. Keep this code somewhere safe, to prevent loss or unauthorized access. It can be stored in a password manager, in an encrypted note, or write it down somewhere safe.
 
 - Password reset protect: On
 
@@ -40,7 +40,9 @@ NOTE 2: The backup code is required to login, if 2FA method is lost, broken or u
 
 #### Direct messages
 - Allow message requests from: No one (Your followers will still be able to message you)
-- Send read receipts: Off
+- Allow audio and video calls from: People you follow (Only available in the app)
+- Enhanced call privacy: On (Only available in the app)
+- Show/send read receipts: Off
 
 #### Spaces
 - Allow followers to see which Spaces you're listening to: Off

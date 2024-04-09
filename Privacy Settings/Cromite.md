@@ -34,13 +34,9 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 #### Privacy
 - Third-party cookies: Block third-party cookies
 - Send a "Do Not Track" request: Off
-- Preload pages: No preloading
 - Lock Incognito tabs when you leave Cromite: On
 
 #### Security
-- Safe Browsing >
-  - Standard Protection
-  - Standard Protection > Help improve security on the web: Off
 - Always use secure connections: On
 - Use secure DNS >
   - On
@@ -52,7 +48,6 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 #### Other services
 - Improve search suggestions: Off
-- Touch to Search: Off
 - Access payment methods: Off
 
 
@@ -88,8 +83,4 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 
 ## Google services
-- Allow Cromite sign-in: Off
-- Help improve Cromite's features and performance: Off
-- Make searches and browsing better: Off
 - Improve search suggestions: Off
-- Touch to Search: Off

@@ -4,9 +4,14 @@ Go to Settings.
 
 
 
+## Set username
+Tap on your profile pic > Username > Save
+
+
+
 ## Account
-- Create your PIN > Create a secure PIN (1234 or 0987 is not a secure pin. Create with at least 6-8 numbers.)
-- After PIN is created, Registration Lock: On
+- Create your PIN > Create a secure PIN (`1234` or `0987` is not a secure pin. Create with at least 6-8 numbers.)
+- Registration Lock: On (after PIN is created)
 
 
 
@@ -21,11 +26,16 @@ Remove any device you don't use.
 
 
 ## Notifications
-- Show: No name or message
+
+#### Messages
+- Show: Select whatever suits you
 
 
 
 ## Privacy
+
+#### Phone number
+- Who can see my number: Nobody
 
 #### Messaging
 - Read receipts: Off
@@ -33,7 +43,8 @@ Remove any device you don't use.
 
 #### Disappearing messages
 - Default timer for new chats: Select whatever suits you
-- For enabling disappearing messages for existing chats: Go to a particular chat > Click 3 dots > Disappearing messages
+- For enabling disappearing messages for existing chats:
+    - Go to a particular chat > Tap 3 dots on top > Disappearing messages
 
 #### App security
 - Screen lock: On
@@ -47,12 +58,14 @@ Remove any device you don't use.
 #### Advanced
 - Always relay calls: On (Might reduce call quality)
 
+
 ---
 ---
+
 
 ## Verify safety number
-Go to a particular chat > Click 3 dots > Chat settings > View safety number
+Go to a particular chat > Tap 3 dots on top > Chat settings > View safety number
 
-Compare the numbers or scan the code. If you and the other person has the same numbers, the session is secure.
+Compare the numbers or scan the code. If you and the other person have the same numbers, the session is secure.
 
 Tap `Mark as verified`.

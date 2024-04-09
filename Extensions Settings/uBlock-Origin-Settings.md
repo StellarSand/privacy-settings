@@ -27,4 +27,4 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLSho
 
 ---
 
-**Click Apply changes. Also click Update now, if available**
+Click `Apply changes`. Also click `Update now`, if available

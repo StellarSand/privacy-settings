@@ -29,6 +29,9 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 #### Diagnostic data
 - Optional diagnostic data: Off
 
+#### Personalization & advertising
+- Allow Microsoft to save your browsing activity: Off
+
 #### Site settings
 - Your device use: Off
 - Third-party cookies >
@@ -60,8 +63,6 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
   - Show Copilot: Off
 - Select search engine: DuckDuckGo
 - Shopping: Off
-
-
 
 ---
 ---

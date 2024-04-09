@@ -65,6 +65,7 @@ Go to Settings
 
 ## Leo
 - Show Leo icon in the sidebar: Off
+- Show Leo in context menu on websites: Off
 
 
 

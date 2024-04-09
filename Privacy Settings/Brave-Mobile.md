@@ -13,6 +13,7 @@ Go to Settings
 - Block Fingerprinting: Fingerprinting blocked (strict) (If you face any issues with sites, change it back to standard)
 - Prevent fingerprinting via language settings: On
 - Safe Browsing: Standard protection
+- Lock Private tabs when you leave Brave: On
 - Allow sites to check if you have payment methods saved: Off
 - Unstoppable Domains: Disabled
 - Ethereum Name Service >
@@ -21,7 +22,7 @@ Go to Settings
 - Solana Name Service: Disabled
 - Use secure DNS >
   - On
-  - Choose another provider > NextDNS/Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
+  - Choose another provider > `NextDNS`/`Cloudflare` or select `Custom` and provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
     
     Example: For Quad9, enter https://dns.quad9.net/dns-query
 
@@ -72,7 +73,7 @@ NOTE: Never save passwords in browsers. Use a password manager instead. Check ou
 
 
 ## Downloads
-- Ask where to save files: On
+- Ask where to save files (if SD card is detected): On
 - Automatically open when possible: Off
 - Show download progress notifications: On
 
