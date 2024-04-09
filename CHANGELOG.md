@@ -2,6 +2,32 @@
 
 
 
+## Apr 09, 2024
+
+#### Brave Desktop
+- Added `Show Leo in context menu on websites` in [Leo](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#leo)
+
+#### Brave Mobile
+- Added `Lock Private tabs when you leave Brave` in [Brave shields & privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
+
+#### Microsoft Edge Desktop
+- Added [Site permissions](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#site-permissions) in [Cookies and site permissions](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#cookies-and-site-permissions)
+
+#### Microsoft Edge Mobile
+- Added [Personalization & advertising](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#personalization--advertising) in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#privacy-and-security)
+
+#### Signal
+- Added [Set username](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Signal.md#set-username)
+- Added [Phone number](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Signal.md#phone-number) in [Privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Signal.md#privacy)
+
+#### Twitter (X)
+- Added `Allow audio and video calls from` & `Enhanced call privacy` in [Privacy and safety](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Twitter.md#privacy-and-safety) > [Direct messages](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Twitter.md#direct-messages)
+
+#### Vivaldi Mobile
+- - Added `Lock Private tabs when you leave Vivaldi` in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#privacy-and-security)
+
+
+
 ## Feb 23, 2024
 
 #### Brave Desktop
@@ -136,8 +162,6 @@
 - Added `Always use secure connections` in [Brave shields & privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
 
 #### Cromite
-- Some changes to `Safe Browsing` in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Cromite.md#privacy-and-security)
-- Added `Touch to Search` in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Cromite.md#privacy-and-security)
 - Added `Enable anti-circumvention and snippets` in [Adblock Plus settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Cromite.md#adblock-plus-settings)
 - Added `Timezone override` in [Site settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Cromite.md#site-settings)
 
