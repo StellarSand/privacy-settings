@@ -62,11 +62,15 @@
 
 
 ## Extension Settings
-- Download uBlock Origin: 
+[uBlock Origin settings](https://github.com/StellarSand/privacy-settings/blob/main/Extensions%20Settings/uBlock-Origin-Settings.md)
+
+<details>
+  <summary><b>Download uBlock Origin</b></summary> 
+  
   - [Google Chrome/Chromium based browsers (Desktop)](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
   - [Firefox Desktop](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) (for `Firefox Mobile` & `Fennec` check in the `Add-ons`)
   - [Microsoft Edge Desktop](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)
-- [uBlock Origin settings](https://github.com/StellarSand/privacy-settings/blob/main/Extensions%20Settings/uBlock-Origin-Settings.md)
+</details>
 
 
 

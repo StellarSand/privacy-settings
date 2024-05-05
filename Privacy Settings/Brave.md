@@ -38,8 +38,8 @@ Go to Settings
 
 #### Security
 - Standard protection
-- Encrypt the names of sites that you visit: On
-- Select DNS provider: `Cloudflare`, or select `Add custom DNS service provider` and provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
+- Use secure DNS: On
+- Select DNS provider: `Cloudflare`, or select `Add custom DNS service provider` and provide URL for other secure DNS from [this list](https://www.privacyguides.org/en/dns/)
 <br>Example: For Quad9, enter https://dns.quad9.net/dns-query
 - Manage V8 security: Don’t allow sites to use the V8 optimiser
 
@@ -54,6 +54,7 @@ Go to Settings
 
 #### Wallet
 - Enable NFT discovery: Off
+- Enable Brave Wallet in Private Windows: Off
 - Automatically pin NFTs: Off
 
 #### Web3 Domains
@@ -70,9 +71,9 @@ Go to Settings
 
 
 ## Search engine
-- Normal window: `DuckDuckGo`/`Brave`/`Startpage` or any other 
+- Normal window: `DuckDuckGo`/`Brave`/`Startpage` or add any other 
 privacy respecting search engine from `Manage search engines and site search`.
-- Private window: `DuckDuckGo`/`Brave`/`Startpage` or any other 
+- Private window: `DuckDuckGo`/`Brave`/`Startpage` or add any other 
 privacy respecting search engine from `Manage search engines and site search`.
 - Improve search suggestions: Off
 - Web Discovery Project: Off

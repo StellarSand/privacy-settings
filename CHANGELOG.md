@@ -203,7 +203,7 @@
 - Added [Brave wallet](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-wallet) and [Appearance](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#appearance)
 
 #### Google Chrome Desktop
-- Added [Ad privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md#ad-privacy) in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md#privacy-and-security)
+- Added [Ads privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md#ads-privacy) in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md#privacy-and-security)
 
 
 

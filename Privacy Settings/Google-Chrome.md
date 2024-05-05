@@ -44,17 +44,17 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
   - Allow related sites to see your activity in the group: Off
 - Send a "Do Not Track" request with your browsing traffic: Off
 
-#### Ad privacy
+#### Ads privacy
 - Ad topics: Off
 - Site-suggested ads: Off
-- Ad measurement: Off
+- Ads measurement: Off
 
 #### Security
 - Standard Protection
   - Help improve security on the web for everyone: Off
 - Always use secure connections: On
-- Encrypt the names of sites that you visit: On
-- Select DNS provider: `Cloudflare`, or select `Add custom DNS service provider` and provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
+- Use secure DNS: On
+- Select DNS provider: `Cloudflare`, or select `Add custom DNS service provider` and provide URL for other secure DNS from [this list](https://www.privacyguides.org/en/dns/)
 <br>Example: For Quad9, enter https://dns.quad9.net/dns-query
 - Manage V8 security: Don’t allow sites to use the V8 optimiser
 

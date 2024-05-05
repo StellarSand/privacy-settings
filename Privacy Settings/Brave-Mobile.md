@@ -22,7 +22,7 @@ Go to Settings
 - Solana Name Service: Disabled
 - Use secure DNS >
   - On
-  - Choose another provider > `NextDNS`/`Cloudflare` or select `Custom` and provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
+  - Choose another provider > `NextDNS`/`Cloudflare` or select `Custom` and provide URL for other secure DNS from [this list](https://www.privacyguides.org/en/dns/)
     
     Example: For Quad9, enter https://dns.quad9.net/dns-query
 

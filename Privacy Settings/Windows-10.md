@@ -68,19 +68,19 @@ Do not link
 
 #### Apps & features
 Uninstall anything you don't use like XBox, candy crush, some other preinstalled apps/games etc.
-Be sure not to uninstall anything important. If you have doubts about any app, either ask or search the net.
+Be sure not to uninstall anything important. If you have doubts about any app, search the net.
 
 
 
 ## Accounts
 
 #### Your info
-Delete your account picture and set it to default. Under Create your picture, click on Browse for one.
-- Go to C:\Users\Username\AppData\Roaming\Microsoft\Windows\AccountPictures and delete your picture.
-- Go to C:\ProgramData\Microsoft\User Account Pictures and select any one.
+Delete your account picture and set it to default as mentioned below:
+- Choose a file > Browse files
+- Go to `C:\Users\JohnDoe\AppData\Roaming\Microsoft\Windows\AccountPictures` and delete your picture. (Replace `JohnDoe` with your username)
+- Go to `C:\ProgramData\Microsoft\User Account Pictures` and select `guest.png`.
 
-NOTE: AppData is a hidden folder by default.
-- To enable: in file explorer on top click View > select Hidden items.
+NOTE: `AppData` is a hidden folder by default. To enable: in file explorer on top click `View` > select `Hidden items`.
 
 #### Sign-in options
 - Require sign-in: When PC wakes up from sleep
@@ -140,12 +140,12 @@ NOTE: AppData is a hidden folder by default.
 
 
 ## Encrypted DNS
-Win key + r > type ncpa.cpl > press enter
+Win key + r > type `ncpa.cpl` > press enter
 
 Right click on Ethernet or Wifi depending on what you are using > Properties
 
 - Select Internet Protocol Version 4 (TCP/IPv4) > Properties > select Use the following DNS server addresses:
-  - Preferred DNS server: enter IPv4 address of a provider from [this list](https://www.privacyguides.org/dns/)
+  - Preferred DNS server: enter IPv4 address of a provider from [this list](https://www.privacyguides.org/en/dns/)
 
     Example: For Quad9, enter 9.9.9.9
   
@@ -153,10 +153,10 @@ Right click on Ethernet or Wifi depending on what you are using > Properties
 
     Example: For Quad9, enter 149.112.112.112
 
-  Click OK
+  Click `OK`
 
 - Select Internet Protocol Version 6 (TCP/IPv6) > Properties > select Use the following DNS server addresses:
-  - Preferred DNS server: enter IPv6 address of a provider from [this list](https://www.privacyguides.org/dns/)
+  - Preferred DNS server: enter IPv6 address of a provider from [this list](https://www.privacyguides.org/en/dns/)
 
     Example: For Quad9, enter 2620:fe::fe
   
@@ -164,7 +164,7 @@ Right click on Ethernet or Wifi depending on what you are using > Properties
 
     Example: For Quad9, enter 2620:fe::9
   
-  Click OK
+  Click `OK`
 
 
 ---
@@ -172,33 +172,33 @@ Right click on Ethernet or Wifi depending on what you are using > Properties
 
 
 ## Disable ads in file explorer
-Open file explorer > click "View" on top > Options > Change folder and search options
-- Click "View" on top of the new popup >
-  - Uncheck "Show sync provider notifications"
-  - Click Apply
-  - Also click "Apply to Folders" on top (if available)
+Open file explorer > click `View` on top > Options > Change folder and search options
+- Click `View` on top of the new popup >
+  - Uncheck `Show sync provider notifications`
+  - Click `Apply`
+  - Also click `Apply to Folders` on top (if available)
 
 
 
 ## Disable telemetry service
-Win key + r > type services.msc > press enter
+Win key + r > type `services.msc` > press enter
 
-- Double-click on "Connected User Experiences and Telemetry" >
-  - Service Status: Stopped (Click on Stop, if service is running)
+- Double-click on `Connected User Experiences and Telemetry` >
+  - Service Status: Stopped (Click on `Stop`, if service is running)
   - Startup Type: Disabled
-  - Click OK
+  - Click `OK`
   
 
 
 ## Disable search highlights in search bar
-Right click on taskbar > Search > uncheck "Show search highlights"
+Right click on taskbar > Search > uncheck `Show search highlights`
 
 
 
 ## Disable trending searches & web search in search bar
-Win key + r > type regedit > press enter > Yes
+Win key + r > type `regedit` > press enter > Yes
 
 - Navigate to `Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Search`
-- Right click > New > DWORD (32-bit) Value > name it as `BingSearchEnabled`
-- Double click it and make sure "Value data" is set to 0
-- Open Task Manager > Processes > select Windows Explorer > Right click > Restart
+- Right click on empty space > New > DWORD (32-bit) Value > name it as `BingSearchEnabled`
+- Double click it and make sure `Value data` is set to `0`
+- Open Task Manager > Processes > select `Windows Explorer` > Right click > Restart

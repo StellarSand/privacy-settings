@@ -52,7 +52,7 @@ NOTE 2: Never save payment info in browsers. A password manager can be used to a
 - Website Typo Protection: On
 - Use secure DNS to specify how to lookup the network address for websites >
   - On
-  - Choose a service provider > NextDNS/Cloudflare or provide URL for other secure DNS from [this list](https://www.privacyguides.org/dns/)
+  - Choose a service provider > `NextDNS`/`Cloudflare` or provide URL for other secure DNS from [this list](https://www.privacyguides.org/en/dns/)
 
   Example: For Quad9, enter https://dns.quad9.net/dns-query
 
@@ -64,18 +64,18 @@ NOTE 2: Never save payment info in browsers. A password manager can be used to a
 #### Services
 - Save time and money with Shopping in Microsoft Edge: Off (use something else like [Keepa](https://keepa.com/), [camelcamelcamel](https://camelcamelcamel.com/), [Price History](https://pricehistoryapp.com/) etc)
 - Get notifications of related things you can explore with Discover: Off
+- Address bar and search >
+  - First click on `Manage search engines` > Add > Add a privacy respecting search engine here like DuckDuckGo, StartPage, Brave etc.
+  <br>Example (for DuckDuckGo):
+    - Search engine: `DuckDuckGo`
+    - Shortcut: `duckduckgo.com`
+    - URL: `https://duckduckgo.com/?q=%s&ia=web`
+    - Click on `Add`
+    - Click on 3 dots next to the search engine you added > Select `Make default`
 
-#### Address bar and search
-- First click on `Manage search engines` > Add > Add a privacy respecting search engine here like DuckDuckGo, StartPage, Brave etc.
-<br>Example (for DuckDuckGo):
-  - Search engines: DuckDuckGo
-  - Shortcut: duckduckgo.com
-  - URL: `https://duckduckgo.com/?q=%s&ia=web`
-  - Click on 3 dots > Select `Make default`
-
-- Search on new tabs uses search box or address bar: Address bar (if `Search box` is selected it will continue searching with Bing as the search engine)
-- Search suggestions and filters >
-  - Show me search and site suggestions using my typed characters: Off
+  - Search on new tabs uses search box or address bar: Address bar (if `Search box` is selected it will continue searching with Bing as the search engine)
+  - Search suggestions and filters >
+    - Show me search and site suggestions using my typed characters: Off
 
 
 
@@ -96,7 +96,7 @@ NOTE 2: Never save payment info in browsers. A password manager can be used to a
 ## Start, home, and new tabs
 
 #### New tab page
-- Preload the new tab page for a faster experience: Off
+- Preload your new tab page for a faster experience: Off
 
 
 
@@ -134,5 +134,5 @@ NOTE 2: Never save payment info in browsers. A password manager can be used to a
 Open a new tab. Click the gear icon on top right
 
 ## Page settings
-- Content: Content off
 - Show promoted links: Off
+- Content: Off

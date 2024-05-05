@@ -21,10 +21,10 @@ Click on the extension on toolbar, click gear icon at the bottom right
 - Enable everything for `Built-in`, `Ads`, `Privacy`, `Malware protection, security`, `Multipurpose` & `Annoyances`
 
 #### Import
-Paste the following URL in the field given below
-
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
+Copy the following URLs & paste them in the text field provided
+- Remove unnecessary parameters from URLs: https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
+- Hide YouTube Shorts (optional): https://raw.githubusercontent.com/gijsdev/ublock-hide-yt-shorts/master/list.txt
 
 ---
 
-Click `Apply changes`. Also click `Update now`, if available
+Click `Apply changes`. Also click `Update now`, if available.

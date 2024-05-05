@@ -58,6 +58,8 @@ Go to Settings.
     - DNS over HTTPS: On (automatic template)
     - Fallback to plaintext: Off
 
+  Click `Save`
+
 #### Wi-Fi
 - Random hardware addresses: On
 - Hardware properties > DNS server assignment > Edit
@@ -85,13 +87,15 @@ Go to Settings.
     - DNS over HTTPS: On (automatic template)
     - Fallback to plaintext: Off
 
+  Click `Save`
+
 
 
 ## Personalization
 
 #### Lock screen
 - Personalize your lock screen
-  - select Picture or Slideshow
+  - select `Picture` or `Slideshow`
   - Get fun facts, tips, tricks and more on your lock screen: Off
 
 #### Start
@@ -106,7 +110,7 @@ Go to Settings.
 
 #### Installed apps
 Uninstall anything you don't use like XBox, candy crush, some other preinstalled apps/games etc.
-Be sure not to uninstall anything important. If you have doubts about any app, either ask or search the net.
+Be sure not to uninstall anything important. If you have doubts about any app, search the net.
 
 
 
@@ -115,8 +119,8 @@ Be sure not to uninstall anything important. If you have doubts about any app, e
 #### Your info
 Delete your account picture and set it to default as mentioned below:
 - Choose a file > Browse files
-- Go to `C:\Users\Username\AppData\Roaming\Microsoft\Windows\AccountPictures` and delete your picture.
-- Go to `C:\ProgramData\Microsoft\User Account Pictures` and select any one.
+- Go to `C:\Users\JohnDoe\AppData\Roaming\Microsoft\Windows\AccountPictures` and delete your picture. (Replace `JohnDoe` with your username)
+- Go to `C:\ProgramData\Microsoft\User Account Pictures` and select `guest.png`.
 
 NOTE: `AppData` is a hidden folder by default. To enable: in file explorer on top click `View` > Show > select `Hidden items`.
 
@@ -171,7 +175,7 @@ NOTE: `AppData` is a hidden folder by default. To enable: in file explorer on to
 
 #### App permissions
 - Review each permission and disable accordingly (choose which apps can have access to location, camera, microphone, notifications etc. If any app doesn't need something, turn it off.)
-- App diagnostics > Toggle off both
+- App diagnostics > App diagnostic access: Off
 
 
 
@@ -189,7 +193,7 @@ NOTE: `AppData` is a hidden folder by default. To enable: in file explorer on to
 Open file explorer. Click 3 dots menu on top > Options >
   - Click `View` on top of the new popup >
     - Uncheck `Show sync provider notifications`
-    - Click Apply
+    - Click `Apply`
     - Also click "Apply to Folders" on top (if available)
 
 
