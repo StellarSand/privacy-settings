@@ -24,13 +24,11 @@ Go to Settings.
 
 ## Bluetooth & devices
 
-#### Phone Link
-Do not link
+#### Mobile devices
+- Phone Link : Off (Do not link)
 
 #### AutoPlay
 - Use AutoPlay for all media and devices: Off
-
-
 
 ## Network & internet
 
@@ -38,7 +36,7 @@ Do not link
 - DNS server assignment > Edit >
   - Edit DNS settings: Manual
   - IPv4: On
-    - Preferred DNS: enter IPv4 address of a provider from [this list](https://www.privacyguides.org/dns/)
+    - Preferred DNS: enter IPv4 address of a provider from [this list](https://www.privacyguides.org/en/dns/)
 
       Example: For Quad9, enter 9.9.9.9
     - DNS over HTTPS: On (automatic template)
@@ -49,7 +47,7 @@ Do not link
     - DNS over HTTPS: On (automatic template)
     - Fallback to plaintext: Off
   - IPv6: On
-    - Preferred DNS: enter IPv6 address of a provider from [this list](https://www.privacyguides.org/dns/)
+    - Preferred DNS: enter IPv6 address of a provider from [this list](https://www.privacyguides.org/en/dns/)
 
       Example: For Quad9, enter 2620:fe::fe
     - DNS over HTTPS: On (automatic template)
@@ -65,7 +63,7 @@ Do not link
 - Hardware properties > DNS server assignment > Edit
   - Edit DNS settings: Manual
   - IPv4: On
-    - Preferred DNS: enter IPv4 address of a provider from [this list](https://www.privacyguides.org/dns/)
+    - Preferred DNS: enter IPv4 address of a provider from [this list](https://www.privacyguides.org/en/dns/)
 
       Example: For Quad9, enter 9.9.9.9
     - DNS over HTTPS: On (automatic template)
@@ -76,7 +74,7 @@ Do not link
     - DNS over HTTPS: On (automatic template)
     - Fallback to plaintext: Off
   - IPv6: On
-    - Preferred DNS: enter IPv6 address of a provider from [this list](https://www.privacyguides.org/dns/)
+    - Preferred DNS: enter IPv6 address of a provider from [this list](https://www.privacyguides.org/en/dns/)
 
       Example: For Quad9, enter 2620:fe::fe
     - DNS over HTTPS: On (automatic template)
