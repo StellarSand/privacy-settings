@@ -122,7 +122,6 @@ For better privacy respecting alternatives, reviews and more information, check 
 - [PRISM Break](https://prism-break.org/)
 - [Awesome Privacy](https://github.com/pluja/awesome-privacy)
 - [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
-- [ThinkPrivacy](https://thinkprivacy.net)
 
 #### Privacy news, blogs, guides & other stuff
 - [EFF](https://www.eff.org/)
