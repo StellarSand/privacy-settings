@@ -127,7 +127,7 @@ For better privacy respecting alternatives, reviews and more information, check 
 - [EFF](https://www.eff.org/)
 - [Mozilla Blog](https://blog.mozilla.org/)
 - [Spread Privacy](https://spreadprivacy.com/)
-- [ProtonMail Blog](https://protonmail.com/blog/)
+- [Proton Blog](https://proton.me/blog/all)
 - Techlore: [Website](https://www.techlore.tech), [GitHub](https://github.com/techlore), [YouTube](https://www.youtube.com/c/Techlore/)
 - The New Oil: [Website](https://thenewoil.org/), [YouTube](https://www.youtube.com/c/TheNewOil)
 - [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html)
