@@ -42,7 +42,7 @@ Go to Settings.
 
 
 ## Phone
-Do not link
+- Do not link (use something else like [KDE Connect](https://kdeconnect.kde.org/), [LocalSend](https://localsend.org/), etc.)
 
 
 

@@ -2,6 +2,31 @@
 
 
 
+## Jun 02, 2024
+
+#### Brave Mobile
+- Added [Leo](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#leo)
+
+#### ChatGPT
+- Added [Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/ChatGPT.md#security)
+
+#### Cromite
+- Added `Global Privacy Control "Sec-GPC"` in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Cromite.md#privacy-and-security) > [Privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Cromite.md#privacy)
+
+#### Google Chrome Desktop
+- Added `Automatically remove permissions from unused sites` in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md#privacy-and-security) > [Site Settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md#site-settings)
+
+#### Google Search
+- Updated everything
+
+#### Microsoft Edge Desktop
+- Added `Let Microsoft Edge help keep your tabs organized` & `Save screenshots of sites for history` in [Privacy, search, and services](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#privacy-search-and-services) > [Services](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#services)
+
+#### Vivaldi Desktop
+- Added [Crash reporting](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md#crash-reporting) in [Privacy and Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md#privacy-and-security)
+
+
+
 ## Apr 09, 2024
 
 #### Brave Desktop
