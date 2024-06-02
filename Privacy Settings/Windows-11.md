@@ -25,7 +25,7 @@ Go to Settings.
 ## Bluetooth & devices
 
 #### Mobile devices
-- Phone Link : Off (Do not link)
+- Phone Link : Off (use something else like [KDE Connect](https://kdeconnect.kde.org/), [LocalSend](https://localsend.org/), etc.)
 
 #### AutoPlay
 - Use AutoPlay for all media and devices: Off

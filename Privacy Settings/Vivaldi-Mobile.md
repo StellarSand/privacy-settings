@@ -58,9 +58,9 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 - Preload pages: No preloading
 - Use secure DNS >
   - On
-  - Choose another provider > Quad9/NextDNS/Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://www.privacyguides.org/en/dns/)
+  - Choose another provider > `NextDNS`/`Cloudflare` or select `Custom` and provide URL for other secure DNS from [this list](https://www.privacyguides.org/en/dns/)
   
-    Example: For MullvadDNS, enter https://adblock.doh.mullvad.net/dns-query
+    Example: For Quad9, enter https://dns.quad9.net/dns-query
 
 - Send a"Do Not Track" request: Off
 - Touch to Search: Off

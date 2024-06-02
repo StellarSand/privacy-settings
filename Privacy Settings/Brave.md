@@ -16,37 +16,39 @@ Go to Settings
 
 
 ## Shields
-- Trackers and ads blocking: Aggressive
+- Trackers & ads blocking: Aggressive
 - Upgrade connections to HTTPS: Strict
-- Block fingerprinting: Strict (If you face any issues with sites, change it back to standard)
-- Block cookies: Only cross-site
-- Auto-redirect AMP pages: On
-- Auto-redirect tracking URLs: On
-- Prevent sites from fingerprinting me based on my language preferences: On
+- Block fingerprinting: On
+- Block cookies: Block third-party cookies
 
 
 
 ## Privacy and security
-- Use Google services for push messaging: Off
-- Allow privacy-preserving product analytics (P3A): Off
-- Automatically send daily usage ping to Brave: Off
-- Automatically send diagnostic reports: Off
-
-#### Third-party cookies
-- Block third-party cookies
-- Send a "Do Not Track" Request with your browser traffic: Off
 
 #### Security
 - Standard protection
 - Use secure DNS: On
 - Select DNS provider: `Cloudflare`, or select `Add custom DNS service provider` and provide URL for other secure DNS from [this list](https://www.privacyguides.org/en/dns/)
 <br>Example: For Quad9, enter https://dns.quad9.net/dns-query
-- Manage V8 security: Don’t allow sites to use the V8 optimiser
+- Manage V8 security: Don’t allow sites to use the V8 optimizer
 
 #### Site and Shields Settings
 - Additional permissions >
   - Ethereum: Block sites from accessing the Ethereum provider API
   - Solana: Block sites from accessing the Solana provider API
+
+---
+
+- Use Google services for push messaging: Off
+- Auto-redirect AMP pages: On
+- Auto-redirect tracking URLs: On
+- Prevent sites from fingerprinting me based on my language preferences: On
+- Send a "Do Not Track" Request with your browser traffic: Off
+
+#### Data collection
+- Allow privacy-preserving product analytics (P3A): Off
+- Automatically send daily usage ping to Brave: Off
+- Automatically send diagnostic reports: Off
 
 
 

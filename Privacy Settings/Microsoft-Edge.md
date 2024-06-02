@@ -62,10 +62,11 @@ NOTE 2: Never save payment info in browsers. A password manager can be used to a
 
 
 #### Services
-- Save time and money with Shopping in Microsoft Edge: Off (use something else like [Keepa](https://keepa.com/), [camelcamelcamel](https://camelcamelcamel.com/), [Price History](https://pricehistoryapp.com/) etc)
+- Save time and money with Shopping in Microsoft Edge: Off (use something else like [Keepa](https://keepa.com/), [camelcamelcamel](https://camelcamelcamel.com/), [Price History](https://pricehistoryapp.com/) etc.)
 - Get notifications of related things you can explore with Discover: Off
+- Let Microsoft Edge help keep your tabs organized: Off
 - Address bar and search >
-  - First click on `Manage search engines` > Add > Add a privacy respecting search engine here like DuckDuckGo, StartPage, Brave etc.
+  - First click on `Manage search engines` > Add > Add a privacy respecting search engine here like `DuckDuckGo`, `StartPage`, `Brave` etc.
   <br>Example (for DuckDuckGo):
     - Search engine: `DuckDuckGo`
     - Shortcut: `duckduckgo.com`
@@ -76,6 +77,7 @@ NOTE 2: Never save payment info in browsers. A password manager can be used to a
   - Search on new tabs uses search box or address bar: Address bar (if `Search box` is selected it will continue searching with Bing as the search engine)
   - Search suggestions and filters >
     - Show me search and site suggestions using my typed characters: Off
+- Save screenshots of sites for history: Off
 
 
 
@@ -135,4 +137,4 @@ Open a new tab. Click the gear icon on top right
 
 ## Page settings
 - Show promoted links: Off
-- Content: Off
+- Show feed: Off

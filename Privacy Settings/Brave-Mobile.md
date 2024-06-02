@@ -9,7 +9,7 @@ Go to Settings
 - Auto-redirect AMP pages: On
 - Auto-redirect tracking URLs: On
 - Upgrade connections to HTTPS: Require all connections to use HTTPS (strict)
-- Block Cookies: Block cross-site cookies
+- Block Cookies: Block third-party cookies
 - Block Fingerprinting: Fingerprinting blocked (strict) (If you face any issues with sites, change it back to standard)
 - Prevent fingerprinting via language settings: On
 - Safe Browsing: Standard protection
@@ -47,9 +47,14 @@ Go to Settings
 
 
 
+## Leo
+- Show autocomplete suggestions in address bar: Off
+
+
+
 ## Search engines
-- Standard Tab: DuckDuckGo or any other privacy respecting search engine like Brave/Startpage etc.
-- Private Tab: DuckDuckGo or any other privacy respecting search engine like Brave/Startpage etc.
+- Standard Tab: `DuckDuckGo` or any other privacy respecting search engine like `Brave`, `Startpage` etc.
+- Private Tab: `DuckDuckGo` or any other privacy respecting search engine like `Brave`, `Startpage` etc.
 
 
 

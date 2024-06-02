@@ -56,11 +56,12 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 - Use secure DNS: On
 - Select DNS provider: `Cloudflare`, or select `Add custom DNS service provider` and provide URL for other secure DNS from [this list](https://www.privacyguides.org/en/dns/)
 <br>Example: For Quad9, enter https://dns.quad9.net/dns-query
-- Manage V8 security: Don’t allow sites to use the V8 optimiser
+- Manage V8 security: Don’t allow sites to use the V8 optimizer
 
 #### Site Settings
 - Additional permissions > Your device use > Don't allow sites to know when you're actively using your device
 - Additional content settings > Intrusive ads > Ads are blocked on sites known to show intrusive or misleading ads
+- Automatically remove permissions from unused sites: On
 
 
 
@@ -72,7 +73,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 
 ## Search engine
-- Search engine used in address bar: `DuckDuckGo` or add any other privacy respecting search engine from `Manage search engines and site search`.
+- Search engine > Change > `DuckDuckGo` or add any other privacy respecting search engine from `Manage search engines and site search`.
 
 
 

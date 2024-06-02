@@ -27,10 +27,10 @@ Go to Settings.
 ## Search
 
 #### Default Search Engine
-- DuckDuckGo or add any other privacy respecting search engine.
+- `DuckDuckGo` or add any other privacy respecting search engine.
 
 #### Search Suggestions
-- Provide search suggestions: Off
+- Show search suggestions: Off
 
 
 
@@ -66,7 +66,7 @@ NOTE: Never save passwords in browsers. Use a password manager instead. Check ou
 #### DNS over HTTPS
 - Enable secure DNS using >
   - Max Protection
-  - Choose provider: NextDNS/Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://www.privacyguides.org/en/dns/).
+  - Choose provider: `NextDNS`/`Cloudflare` or select `Custom` and provide URL for other secure DNS from [this list](https://www.privacyguides.org/en/dns/).
   
     Example: For Quad9, enter https://dns.quad9.net/dns-query
 

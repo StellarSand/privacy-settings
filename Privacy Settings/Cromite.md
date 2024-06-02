@@ -34,17 +34,19 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 #### Privacy
 - Third-party cookies: Block third-party cookies
 - Send a "Do Not Track" request: Off
+- Global Privacy Control "Sec-GPC": On
 - Lock Incognito tabs when you leave Cromite: On
 
 #### Security
 - Always use secure connections: On
 - Use secure DNS >
   - On
-  - Choose another provider > NextDNS/Cloudflare or select Custom and provide URL for other secure DNS from [this list](https://www.privacyguides.org/en/dns/)
+  - Choose another provider > `NextDNS`/`Cloudflare` or select `Custom` and provide URL for other secure DNS from [this list](https://www.privacyguides.org/en/dns/)
 
     Example: For Quad9, enter https://dns.quad9.net/dns-query
 
-- Always incognito mode > Enable history: Off
+- Always incognito mode >
+  - Enable history: Off
 
 #### Other services
 - Improve search suggestions: Off
@@ -60,7 +62,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 
 ## Legacy Adblock settings
-- On
+- Autoupdate enabled: On
 
 
 

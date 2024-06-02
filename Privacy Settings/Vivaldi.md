@@ -22,10 +22,10 @@ Go to Settings.
 ## Search
 
 #### Default Search Engine
-- DuckDuckGo, StartPage or add any other privacy respecting search engine from Search Engines section.
+- `DuckDuckGo`, `StartPage` or add any other privacy respecting search engine from `Search Engines` section.
 
 #### Private Search Engine
-- DuckDuckGo, StartPage or add any other privacy respecting search engine from Search Engines section.
+- `DuckDuckGo`, `StartPage` or add any other privacy respecting search engine from `Search Engines` section.
 
 #### Search Options
 - Keep Last Selected Search Engine: Off
@@ -49,7 +49,7 @@ Go to Settings.
 - Form Autofill Assist: Off
 
 #### Google Extensions
-- Hangouts: Off
+- Meet: Off
 - Web Store: Off (Enable it when you need to download any extension from Chrome web store.)
 
 #### Search
@@ -63,6 +63,9 @@ Go to Settings.
 #### Autofill
 - Form Autofill: Off
 - Credit Card Autofill: Off
+
+#### Crash reporting
+- Allow Vivaldi to Send Automatic Crash Reports: Off
 
 #### Tracker And Ad Blocking
 - Blocking Level: Block Trackers and Ads

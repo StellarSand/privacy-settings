@@ -19,13 +19,15 @@ Go to Settings.
 
 ## Search engine
 - Google Chrome: DuckDuckGo
-- Ungoogled Chromium: DuckDuckGo or any other privacy respecting search engine like Searx, Startpage etc.
+- Ungoogled Chromium: `DuckDuckGo` or any other privacy respecting search engine like `Searx`, `Startpage` etc.
 
 
 
 ## Password Manager
-- Save passwords: Off
-- Auto Sign-in: Off
+
+#### Settings
+- Offer to save passwords: Off
+- Auto sign-in: Off
 
 NOTE: Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
 
@@ -56,7 +58,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 - Lock Incognito tabs when you leave Chrome: On
 - Safe Browsing (Does not apply to Ungoogled Chromium) >
   - Standard Protection
-  - Standard Protection > Help improve security on the web: Off
+  - Standard Protection > Help improve security on the web for everyone: Off
 - Always use secure connections: On
 - Use secure DNS > 
   - On
@@ -86,4 +88,4 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 **This section does not apply to Ungoogled Chromium**
 
-On new tab page > Discover by Google > click gear icon > Turn off
+On new tab page > Discover by Google > tap on 3 dots icon > Turn off
