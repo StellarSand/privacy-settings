@@ -8,12 +8,7 @@ Go to Settings.
 
 ## Google services
 **This section does not apply to Ungoogled Chromium**
-
-- Allow Chrome sign-in: Off
-- Help improve Chrome's features and performance: Off
-- Make searches and browsing better: Off
-- Improve search suggestions: Off
-- Touch to Search: Off
+- All off
 
 
 

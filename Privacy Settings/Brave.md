@@ -24,20 +24,16 @@ Go to Settings
 
 
 ## Privacy and security
+- Security >
+  - Standard protection
+  - Use secure DNS: On
+  - Select DNS provider: `Cloudflare`, or select `Add custom DNS service provider` and provide URL for other secure DNS from [this list](https://www.privacyguides.org/en/dns/)
+  <br>Example: For Quad9, enter https://dns.quad9.net/dns-query
+  - Manage V8 security: Don’t allow sites to use the V8 optimizer
 
-#### Security
-- Standard protection
-- Use secure DNS: On
-- Select DNS provider: `Cloudflare`, or select `Add custom DNS service provider` and provide URL for other secure DNS from [this list](https://www.privacyguides.org/en/dns/)
-<br>Example: For Quad9, enter https://dns.quad9.net/dns-query
-- Manage V8 security: Don’t allow sites to use the V8 optimizer
-
-#### Site and Shields Settings
-- Additional permissions >
+- Site and Shields Settings > Additional permissions >
   - Ethereum: Block sites from accessing the Ethereum provider API
   - Solana: Block sites from accessing the Solana provider API
-
----
 
 - Use Google services for push messaging: Off
 - Auto-redirect AMP pages: On

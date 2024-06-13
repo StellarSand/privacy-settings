@@ -117,7 +117,8 @@ Be sure not to uninstall anything important. If you have doubts about any app, s
 ## Accounts
 
 #### Your info
-Delete your account picture and set it to default as mentioned below:
+**This section is only applicable if you've signed in with a Microsoft account**
+<br>Delete your account picture and set it to default as mentioned below:
 - Choose a file > Browse files
 - Go to `C:\Users\JohnDoe\AppData\Roaming\Microsoft\Windows\AccountPictures` and delete your picture. (Replace `JohnDoe` with your username)
 - Go to `C:\ProgramData\Microsoft\User Account Pictures` and select `guest.png`.
@@ -149,6 +150,12 @@ NOTE: `AppData` is a hidden folder by default. To enable: in file explorer on to
 
 #### General
 - All off
+
+#### Recall & Snapshots
+**This feature is not available on all devices**
+- Save Snapshots: Off
+- Delete Snapshots >
+  - Delete all snapshots: Delete all
 
 #### Speech
 - Online speech recognition: Off
@@ -199,7 +206,7 @@ Open file explorer. Click 3 dots menu on top > Options >
 
 
 ## Disable telemetry service
-Win key + r > type `services.msc` > press enter
+Press `Win key + r` > type `services.msc` > press enter
 
 - Double-click on `Connected User Experiences and Telemetry` >
   - Service Status: Stopped (Click on `Stop`, if service is running)
@@ -209,17 +216,17 @@ Win key + r > type `services.msc` > press enter
 
 
 ## Disable trending searches & web search in search bar
-Win key + r > type `regedit` > press enter > Yes
+Press `Win key + r` > type `regedit` > press enter > Yes
 
 - Navigate to `Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Search`
-- Right click on empty space > New > DWORD (32-bit) Value > name it `BingSearchEnabled`
+- In the left navigation window, right click on `Search` > New > DWORD (32-bit) Value > name it `BingSearchEnabled`
 - Double click it and make sure `Value data` is set to `0`
 - Open Task Manager > Processes > select `Windows Explorer` > Right click > Restart
 
 
 
 ## Disable Copilot
-Win key + r > type `regedit` > press enter > Yes
+Press `Win key + r` > type `regedit` > press enter > Yes
 
 - Navigate to `Computer\HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows`
 - In the left navigation window, right click on `Windows` > New > Key > name it `WindowsCopilot`

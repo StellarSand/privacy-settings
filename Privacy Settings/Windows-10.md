@@ -75,7 +75,8 @@ Be sure not to uninstall anything important. If you have doubts about any app, s
 ## Accounts
 
 #### Your info
-Delete your account picture and set it to default as mentioned below:
+**This section is only applicable if you've signed in with a Microsoft account**
+<br>Delete your account picture and set it to default as mentioned below:
 - Choose a file > Browse files
 - Go to `C:\Users\JohnDoe\AppData\Roaming\Microsoft\Windows\AccountPictures` and delete your picture. (Replace `JohnDoe` with your username)
 - Go to `C:\ProgramData\Microsoft\User Account Pictures` and select `guest.png`.

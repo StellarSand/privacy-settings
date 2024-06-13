@@ -54,7 +54,7 @@ NOTE: Never save payment info or credit card details in browsers. A password man
 
 
 ## Enhanced Tracking Protection
-- Enhanced Tracking Protection: On
+- On
 - Strict
 - Tell websites not to share & sell data: On
 
@@ -73,7 +73,7 @@ NOTE: Never save payment info or credit card details in browsers. A password man
 
 
 
-## Add-ons
+## Extensions
 Check [recommended extensions](https://github.com/StellarSand/privacy-settings#recommended-extensions) to add
 
 

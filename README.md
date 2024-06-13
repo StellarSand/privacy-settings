@@ -54,15 +54,15 @@
 - <img src="icons/vivaldi.png" width="20" align="center"> [Vivaldi Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md)
 - <img src="icons/vivaldi.png" width="20" align="center"> [Vivaldi Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md)
 - <img src="icons/whatsapp.png" width="20" align="center"> [WhatsApp](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md)
-- <img src="icons/windows.png" width="20" align="center"> [Windows 10](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md)
-- <img src="icons/windows.png" width="20" align="center"> [Windows 11](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md)
+- <img src="icons/windows_10.svg" width="20" align="center"> [Windows 10](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md)
+- <img src="icons/windows_11.svg" width="20" align="center"> [Windows 11](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md)
 - <img src="icons/youtube.png" width="20" align="center"> [YouTube](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/YouTube.md)
 - <img src="icons/zoom.png" width="20" align="center"> [Zoom](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Zoom.md)
 
 
 
 ## Extension Settings
-[uBlock Origin settings](https://github.com/StellarSand/privacy-settings/blob/main/Extensions%20Settings/uBlock-Origin-Settings.md)
+<img src="icons/ublock.svg" width="20" align="center"> [uBlock Origin settings](https://github.com/StellarSand/privacy-settings/blob/main/Extensions%20Settings/uBlock-Origin-Settings.md)
 
 <details>
   <summary><b>Download uBlock Origin</b></summary> 
@@ -138,11 +138,14 @@ For better privacy respecting alternatives, reviews and more information, check 
 - [National Cybersecurity Alliance - Stay Safe Online](https://staysafeonline.org/stay-safe-online/)
 - [Zebra Crossing: An easy-to-use digital safety checklist](https://github.com/narwhalacademy/zebra-crossing)
 - [Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded/)
+- TechCrunch: [Privacy](https://techcrunch.com/category/privacy/), [Security](https://techcrunch.com/category/security/)
+- [XDA - Privacy](https://www.xda-developers.com/tag/privacy/)
+- [TechRadar - Cyber Security](https://www.techradar.com/computing/computing-security/cyber-security)
 - [IVPN Privacy Guides](https://www.ivpn.net/privacy-guides/)
 - [r/privacy](https://www.reddit.com/r/privacy/)
-- [Access Now Blog](https://www.accessnow.org/blog/)
 - [Fossbytes - Security](https://fossbytes.com/category/security/)
 - [Bitwarden Blog](https://bitwarden.com/blog/)
+- [Access Now Blog](https://www.accessnow.org/blog/)
 - [Bleeping Computer](https://www.bleepingcomputer.com/)
 - [The Hacker News](https://thehackernews.com/)
 
