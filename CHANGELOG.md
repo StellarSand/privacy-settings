@@ -2,6 +2,22 @@
 
 
 
+## Jun 13, 2024
+
+#### WhatsApp
+- Added `Disable link previews` in [Privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#privacy) > [Advanced](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#advanced)
+
+#### Windows 11
+- Added [Recall & Snapshots](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#recall--snapshots) in [Privacy & security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#privacy--security)
+
+#### Privacy news, blogs, guides & other stuff
+- Added:
+  - TechCrunch: [Privacy](https://techcrunch.com/category/privacy/), [Security](https://techcrunch.com/category/security/)
+  - [XDA - Privacy](https://www.xda-developers.com/tag/privacy/)
+  - [TechRadar - Cyber Security](https://www.techradar.com/computing/computing-security/cyber-security)
+
+
+
 ## Jun 02, 2024
 
 #### Brave Mobile
@@ -145,7 +161,7 @@
 - Added [Sensitive Advertising Categories](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Reddit.md#sensitive-advertising-categories) in [Safety & Privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Reddit.md#safety--privacy)
 
 #### Whatsapp
-- Added [Calls](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#calls), [Fingerprint lock](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#fingerprint-lock) and [Advanced](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#advanced) in [Privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#privacy)
+- Added [Calls](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#calls), [App lock](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#app-lock) and [Advanced](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#advanced) in [Privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#privacy)
 
 
 
