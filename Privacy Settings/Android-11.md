@@ -17,7 +17,7 @@ Go to Settings
   - Notify for public networks: Off
 
 #### Advanced
-- Private DNS > Private DNS provider hostname: enter the hostname of DNS provider from [this list](https://www.privacyguides.org/en/dns/) > Save
+- Private DNS > Private DNS provider hostname: enter the hostname of DNS provider from [this list](https://www.privacyguides.org/en/dns/#recommended-providers) > Save
 
   Example: For Quad9, enter dns.quad9.net
 

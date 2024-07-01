@@ -15,7 +15,7 @@
 ## Privacy Settings
 - <img src="icons/amazon.png" width="20" align="center"> [Amazon](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Amazon.md)
 - <img src="icons/android.png" width="20" align="center"> [Android 11 (R)](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-11.md)
-- <img src="icons/android.png" width="20" align="center"> [Android 12 (S)/12.1 (L)](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-12.md)
+- <img src="icons/android.png" width="20" align="center"> [Android 12 (S)/12.1](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-12.md)
 - <img src="icons/android.png" width="20" align="center"> [Android 13 (T)](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-13.md)
 - <img src="icons/android.png" width="20" align="center"> [Android 14 (U)](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-14.md)
 - <img src="icons/android_studio.png" width="20" align="center"> [Android Studio](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-Studio.md)
@@ -62,7 +62,7 @@
 
 
 ## Extension Settings
-<img src="icons/ublock.svg" width="20" align="center"> [uBlock Origin settings](https://github.com/StellarSand/privacy-settings/blob/main/Extensions%20Settings/uBlock-Origin-Settings.md)
+<img src="icons/ublock.svg" width="20" align="center"> [uBlock Origin](https://github.com/StellarSand/privacy-settings/blob/main/Extensions%20Settings/uBlock-Origin.md)
 
 <details>
   <summary><b>Download uBlock Origin</b></summary> 
@@ -158,7 +158,6 @@ If you want to help out with the project, here are some ideas:
 - Clean up/improve the Markdown.
 - Suggest new services/softwares or help improve the existing ones.
 - Translate it to your own language.
-- Anything else related to privacy or security.
 
 Pull requests can be submitted [here](https://github.com/StellarSand/privacy-settings/pulls).
 

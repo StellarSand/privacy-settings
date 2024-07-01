@@ -54,7 +54,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
   - Help improve security on the web for everyone: Off
 - Always use secure connections: On
 - Use secure DNS: On
-- Select DNS provider: `Cloudflare`, or select `Add custom DNS service provider` and provide URL for other secure DNS from [this list](https://www.privacyguides.org/en/dns/)
+- Select DNS provider: `Cloudflare`, or select `Add custom DNS service provider` and provide URL for other secure DNS from [this list](https://www.privacyguides.org/en/dns/#recommended-providers)
 <br>Example: For Quad9, enter https://dns.quad9.net/dns-query
 - Manage V8 security: Don’t allow sites to use the V8 optimizer
 

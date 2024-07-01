@@ -36,7 +36,7 @@ Go to Settings.
 - DNS server assignment > Edit >
   - Edit DNS settings: Manual
   - IPv4: On
-    - Preferred DNS: enter IPv4 address of a provider from [this list](https://www.privacyguides.org/en/dns/)
+    - Preferred DNS: enter IPv4 address of a provider from [this list](https://www.privacyguides.org/en/dns/#recommended-providers)
 
       Example: For Quad9, enter 9.9.9.9
     - DNS over HTTPS: On (automatic template)
@@ -47,7 +47,7 @@ Go to Settings.
     - DNS over HTTPS: On (automatic template)
     - Fallback to plaintext: Off
   - IPv6: On
-    - Preferred DNS: enter IPv6 address of a provider from [this list](https://www.privacyguides.org/en/dns/)
+    - Preferred DNS: enter IPv6 address of a provider from [this list](https://www.privacyguides.org/en/dns/#recommended-providers)
 
       Example: For Quad9, enter 2620:fe::fe
     - DNS over HTTPS: On (automatic template)
@@ -65,7 +65,7 @@ Go to Settings.
 - Hardware properties > DNS server assignment > Edit
   - Edit DNS settings: Manual
   - IPv4: On
-    - Preferred DNS: enter IPv4 address of a provider from [this list](https://www.privacyguides.org/en/dns/)
+    - Preferred DNS: enter IPv4 address of a provider from [this list](https://www.privacyguides.org/en/dns/#recommended-providers)
 
       Example: For Quad9, enter 9.9.9.9
     - DNS over HTTPS: On (automatic template)
@@ -76,7 +76,7 @@ Go to Settings.
     - DNS over HTTPS: On (automatic template)
     - Fallback to plaintext: Off
   - IPv6: On
-    - Preferred DNS: enter IPv6 address of a provider from [this list](https://www.privacyguides.org/en/dns/)
+    - Preferred DNS: enter IPv6 address of a provider from [this list](https://www.privacyguides.org/en/dns/#recommended-providers)
 
       Example: For Quad9, enter 2620:fe::fe
     - DNS over HTTPS: On (automatic template)
@@ -117,8 +117,9 @@ Be sure not to uninstall anything important. If you have doubts about any app, s
 ## Accounts
 
 #### Your info
-**This section is only applicable if you've signed in with a Microsoft account**
-<br>Delete your account picture and set it to default as mentioned below:
+**This section is applicable only if you've signed in with a Microsoft account**
+
+Delete your account picture and set it to default as mentioned below:
 - Choose a file > Browse files
 - Go to `C:\Users\JohnDoe\AppData\Roaming\Microsoft\Windows\AccountPictures` and delete your picture. (Replace `JohnDoe` with your username)
 - Go to `C:\ProgramData\Microsoft\User Account Pictures` and select `guest.png`.
@@ -152,7 +153,7 @@ NOTE: `AppData` is a hidden folder by default. To enable: in file explorer on to
 - All off
 
 #### Recall & Snapshots
-**This feature is not available on all devices**
+**This feature is available only on some devices**
 - Save Snapshots: Off
 - Delete Snapshots >
   - Delete all snapshots: Delete all

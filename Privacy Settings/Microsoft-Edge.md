@@ -52,7 +52,7 @@ NOTE 2: Never save payment info in browsers. A password manager can be used to a
 - Website Typo Protection: On
 - Use secure DNS to specify how to lookup the network address for websites >
   - On
-  - Choose a service provider > `NextDNS`/`Cloudflare` or provide URL for other secure DNS from [this list](https://www.privacyguides.org/en/dns/)
+  - Choose a service provider > `NextDNS`/`Cloudflare` or provide URL for other secure DNS from [this list](https://www.privacyguides.org/en/dns/#recommended-providers)
 
   Example: For Quad9, enter https://dns.quad9.net/dns-query
 

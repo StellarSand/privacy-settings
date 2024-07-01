@@ -75,8 +75,9 @@ Be sure not to uninstall anything important. If you have doubts about any app, s
 ## Accounts
 
 #### Your info
-**This section is only applicable if you've signed in with a Microsoft account**
-<br>Delete your account picture and set it to default as mentioned below:
+**This section is applicable only if you've signed in with a Microsoft account**
+
+Delete your account picture and set it to default as mentioned below:
 - Choose a file > Browse files
 - Go to `C:\Users\JohnDoe\AppData\Roaming\Microsoft\Windows\AccountPictures` and delete your picture. (Replace `JohnDoe` with your username)
 - Go to `C:\ProgramData\Microsoft\User Account Pictures` and select `guest.png`.
@@ -146,7 +147,7 @@ Win key + r > type `ncpa.cpl` > press enter
 Right click on Ethernet or Wifi depending on what you are using > Properties
 
 - Select Internet Protocol Version 4 (TCP/IPv4) > Properties > select Use the following DNS server addresses:
-  - Preferred DNS server: enter IPv4 address of a provider from [this list](https://www.privacyguides.org/en/dns/)
+  - Preferred DNS server: enter IPv4 address of a provider from [this list](https://www.privacyguides.org/en/dns/#recommended-providers)
 
     Example: For Quad9, enter 9.9.9.9
   
@@ -157,7 +158,7 @@ Right click on Ethernet or Wifi depending on what you are using > Properties
   Click `OK`
 
 - Select Internet Protocol Version 6 (TCP/IPv6) > Properties > select Use the following DNS server addresses:
-  - Preferred DNS server: enter IPv6 address of a provider from [this list](https://www.privacyguides.org/en/dns/)
+  - Preferred DNS server: enter IPv6 address of a provider from [this list](https://www.privacyguides.org/en/dns/#recommended-providers)
 
     Example: For Quad9, enter 2620:fe::fe
   
@@ -182,7 +183,7 @@ Open file explorer > click `View` on top > Options > Change folder and search op
 
 
 ## Disable telemetry service
-Win key + r > type `services.msc` > press enter
+Press `Win key + r` > type `services.msc` > press enter
 
 - Double-click on `Connected User Experiences and Telemetry` >
   - Service Status: Stopped (Click on `Stop`, if service is running)
@@ -197,9 +198,9 @@ Right click on taskbar > Search > uncheck `Show search highlights`
 
 
 ## Disable trending searches & web search in search bar
-Win key + r > type `regedit` > press enter > Yes
+Press `Win key + r` > type `regedit` > press enter > Yes
 
 - Navigate to `Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Search`
-- Right click on empty space > New > DWORD (32-bit) Value > name it as `BingSearchEnabled`
+- In the left navigation window, right click on `Search` > New > DWORD (32-bit) Value > name it `BingSearchEnabled`
 - Double click it and make sure `Value data` is set to `0`
 - Open Task Manager > Processes > select `Windows Explorer` > Right click > Restart
