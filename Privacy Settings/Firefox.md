@@ -54,6 +54,9 @@ NOTE: Never save passwords in browsers. Use a password manager instead. Check ou
 #### Firefox Data Collection and Use
 - Turn off everything
 
+#### Website Advertising Preferences
+- Allow websites to perform privacy-preserving ad measurement: Off
+
 #### Security
 - Deceptive Content and Dangerous Software Protection >
   - Enable everything

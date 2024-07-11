@@ -42,6 +42,8 @@ Go to Settings
 
 
 ## Brave wallet
+- Default Ethereum wallet: None
+- Default Solana wallet: None
 - Display Web3 notifications: Off
 - Enable NFT discovery: Off
 
@@ -58,7 +60,7 @@ Go to Settings
 
 
 
-## Password Manager
+## Brave Password Manager
 - Save passwords: Off
 - Auto Sign-in: Off
 
