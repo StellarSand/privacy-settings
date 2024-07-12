@@ -41,7 +41,7 @@ Go to Settings
 
 
 
-## Brave wallet
+## Brave Wallet
 - Default Ethereum wallet: None
 - Default Solana wallet: None
 - Display Web3 notifications: Off
@@ -94,6 +94,7 @@ NOTE: Never save passwords in browsers. Use a password manager instead. Check ou
 
 ## New Tab Page
 - Show Sponsored Images: Off
+- Show Top Sites: Off
 
 
 

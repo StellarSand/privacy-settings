@@ -5,7 +5,8 @@
 ## Jul 12, 2024
 
 #### Brave Mobile
-- Added `Default Ethereum wallet` & `Default Solana wallet` in [Brave wallet](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-wallet)
+- Added `Default Ethereum wallet` & `Default Solana wallet` in [Brave Wallet](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-wallet)
+- Added `Show Top Sites` in [New Tab Page](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#new-tab-page)
 
 #### Firefox Desktop
 - Added [Website Advertising Preferences](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#website-advertising-preferences) in [Privacy & Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#privacy--security)
