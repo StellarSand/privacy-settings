@@ -26,6 +26,8 @@
 - <img src="icons/chatgpt.png" width="20" align="center"> [ChatGPT](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/ChatGPT.md)
 - <img src="icons/cromite.png" width="20" align="center"> [Cromite](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Cromite.md)
 - <img src="icons/discord.png" width="20" align="center"> [Discord](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Discord.md)
+- <img src="icons/duckduckgo.png" width="20" align="center"> [DuckDuckGo Browser Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/DuckDuckGo-Browser.md)
+- <img src="icons/duckduckgo.png" width="20" align="center"> [DuckDuckGo Browser Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/DuckDuckGo-Browser-Mobile.md)
 - <img src="icons/duckduckgo.png" width="20" align="center"> [DuckDuckGo Search](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/DuckDuckGo-Search.md)
 - <img src="icons/facebook.png" width="20" align="center"> [Facebook](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Facebook.md)
 - <img src="icons/firefox.png" width="20" align="center"> [Firefox Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md)

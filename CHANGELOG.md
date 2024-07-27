@@ -1,6 +1,10 @@
 # Changelog
 
 
+## Jul 27, 2024
+- Added [DuckDuckGo Browser Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/DuckDuckGo-Browser.md) & [DuckDuckGo Browser Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/DuckDuckGo-Browser-Mobile.md)
+
+
 
 ## Jul 12, 2024
 
