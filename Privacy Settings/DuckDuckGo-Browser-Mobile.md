@@ -5,7 +5,7 @@ Go to Settings
 
 
 ## Private Search
-- Autocomplete Suggestions: On
+- Autocomplete Suggestions: Off
 - More Search Settings: Same as [DuckDuckGo Search Settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/DuckDuckGo-Search.md)
 
 
