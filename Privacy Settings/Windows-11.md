@@ -216,6 +216,24 @@ Press `Win key + r` > type `services.msc` > press enter
 
 
 
+## Block & uninstall Quick Assist
+Press `Win key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
+
+- Type (or copy paste) the following in the powershell window & press enter:
+  ```
+  notepad C:\Windows\System32\drivers\etc\hosts
+  ```
+- In this hosts file add the following line at the bottom & save:
+  ```
+  0.0.0.0	remoteassistance.support.services.microsoft.com
+  ```
+- To uninstall, type (or copy paste) the following in the powershell window & press enter:
+  ```
+  Get-AppxPackage -Name MicrosoftCorporationII.QuickAssist | Remove-AppxPackage -AllUsers
+  ```
+
+
+
 ## Disable trending searches & web search in search bar
 Press `Win key + r` > type `regedit` > press enter > Yes
 
