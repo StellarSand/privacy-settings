@@ -1,6 +1,15 @@
 # Changelog
 
 
+## Aug 08, 2024
+
+#### Windows 10
+- Added [Block & uninstall Quick Assist](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#block--uninstall-quick-assist)
+
+#### Windows 11
+- Added [Block & uninstall Quick Assist](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#block--uninstall-quick-assist)
+
+
 ## Jul 27, 2024
 - Added [DuckDuckGo Browser Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/DuckDuckGo-Browser.md) & [DuckDuckGo Browser Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/DuckDuckGo-Browser-Mobile.md)
 
