@@ -64,6 +64,9 @@ NOTE 2: The backup code is required to login, if 2FA method is lost, broken or u
 #### Location information
 - Personalize based on places you've been: Off
 
+#### Grok
+- Allow your posts as well as your interactions, inputs, and results with Grok to be used for training and fine-tuning: Off
+
 ---
 ---
 
