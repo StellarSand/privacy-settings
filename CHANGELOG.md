@@ -1,6 +1,15 @@
 # Changelog
 
 
+## Aug 25, 2024
+
+#### Brave Mobile
+- Added [Autofill in private tabs](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#autofill-in-private-tabs)
+
+#### Twitter (X)
+- Added [Grok](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Twitter.md#grok) in [Privacy and safety](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Twitter.md#privacy-and-safety) (by [@Calvineries](https://github.com/Calvineries))
+
+
 ## Aug 08, 2024
 
 #### Windows 10

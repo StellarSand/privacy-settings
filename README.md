@@ -37,7 +37,7 @@
 - <img src="icons/gmail.png" width="20" align="center"> [Gmail](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Gmail.md)
 - <img src="icons/google.png" width="20" align="center"> [Google Account](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md)
 - <img src="icons/google_chrome.png" width="20" align="center"> [Google Chrome/Ungoogled Chromium Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md)
-- <img src="icons/google_chrome.png" width="20" align="center"> [Google Chrome/Ungoogled Chromium Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md)
+- <img src="icons/google_chrome.png" width="20" align="center"> [Google Chrome Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md)
 - <img src="icons/google.png" width="20" align="center"> [Google Search](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Search.md)
 - <img src="icons/instagram.png" width="20" align="center"> [Instagram](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Instagram.md)
 - <img src="icons/linkedin.png" width="20" align="center"> [LinkedIn](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/LinkedIn.md)
