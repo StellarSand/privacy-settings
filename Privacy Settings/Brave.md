@@ -6,6 +6,7 @@ Go to Settings
 
 ## Appearance
 - Show Brave News button: Off
+- Show Leo AI button: Off
 - Show Brave Rewards button: Off
 - Show Brave Wallet button: Off
 - Show autocomplete suggestions in address bar >
@@ -18,7 +19,7 @@ Go to Settings
 ## Shields
 - Trackers & ads blocking: Aggressive
 - Upgrade connections to HTTPS: Strict
-- Block fingerprinting: On
+- Block fingerprinting: Strict (If you face any issues with sites, change it back to standard)
 - Block cookies: Block third-party cookies
 
 
@@ -53,7 +54,6 @@ Go to Settings
 #### Wallet
 - Enable NFT discovery: Off
 - Enable Brave Wallet in Private Windows: Off
-- Automatically pin NFTs: Off
 
 #### Web3 Domains
 - Resolve Unstoppable Domains domain names: Disabled

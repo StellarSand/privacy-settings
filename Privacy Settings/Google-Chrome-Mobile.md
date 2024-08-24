@@ -1,13 +1,10 @@
 # Google Chrome Mobile Privacy Settings
 
-**Following settings also apply to Ungoogled Chromium, except where mentioned otherwise.**
-
 Go to Settings.
 
 
 
 ## Google services
-**This section does not apply to Ungoogled Chromium**
 - All off
 
 
@@ -80,7 +77,5 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 ---
 ---
-
-**This section does not apply to Ungoogled Chromium**
 
 On new tab page > Discover by Google > tap on 3 dots icon > Turn off

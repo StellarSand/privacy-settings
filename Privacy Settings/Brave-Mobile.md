@@ -107,3 +107,8 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 ## Addresses and more
 - Save and fill addresses: Off
+
+
+
+## Autofill in private tabs
+- Off
