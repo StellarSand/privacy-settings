@@ -1,6 +1,15 @@
 # Changelog
 
 
+## Aug 28, 2024
+
+#### Windows 10
+- Added [Block all Microsoft telemetry](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#block-all-microsoft-telemetry)
+
+#### Windows 11
+- Added [Block all Microsoft telemetry](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#block-all-microsoft-telemetry)
+
+
 ## Aug 25, 2024
 
 #### Brave Mobile
