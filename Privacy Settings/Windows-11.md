@@ -223,7 +223,7 @@ Press `Win key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
   ```
   notepad C:\Windows\System32\drivers\etc\hosts
   ```
-- In this hosts file add the following line at the bottom & save:
+- In this hosts file add the following line at the bottom & save it:
   ```
   0.0.0.0	remoteassistance.support.services.microsoft.com
   ```
@@ -231,6 +231,20 @@ Press `Win key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
   ```
   Get-AppxPackage -Name MicrosoftCorporationII.QuickAssist | Remove-AppxPackage -AllUsers
   ```
+
+
+
+## Block all Microsoft telemetry
+Press `Win key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
+
+- Type (or copy paste) the following in the powershell window & press enter:
+  ```
+  notepad C:\Windows\System32\drivers\etc\hosts
+  ```
+- In this hosts file add everything from [this list](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.winoffice.txt) at the bottom & save it.
+
+The list is updated regularly, so remember to check back often & replace old entries in the hosts file with the most recent ones.
+Windows updates will function normally even with these additions.
 
 
 

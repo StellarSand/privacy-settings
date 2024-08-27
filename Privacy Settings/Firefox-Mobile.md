@@ -68,7 +68,6 @@ NOTE: Never save payment info or credit card details in browsers. A password man
 ## Data collection
 **This section does not apply to Fennec**
 - Usage and technical data: Off
-- Marketing data: Off
 - Studies: Off
 
 
