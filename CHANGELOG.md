@@ -1,6 +1,15 @@
 # Changelog
 
 
+## Sep 13, 2024
+
+#### Reddit
+- Updated all settings.
+
+#### Windows 11
+- Added [Fresh install](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#fresh-install)
+
+
 ## Aug 28, 2024
 
 #### Windows 10

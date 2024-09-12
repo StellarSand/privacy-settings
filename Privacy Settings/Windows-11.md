@@ -266,3 +266,36 @@ Press `Win key + r` > type `regedit` > press enter > Yes
 - Right click on `WindowsCopilot` > New > DWORD (32-bit) Value > name it `TurnOffWindowsCopilot`
 - Double click it and set `Value data` to `1` > OK
 - Open Task Manager > Processes > select `Windows Explorer` > Right click > Restart
+
+
+---
+---
+
+
+## Fresh install
+
+#### Block preinstalled third-party bloatware
+- In the installation media setup wizard, select `Time and currency format` as `English (World)`.
+- Once the device restarts, an error (`Something went wrong`) will be displayed. Select `Skip` & continue with the rest of the setup.
+- After the whole setup completes & the device boots into Windows 11, go to Settings > Time & language > Language & region > Country or region: select your country/region
+
+#### Bypass Microsoft account requirement
+After the installation media setup wizard completes & the device begins to restart, disconnect your internet connection (even if you're unable to disconnect for any reason, keep following the process).
+<br>After the device restarts, it'll reach the country or region selection screen.
+- Press `Shift + F10`. On some devices you may require to press `Fn + Shift + F10`.
+- In the command prompt, type the following & press enter:
+  ```
+  oobe\bypassnro
+  ```
+  Your device will restart.
+- If for some reason you were unable to disconnect from the internet earlier, press `Shift + F10` or `Fn + Shift + F10` again. In the command prompt, type the following & press enter:
+  ```
+  ipconfig /release
+  ```
+- Select `I don't have internet` & continue with the local account creation.
+- If you used `ipconfig /release` command previously, once the whole setup process is complete:
+  - Press `Win key + r` > type `cmd` & press enter.
+  - In the command prompt, type the following & press enter:
+    ```
+    ipconfig \renew
+    ```
