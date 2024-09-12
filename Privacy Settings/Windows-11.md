@@ -297,5 +297,5 @@ After the installation media setup wizard completes & the device begins to resta
   - Press `Win key + r` > type `cmd` & press enter.
   - In the command prompt, type the following & press enter:
     ```
-    ipconfig \renew
+    ipconfig /renew
     ```
