@@ -1,9 +1,13 @@
 # LinkedIn Privacy Settings
 
-Go to Settings & Privacy.
+Go to [Settings & Privacy](https://www.linkedin.com/mypreferences/d/categories/account).
 
 
 ## Account preferences
+
+#### Profile information
+- Personal demographic information >
+  - Click on `remove` in `You can always all personal demographic data submitted in these categories.` > Remove
 
 #### Syncing options
 - Sync Contacts: Remove all
@@ -14,79 +18,98 @@ Go to Settings & Privacy.
 
 
 
-## Sign-in & security
+## Sign in & security
 
 #### Where you're signed in
-Check where you've signed in from and sign out of any unnecessary/unused sessions.
+Check where you've signed in from & sign out of any unnecessary/unused sessions.
 
 #### Devices that remember your password
 Remove any device you don't use.
 
 #### Two-step verification
-- Turn on
-- Select Authenticator App. Never choose Phone Number (SMS)
+- Set up
+- Select Authenticator App. Never select `Phone Number (SMS)`
 - Scan the QR code with the authenticator app and enter the 6 digit code > Continue
 - Generate your recovery codes and save them
 
 NOTE 1: Don't use Microsoft Authenticator as mentioned there. Instead use a privacy respecting authenticator app. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
 
-NOTE 2: The recovery codes downloaded is required to login, if 2FA method is lost, broken or unavailable. Keep these codes somewhere safe, to prevent loss or unauthorised access. They can be stored in a password manager, in an encrypted note, or write them down somewhere safe.
+NOTE 2: The recovery codes downloaded is required to login, if 2FA method is lost, broken or unavailable. Keep these codes somewhere safe, to prevent loss or unauthorized access. They can be stored in a password manager, in an encrypted note, or write them down somewhere safe.
 
 
 
 ## Visibility
 
 #### Visibility of your profile & network
+- Page visit visibility >
+  - Allow organizations to see when you visit their LinkedIn Page: Off
 - Who can see or download your email address >
-  - Never select Anyone on LinkedIn
-  - Allow your connections to download your email in their data export?: No
-
-- Connections >
-  - Allow your connections to see your connections list: No
+  - Don't select `Anyone on LinkedIn`
+  - Allow connections to export emails: Off
+- Who can see  your connections >
+  - Connection visibility: Off
+- Who can see members you follow >
+  - Follow visibility: Only visible to me
+- Page owners exporting your data >
+  - Allow Page owners to export your data: Off
+- Profile discovery using email address >
+  - Don't select `Anyone`
+- Profile discovery using phone number >
+  - Don't select `Everyone`
 
 #### Visibility of your LinkedIn activity
 - Manage active status >
-  - Who can see that you are currently active while you are using LinkedIn?: Your Connections only or No one
-
-
-
-## Communications
-
-#### Who can reach you
-- Messages >
-  - Allow LinkedIn partners to show you Sponsored Messages on LinkedIn?: No
-
-- Research invites >
-  - Allow LinkedIn or third-party partners to send you invitations for participating in product feedback surveys, market research, and other studies?: No
-
-#### Messaging experience
-- Messaging suggestions >
-  - Allow LinkedIn to show you Messaging suggestions, some of which are personalized using automated systems to recognize patterns in messages?: No
+  - Who can see that you are currently active while you are using LinkedIn?: No one
+- Share profile updates with your network >
+  - Share key profile updates: Off
 
 
 
 ## Data privacy
 
+#### How LinkedIn uses your data 
+- Social, economic, and workplace research >
+  - Use data for research: Off
+- Data for Generative AI Improvement >
+  - Use my data for training content creation AI models: Off
+
+#### Who can reach you
+- Research invites >
+  - Research invitations: Off
+
+#### Messaging experience
+- Read receipts and typing indicators >
+  - When messaging a connection who has it enabled, both of you will be able to see when each other is typing and when the message is read: Off
+- Messaging suggestions >
+  - Messaging suggestions: Off
+
 #### Job seeking preferences
 - Job application settings >
-  - Save and manage your resumes and answers: Off > Yes, delete
+  - Save resumes and application data: Off > Yes, delete
 
-- Social, economic, and workplace research >
-  - Can we enable trusted third-party partners to use data about you for social, economic, and workplace research?: No
-
-#### Other applications
+#### Permitted services
 Remove anything not required anymore
 
 
 
 ## Advertising data
 
+#### Profile data
+- Connections >
+  - Use connections data: Off
+
+#### Activity and inferred data
+- Interests and traits >
+  - Interests and traits: Off
+- Age range >
+  - Use your age range for ads: Off
+- Gender >
+  - Use your gender for ads: Off
+
 #### Third-party data
-- Audience insights for websites you visit >
-  - Can we use information (that does not identify you) about your visits to other websites to help them better understand their audiences?: No
-
 - Ads outside of LinkedIn >
-  - Can we show you personalized ads outside of LinkedIn?: No
-
+  - Ads outside of LinkedIn: Off
+-  Interaction with businesses  >
+  - Use data you've given to businesses: Off
 - Ad-related actions >
-  - Can we use your information (that does not identify you) about actions you took on ads to let advertisers know aggregate information about how their ad performed?: No
+  - Use your data for ad insights: Off

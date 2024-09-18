@@ -1,6 +1,12 @@
 # Changelog
 
 
+## Sep 19, 2024
+
+#### LinkedIn
+- Updated all settings.
+
+
 ## Sep 13, 2024
 
 #### Reddit
@@ -25,7 +31,7 @@
 - Added [Autofill in private tabs](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#autofill-in-private-tabs)
 
 #### Twitter (X)
-- Added [Grok](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Twitter.md#grok) in [Privacy and safety](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Twitter.md#privacy-and-safety) (by [@Calvineries](https://github.com/Calvineries))
+- Added [Grok](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Twitter.md#grok) in [Privacy and safety](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Twitter.md#privacy-and-safety) (by [Calvineries](https://github.com/Calvineries))
 
 
 ## Aug 08, 2024

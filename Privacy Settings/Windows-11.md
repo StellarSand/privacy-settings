@@ -276,7 +276,7 @@ Press `Win key + r` > type `regedit` > press enter > Yes
 
 #### Block preinstalled third-party bloatware
 - In the installation media setup wizard, select `Time and currency format` as `English (World)`.
-- Once the device restarts, an error (`Something went wrong`) will be displayed. Select `Skip` & continue with the rest of the setup.
+- Once the device restarts, an error (`Something went wrong`) will be displayed. Click on `Skip` & continue with the rest of the setup.
 - After the whole setup completes & the device boots into Windows 11, go to Settings > Time & language > Language & region > Country or region: select your country/region
 
 #### Bypass Microsoft account requirement
