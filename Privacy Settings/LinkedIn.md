@@ -109,7 +109,7 @@ Remove anything not required anymore
 #### Third-party data
 - Ads outside of LinkedIn >
   - Ads outside of LinkedIn: Off
--  Interaction with businesses  >
+- Interaction with businesses  >
   - Use data you've given to businesses: Off
 - Ad-related actions >
   - Use your data for ad insights: Off
