@@ -7,7 +7,7 @@ Go to [Settings & Privacy](https://www.linkedin.com/mypreferences/d/categories/a
 
 #### Profile information
 - Personal demographic information >
-  - Click on `remove` in `You can always all personal demographic data submitted in these categories.` > Remove
+  - Click on `remove` in `You can always remove all personal demographic data submitted in these categories.` > Remove
 
 #### Syncing options
 - Sync Contacts: Remove all
