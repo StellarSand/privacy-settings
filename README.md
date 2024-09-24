@@ -8,6 +8,7 @@
   - [Recommendations, alternatives & reviews](#recommendations-alternatives--reviews)
   - [Privacy news, blogs, guides & other stuff](#privacy-news-blogs-guides--other-stuff)
 - [Contributing](#contributing)
+- [Credits](#credits)
 - [License](#license)
 
 
@@ -84,7 +85,7 @@ All notable changes are accounted in the [changelog](https://github.com/StellarS
 ## FAQs
 
 #### Will following the settings mentioned here ensure complete privacy?
-Following these settings can significantly minimize data collection and tracking by the mentioned services/software, but it is important to note that absolute privacy and security on the internet are difficult to achieve. Even with these settings, there may still be some level of data collection or tracking. It is advisable to explore and utilize privacy-respecting alternatives whenever possible for enhanced privacy.
+Following these settings can significantly minimize data collection and tracking by the mentioned services/software, but absolute privacy and security on the internet are difficult to achieve. Even with these settings, there may still be some level of data collection or tracking. It is advisable to explore and utilize privacy-respecting alternatives whenever possible for enhanced privacy.
 
 #### Why are privacy invading services like Facebook, Zoom, Google etc. mentioned here? Isn't this repo focused on privacy?
 Although the aim of this repo is to promote privacy, there may be instances where the use of privacy-invading services/software is necessary. For example, using Zoom for work meetings or a social media platform for business purposes. The goal here is to minimize data collection and enhance digital privacy as much as possible, even when using privacy-invading services/software. However, it is highly encouraged to explore and adopt better privacy-respecting alternatives whenever available and suitable for your needs.
@@ -162,6 +163,11 @@ If you want to help out with the project, here are some ideas:
 - Translate it to your own language.
 
 Pull requests can be submitted [here](https://github.com/StellarSand/privacy-settings/pulls).
+
+
+
+## Credits
+- [Contributors](https://github.com/StellarSand/privacy-settings/graphs/contributors) for making this project better.
 
 
 
