@@ -44,6 +44,7 @@
 - <img src="icons/linkedin.png" width="20" align="center"> [LinkedIn](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/LinkedIn.md)
 - <img src="icons/logitech.png" width="20" align="center"> [Logi Options+](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Logi-Options%2B.md)
 - <img src="icons/logitech.png" width="20" align="center"> [Logitech Options](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Logitech-Options.md)
+- <img src="icons/sequoia.png" width="20" align="center"> [MacOS Sequoia](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/MacOS-Sequoia.md)
 - <img src="icons/microsoft_edge.png" width="20" align="center"> [Microsoft Edge Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md)
 - <img src="icons/microsoft_edge.png" width="20" align="center"> [Microsoft Edge Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md)
 - <img src="icons/proton_mail.svg" width="20" align="center"> [Proton Mail](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Proton-Mail.md)
