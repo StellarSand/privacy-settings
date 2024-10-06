@@ -82,7 +82,7 @@ Note: Generally keep tabs on all permissions and restrict as many as possible. T
 
 #### Security
 - Allow applications from: App Store
-Note: Malware can still be hosted on the App Store. And denying other sources may heavily restrict software you can run. This is only a feature to enable if you don't trust other sources of installing applications.
+<br>Note: Malware can still be hosted on the App Store. And denying other sources may heavily restrict software you can run. This is only a feature to enable if you don't trust other sources of installing applications.
 - Allow accessories to connect: Ask Every Time
 - FileVault: On
 - Lockdown Mode: On
