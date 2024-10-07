@@ -1,6 +1,20 @@
 # Changelog
 
 
+## Oct 07, 2024
+- Added [MacOS Sequoia](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/MacOS-Sequoia.md) (by [Henry](https://github.com/henry-fisher))
+
+#### Brave Mobile
+- Added `Content Filtering` in [Brave shields & privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
+- Added `Show search suggestions` & `Show top sites suggestions` in [Search engines](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#search-engines)
+
+#### Microsoft Edge Desktop
+- Added `Include related matches in Find on page` in [Privacy, search, and services](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#privacy-search-and-services) > [Services](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#services)
+
+#### Microsoft Edge Mobile
+- Added [Let Microsoft Edge help keep your tabs organized](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#let-microsoft-edge-help-keep-your-tabs-organized) & [Website Typo Protection](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#website-typo-protection) in [Privacy, security and services](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#privacy-security-and-services)
+
+
 ## Sep 19, 2024
 
 #### LinkedIn

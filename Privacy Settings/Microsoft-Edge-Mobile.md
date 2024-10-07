@@ -56,6 +56,9 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 #### Do Not Track
 - Off
 
+#### Let Microsoft Edge help keep your tabs organized
+- Off
+
 #### Website Typo Protection
 - Website Typo Protection: On
 
