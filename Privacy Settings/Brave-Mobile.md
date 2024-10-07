@@ -10,8 +10,11 @@ Go to Settings
 - Auto-redirect tracking URLs: On
 - Upgrade connections to HTTPS: Require all connections to use HTTPS (strict)
 - Block Cookies: Block third-party cookies
-- Block Fingerprinting: Fingerprinting blocked (strict) (If you face any issues with sites, change it back to standard)
+- Block Fingerprinting: On
 - Prevent fingerprinting via language settings: On
+- Content Filtering >
+  - Fanboy's Annoyances + uBO Annoyances: On
+  - Select other filter lists based on your language & preferences
 - Safe Browsing: Standard protection
 - Lock Private tabs when you leave Brave: On
 - Allow sites to check if you have payment methods saved: Off
@@ -31,8 +34,6 @@ Go to Settings
 - Allow privacy-preserving product analytics (P3A): Off
 - Automatically send diagnostic reports: Off
 - Automatically send daily usage ping to Brave: Off
-- Improve search suggestions: Off
-- Show top sites in autocomplete: Off
 
 
 
@@ -57,6 +58,8 @@ Go to Settings
 ## Search engines
 - Standard Tab: `DuckDuckGo` or any other privacy respecting search engine like `Brave`, `Startpage` etc.
 - Private Tab: `DuckDuckGo` or any other privacy respecting search engine like `Brave`, `Startpage` etc.
+- Show search suggestions: Off
+- Show top sites suggestions: Off
 
 
 

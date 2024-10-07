@@ -31,11 +31,16 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 ## Privacy and security
 
-#### Privacy
+#### Data exposed to the websites
 - Third-party cookies: Block third-party cookies
 - Send a "Do Not Track" request: Off
 - Global Privacy Control "Sec-GPC": On
+- Access payment methods: Off
+
+#### Incognito mode
 - Lock Incognito tabs when you leave Cromite: On
+- Always incognito mode >
+  - Enable history: Off
 
 #### Security
 - Always use secure connections: On
@@ -45,12 +50,8 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
     Example: For Quad9, enter https://dns.quad9.net/dns-query
 
-- Always incognito mode >
-  - Enable history: Off
-
 #### Other services
 - Improve search suggestions: Off
-- Access payment methods: Off
 
 
 
@@ -81,8 +82,3 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 ## Downloads
 - Ask where to save files: On
-
-
-
-## Google services
-- Improve search suggestions: Off

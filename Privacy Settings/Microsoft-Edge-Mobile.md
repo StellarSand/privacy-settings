@@ -24,7 +24,7 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 
 
-## Privacy and security
+## Privacy, security and services
 
 #### Diagnostic data
 - Optional diagnostic data: Off
@@ -55,6 +55,9 @@ NOTE: Never save payment info in browsers. A password manager can be used to als
 
 #### Do Not Track
 - Off
+
+#### Website Typo Protection
+- Website Typo Protection: On
 
 
 

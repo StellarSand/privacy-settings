@@ -26,8 +26,8 @@ Go to Settings.
 
 
 
-## Logins and Passwords
-- Save logins and passwords: Never save
+## Passwords
+- Save passwords: Never save
 - Autofill in Firefox/Fennec: Off
 - Autofill in other apps: Off
 

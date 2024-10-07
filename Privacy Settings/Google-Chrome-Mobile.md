@@ -15,7 +15,7 @@ Go to Settings.
 
 
 
-## Password Manager
+## Google Password Manager
 
 #### Settings
 - Offer to save passwords: Off

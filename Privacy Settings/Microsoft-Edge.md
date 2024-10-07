@@ -64,6 +64,7 @@ NOTE 2: Never save payment info in browsers. A password manager can be used to a
 #### Services
 - Save time and money with Shopping in Microsoft Edge: Off (use something else like [Keepa](https://keepa.com/), [camelcamelcamel](https://camelcamelcamel.com/), [Price History](https://pricehistoryapp.com/) etc.)
 - Get notifications of related things you can explore with Discover: Off
+- Include related matches in Find on page: Off
 - Let Microsoft Edge help keep your tabs organized: Off
 - Address bar and search >
   - First click on `Manage search engines` > Add > Add a privacy respecting search engine here like `DuckDuckGo`, `StartPage`, `Brave` etc.

@@ -19,7 +19,7 @@ Go to Settings
 ## Shields
 - Trackers & ads blocking: Aggressive
 - Upgrade connections to HTTPS: Strict
-- Block fingerprinting: Strict (If you face any issues with sites, change it back to standard)
+- Block fingerprinting: On
 - Block cookies: Block third-party cookies
 
 
@@ -28,7 +28,7 @@ Go to Settings
 - Security >
   - Standard protection
   - Use secure DNS: On
-  - Select DNS provider: `Cloudflare`, or select `Add custom DNS service provider` and provide URL for other secure DNS from [this list](https://www.privacyguides.org/en/dns/#recommended-providers)
+  - Select DNS provider: `NextDNS`/`Cloudflare`, or select `Add custom DNS service provider` and provide URL for other secure DNS from [this list](https://www.privacyguides.org/en/dns/#recommended-providers)
   <br>Example: For Quad9, enter https://dns.quad9.net/dns-query
   - Manage V8 security: Don’t allow sites to use the V8 optimizer
 
@@ -73,7 +73,7 @@ Go to Settings
 privacy respecting search engine from `Manage search engines and site search`.
 - Private window: `DuckDuckGo`/`Brave`/`Startpage` or add any other 
 privacy respecting search engine from `Manage search engines and site search`.
-- Improve search suggestions: Off
+- Show search suggestions: Off
 - Web Discovery Project: Off
 
 
