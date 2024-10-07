@@ -1,7 +1,7 @@
 # Changelog
 
 
-## Oct 07, 2024
+## Oct 08, 2024
 - Added [MacOS Sequoia](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/MacOS-Sequoia.md) (by [Henry](https://github.com/henry-fisher))
 
 #### Brave Mobile
@@ -12,7 +12,7 @@
 - Added `Include related matches in Find on page` in [Privacy, search, and services](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#privacy-search-and-services) > [Services](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#services)
 
 #### Microsoft Edge Mobile
-- Added [Let Microsoft Edge help keep your tabs organized](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#let-microsoft-edge-help-keep-your-tabs-organized) & [Website Typo Protection](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#website-typo-protection) in [Privacy, security and services](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#privacy-security-and-services)
+- Added [Let Microsoft Edge help keep your tabs organized](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#let-microsoft-edge-help-keep-your-tabs-organized) & [Website Typo Protection](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#website-typo-protection) in [Privacy, security and services](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#privacy-security-and-services)
 
 
 ## Sep 19, 2024
