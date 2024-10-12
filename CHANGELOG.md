@@ -1,6 +1,18 @@
 # Changelog
 
 
+## Oct 13, 2024
+- Added [Android 15](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-15.md)
+- Added [Tuta Mail](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Tuta-Mail.md)
+
+#### Facebook
+- Updated all settings
+
+#### WhatsApp
+- Added `Block unknown account messages` in [Privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#privacy) > [Advanced](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#advanced)
+
+
+
 ## Oct 08, 2024
 - Added [MacOS Sequoia](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/MacOS-Sequoia.md) (by [Henry](https://github.com/henry-fisher))
 
@@ -15,10 +27,12 @@
 - Added [Let Microsoft Edge help keep your tabs organized](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#let-microsoft-edge-help-keep-your-tabs-organized) & [Website Typo Protection](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#website-typo-protection) in [Privacy, security and services](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#privacy-security-and-services)
 
 
+
 ## Sep 19, 2024
 
 #### LinkedIn
 - Updated all settings.
+
 
 
 ## Sep 13, 2024
@@ -30,6 +44,7 @@
 - Added [Fresh install](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#fresh-install)
 
 
+
 ## Aug 28, 2024
 
 #### Windows 10
@@ -37,6 +52,7 @@
 
 #### Windows 11
 - Added [Block all Microsoft telemetry](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#block-all-microsoft-telemetry)
+
 
 
 ## Aug 25, 2024
@@ -48,6 +64,7 @@
 - Added [Grok](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Twitter.md#grok) in [Privacy and safety](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Twitter.md#privacy-and-safety) (by [Calvineries](https://github.com/Calvineries))
 
 
+
 ## Aug 08, 2024
 
 #### Windows 10
@@ -55,6 +72,7 @@
 
 #### Windows 11
 - Added [Block & uninstall Quick Assist](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#block--uninstall-quick-assist)
+
 
 
 ## Jul 27, 2024
