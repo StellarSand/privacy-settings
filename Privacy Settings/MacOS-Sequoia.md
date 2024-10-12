@@ -27,8 +27,7 @@ Note 2: Keep tabs on what you're using iCloud for and make sure it's only enable
 #### Network Settings
 - Ask to join hotsposts: Off
 - Wifi Network `Details` > Private Wi-Fi address
-  - `Fixed` or `Rotating`
-  <br>Note: `Fixed` will use a new, unique MAC address on that specific network. `Rotating` will cycle through new MAC addresses periodically.
+  - `Fixed` or `Rotating` (`Fixed` will use a new, unique MAC address on that specific network. `Rotating` will cycle through new MAC addresses periodically.)
 
 
 
@@ -40,8 +39,7 @@ Note 2: Keep tabs on what you're using iCloud for and make sure it's only enable
 ## Network
 - Firewall > Firewall: On
   - Options >
-    - Block all incoming connections: On
-      <br>**Note: EXTREME and may break many programs unless you manually exclude them.**
+    - Block all incoming connections: On (**EXTREME** and **may** break many programs unless you manually exclude them.)
     - Enable stealth mode: On
 
 
@@ -102,8 +100,7 @@ Generally keep tabs on all permissions and restrict as many as possible. The few
 - Personalized Ads: Off
 
 #### Security
-- Allow applications from: App Store 
-  <br>Note: Malware can still be hosted on the App Store & denying other sources may heavily restrict software you can run. Enable this feature only if you don't trust other sources for installing applications.
+- Allow applications from: App Store (Malware can still be hosted on the App Store & denying other sources may heavily restrict software you can run. Enable this feature only if you don't trust other sources for installing applications.)
 - Allow accessories to connect: Ask Every Time
 - FileVault: On
 - Lockdown Mode: On

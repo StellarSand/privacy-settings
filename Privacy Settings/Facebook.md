@@ -2,73 +2,120 @@
 
 Login to [Facebook](https://www.facebook.com) from browser.
 
-Click dropdown arrow on top right and go to Settings & Privacy > Settings
+Click on your profile picture on top right > Settings & Privacy > Settings
 
 
 
-## General
+## Meta Accounts Centre
+Go to [Meta Accounts centre](https://accountscenter.facebook.com/) (clicking on `See more in Accounts Centre` will also redirect you there).
 
-#### Contact
-- Allow friends to include my email address in "Download Your Information": Off
+#### Password and security
+- Two-factor authentication >
+    - Use two-factor authentication > Edit > Use Authentication App > Scan the QR code using an authenticator app > Continue > Enter 6 digit code > Continue > Done
+    - After the above step is complete, setup recovery codes and save them.
+    <br><br>NOTE 1: Don't use Google Authenticator or Duo as mentioned there. Instead use a privacy respecting authenticator app. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
+    <br><br>NOTE 2: The backup codes downloaded is required to login, if 2FA method is lost, broken or unavailable. Keep these codes somewhere safe, to prevent loss or unauthorized access. They can be stored in a password manager, in an encrypted note, or write them down somewhere safe.
+- Where you're logged in >
+    - Select your account > click on `Select devices to log out` > select any device you don't use and click on `Log out`
+- Login alerts >
+    - Select your account > select both
+
+#### Your information and permissions
+- Your activity off Meta technologies >
+    - Manage future activity > select `Disconnect future activity`
+
+#### Ad preferences
+##### Customise ads
+Click on `See all` next to `Ad topics` > in the popup, click on the search bar at the top > click on each category & select `See less` for every one of them
+##### Manage info
+- Categories used to reach you >
+    - Click on each category & select `No` for every one of them (if there's too many, remove as many as you can, or do it over a period of few days)
+    - Click on `View and manage` under `Categories associated with you` > click `Remove` if any associated category is shown
+- Activity information from ad partners >
+    - Review setting > select `No, don't make my ads more relevant by using this information` > Confirm
+- Ads shown outside of Meta >
+    - Not allowed
+- Social interactions >
+    - select your account > select `Only Me`
+
+
+
+## Profile locking
+- Lock your profile > OK
+
+
+
+## Profile details
+
+#### Work and education
+- Remove everything
+
+#### Places lived
+- Remove everything
+
+#### Family and relationships
+- Remove everything
+
+#### Details about you
+- Remove everything
+
+#### Contact and basic info
 - Remove phone number if added
+- Provide false birth date & year and set them to `Only me`
 
 
 
-## Security and login
 
-#### Setting up extra security
-- Get alerts about unrecognized logins: select Get Notifications and Get Emails
+## How people can find and contact you
 
-#### Two-Factor Authentication
-- Use two-factor authentication > Edit > Use Authentication App > Scan the QR code using an authenticator app > Continue > Enter 6 digit code > Continue > Done
-- After the above step is complete, setup recovery codes and save them.
+#### Your Friends
+- Who can see your friends list?: Don't select `Public`
 
-NOTE 1: Don't use Google Authenticator or Duo as mentioned there. Instead use a privacy respecting authenticator app. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
+#### Who can Facebook suggest your profile to based on your phone number or email address?
+- People with your email address: No one
+- People with your phone number: No one
 
-NOTE 2: The backup codes downloaded is required to login, if 2FA method is lost, broken or unavailable. Keep these codes somewhere safe, to prevent loss or unauthorised access. They can be stored in a password manager, in an encrypted note, or write them down somewhere safe.
-
-
-
-## Your Facebook information
-
-#### Off-Facebook activity
-- Clear history > Clear History
-- More Options > Manage Future Activity > Manage Future Activity > Future Off-Facebook Activity > Turn Off
+#### Do you want search engines outside Facebook to link to your profile?
+- Off
 
 
 
-## Privacy
-
-#### Your activity
+## Posts
 - Who can see your future posts?: Friends
-- Who can see the people, Pages and lists you follow?: Friends
 
-#### How people can find and contact you
-- Who can see your friends list?: Friends or Only me
-- Who can look you up using the email address you provided?: Only me
-- Who can look you up using the phone number you provided?: Only me
-- Do you want search engines outside Facebook to link to your profile? > Allow search engines outside of Facebook to link to your Profile > Turn Off
+
+
+## Stories
+- Who can see your stories?: Don't select `Public`
+- Allow others to share your public stories to their own story?: Off
+- Archiving your stories: Off
+
+
+
+## Reels
+- Allow others to share your reels to their stories?: Off
+- Who can see your reels?: Don't select `Public`
+
+
+
+## Followers and public content
+- Who can follow me: Friends
+- Who can see your followers on your timeline?: Don't select `Public`
+- Who can see the people, Pages and lists you follow?: Don't select `Public`
+- Who can comment on your public posts?: Friends
+- Public profile info: Friends
+
 
 
 
 ## Profile and tagging
-
-#### Profile
-- Who can see what others post on your profile?: Friends
-
-#### Tagging
-- Who can see posts that you're tagged in on your profile?: Friends
-
-#### Reviewing
-- Review posts that you're tagged in before the post appears on your profile: On
-- Review tags that people add to your posts before the tags appear on Facebook?: On
-
-
-
-## Location
-
-#### Location History
-- Turn on Location History for your mobile devices?: Off
+- Who can post on your profile?: Friends
+- Who can see what others post on your profile?: Don't select `Everyone` or `Friends of friends`
+- Allow others to share your posts to their story?: Off
+- Who can see posts that you're tagged in on your profile?: Don't select `Everyone` or `Friends of friends`
+- When you're tagged in a post, who do you want to add to the audience of the post if they can't already see it?: `Friends` or `Only me`
+- Review tags that friends add to your posts before the tags appear on Facebook?: On
+- Review posts that you're tagged in before the post appears on your profile?: On
 
 
 
@@ -76,27 +123,8 @@ NOTE 2: The backup codes downloaded is required to login, if 2FA method is lost,
 Remove anything you don't use
 
 
-
-## Ads
-
-#### Advertisers
-If any advertisers shown, click Hide Ads
-
-#### Ad topics
-Click See Fewer for all of them
-
-#### Ad settings
-- Data about your activity from partners > Use Data from Partners: Off
-- Categories used to reach you > Turn Off all
-- Categories used to reach you > Interest Categories and Other Categories. For both > Remove all (if too many, remove as many as you can, or do it over a period of few days)
-- Ads shown off of Facebook > Off
-- Social Interactions > Only me
-
-
-
 ---
 ---
 
 
-
-Remove any personally identifiable info like phone numbers, email, location etc from your Facebook bio.
+Remove any personally identifiable info like phone numbers, email, location etc. from your Facebook bio.

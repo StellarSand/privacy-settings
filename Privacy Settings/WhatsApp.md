@@ -43,7 +43,8 @@ NOTE: When asked for Email, make sure you provide an email which has adequate se
 - Unlock with biometric: On
 
 #### Advanced
-- Protect IP address in calls: On (Will reduce call quality)
+- Block unknown account messages: On (This will block messages from unknown accounts only when they exceed a high volume, though WhatsApp doesn't specify the exact threshold.)
+- Protect IP address in calls: On (Call quality will be reduced, but it'll prevent your location from being exposed through your IP address to the other person on the call.)
 - Disable link previews: On
 
 

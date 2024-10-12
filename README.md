@@ -15,10 +15,11 @@
 
 ## Privacy Settings
 - <img src="icons/amazon.png" width="20" align="center"> [Amazon](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Amazon.md)
-- <img src="icons/android.png" width="20" align="center"> [Android 11 (R)](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-11.md)
-- <img src="icons/android.png" width="20" align="center"> [Android 12 (S)/12.1](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-12.md)
-- <img src="icons/android.png" width="20" align="center"> [Android 13 (T)](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-13.md)
-- <img src="icons/android.png" width="20" align="center"> [Android 14 (U)](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-14.md)
+- <img src="icons/android.png" width="20" align="center"> [Android 11](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-11.md)
+- <img src="icons/android.png" width="20" align="center"> [Android 12/12.1](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-12.md)
+- <img src="icons/android.png" width="20" align="center"> [Android 13](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-13.md)
+- <img src="icons/android.png" width="20" align="center"> [Android 14](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-14.md)
+- <img src="icons/android.png" width="20" align="center"> [Android 15](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-15.md)
 - <img src="icons/android_studio.png" width="20" align="center"> [Android Studio](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-Studio.md)
 - <img src="icons/apple.png" width="20" align="center"> [Apple ID](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Apple-ID.md)
 - <img src="icons/brave.png" width="20" align="center"> [Brave Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md)
@@ -44,7 +45,7 @@
 - <img src="icons/linkedin.png" width="20" align="center"> [LinkedIn](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/LinkedIn.md)
 - <img src="icons/logitech.png" width="20" align="center"> [Logi Options+](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Logi-Options%2B.md)
 - <img src="icons/logitech.png" width="20" align="center"> [Logitech Options](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Logitech-Options.md)
-- <img src="icons/sequoia.png" width="20" align="center"> [MacOS Sequoia](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/MacOS-Sequoia.md)
+- <img src="icons/macos_sequoia.png" width="20" align="center"> [MacOS Sequoia](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/MacOS-Sequoia.md)
 - <img src="icons/microsoft_edge.png" width="20" align="center"> [Microsoft Edge Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md)
 - <img src="icons/microsoft_edge.png" width="20" align="center"> [Microsoft Edge Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md)
 - <img src="icons/proton_mail.svg" width="20" align="center"> [Proton Mail](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Proton-Mail.md)
@@ -53,6 +54,7 @@
 - <img src="icons/spotify.png" width="20" align="center"> [Spotify](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Spotify.md)
 - <img src="icons/startpage_search.png" width="20" align="center"> [Startpage Search](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Startpage-Search.md)
 - <img src="icons/telegram.png" width="20" align="center"> [Telegram](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Telegram.md)
+- <img src="icons/tuta_mail.svg" width="20" align="center"> [Tuta Mail](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Tuta-Mail.md)
 - <img src="icons/twitter.png" width="20" align="center"> [Twitter (X)](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Twitter.md)
 - <img src="icons/vscode.png" width="20" align="center"> [Visual Studio Code](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Visual-Studio-Code.md)
 - <img src="icons/vivaldi.png" width="20" align="center"> [Vivaldi Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md)
@@ -88,11 +90,11 @@ All notable changes are accounted in the [changelog](https://github.com/StellarS
 #### Will following the settings mentioned here ensure complete privacy?
 Following these settings can significantly minimize data collection and tracking by the mentioned services/software, but absolute privacy and security on the internet are difficult to achieve. Even with these settings, there may still be some level of data collection or tracking. It is advisable to explore and utilize privacy-respecting alternatives whenever possible for enhanced privacy.
 
-#### Why are privacy invading services like Facebook, Zoom, Google etc. mentioned here? Isn't this repo focused on privacy?
+#### Why are privacy invading services like Facebook, Google, Zoom etc. mentioned here if this repo is focused on privacy?
 Although the aim of this repo is to promote privacy, there may be instances where the use of privacy-invading services/software is necessary. For example, using Zoom for work meetings or a social media platform for business purposes. The goal here is to minimize data collection and enhance digital privacy as much as possible, even when using privacy-invading services/software. However, it is highly encouraged to explore and adopt better privacy-respecting alternatives whenever available and suitable for your needs.
 
 #### The settings for a particular software/service was updated months ago, when will it be updated according to latest version?
-Settings for softwares/services may not require frequent updates with each new version. If there have been no significant changes that affect the settings, it will not be updated.
+Settings don't always require updates with every new version. They will only be updated if there are significant changes.
 <br>Check out the [changelog](https://github.com/StellarSand/privacy-settings/blob/main/CHANGELOG.md) for all the changes.
 
 

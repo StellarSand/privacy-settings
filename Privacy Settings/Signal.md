@@ -56,7 +56,7 @@ Remove any device you don't use.
 - Payment lock: On
 
 #### Advanced
-- Always relay calls: On (Might reduce call quality)
+- Always relay calls: On (Call quality will be reduced, but it'll prevent your location from being exposed through your IP address to the other person on the call.)
 
 
 ---

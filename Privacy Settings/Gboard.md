@@ -2,7 +2,7 @@
 
 Go to phone Settings > System >
 - up to Android 13: Languages & input > Virtual keyboard (or `On-screen keyboard`) > Gboard
-- Android 14: Keyboard > On-screen keyboard > Gboard
+- Android 14 & above: Keyboard > On-screen keyboard > Gboard
 
 **The above location is according to stock android and might differ from device to device.**
 

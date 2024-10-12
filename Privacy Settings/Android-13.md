@@ -77,14 +77,10 @@ After setting screen lock, tap on gear icon.
 - SIM card lock >
   - Lock SIM card: On > Enter default PIN > OK
   - Change SIM PIN > Enter old and new SIM PIN > OK (Create a secure new SIM PIN)
-
-  NOTE 1: The default PIN code is usually 1234 or 0000. However, if these two don't work, you should look on SIM card's packaging or contact your SIM provider's customer support.
-
-  NOTE 2: If you enter the PIN code wrong 3 times, you'll be asked to enter a PUK (Personal Unlock Key) code. This code can be obtained from the carrier, after they verify you are the rightful owner of the SIM. DO NOT try to guess the PUK code. If you enter it wrong 3 times, the SIM will be permanently locked and you might have to get a new SIM from your carrier.
-
+  <br>NOTE 1: The default PIN code is usually `1234` or `0000`. However, if these two don't work, you should look on SIM card's packaging or contact your SIM provider's customer support.
+  <br>NOTE 2: If you enter the PIN code wrong 3 times, you'll be asked to enter a PUK (Personal Unlock Key) code. This code can be obtained from the carrier, after they verify you are the rightful owner of the SIM. DO NOT try to guess the PUK code. If you enter it wrong 3 times, the SIM will be permanently locked and you might have to get a new SIM from your carrier.
 - Encryption & credentials >
   - Encrypt phone: Encrypted
-
 - Trust agents >
   - Smart Lock (Google): Off
 
@@ -113,7 +109,7 @@ After setting screen lock, tap on gear icon.
 
 #### Usage & diagnostics
 - Off
-<br>NOTE: Additionally some OEMs might include few more settings for personalized ads & diagnostics.
+<br>NOTE: Additionally some OEMs include few more settings for personalized ads & diagnostics.
 <br>Search in your phone settings for `User Experience Program`, `Personalized ad recommendations`, `Send diagnostic data` or something similar.
 
 
@@ -133,11 +129,13 @@ After setting screen lock, tap on gear icon.
 #### Personalize using shared data
 - Device Contacts: Off
 
-#### Settings for Google apps > Search, Assistant & Voice
-- General >
-  - Autocomplete settings > Autocomplete with trending searches: Off
-  - Discover: Off
-- Privacy & Security > Search customization: Off
+#### Settings for Google apps
+- Search, Assistant & Voice >
+  - General >
+    - Autocomplete settings > Autocomplete with trending searches: Off
+    - Discover: Off
+  - Privacy & Security >
+    - Search customization: Off
 
 
 
@@ -149,15 +147,12 @@ After setting screen lock, tap on gear icon.
 
 
 ## Wi-Fi MAC Randomization
-- About phone > tap `Build Number` 7 times. This will unlock Developer options.
-
-Go to `System` > Developer options > Wi-fi non persistent MAC randomization: On
-
+Go to `About phone` > tap `Build Number` 7 times. This will unlock Developer options.
+<br>Now go to `System` > Developer options > Wi-fi non persistent MAC randomization: On
 
 
 ---
 ---
-
 
 
 NOTE 1: Some other settings are same as [Google Account settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md)
