@@ -16,9 +16,9 @@ Go to System Settings by any of the following methods:
 - Advanced Data Protection: On
 - Access iCloud Data on the Web: Off
 
-**IMPORTANT NOTE 1:** Advanced Data Protection means you'll be handling your own encryption keys. If you lose this information Apple will not be able to recover your data!
-
-Note 2: Keep tabs on what you're using iCloud for and make sure it's only enabled for applications you need.
+> :information_source: **IMPORTANT NOTE 1:** Advanced Data Protection means you'll be handling your own encryption keys. If you lose this information Apple will not be able to recover your data!
+>
+> :information_source: **NOTE 2**: Keep tabs on what you're using iCloud for and make sure it's only enabled for applications you need.
 
 
 
@@ -100,7 +100,8 @@ Generally keep tabs on all permissions and restrict as many as possible. The few
 - Personalized Ads: Off
 
 #### Security
-- Allow applications from: App Store (Malware can still be hosted on the App Store & denying other sources may heavily restrict software you can run. Enable this feature only if you don't trust other sources for installing applications.)
+- Allow applications from: App Store
+  > :information_source: **NOTE**: Malware can still be hosted on the App Store & denying other sources may heavily restrict software you can run. Enable this feature only if you don't trust other sources for installing applications.
 - Allow accessories to connect: Ask Every Time
 - FileVault: On
 - Lockdown Mode: On

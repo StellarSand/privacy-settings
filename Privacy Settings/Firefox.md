@@ -46,7 +46,7 @@ Go to Settings.
 #### Passwords
 - Ask to save passwords: Off
 
-NOTE: Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
+> :information_source: **NOTE**: Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
 
 #### Permissions
 - Warn you when websites try to install add-ons: On

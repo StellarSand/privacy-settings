@@ -40,9 +40,9 @@ Go to Settings
 #### Two-Step Verification
 - Set Password > Create a secure Password (123456, 098765, your birth date, abcde, qwerty are not secure passwords. Create with at least 6-8 characters containing upper case, lower case, numbers and special characters.)
 
-NOTE 1: When asked for Recovery Email, make sure you provide an email which has adequate security measures like a strong password and 2FA enabled. Alternatively you can skip this, but then if you forget your password, you'll lose access to your Telegram account and there'll be no way to restore it.
-
-NOTE 2: Use a password manager to generate and store strong & unique passwords. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
+> :information_source: **NOTE 1**: When asked for Recovery Email, make sure you provide an email which has adequate security measures like a strong password and 2FA enabled. Alternatively you can skip this, but then if you forget your password, you'll lose access to your Telegram account and there'll be no way to restore it.
+>
+> :information_source: **NOTE 2**: Use a password manager to generate and store strong & unique passwords. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
 
 #### Auto-Delete messages
 - Self destruct timer: Select whatever suits you

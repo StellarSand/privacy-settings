@@ -17,9 +17,9 @@ Go to Settings & Support > Settings and privacy
 - Two-factor authentication >
   - Authenticator app > Get started > Scan the barcode using an authenticator app > Enter 6 digit code > Confirm > Save the backup code. 
 
-NOTE 1: Use a privacy respecting authenticator app. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
-
-NOTE 2: The backup code is required to login, if 2FA method is lost, broken or unavailable. Keep this code somewhere safe, to prevent loss or unauthorized access. It can be stored in a password manager, in an encrypted note, or write it down somewhere safe.
+> :information_source: **NOTE 1**: Use a privacy respecting authenticator app. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
+>
+> :information_source: **NOTE 2**: The backup code is required to login, if 2FA method is lost, broken or unavailable. Keep this code somewhere safe, to prevent loss or unauthorized access. It can be stored in a password manager, in an encrypted note, or write it down somewhere safe.
 
 - Password reset protect: On
 

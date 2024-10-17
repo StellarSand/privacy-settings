@@ -22,9 +22,9 @@ Go to Settings
 - Autofill passwords and passkeys: Off
 - Save and fill basic info: Off
 
-NOTE 1: Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
-
-NOTE 2: Never save payment info in browsers. A password manager can be used to also save payment information.
+> :information_source: **NOTE 1**: Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
+>
+> :information_source: **NOTE 2**: Never save payment info in browsers. A password manager can be used to also save payment information.
 
 
 

@@ -33,5 +33,3 @@ Don't save any payment info. A password manager can be used to also save payment
 
 #### iCloud Analytics
 - Share iCloud analytics: Off
-
-#### 

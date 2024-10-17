@@ -124,7 +124,7 @@ Delete your account picture and set it to default as mentioned below:
 - Go to `C:\Users\JohnDoe\AppData\Roaming\Microsoft\Windows\AccountPictures` and delete your picture. (Replace `JohnDoe` with your username)
 - Go to `C:\ProgramData\Microsoft\User Account Pictures` and select `guest.png`.
 
-NOTE: `AppData` is a hidden folder by default. To enable: in file explorer on top click `View` > Show > select `Hidden items`.
+> :information_source: **NOTE**: `AppData` is a hidden folder by default. To enable: in file explorer on top click `View` > Show > select `Hidden items`.
 
 #### Sign-in options
 - Show account details such as my email address on the sign-in screen: Off
