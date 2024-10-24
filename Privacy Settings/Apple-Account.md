@@ -1,6 +1,6 @@
-# Apple ID Privacy Settings
+# Apple Account Privacy Settings
 
-Login to [Apple ID](https://appleid.apple.com/account/manage) using browser.
+Login to [Apple Account](https://account.apple.com/account/manage) using browser.
 
 ## Sign-In and Security
 
