@@ -6,7 +6,7 @@
 - [Privacy Best Practices](#privacy-best-practices)
 - [Additional Resources](#additional-resources)
   - [Recommendations, alternatives & reviews](#recommendations-alternatives--reviews)
-  - [Privacy news, blogs, guides & other stuff](#privacy-news-blogs-guides--other-stuff)
+  - [Privacy news, blogs, guides & more](#privacy-news-blogs-guides--more)
 - [Contributing](#contributing)
 - [Credits](#credits)
 - [License](#license)
@@ -129,7 +129,7 @@ For better privacy respecting alternatives, reviews and more information, check 
 - [Awesome Privacy](https://github.com/pluja/awesome-privacy)
 - [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
 
-#### Privacy news, blogs, guides & other stuff
+#### Privacy news, blogs, guides & more
 - [EFF](https://www.eff.org/)
 - [Mozilla Blog](https://blog.mozilla.org/)
 - [Spread Privacy](https://spreadprivacy.com/)

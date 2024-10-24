@@ -99,7 +99,7 @@
 #### Windows 11
 - Added [Recall & Snapshots](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#recall--snapshots) in [Privacy & security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#privacy--security)
 
-#### Privacy news, blogs, guides & other stuff
+#### Privacy news, blogs, guides & more
 - Added:
   - TechCrunch: [Privacy](https://techcrunch.com/category/privacy/), [Security](https://techcrunch.com/category/security/)
   - [XDA - Privacy](https://www.xda-developers.com/tag/privacy/)
@@ -603,7 +603,7 @@ Added
 - Added 2FA for [Zoom](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Zoom.md#profile)
 
 #### Additional Resources
-- Privacy news, blogs, guides & other stuff
+- Privacy news, blogs, guides & more
   - Added [The New Oil](https://thenewoil.org/)'s [Youtube channel](https://www.youtube.com/c/TheNewOil)
 
 
@@ -635,7 +635,7 @@ Added
   - Added [Awesome Privacy](https://github.com/pluja/awesome-privacy)
   - Added [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
 
-- Privacy news, blogs, guides & other stuff
+- Privacy news, blogs, guides & more
   - Added [CR Security Planner](https://securityplanner.consumerreports.org/)
   - Added [National Cybersecurity Alliance - Stay Safe Online](https://staysafeonline.org/stay-safe-online/)
   - Added [Zebra Crossing: An easy-to-use digital safety checklist](https://github.com/narwhalacademy/zebra-crossing)
@@ -670,4 +670,4 @@ Added
 - Added [Windows Update](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#windows-update)
 
 #### Additional Resources
-- Added [Security in a Box](https://securityinabox.org/) in [Privacy news, blogs, guides & other stuff](https://github.com/StellarSand/privacy-settings/tree/main#privacy-news-blogs-guides--other-stuff)
+- Added [Security in a Box](https://securityinabox.org/) in [Privacy news, blogs, guides & more](https://github.com/StellarSand/privacy-settings/tree/main#privacy-news-blogs-guides--more)

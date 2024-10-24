@@ -1,6 +1,8 @@
 # Android 11 Privacy Settings
 
-### :warning: Support for Android 11 has officially ended on Feb 05, 2024.<br>To ensure your device's security, please upgrade to the latest Android version.
+> [!WARNING]
+> Support for Android 11 has officially ended on Feb 05, 2024.
+<br>To ensure your device's security, please upgrade to the latest Android version.
 
 Go to Settings
 

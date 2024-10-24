@@ -16,7 +16,7 @@ Go to System Settings by any of the following methods:
 - Advanced Data Protection: On
 - Access iCloud Data on the Web: Off
 
-> :information_source: **IMPORTANT NOTE 1:** Advanced Data Protection means you'll be handling your own encryption keys. If you lose this information Apple will not be able to recover your data!
+> :information_source: **IMPORTANT NOTE 1**: Advanced Data Protection means you'll be handling your own encryption keys. If you lose this information Apple will not be able to recover your data!
 >
 > :information_source: **NOTE 2**: Keep tabs on what you're using iCloud for and make sure it's only enabled for applications you need.
 
