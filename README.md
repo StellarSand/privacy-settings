@@ -21,7 +21,7 @@
 - <img src="icons/android.png" width="20" align="center"> [Android 14](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-14.md)
 - <img src="icons/android.png" width="20" align="center"> [Android 15](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-15.md)
 - <img src="icons/android_studio.png" width="20" align="center"> [Android Studio](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-Studio.md)
-- <img src="icons/apple.png" width="20" align="center"> [Apple ID](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Apple-ID.md)
+- <img src="icons/apple.png" width="20" align="center"> [Apple Account](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Apple-Account.md)
 - <img src="icons/brave.png" width="20" align="center"> [Brave Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md)
 - <img src="icons/brave.png" width="20" align="center"> [Brave Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md)
 - <img src="icons/brave_search.png" width="20" align="center"> [Brave Search](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Search.md)
