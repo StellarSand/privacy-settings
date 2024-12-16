@@ -1,5 +1,8 @@
 # Instagram Privacy Settings
 
+> [!WARNING]
+> These settings **might** be outdated, as I haven't been able to successfully create a new temporary account to verify the latest settings. If you're an Instagram user, feel free to submit a pull request with the updated settings.
+
 Go to Settings
 
 
@@ -11,7 +14,7 @@ Go to Settings
 
 > :information_source: **NOTE 1**: Don't use Google Authenticator or Duo as mentioned there. Instead use a privacy respecting authenticator app. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
 >
-> :information_source: **NOTE 2**: The backup codes saved is required to login, if 2FA method is lost, broken or unavailable. Keep these codes somewhere safe, to prevent loss or unauthorised access. They can be stored in a password manager, in an encrypted note, or write them down somewhere safe.
+> :information_source: **NOTE 2**: The backup codes saved is required to login, if 2FA method is lost, broken or unavailable. Keep these codes somewhere safe, to prevent loss or unauthorized access. They can be stored in a password manager, in an encrypted note, or write them down somewhere safe.
 
 
 #### Apps and Websites
