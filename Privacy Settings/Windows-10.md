@@ -193,6 +193,8 @@ Press `Win key + r` > type `services.msc` > press enter
 
 
 ## Block & uninstall Quick Assist
+Reason: [Threat actors misusing Quick Assist in social engineering attacks leading to ransomware](https://www.microsoft.com/en-us/security/blog/2024/05/15/threat-actors-misusing-quick-assist-in-social-engineering-attacks-leading-to-ransomware/).
+
 Press `Win key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
 
 - Type (or copy paste) the following in the powershell window & press enter:
