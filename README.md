@@ -123,8 +123,7 @@ For better privacy respecting alternatives, reviews and more information, check 
 
 #### Recommendations, alternatives & reviews
 - [Privacy Guides](https://www.privacyguides.org)
-- [Techlore Resources](https://www.techlore.tech/resources.html)
-- [RestorePrivacy](https://restoreprivacy.com/) (Only for reviews, not recommendations)
+- [Techlore Resources](https://www.techlore.tech/resources#all-resources)
 - [PRISM Break](https://prism-break.org/)
 - [Awesome Privacy](https://github.com/pluja/awesome-privacy)
 - [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
