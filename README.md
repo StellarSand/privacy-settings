@@ -110,7 +110,7 @@ Settings don't always require updates with every new version. They will only be 
 - Keep your apps and operating system updated.
 - Encrypt your devices for enhanced security.
 - Perform regular backups of your data.
-- Use open-source softwares and apps whenever possible (open-source doesn't always necessarily mean secure).
+- Use open-source software and apps whenever possible (open-source doesn't always necessarily mean secure).
 - Regularly review and revoke unnecessary permissions for software and apps.
 - Share information sparingly & only provide what is necessary.
 - Consider using false information when appropriate (Never provide false information to legal entities, law enforcement, medical professionals, banks, etc.).
@@ -161,7 +161,7 @@ If you want to help out with the project, here are some ideas:
 
 - iOS/macOS privacy settings.
 - Clean up/improve the Markdown.
-- Suggest new services/softwares or help improve the existing ones.
+- Suggest new services/software or help improve the existing ones.
 - Translate it to your own language.
 
 Pull requests can be submitted [here](https://github.com/StellarSand/privacy-settings/pulls).
