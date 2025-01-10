@@ -1,6 +1,6 @@
 # ChatGPT Privacy Settings
 
-At the top right, click on your username > go to Settings.
+On the top right, click on your username > Settings.
 
 
 

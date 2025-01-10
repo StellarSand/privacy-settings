@@ -19,7 +19,7 @@ Go to Settings
 - Show Express checkout on sites when you shop: Off
 - Track your order status: Off
 - Offer to save passwords: Off
-- Autofill passwords and passkeys: Off
+- View and autofill passwords and passkeys: Off
 - Save and fill basic info: Off
 
 > :information_source: **NOTE 1**: Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
@@ -64,7 +64,6 @@ Go to Settings
 #### Services
 - Save time and money with Shopping in Microsoft Edge: Off (use something else like [Keepa](https://keepa.com/), [camelcamelcamel](https://camelcamelcamel.com/), [Price History](https://pricehistoryapp.com/) etc.)
 - Get notifications of related things you can explore with Discover: Off
-- Include related matches in Find on page: Off
 - Let Microsoft Edge help keep your tabs organized: Off
 - Address bar and search >
   - First click on `Manage search engines` > Add > Add a privacy respecting search engine here like `DuckDuckGo`, `StartPage`, `Brave` etc.
@@ -138,4 +137,5 @@ Open a new tab. Click the gear icon on top right
 
 ## Page settings
 - Show promoted links: Off
+- Show content: Off
 - Show feed: Off

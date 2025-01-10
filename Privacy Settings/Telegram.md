@@ -7,7 +7,7 @@ Go to Settings
 ## Privacy and Security
 
 #### Phone Number
-- Who can see my phone number?: My Contacts or Nobody
+- Who can see my phone number?: `My Contacts` or `Nobody`
 - Who can find me by my number?: My Contacts
 
 #### Last seen & Online
@@ -21,7 +21,7 @@ Go to Settings
 
 #### Calls
 - Who can call me?: My Contacts
-- Use Peer-to-Peer with: Nobody (This will disable peer-to-peer and relay all calls through Telegram servers to avoid revealing IP address, but may decrease audio & video quality.)
+- Use Peer-to-Peer with: Nobody (Call quality will be reduced, but it'll prevent your location from being exposed through your IP address to the other person on the call.)
 
 #### Groups & Channels
 - Who can add me to group chats?: My Contacts
@@ -32,7 +32,7 @@ Go to Settings
   - If inactive for: 3 months
 
 #### Passcode Lock
-- Enable Passcode > Create a secure Passcode (1234 or 0987 is not a secure passcode.)
+- Enable Passcode > Create a secure Passcode (`1234` or `0987` is not a secure passcode.)
 - After Passcode is created >
   - Auto-lock: Shortest duration that suits you
   - Show Content: If this is disabled, chat content will be hidden in the task switcher, but you won't be able to take screenshots in the app. Decide this yourself accordingly.
@@ -46,7 +46,7 @@ Go to Settings
 
 #### Auto-Delete messages
 - Self destruct timer: Select whatever suits you
-- For enabling Auto-Delete messages for existing chats: Go to a particular chat > Tap on contact name on top > Click 3 dots > Auto-Delete
+- For enabling Auto-Delete messages for existing chats: Go to a particular chat > Tap on contact name on top > Click 3 dots on top > Auto-Delete
 
 #### Link Previews
 - Off
@@ -66,3 +66,12 @@ Go to Settings
 
 #### Streaming
 - Stream Videos and Audio Files: Off
+
+
+---
+
+
+> [!Tip]
+> Telegram chats are not [end-to-end encrypted](https://en.wikipedia.org/wiki/End-to-end_encryption) **by default**.
+>
+> To enable: Tap on a contact name or an existing chat > Tap on contact name on top > Click 3 dots on top > Start Secret Chat

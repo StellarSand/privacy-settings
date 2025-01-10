@@ -82,7 +82,7 @@ privacy respecting search engine from `Manage search engines and site search`.
 
 #### Password Manager
 - Settings >
-  - Offer to save passwords: Off
+  - Offer to save passwords and passkeys: Off
   - Sign in automatically: Off
 
 > :information_source: **NOTE**: Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).

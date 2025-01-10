@@ -21,8 +21,8 @@ Go to Settings.
 
 #### Google Password Manager
 - Settings >
-  - Offer to save passwords: Off
-  - Sign-in automatically: Off
+  - Offer to save passwords and passkeys: Off
+  - Sign in automatically: Off
 
 > :information_source: **NOTE**: Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
 

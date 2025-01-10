@@ -43,7 +43,7 @@ Go to Settings
 
 
 
-## Display
+## Display & touch
 
 #### Lock screen
 - Privacy: Show sensitive content only when unlocked
@@ -75,7 +75,7 @@ After setting screen lock, tap on gear icon.
 - Lock after screen timeout: Immediately
 - Power button instantly locks: On
 
-#### Privacy
+#### Privacy controls
 - Permission manager > 
     - Review each permission and disable accordingly (choose which apps can have access to camera, microphone, gps, contacts etc. If any app doesn't need something, turn it off.)
 - Ads >
@@ -121,22 +121,23 @@ After setting screen lock, tap on gear icon.
 
 ## Google
 
+Tap on `All services`
+
+#### Search, Assistant & Voice
+- Privacy & Safety >
+    - Search customization: Off
+- Other settings >
+    - Discover: Off
+    - Autocomplete settings > Autocomplete with trending searches: Off
+
 #### Personalize using shared data
 - Device Contacts: Off
-
-#### Settings for Google apps
-- Search, Assistant & Voice >
-    - Privacy & Safety >
-        - Search customization: Off
-    - Other settings >
-        - Discover: Off
-        - Autocomplete settings > Autocomplete with trending searches: Off
 
 
 
 ## System
 
-#### Multiple users
+#### Users
 - Delete guest activity: On
 - Add users from lock screen: Off
 

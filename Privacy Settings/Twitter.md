@@ -1,4 +1,4 @@
-# Twitter (X) Privacy Settings
+# X (Twitter) Privacy Settings
 
 Go to Settings & Support > Settings and privacy
 
