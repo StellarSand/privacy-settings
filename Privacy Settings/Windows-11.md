@@ -1,6 +1,6 @@
 # Windows 11 Privacy Settings
 
-Go to Settings.
+Go to Settings (Shortcut: `Windows key + i`).
 
 
 
@@ -222,7 +222,7 @@ Reason: [Threat actors misusing Quick Assist in social engineering attacks leadi
 Press `Win key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
 
 - Type (or copy paste) the following in the powershell window & press enter:
-  ```
+  ```Powershell
   notepad C:\Windows\System32\drivers\etc\hosts
   ```
 - In this hosts file add the following line at the bottom & save it:
@@ -230,7 +230,7 @@ Press `Win key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
   0.0.0.0	remoteassistance.support.services.microsoft.com
   ```
 - To uninstall, type (or copy paste) the following in the powershell window & press enter:
-  ```
+  ```Powershell
   Get-AppxPackage -Name MicrosoftCorporationII.QuickAssist | Remove-AppxPackage -AllUsers
   ```
 
@@ -240,7 +240,7 @@ Press `Win key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
 Press `Win key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
 
 - Type (or copy paste) the following in the powershell window & press enter:
-  ```
+  ```Powershell
   notepad C:\Windows\System32\drivers\etc\hosts
   ```
 - Add everything from [this list](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.winoffice.txt) at the bottom of the hosts file & save it.
@@ -251,23 +251,51 @@ Windows updates will function normally even with these additions.
 
 
 ## Disable trending searches & web search in search bar
+<!--
 Press `Win key + r` > type `regedit` > press enter > Yes
 
 - Navigate to `Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Search`
 - In the left navigation window, right click on `Search` > New > DWORD (32-bit) Value > name it `BingSearchEnabled`
 - Double click it and make sure `Value data` is set to `0`
+-->
+
+Press `Win key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
+
+- Type (or copy paste) the following in the powershell window & press enter:
+  ```Powershell
+  New-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Search" -Name "BingSearchEnabled" -Value 0 -PropertyType DWord -Force
+  ```
+
 - Open Task Manager > Processes > select `Windows Explorer` > Right click > Restart
 
 
 
 ## Disable Copilot
+<!-- 
 Press `Win key + r` > type `regedit` > press enter > Yes
 
 - Navigate to `Computer\HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows`
 - In the left navigation window, right click on `Windows` > New > Key > name it `WindowsCopilot`
 - Right click on `WindowsCopilot` > New > DWORD (32-bit) Value > name it `TurnOffWindowsCopilot`
 - Double click it and set `Value data` to `1` > OK
+-->
+
+Press `Win key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
+
+- Type (or copy paste) the following in the powershell window & press enter:
+  ```Powershell
+  New-Item -Path "HKCU:\Software\Policies\Microsoft\Windows" -Name "WindowsCopilot" -Force; New-ItemProperty -Path "HKCU:\Software\Policies\Microsoft\Windows\WindowsCopilot" -Name "TurnOffWindowsCopilot" -Value 1 -PropertyType DWord -Force
+  ```
+
 - Open Task Manager > Processes > select `Windows Explorer` > Right click > Restart
+
+
+---
+---
+
+
+- Microsoft 365/Office settings are available [here](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-365.md).
+- Microsoft Edge Desktop settings are available [here](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md).
 
 
 ---
@@ -286,18 +314,18 @@ After the installation media setup wizard completes & the device begins to resta
 <br>After the device restarts, it'll reach the country or region selection screen.
 - Press `Shift + F10`. On some devices you may require to press `Fn + Shift + F10`.
 - In the command prompt, type the following & press enter:
-  ```
+  ```cmd
   oobe\bypassnro
   ```
   Your device will restart.
 - If for some reason you were unable to disconnect from the internet earlier, press `Shift + F10` or `Fn + Shift + F10` again. In the command prompt, type the following & press enter:
-  ```
+  ```cmd
   ipconfig /release
   ```
 - Select `I don't have internet` & continue with the local account creation.
 - If you used `ipconfig /release` command previously, once the whole setup process is complete:
   - Press `Win key + r` > type `cmd` & press enter.
   - In the command prompt, type the following & press enter:
-    ```
+    ```cmd
     ipconfig /renew
     ```

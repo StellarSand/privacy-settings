@@ -1,6 +1,6 @@
 # Windows 10 Privacy Settings
 
-Go to Settings.
+Go to Settings (Shortcut: `Windows key + i`).
 
 
 
@@ -142,7 +142,7 @@ Delete your account picture and set it to default as mentioned below:
 
 
 ## Encrypted DNS
-Win key + r > type `ncpa.cpl` > press enter
+Press `Windows key + r` > type `ncpa.cpl` > press enter
 
 Right click on Ethernet or Wifi depending on what you are using > Properties
 
@@ -183,7 +183,7 @@ Open file explorer > click `View` on top > Options > Change folder and search op
 
 
 ## Disable telemetry service
-Press `Win key + r` > type `services.msc` > press enter
+Press `Windows key + r` > type `services.msc` > press enter
 
 - Double-click on `Connected User Experiences and Telemetry` >
   - Service Status: Stopped (Click on `Stop`, if service is running)
@@ -198,7 +198,7 @@ Reason: [Threat actors misusing Quick Assist in social engineering attacks leadi
 Press `Win key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
 
 - Type (or copy paste) the following in the powershell window & press enter:
-  ```
+  ```powershell
   notepad C:\Windows\System32\drivers\etc\hosts
   ```
 - In this hosts file add the following line at the bottom & save it:
@@ -206,17 +206,17 @@ Press `Win key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
   0.0.0.0	remoteassistance.support.services.microsoft.com
   ```
 - To uninstall, type (or copy paste) the following in the powershell window & press enter:
-  ```
+  ```powershell
   Get-AppxPackage -Name MicrosoftCorporationII.QuickAssist | Remove-AppxPackage -AllUsers
   ```
 
 
 
 ## Block all Microsoft telemetry
-Press `Win key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
+Press `Windows key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
 
 - Type (or copy paste) the following in the powershell window & press enter:
-  ```
+  ```powershell
   notepad C:\Windows\System32\drivers\etc\hosts
   ```
 - Add everything from [this list](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.winoffice.txt) at the bottom of the hosts file & save it.
@@ -232,9 +232,26 @@ Right click on taskbar > Search > uncheck `Show search highlights`
 
 
 ## Disable trending searches & web search in search bar
+<!--
 Press `Win key + r` > type `regedit` > press enter > Yes
 
 - Navigate to `Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Search`
 - In the left navigation window, right click on `Search` > New > DWORD (32-bit) Value > name it `BingSearchEnabled`
 - Double click it and make sure `Value data` is set to `0`
+-->
+Press `Windows key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
+
+- Type (or copy paste) the following in the powershell window & press enter:
+  ```powershell
+  New-ItemProperty -Path "HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Search" -Name "BingSearchEnabled" -Value 0 -PropertyType DWord -Force
+  ```
+
 - Open Task Manager > Processes > select `Windows Explorer` > Right click > Restart
+
+
+---
+---
+
+
+- Microsoft 365/Office settings are available [here](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-365.md).
+- Microsoft Edge Desktop settings are available [here](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md).
