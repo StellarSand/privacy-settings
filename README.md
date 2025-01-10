@@ -46,6 +46,7 @@
 - <img src="icons/logitech.png" width="20" align="center"> [Logi Options+](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Logi-Options%2B.md)
 - <img src="icons/logitech.png" width="20" align="center"> [Logitech Options](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Logitech-Options.md)
 - <img src="icons/macos_sequoia.png" width="20" align="center"> [MacOS Sequoia](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/MacOS-Sequoia.md)
+- <img src="icons/microsoft_365.svg" width="20" align="center"> [Microsoft 365/Office](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-365.md)
 - <img src="icons/microsoft_edge.png" width="20" align="center"> [Microsoft Edge Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md)
 - <img src="icons/microsoft_edge.png" width="20" align="center"> [Microsoft Edge Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md)
 - <img src="icons/proton_mail.svg" width="20" align="center"> [Proton Mail](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Proton-Mail.md)
@@ -55,13 +56,13 @@
 - <img src="icons/startpage_search.png" width="20" align="center"> [Startpage Search](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Startpage-Search.md)
 - <img src="icons/telegram.png" width="20" align="center"> [Telegram](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Telegram.md)
 - <img src="icons/tuta_mail.svg" width="20" align="center"> [Tuta Mail](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Tuta-Mail.md)
-- <img src="icons/twitter.png" width="20" align="center"> [Twitter (X)](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Twitter.md)
 - <img src="icons/vscode.png" width="20" align="center"> [Visual Studio Code](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Visual-Studio-Code.md)
 - <img src="icons/vivaldi.png" width="20" align="center"> [Vivaldi Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md)
 - <img src="icons/vivaldi.png" width="20" align="center"> [Vivaldi Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md)
 - <img src="icons/whatsapp.png" width="20" align="center"> [WhatsApp](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md)
 - <img src="icons/windows_10.svg" width="20" align="center"> [Windows 10](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md)
 - <img src="icons/windows_11.svg" width="20" align="center"> [Windows 11](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md)
+- <img src="icons/twitter.png" width="20" align="center"> [X (Twitter)](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Twitter.md)
 - <img src="icons/youtube.png" width="20" align="center"> [YouTube](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/YouTube.md)
 - <img src="icons/zoom.png" width="20" align="center"> [Zoom](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Zoom.md)
 
@@ -130,9 +131,9 @@ For better privacy respecting alternatives, reviews and more information, check 
 
 #### Privacy news, blogs, guides & more
 - [EFF](https://www.eff.org/)
-- [Mozilla Blog](https://blog.mozilla.org/)
+- Mozilla: [Privacy & Security](https://blog.mozilla.org/en/category/privacy-security/), [Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded/)
 - [Spread Privacy](https://spreadprivacy.com/)
-- [Proton Blog](https://proton.me/blog/all)
+- [Proton - Privacy guides](https://proton.me/blog/privacy-guides)
 - Techlore: [Website](https://www.techlore.tech), [GitHub](https://github.com/techlore), [YouTube](https://www.youtube.com/c/Techlore/)
 - The New Oil: [Website](https://thenewoil.org/), [YouTube](https://www.youtube.com/c/TheNewOil)
 - [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html)
@@ -142,14 +143,13 @@ For better privacy respecting alternatives, reviews and more information, check 
 - [CR Security Planner](https://securityplanner.consumerreports.org/)
 - [National Cybersecurity Alliance - Stay Safe Online](https://staysafeonline.org/stay-safe-online/)
 - [Zebra Crossing: An easy-to-use digital safety checklist](https://github.com/narwhalacademy/zebra-crossing)
-- [Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded/)
 - TechCrunch: [Privacy](https://techcrunch.com/category/privacy/), [Security](https://techcrunch.com/category/security/)
 - [XDA - Privacy](https://www.xda-developers.com/tag/privacy/)
 - [TechRadar - Cyber Security](https://www.techradar.com/computing/computing-security/cyber-security)
 - [IVPN Privacy Guides](https://www.ivpn.net/privacy-guides/)
+- [Bitwarden - Security Tips](https://bitwarden.com/blog/#tag:security-tips)
 - [r/privacy](https://www.reddit.com/r/privacy/)
 - [Fossbytes - Security](https://fossbytes.com/category/security/)
-- [Bitwarden Blog](https://bitwarden.com/blog/)
 - [Access Now Blog](https://www.accessnow.org/blog/)
 - [Bleeping Computer](https://www.bleepingcomputer.com/)
 - [The Hacker News](https://thehackernews.com/)
@@ -160,7 +160,6 @@ For better privacy respecting alternatives, reviews and more information, check 
 If you want to help out with the project, here are some ideas:
 
 - iOS/macOS privacy settings.
-- Clean up/improve the Markdown.
 - Suggest new services/software or help improve the existing ones.
 - Translate it to your own language.
 

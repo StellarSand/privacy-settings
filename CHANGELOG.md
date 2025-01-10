@@ -1,6 +1,29 @@
 # Changelog
 
 
+## Jan 10, 2025
+- Added [Microsoft 365/Office](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-365.md)
+
+#### Cromite
+- Enable `Global Privacy Control "Sec-GPC"` in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Cromite.md#privacy-and-security) > [Data exposed to the websites](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Cromite.md#data-exposed-to-the-websites) only for jurisdictions mentioned in the note.
+
+#### DuckDuckGo Browser Desktop
+- Enable [Privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/DuckDuckGo-Browser.md#privacy) > [Global Privacy Control (GPC)](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/DuckDuckGo-Browser.md#global-privacy-control-gpc) only for jurisdictions mentioned in the note.
+
+#### DuckDuckGo Browser Mobile
+- Enable [Web Tracking Protection](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/DuckDuckGo-Browser-Mobile.md#web-tracking-protection) only for jurisdictions mentioned in the note.
+
+#### Firefox Desktop
+- Enable `Tell websites not to sell or share my data` in [Privacy & Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#privacy--security) > [Website Privacy Preferences](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#website-privacy-preferences) only for jurisdictions mentioned in the note.
+
+#### Firefox Mobile
+- Enable `Tell websites not to share & sell data` in [Enhanced Tracking Protection](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md#enhanced-tracking-protection) only for jurisdictions mentioned in the note.
+
+#### Microsoft Edge Desktop
+- Added `Show content` in [Page settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#page-settings)
+
+
+
 ## Oct 13, 2024
 - Added [Android 15](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-15.md)
 - Added [Tuta Mail](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Tuta-Mail.md)
