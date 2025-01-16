@@ -117,4 +117,13 @@ Generally keep tabs on all permissions and restrict as many as possible. The few
 ---
 
 
+## Disable AI photo analysis
+Open `Photos` > Settings > General (on top) >
+  - Enhanced Visual Search: Off
+
+
+---
+---
+
+
 Apple Account settings are available [here](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Apple-Account.md).

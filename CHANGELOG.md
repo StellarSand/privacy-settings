@@ -1,6 +1,12 @@
 # Changelog
 
 
+## Jan 16, 2025
+
+#### MacOS Sequoia
+- Added [Disable AI photo analysis](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/MacOS-Sequoia.md#disable-ai-photo-analysis)
+
+
 ## Jan 10, 2025
 - Added [Microsoft 365/Office](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-365.md)
 
