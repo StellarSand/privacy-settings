@@ -106,7 +106,7 @@ Settings don't always require updates with every new version. They will only be 
 - Utilize a password manager to generate and securely store unique passwords.
 - Enable multi-factor authentication for added security.
 - Opt for privacy respecting alternatives for search engines, emails, browsers etc.
-- Utilize End-to-End Encrypted (E2EE) messaging services.
+- Utilize [End-to-End Encrypted (E2EE)](https://en.wikipedia.org/wiki/End-to-end_encryption) messaging services.
 - Follow the privacy settings recommended here.
 - Keep your apps and operating system updated.
 - Encrypt your devices for enhanced security.
@@ -138,7 +138,7 @@ For better privacy respecting alternatives, reviews and more information, check 
 - The New Oil: [Website](https://thenewoil.org/), [YouTube](https://www.youtube.com/c/TheNewOil)
 - [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html)
 - [The Data Detox Kit](https://datadetoxkit.org)
-- [Personal security checklist](https://github.com/Lissy93/personal-security-checklist)
+- [Personal security checklist](https://digital-defense.io/)
 - [Security in a Box](https://securityinabox.org/)
 - [CR Security Planner](https://securityplanner.consumerreports.org/)
 - [National Cybersecurity Alliance - Stay Safe Online](https://staysafeonline.org/stay-safe-online/)

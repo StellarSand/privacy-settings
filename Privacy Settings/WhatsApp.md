@@ -43,8 +43,10 @@ Tap on the 3 dots on top > Settings
 - Unlock with biometric: On
 
 #### Advanced
-- Block unknown account messages: On (This will block messages from unknown accounts only when they exceed a high volume, though WhatsApp doesn't specify the exact threshold.)
-- Protect IP address in calls: On (Call quality will be reduced, but it'll prevent your location from being exposed through your IP address to the other person on the call.)
+- Block unknown account messages: On
+    > :information_source: **NOTE**: This will block messages from unknown accounts only when they exceed a high volume, though WhatsApp doesn't specify the exact threshold.
+- Protect IP address in calls: On
+    > :information_source: **NOTE**: Call quality will be reduced, but it'll prevent your location from being exposed through your IP address to the other person on the call.
 - Disable link previews: On
 
 

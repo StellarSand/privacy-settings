@@ -25,7 +25,7 @@ Go to Settings (Shortcut: `Windows key + i`).
 ## Bluetooth & devices
 
 #### Mobile devices
-- Phone Link : Off (use something else like [KDE Connect](https://kdeconnect.kde.org/), [LocalSend](https://localsend.org/), etc.)
+- Phone Link : Off (Use something else like [KDE Connect](https://kdeconnect.kde.org/), [LocalSend](https://localsend.org/), etc.)
 
 #### AutoPlay
 - Use AutoPlay for all media and devices: Off
@@ -97,6 +97,10 @@ Go to Settings (Shortcut: `Windows key + i`).
 - Personalize your lock screen
   - select `Picture` or `Slideshow`
   - Get fun facts, tips, tricks and more on your lock screen: Off
+- Lock screen status: None
+- Screen saver >
+  - On resume, display logon screen: On
+  - Wait: Shortest duration that suits you
 
 #### Start
 - Show recommendations for tips, shortcuts, new apps and more: Off
@@ -143,8 +147,13 @@ Delete your account picture and set it to default as mentioned below:
 ## Privacy & security
 
 #### Windows Security
-- Virus & threat protection > Virus & threat protection settings > Manage settings > All protections on (Except automatic sample submission)
+- Virus & threat protection > Virus & threat protection settings > Manage settings >
+  - All protections on (Except `Automatic sample submission`)
+  - Manage controlled folder access > Controlled folder access: On
 - Firewall & network protection > Firewall should be on for domain, public and private networks.
+- Device security > Core isolation details >
+  - Enable everything
+    > :information_source: **NOTE**: Sometimes some of these can't be enabled due to an incompatible driver or software.
 
 #### Find my device
 - Find my device: Off
@@ -207,7 +216,7 @@ Open file explorer. Click 3 dots menu on top > Options >
 
 
 ## Disable telemetry service
-Press `Win key + r` > type `services.msc` > press enter
+Press `Windows key + r` > type `services.msc` > press enter
 
 - Double-click on `Connected User Experiences and Telemetry` >
   - Service Status: Stopped (Click on `Stop`, if service is running)
@@ -219,7 +228,7 @@ Press `Win key + r` > type `services.msc` > press enter
 ## Block & uninstall Quick Assist
 Reason: [Threat actors misusing Quick Assist in social engineering attacks leading to ransomware](https://www.microsoft.com/en-us/security/blog/2024/05/15/threat-actors-misusing-quick-assist-in-social-engineering-attacks-leading-to-ransomware/).
 
-Press `Win key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
+Press `Windows key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
 
 - Type (or copy paste) the following in the powershell window & press enter:
   ```Powershell
@@ -237,7 +246,7 @@ Press `Win key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
 
 
 ## Block all Microsoft telemetry
-Press `Win key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
+Press `Windows key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
 
 - Type (or copy paste) the following in the powershell window & press enter:
   ```Powershell
@@ -259,7 +268,7 @@ Press `Win key + r` > type `regedit` > press enter > Yes
 - Double click it and make sure `Value data` is set to `0`
 -->
 
-Press `Win key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
+Press `Windows key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
 
 - Type (or copy paste) the following in the powershell window & press enter:
   ```Powershell
@@ -280,7 +289,7 @@ Press `Win key + r` > type `regedit` > press enter > Yes
 - Double click it and set `Value data` to `1` > OK
 -->
 
-Press `Win key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
+Press `Windows key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
 
 - Type (or copy paste) the following in the powershell window & press enter:
   ```Powershell
@@ -291,14 +300,12 @@ Press `Win key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
 
 
 ---
----
 
 
 - Microsoft 365/Office settings are available [here](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-365.md).
 - Microsoft Edge Desktop settings are available [here](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md).
 
 
----
 ---
 
 

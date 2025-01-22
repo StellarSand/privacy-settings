@@ -58,6 +58,9 @@ Go to Settings (Shortcut: `Windows key + i`).
 #### Lock screen
 - Background: select Picture or Slideshow
 - Get fun facts, tips, tricks and more on your lock screen: Off
+- Screen saver >
+  - On resume, display logon screen: On
+  - Wait: Shortest duration that suits you
 
 #### Start
 - Show suggestions occasionally in Start: Off
@@ -135,9 +138,11 @@ Delete your account picture and set it to default as mentioned below:
 - Allow downloads from other PCs: Off
 
 #### Windows Security
-
-- Virus & threat protection > Virus & threat protection settings > Manage settings > All protections on (Except automatic sample submission)
-- Firewall & network protection > All firewalls should be on for domain, public and private networks.
+- Virus & threat protection > Virus & threat protection settings > Manage settings > All protections on (Except `Automatic sample submission`)
+- Firewall & network protection > Firewall should be on for domain, public and private networks.
+- Device security > Core isolation details >
+  - Enable everything
+    > :information_source: **NOTE**: Sometimes some of these can't be enabled due to an incompatible driver or software.
 
 
 
@@ -249,7 +254,6 @@ Press `Windows key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
 - Open Task Manager > Processes > select `Windows Explorer` > Right click > Restart
 
 
----
 ---
 
 

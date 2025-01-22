@@ -123,7 +123,6 @@ Open `Photos` > Settings > General (on top) >
 
 
 ---
----
 
 
 Apple Account settings are available [here](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Apple-Account.md).
