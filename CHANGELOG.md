@@ -1,6 +1,21 @@
 # Changelog
 
 
+## Jan 22, 2025
+
+#### Instagram
+- Updated all settings (by [d1ndz1nd](https://github.com/d1ndz1nd))
+
+#### Windows 10
+- Added `Screen saver` in [Personalization](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#personalization) > [Lock screen](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#lock-screen)
+- Added `Device security` in [Update & Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#update--security) > [Windows Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#windows-security)
+
+#### Windows 11
+- Added `Lock screen status` & `Screen saver` in [Personalization](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#personalization) > [Lock screen](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#lock-screen)
+- Added `Manage controlled folder access` in [Privacy & security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#privacy--security) > [Windows Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#windows-security) > `Virus & threat protection`
+- Added `Device security` in [Privacy & security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#privacy--security) > [Windows Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#windows-security)
+
+
 ## Jan 16, 2025
 
 #### MacOS Sequoia
