@@ -1,6 +1,37 @@
 # Changelog
 
 
+## ADD DATE HERE
+
+#### ChatGPT
+By [d1ndz1nd](https://github.com/d1ndz1nd)
+
+- Added [General](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/ChatGPT.md#general)
+- Added `Custom instructions` in [Personalization](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/ChatGPT.md#personalization)
+- Added `Include your audio recordings` & `Shared links` in [Data Controls](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/ChatGPT.md#data-controls)
+- Added [Connected apps](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/ChatGPT.md#connected-apps)
+
+#### MacOS Sequoia
+- Added `Apple Intelligence` in [Apple Intelligence & Siri](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/MacOS-Sequoia.md#apple-intelligence--siri)
+
+#### Telegram
+By [d1ndz1nd](https://github.com/d1ndz1nd)
+
+- Added [Chat Settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Telegram.md#chat-settings)
+- Added `Hide Read Time` in [Privacy and Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Telegram.md#privacy-and-security) > [Last seen & Online](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Telegram.md#last-seen--online)
+- Added [Voice Messages](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Telegram.md#voice-messages), [Messages](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Telegram.md#messages), [Date of Birth](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Telegram.md#date-of-birth), [Gifts](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Telegram.md#gifts), [Bio](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Telegram.md#bio), [Invites](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Telegram.md#invites), [Delete my account](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Telegram.md#delete-my-account), [Bots and websites](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Telegram.md#bots-and-websites), [Contacts](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Telegram.md#contacts) & [Secret Chats](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Telegram.md#secret-chats) in [Privacy and Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Telegram.md#privacy-and-security)
+- Added [Disk and network usage](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Telegram.md#disk-and-network-usage) & [Save to Gallery](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Telegram.md#save-to-gallery) in [Data and Storage](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Telegram.md#data-and-storage)
+- Added [Power Saving](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Telegram.md#power-saving)
+- Added [Language](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Telegram.md#language)
+
+#### WhatsApp
+By [d1ndz1nd](https://github.com/d1ndz1nd)
+
+- Added [Device Status](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#device-status)
+- Added `Automatically lock` & `Show content in` in [Privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#privacy) > [App lock](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#app-lock)
+- Added [Chats](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#chats)
+
+
 ## Jan 22, 2025
 
 #### Instagram
