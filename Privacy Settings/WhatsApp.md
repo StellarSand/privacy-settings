@@ -1,5 +1,12 @@
 # WhatsApp Privacy Settings
 
+Tap on the 3 dots on top > Linked devices
+
+#### Device Status
+- Log out of any session that you do not use or recognize.
+
+---
+
 Tap on the 3 dots on top > Settings
 
 
@@ -8,6 +15,7 @@ Tap on the 3 dots on top > Settings
 - Two-step verification > Turn on > Create a secure PIN.
 
 > :information_source: **NOTE 1**: `123456` or `098765` is not a secure PIN.
+> 
 > :information_source: **NOTE 2**: When asked for Email, make sure you provide an email which has adequate security measures like a strong password and 2FA enabled. Alternatively you can skip this, but then if you forget your PIN, you won't be able to re-register your phone number with WhatsApp.
 
 
@@ -48,7 +56,7 @@ Tap on the 3 dots on top > Settings
 - Automatically lock: Select whatever suits you
 - Show content in: Off
 
-#### Allow came effects
+#### Allow camera effects
 - Off
 
 #### Advanced
