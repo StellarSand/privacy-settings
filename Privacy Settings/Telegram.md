@@ -4,9 +4,9 @@ Go to Settings.
 
 ## Chat Settings
 - In-App Browser >
-    - Clear Cookies > Click `Clear`
-    - Clear Cache > Click `Clear`
-    - Clear History > Click `Clear`
+    - Clear Cookies > Clear
+    - Clear Cache > Clear
+    - Clear History > Clear
     - Search Engine > Select `DuckDuckGo` or `Brave Search`.
     > :information_source: **NOTE:** You can disable this feature if you want to open webpages in External Browser.
 

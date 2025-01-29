@@ -81,7 +81,9 @@ Tap on the 3 dots on top > Settings
 
 #### Chat backup
 - End-to-end encrypted backup > Turn on > Create a secure password.
-    > :information_source: **NOTE**: `abcdef` or `qwerty` is not a secure password.
+    > :information_source: **NOTE 1**: `abcdef` or `qwerty` is not a secure password.
+    >
+    > :information_source: **NOTE 2**: Use a password manager to generate and store strong & unique passwords. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
 
 
 

@@ -1,7 +1,7 @@
 # Changelog
 
 
-## ADD DATE HERE
+## Jan 30, 2025
 
 #### ChatGPT
 By [d1ndz1nd](https://github.com/d1ndz1nd)
