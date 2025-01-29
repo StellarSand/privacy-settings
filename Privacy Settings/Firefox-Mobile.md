@@ -69,7 +69,8 @@ Go to Settings.
 
 ## Data collection
 **This section does not apply to Fennec**
-- Usage and technical data: Off
+- Technical & interaction data: Off
+- Automatically submit crash reports: Off
 - Studies: Off
 
 

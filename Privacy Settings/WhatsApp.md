@@ -2,10 +2,14 @@
 
 Tap on the 3 dots on top > Linked devices
 
+
+
 #### Device Status
 - Log out of any session that you do not use or recognize.
 
+
 ---
+
 
 Tap on the 3 dots on top > Settings
 
@@ -36,11 +40,11 @@ Tap on the 3 dots on top > Settings
 - Off
 
 #### Default message timer
-- Select whatever suits you
+- Shortest duration that suits you
 
 > :information_source: **NOTE**: You can enable disappearing messages for existing chats:
 >
-> **Go to a particular chat > Tap on 3 dots on top > Disappearing messages**
+> Go to a particular chat > Tap on 3 dots on top > Disappearing messages
 
 #### Groups
 - Who can add me to groups: Do not select `Everyone`
@@ -53,7 +57,7 @@ Tap on the 3 dots on top > Settings
 
 #### App lock
 - Unlock with biometric: On
-- Automatically lock: Select whatever suits you
+- Automatically lock: Shortest duration that suits you
 - Show content in: Off
 
 #### Allow camera effects
@@ -61,12 +65,10 @@ Tap on the 3 dots on top > Settings
 
 #### Advanced
 - Block unknown account messages: On
-
-> :information_source: **NOTE**: This will block messages from unknown accounts only when they exceed a high volume, though WhatsApp doesn't specify the exact threshold.
+    > :information_source: **NOTE**: This will block messages from unknown accounts only when they exceed a high volume, though WhatsApp doesn't specify the exact threshold.
 
 - Protect IP address in calls: On
-
-> :information_source: **NOTE**: Call quality will be reduced, but it'll prevent your location from being exposed through your IP address to the other person on the call.
+    > :information_source: **NOTE**: Call quality will be reduced, but it'll prevent your location from being exposed through your IP address to the other person on the call.
 
 - Disable link previews: On
 
@@ -79,8 +81,7 @@ Tap on the 3 dots on top > Settings
 
 #### Chat backup
 - End-to-end encrypted backup > Turn on > Create a secure password.
-
-> :information_source: **NOTE**: `abcdef` or `qwerty` is not a secure password.
+    > :information_source: **NOTE**: `abcdef` or `qwerty` is not a secure password.
 
 
 

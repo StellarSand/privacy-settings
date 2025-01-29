@@ -65,7 +65,8 @@ Generally keep tabs on programs and extensions in this menu and keep it as minim
 
 
 
-## Siri
+## Apple Intelligence & Siri
+- Apple Intelligence: Off > Turn Off Apple Intelligence
 - Siri: Off
 - Siri history: Delete Siri & Dictation History
 

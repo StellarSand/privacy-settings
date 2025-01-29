@@ -1,24 +1,31 @@
 # ChatGPT Privacy Settings
 
-Login to [ChatGPT](https://chatgpt.com/) from browser.
+If you're using ChatGPT without an account, click on the question mark icon at the bottom right > Settings > Improve the model for everyone: Off
 
-On the top right, click on your profile picture > Settings.
+
+---
+
+
+**The following settings are applicable only if you've logged in to ChatGPT.**
+
+On the top right, click on your profile picture > Settings
 
 ## General
-- Delete all chats > click `Delete all`
+- Delete all chats > Delete all > Confirm deletion
 
 ## Personalization
+- Custom instructions >
+    - Enable for new chats: Off > Save
 - Memory: Off
-- Click `Clear memories`
-- Custom instructions > Enable for new chats: Off > Click `Save`
+- Click `Clear memories` > Clear memory
 
 ## Data Controls
 - Improve the model for everyone: Off
-- Include your audio recordings (this option is on phone): Off
-- Shared links: revoke links which you don`t need.
+- Include your audio recordings: Off (This option is available only on mobile)
+- Shared links: Revoke links which you don`t need.
 
 ## Connected apps
-- Do not connect any app, if connected -> unconnect this.
+- Don't connect any app. If already connected, unconnect this.
 
 ## Security
 - Multi-factor authentication >
