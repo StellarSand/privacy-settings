@@ -1,6 +1,7 @@
 # ChatGPT Privacy Settings
 
-If you're using ChatGPT without an account, click on the question mark icon at the bottom right > Settings > Improve the model for everyone: Off
+If you're using ChatGPT without an account, click on the question mark icon at the bottom right > Settings
+- Improve the model for everyone: Off
 
 
 ---

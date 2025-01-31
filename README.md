@@ -101,11 +101,11 @@ Settings don't always require updates with every new version. They will only be 
 
 
 ## Privacy Best Practices
-- Create strong passwords (preferably 10+ characters with a mix of letters, numbers, and special characters).
+- Create [strong passwords](https://en.wikipedia.org/wiki/Password_strength) (preferably 10+ characters with a mix of letters, numbers, and special characters).
 - Avoid reusing passwords.
-- Utilize a password manager to generate and securely store unique passwords.
-- Enable multi-factor authentication for added security.
-- Opt for privacy respecting alternatives for search engines, emails, browsers etc.
+- Utilize a [password manager](https://en.wikipedia.org/wiki/Password_manager) to generate and securely store unique passwords.
+- Enable [multi-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) for added security.
+- Opt for privacy respecting alternatives for search engines, browsers, emails etc.
 - Utilize [End-to-End Encrypted (E2EE)](https://en.wikipedia.org/wiki/End-to-end_encryption) messaging services.
 - Follow the privacy settings recommended here.
 - Keep your apps and operating system updated.
@@ -174,4 +174,4 @@ Pull requests can be submitted [here](https://github.com/StellarSand/privacy-set
 
 
 ## License
-This project (except the icons) is licensed under the terms of [MIT License](https://github.com/StellarSand/privacy-settings/blob/main/LICENSE).
+This project is licensed under the terms of [MIT License](https://github.com/StellarSand/privacy-settings/blob/main/LICENSE), except for the icons which are owned by their respective trademark holders and are subject to their own licenses.

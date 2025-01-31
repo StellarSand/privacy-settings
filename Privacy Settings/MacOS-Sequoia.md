@@ -25,9 +25,10 @@ Go to System Settings by any of the following methods:
 ## Wi-Fi
 
 #### Network Settings
-- Ask to join hotsposts: Off
-- Wifi Network `Details` > Private Wi-Fi address
-  - `Fixed` or `Rotating` (`Fixed` will use a new, unique MAC address on that specific network. `Rotating` will cycle through new MAC addresses periodically.)
+- Ask to join hotspots: Off
+- Wifi Network `Details` >
+  - Private Wi-Fi address: Rotating
+    > :information_source: **NOTE**: `Rotating` will cycle through new MAC addresses periodically. `Fixed` will use a new, unique MAC address on that specific network.
 
 
 
@@ -39,7 +40,8 @@ Go to System Settings by any of the following methods:
 ## Network
 - Firewall > Firewall: On
   - Options >
-    - Block all incoming connections: On (**EXTREME** and **may** break many programs unless you manually exclude them.)
+    - Block all incoming connections: On
+      > :information_source: **NOTE**: **EXTREME** and **may** break many programs unless you manually exclude them.
     - Enable stealth mode: On
 
 
