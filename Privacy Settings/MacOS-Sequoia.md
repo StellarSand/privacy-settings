@@ -134,7 +134,7 @@ Open `Photos` > Settings > General (on top) >
   sudo nano /etc/hosts
   ```
 - Type your password & press enter.
-- Use the down arrow key on your keyboard to move the cursor to the bottom of the list.
+- Use the down arrow key on your keyboard to move the cursor to the bottom of the hosts file.
 - Copy & paste everything from [this list](https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/hosts/native.apple.txt) at the bottom of the hosts file & save it.
   > :bulb: **Tip**: To save the file press `Ctrl + x`, type `y`, press enter.
 - Type (or copy & paste) the following in the terminal window & press enter:
