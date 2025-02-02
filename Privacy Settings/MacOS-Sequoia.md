@@ -29,6 +29,7 @@ Go to System Settings by any of the following methods:
 - Wifi Network `Details` >
   - Private Wi-Fi address: Rotating
     > :information_source: **NOTE**: `Rotating` will cycle through new MAC addresses periodically. `Fixed` will use a new, unique MAC address on that specific network.
+  - Limit IP address tracking: On
 
 
 
@@ -123,6 +124,26 @@ Generally keep tabs on all permissions and restrict as many as possible. The few
 ## Disable AI photo analysis
 Open `Photos` > Settings > General (on top) >
   - Enhanced Visual Search: Off
+
+
+
+## Block all Apple telemetry
+- Spotlight Search for `terminal` & open it.
+- Type (or copy & paste) the following in the terminal window & press enter:
+  ```zsh
+  sudo nano /etc/hosts
+  ```
+- Type your password & press enter.
+- Use the down arrow key on your keyboard to move the cursor to the bottom of the list.
+- Copy & paste everything from [this list](https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/hosts/native.apple.txt) at the bottom of the hosts file & save it.
+  > :bulb: **Tip**: To save the file press `Ctrl + x`, type `y`, press enter.
+- Type (or copy & paste) the following in the terminal window & press enter:
+  ```zsh
+  dscacheutil -flushcache
+  ```
+
+The list is updated regularly, so remember to check back often & replace old entries in the hosts file with the most recent ones.
+macOS updates will function normally even with these additions.
 
 
 ---

@@ -1,6 +1,13 @@
 # Changelog
 
 
+## Feb 03, 2025
+
+#### MacOS Sequoia
+- Added `Limit IP address tracking` in [Wi-Fi](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/MacOS-Sequoia.md#wi-fi) > [Network Settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/MacOS-Sequoia.md#network-settings) > Wifi Network Details
+- Added [Block all Apple telemetry](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/MacOS-Sequoia.md#block-all-apple-telemetry)
+
+
 ## Jan 30, 2025
 
 #### ChatGPT

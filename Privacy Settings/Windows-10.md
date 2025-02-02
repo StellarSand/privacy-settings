@@ -202,7 +202,7 @@ Reason: [Threat actors misusing Quick Assist in social engineering attacks leadi
 
 Press `Win key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
 
-- Type (or copy paste) the following in the powershell window & press enter:
+- Type (or copy & paste) the following in the powershell window & press enter:
   ```powershell
   notepad C:\Windows\System32\drivers\etc\hosts
   ```
@@ -210,7 +210,7 @@ Press `Win key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
   ```
   0.0.0.0	remoteassistance.support.services.microsoft.com
   ```
-- To uninstall, type (or copy paste) the following in the powershell window & press enter:
+- To uninstall, type (or copy & paste) the following in the powershell window & press enter:
   ```powershell
   Get-AppxPackage -Name MicrosoftCorporationII.QuickAssist | Remove-AppxPackage -AllUsers
   ```
@@ -220,7 +220,7 @@ Press `Win key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
 ## Block all Microsoft telemetry
 Press `Windows key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
 
-- Type (or copy paste) the following in the powershell window & press enter:
+- Type (or copy & paste) the following in the powershell window & press enter:
   ```powershell
   notepad C:\Windows\System32\drivers\etc\hosts
   ```
@@ -246,7 +246,7 @@ Press `Win key + r` > type `regedit` > press enter > Yes
 -->
 Press `Windows key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
 
-- Type (or copy paste) the following in the powershell window & press enter:
+- Type (or copy & paste) the following in the powershell window & press enter:
   ```powershell
   New-ItemProperty -Path "HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Search" -Name "BingSearchEnabled" -Value 0 -PropertyType DWord -Force
   ```

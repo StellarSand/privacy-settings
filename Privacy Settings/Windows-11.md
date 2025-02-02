@@ -230,7 +230,7 @@ Reason: [Threat actors misusing Quick Assist in social engineering attacks leadi
 
 Press `Windows key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
 
-- Type (or copy paste) the following in the powershell window & press enter:
+- Type (or copy & paste) the following in the powershell window & press enter:
   ```Powershell
   notepad C:\Windows\System32\drivers\etc\hosts
   ```
@@ -238,7 +238,7 @@ Press `Windows key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
   ```
   0.0.0.0	remoteassistance.support.services.microsoft.com
   ```
-- To uninstall, type (or copy paste) the following in the powershell window & press enter:
+- To uninstall, type (or copy & paste) the following in the powershell window & press enter:
   ```Powershell
   Get-AppxPackage -Name MicrosoftCorporationII.QuickAssist | Remove-AppxPackage -AllUsers
   ```
@@ -248,7 +248,7 @@ Press `Windows key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
 ## Block all Microsoft telemetry
 Press `Windows key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
 
-- Type (or copy paste) the following in the powershell window & press enter:
+- Type (or copy & paste) the following in the powershell window & press enter:
   ```Powershell
   notepad C:\Windows\System32\drivers\etc\hosts
   ```
@@ -270,7 +270,7 @@ Press `Win key + r` > type `regedit` > press enter > Yes
 
 Press `Windows key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
 
-- Type (or copy paste) the following in the powershell window & press enter:
+- Type (or copy & paste) the following in the powershell window & press enter:
   ```Powershell
   New-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Search" -Name "BingSearchEnabled" -Value 0 -PropertyType DWord -Force
   ```
@@ -291,7 +291,7 @@ Press `Win key + r` > type `regedit` > press enter > Yes
 
 Press `Windows key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
 
-- Type (or copy paste) the following in the powershell window & press enter:
+- Type (or copy & paste) the following in the powershell window & press enter:
   ```Powershell
   New-Item -Path "HKCU:\Software\Policies\Microsoft\Windows" -Name "WindowsCopilot" -Force; New-ItemProperty -Path "HKCU:\Software\Policies\Microsoft\Windows\WindowsCopilot" -Name "TurnOffWindowsCopilot" -Value 1 -PropertyType DWord -Force
   ```
