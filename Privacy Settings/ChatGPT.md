@@ -6,6 +6,32 @@ If you're using ChatGPT without an account, click on the question mark icon at t
 
 ---
 
+**The following settings are applicable only if you have a ChatGPT account.**
+
+## Prevent training on your content
+
+1. Go to [OpenAI Privacy Center](https://privacy.openai.com/policies)
+2. Click `Make a Privacy Request`
+3. Choose `Email address` or `Phone number`
+4. Click `Do not train on my content`
+5. Enter your email address
+6. Look for incoming email and click `Log In` button in email
+7. Fill out `Do not train on my content` form
+8. Click `Submit Request`
+
+## Personal Data Removal
+
+1. Go to [OpenAI Privacy Center](https://privacy.openai.com/policies)
+2. Click `Make a Privacy Request`
+3. Choose `Email address` or `Phone number`
+4. Click `ChatGPT Personal Data Removal Request`
+5. Enter your email address
+6. Look for incoming email and click `Log In` button in email
+7. Fill out `ChatGPT Personal Data Removal Request` form
+8. Click `Submit Request`
+
+---
+
 
 **The following settings are applicable only if you've logged in to ChatGPT.**
 
