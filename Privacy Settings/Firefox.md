@@ -43,7 +43,6 @@ Go to Settings.
 - Tell websites not to sell or share my data: Enable only for jurisdictions mentioned in the note below
   > :information_source: **NOTE**: [Global Privacy Control (GPC)](https://globalprivacycontrol.org/) operates as a “Do Not Sell” mechanism in some US states such as California, Colorado and Connecticut. It may also be used to indicate an opt-out of targeted advertising or general request to limit the sale or sharing of your personal data in those jurisdictions, as well as in jurisdictions such as the EU, UK, Nevada, Utah and Virginia.
   > <br>If you don't reside in these jurisdictions, disable this, as it **may** be used for potential browser fingerprinting purposes.
-- Send websites a “Do Not Track” request: Off
 
 #### Passwords
 - Ask to save passwords: Off
@@ -75,7 +74,6 @@ Go to Settings.
   
     Example: For Quad9, enter https://dns.quad9.net/dns-query
 
----
 ---
 
 ## Further Hardening

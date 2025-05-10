@@ -144,7 +144,6 @@ Go to `About phone` > tap `Build Number` 7 times. This will unlock Developer opt
 
 
 ---
----
 
 
 - Some other settings are same as [Google Account settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md).
