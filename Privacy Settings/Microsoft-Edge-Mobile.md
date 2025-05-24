@@ -38,6 +38,7 @@ Go to Settings
   - Block third-party cookies
   - Block third-party cookies > Allow related sites to see your activity in the group: Off
 - Intrusive ads: Off
+- V8 optimizer: Off
 
 #### Show me search and site suggestions using my typed characters
 - Off
@@ -70,8 +71,9 @@ Go to Settings
 - Select search engine: DuckDuckGo
 - Shopping: Off
 
+
 ---
----
+
 
 On home page > Tap icon on top right > Custom >
  - Show feeds: Off

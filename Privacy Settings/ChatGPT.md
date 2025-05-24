@@ -1,10 +1,11 @@
 # ChatGPT Privacy Settings
 
-If you're using ChatGPT without an account, click on the question mark icon at the bottom right > Settings
+If you're using ChatGPT without an account, click on the question mark icon on top right > Settings
 - Improve the model for everyone: Off
 
 
 ---
+
 
 **The following settings are applicable only if you have a ChatGPT account.**
 
@@ -29,6 +30,7 @@ If you're using ChatGPT without an account, click on the question mark icon at t
 6. Look for incoming email and click `Log In` button in email
 7. Fill out `ChatGPT Personal Data Removal Request` form
 8. Click `Submit Request`
+
 
 ---
 

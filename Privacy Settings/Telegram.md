@@ -1,5 +1,10 @@
 # Telegram Privacy Settings
 
+> [!WARNING]
+> Telegram chats are not [end-to-end encrypted](https://en.wikipedia.org/wiki/End-to-end_encryption) **by default**.
+>
+> To enable: Tap on a contact name or an existing chat > Tap on contact name on top > Click 3 dots on top > Start Secret Chat
+
 Go to Settings.
 
 ## Chat Settings
@@ -9,12 +14,6 @@ Go to Settings.
     - Clear History > Clear
     - Search Engine > Select `DuckDuckGo` or `Brave Search`.
     > :information_source: **NOTE:** You can disable this feature if you want to open webpages in External Browser.
-
-<!-- No relevant setting here related to privacy.
-- Stickers and Emoji >
-    - Suggest stickers by emoji: `My sets` or `None`
-    - Dynamic Pack Order: Off
--->
 
 - Raise to Listen: Off
 - Raise to Speak: Off
@@ -109,18 +108,6 @@ Go to Settings.
 
 
 
-<!-- No relevant setting here related to privacy.
-## Notifications and Sounds
-
-#### Other
-- Keep-Alive Service: Off
-- Background Connection: Off
-
-> :information_source: **NOTE:** Do not disable this features if you want to reliable notifications.
--->
-
-
-
 ## Data and Storage
 
 #### Disk and network usage
@@ -159,12 +146,3 @@ Go to Settings.
 #### Translate Messages
 - Show Translate Button: Off
 - Translate Entire Chats: Off (This feature is available only with Telegram Premium)
-
-
----
-
-
-> [!WARNING]
-> Telegram chats are not [end-to-end encrypted](https://en.wikipedia.org/wiki/End-to-end_encryption) **by default**.
->
-> To enable: Tap on a contact name or an existing chat > Tap on contact name on top > Click 3 dots on top > Start Secret Chat

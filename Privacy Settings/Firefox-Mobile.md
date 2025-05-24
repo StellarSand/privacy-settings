@@ -7,14 +7,8 @@ Go to Settings.
 
 
 ## Search
-
-#### Search engines
 - Default search engine: DuckDuckGo or add any other privacy respecting search engine.
-
-#### Suggestions from search engine
 - Show search suggestions: Off
-
-#### Address bar preferences
 - Show clipboard suggestions: Off
 - Autocomplete URLs: Off
 
@@ -35,8 +29,8 @@ Go to Settings.
 
 
 ## Autofill
-- Save and autofill addresses: Off
-- Save and autofill cards: Off
+- Save and fill addresses: Off
+- Save and fill payment methods: Off
 
 > :information_source: **NOTE**: Never save payment info or credit card details in browsers. A password manager can be used to also save payment information or card details.
 
@@ -62,16 +56,16 @@ Go to Settings.
 
 
 
-## Site permissions
+## Site settings
 - Cross-site cookies: Blocked
 
 
 
 ## Data collection
 **This section does not apply to Fennec**
-- Technical & interaction data: Off
-- Automatically submit crash reports: Off
-- Studies: Off
+- Send technical & interaction data: Off
+- Daily usage ping: Off (optional)
+- Automatically send crash reports: Off
 
 
 

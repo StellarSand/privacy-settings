@@ -16,6 +16,7 @@ Go to Settings
   - Fanboy's Annoyances + uBO Annoyances: On
   - Select other filter lists based on your language & preferences
 - Safe Browsing: Standard protection
+- Allow screenshots in private tabs: Off
 - Lock Private tabs when you leave Brave: On
 - Allow sites to check if you have payment methods saved: Off
 - Unstoppable Domains: Disabled
@@ -29,6 +30,8 @@ Go to Settings
     
     Example: For Quad9, enter https://dns.quad9.net/dns-query
 
+- Manage V8 security >
+  - V8 optimizer: Off
 - Block cookie consent notices: On
 - Send a "Do Not Track" request: Off
 - Allow privacy-preserving product analytics (P3A): Off
@@ -52,6 +55,7 @@ Go to Settings
 
 ## Leo
 - Show autocomplete suggestions in address bar: Off
+- Store my conversation history: Off
 
 
 
@@ -59,7 +63,8 @@ Go to Settings
 - Standard Tab: `DuckDuckGo` or any other privacy respecting search engine like `Brave`, `Startpage` etc.
 - Private Tab: `DuckDuckGo` or any other privacy respecting search engine like `Brave`, `Startpage` etc.
 - Show search suggestions: Off
-- Show top sites suggestions: Off
+- Show top suggestions: Off
+- Web Discovery Project: Off
 
 
 
@@ -79,6 +84,7 @@ Go to Settings
 ## Site settings
 - Third-party cookies >
   - Block third-party cookies
+  - Block third-party cookies > Allow related sites to see your activity in the group: Off
 
 
 

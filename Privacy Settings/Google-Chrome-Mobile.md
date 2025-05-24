@@ -15,6 +15,35 @@ Go to Settings.
 
 
 
+## Privacy and security
+- Third-party cookies >
+  - Block third-party cookies
+  - Block third-party cookies > Allow related sites to see your activity in the group: Off
+- Ad privacy (Does not apply to Ungoogled Chromium) >
+  - Ad topics: Off
+  - Site-suggested ads: Off
+  - Ad measurement: Off
+- Send a "Do Not Track" request: Off
+- Preload pages: No preloading
+- Lock Incognito tabs when you leave Chrome: On
+- Safe Browsing (Does not apply to Ungoogled Chromium) >
+  - Standard Protection
+  - Standard Protection > Help improve security on the web for everyone: Off
+- Always use secure connections >
+  - On
+  - Warns you for insecure public & private sites
+- Use secure DNS > 
+  - On
+  - Choose another provider > `NextDNS`/`Cloudflare` or select `Custom` and provide URL for other secure DNS from [this list](https://www.privacyguides.org/en/dns/#recommended-providers)
+
+    Example: For Quad9, enter https://dns.quad9.net/dns-query
+
+- Manage V8 security >
+  - V8 optimizer: Off
+- Access payment methods: Off
+
+
+
 ## Google Password Manager
 
 #### Settings
@@ -37,37 +66,8 @@ Go to Settings.
 
 
 
-## Privacy and security
-- Third-party cookies >
-  - Block third-party cookies
-  - Block third-party cookies > Allow related sites to see your activity in the group: Off
-- Ad privacy (Does not apply to Ungoogled Chromium) >
-  - Ad topics: Off
-  - Site-suggested ads: Off
-  - Ad measurement: Off
-- Send a "Do Not Track" request: Off
-- Preload pages: No preloading
-- Lock Incognito tabs when you leave Chrome: On
-- Safe Browsing (Does not apply to Ungoogled Chromium) >
-  - Standard Protection
-  - Standard Protection > Help improve security on the web for everyone: Off
-- Always use secure connections: On
-- Use secure DNS > 
-  - On
-  - Choose another provider > `NextDNS`/`Cloudflare` or select `Custom` and provide URL for other secure DNS from [this list](https://www.privacyguides.org/en/dns/#recommended-providers)
-
-    Example: For Quad9, enter https://dns.quad9.net/dns-query
-
-- Access payment methods: Off
-
-
-
 ## Site settings
-
-#### Permissions
 - Your device use: Off
-
-#### Content
 - Intrusive ads: Off
 
 

@@ -67,9 +67,9 @@ Go to Settings & Support > Settings and privacy
 #### Grok
 - Allow your posts as well as your interactions, inputs, and results with Grok to be used for training and fine-tuning: Off
 
----
+
 ---
 
-Remove Location and Birth date from your bio or provide false info if you want.
 
-Also remove any other personally identifiable info like phone numbers, emails etc. you might have added in your bio.
+- Remove `Location` and `Birth date` from your bio or provide false info if you want.
+- Remove any other personally identifiable info like phone numbers, emails etc. you might have added in your bio.

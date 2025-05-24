@@ -7,7 +7,7 @@ Go to Settings.
 ## Search engine
 - Standard Tab: DuckDuckGo or Startpage.com
 - Private Tab: DuckDuckGo or Startpage.com
-- Allow Search Suggestions in Address Field: Off
+- Show Search Suggestion: Off
 
 
 
@@ -32,7 +32,9 @@ Go to Settings.
 
 
 ## Privacy and security
-- Always use secure connections: On
+- Always use secure connections >
+  - On
+  - Warns you for insecure public & private sites
 - Lock Private tabs when you leave Vivaldi: On
 - Access payment methods: Off
 - Preload pages: No preloading
@@ -70,7 +72,9 @@ Go to Settings.
 - Your device use: Off
 - Third-party cookies >
   - Block third-party cookies
+  - Block third-party cookies > Allow related sites to see your activity in the group: Off
 - Intrusive ads: Off
+- V8 optimizer: Off
 
 #### Downloads
 - Ask where to save files: On

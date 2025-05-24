@@ -1,5 +1,9 @@
 # Android 12/12.1 Privacy Settings
 
+> [!WARNING]
+> Support for Android 12/12.1 has officially ended on 03 Mar, 2025.
+<br>To ensure your device's security, please upgrade to the latest Android version.
+
 Go to Settings
 
 **The actual location of the settings might differ from device to device. The following are according to stock android.**

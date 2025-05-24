@@ -5,27 +5,16 @@ Go to Settings.
 
 
 ## Privacy & Security
-
-#### Enhanced Tracking Protection
 - Block ad trackers: On
 - Block analytic trackers: On
 - Block social trackers: On
 - Block other content trackers: On (If you face issues with any website, turn it off)
-
-#### Cookies and Site Data
 - Block cookies: Block cross-site cookies
-
-#### Switching Apps
 - Use fingerprint to unlock app: On
 - Stealth: On (Only applicable if the above setting is disabled)
-
-#### Security
 - Block potentially dangerous and deceptive sites: On
 - HTTPS-Only Mode: On
-
-#### Data Choices
-- Send usage data: Off
-- Studies: Off
+- Daily usage ping: Off (optional)
 
 
 
