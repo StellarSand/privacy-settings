@@ -1,6 +1,31 @@
 # Changelog
 
 
+## May 24, 2025
+
+#### Brave Mobile
+- Added `Allow screenshots in private tabs` and `Manage V8 security` in [Brave shields & privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
+- Added `Store my conversation history` in [Leo](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#leo)
+- Added `Web Discovery Project` in [Search engines](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#search-engines)
+- Added `Allow related sites to see your activity in the group` in [Site settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#site-settings) > Third-party cookies > Block third-party cookies
+
+#### Cromite
+- Added `Warns you for insecure public & private sites` in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Cromite.md#privacy-and-security) > Always use secure connections
+- Added `V8 optimizer` in [Site settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Cromite.md#site-settings)
+
+#### Google Chrome Mobile
+- Added `Warns you for insecure public & private sites` in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md#privacy-and-security) > Always use secure connections
+- Added `Manage V8 security` in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md#privacy-and-security)
+
+#### Microsoft Edge Mobile
+- Added `V8 optimizer` in [Site Settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#site-settings)
+
+#### Vivaldi Mobile
+- Added `Warns you for insecure public & private sites` in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#privacy-and-security) > Always use secure connections
+- Added `Allow related sites to see your activity in the group` in [Content Settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#content-settings) > [Site settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#site-settings) > Third-party cookies > Block third-party cookies
+- Added `V8 optimizer` in [Content Settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#content-settings) > [Site settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#site-settings)
+
+
 ## Feb 03, 2025
 
 #### MacOS Sequoia
