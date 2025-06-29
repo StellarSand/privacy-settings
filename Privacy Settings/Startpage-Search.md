@@ -18,7 +18,8 @@ Go to [Startpage Search settings](https://www.startpage.com/do/settings)
 - HTTP request method: POST
 - Show safety suggestion: On
 
+
 ---
 
 
-**Click Save your settings**
+Click on `Save your settings`

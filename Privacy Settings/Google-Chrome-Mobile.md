@@ -75,7 +75,8 @@ Go to Settings.
 ## Downloads
 - Ask where to save files: On
 
+
 ---
----
+
 
 On new tab page > Discover by Google > tap on 3 dots icon > Turn off

@@ -58,10 +58,7 @@ Remove any device you don't use.
 #### Advanced
 - Always relay calls: On (Call quality will be reduced, but it'll prevent your location from being exposed through your IP address to the other person on the call.)
 
-
 ---
----
-
 
 ## Verify safety number
 Go to a particular chat > Tap 3 dots on top > Chat settings > View safety number

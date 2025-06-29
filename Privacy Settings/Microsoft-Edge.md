@@ -130,7 +130,6 @@ Go to Settings
 
 
 ---
----
 
 
 Open a new tab. Click the gear icon on top right

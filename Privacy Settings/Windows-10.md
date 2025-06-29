@@ -175,7 +175,6 @@ Right click on Ethernet or Wifi depending on what you are using > Properties
 
 
 ---
----
 
 
 ## Disable ads in file explorer

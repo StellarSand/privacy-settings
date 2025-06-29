@@ -203,7 +203,6 @@ Delete your account picture and set it to default as mentioned below:
 
 
 ---
----
 
 
 ## Disable ads in file explorer

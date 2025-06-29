@@ -111,7 +111,6 @@ privacy respecting search engine from `Manage search engines and site search`.
 
 
 ---
----
 
 
 ## Brave Rewards

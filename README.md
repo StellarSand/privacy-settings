@@ -139,7 +139,7 @@ For better privacy respecting alternatives, reviews and more information, check 
 - Techlore: [Website](https://www.techlore.tech), [GitHub](https://github.com/techlore), [YouTube](https://www.youtube.com/@techlore/videos)
 - [Naomi Brockwell - YouTube](https://www.youtube.com/@NaomiBrockwellTV/videos)
 - The New Oil: [Website](https://thenewoil.org/), [YouTube](https://www.youtube.com/@TheNewOil/videos)
-- [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html)
+- [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide/)
 - [The Data Detox Kit](https://datadetoxkit.org)
 - [Personal security checklist](https://digital-defense.io/)
 - [Security in a Box](https://securityinabox.org/)

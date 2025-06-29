@@ -74,7 +74,6 @@ Check [recommended extensions](https://github.com/StellarSand/privacy-settings#r
 
 
 ---
----
 
 
 ## Further Hardening

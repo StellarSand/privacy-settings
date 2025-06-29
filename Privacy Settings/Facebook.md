@@ -125,7 +125,6 @@ Remove anything you don't use
 
 
 ---
----
 
 
 Remove any personally identifiable info like phone numbers, email, location etc. from your Facebook bio.

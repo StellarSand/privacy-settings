@@ -118,7 +118,6 @@ Generally keep tabs on all permissions and restrict as many as possible. The few
 
 
 ---
----
 
 
 ## Disable AI photo analysis
