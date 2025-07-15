@@ -1,6 +1,14 @@
 # Changelog
 
 
+## Jul 15, 2025
+- Added [Android 16](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-16.md)
+- Added [Snapchat](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Snapchat.md) (by [fynks](https://github.com/fynks))
+
+#### Google Account
+- Added [Disable Gemini Apps Activity](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md#disable-gemini-apps-activity)
+
+
 ## May 24, 2025
 
 #### Brave Mobile
