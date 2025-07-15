@@ -1,4 +1,4 @@
-# Android 15 Privacy Settings
+# Android 16 Privacy Settings
 
 Go to Settings
 
