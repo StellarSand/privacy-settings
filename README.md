@@ -54,6 +54,7 @@
 - <img src="icons/proton_mail.svg" width="20" align="center"> [Proton Mail](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Proton-Mail.md)
 - <img src="icons/reddit.png" width="20" align="center"> [Reddit](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Reddit.md)
 - <img src="icons/signal.png" width="20" align="center"> [Signal](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Signal.md)
+- <img src="icons/snapchat.png" width="20" align="center"> [Snapchat](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Snapchat.md)
 - <img src="icons/spotify.png" width="20" align="center"> [Spotify](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Spotify.md)
 - <img src="icons/startpage_search.png" width="20" align="center"> [Startpage Search](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Startpage-Search.md)
 - <img src="icons/telegram.png" width="20" align="center"> [Telegram](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Telegram.md)
