@@ -1,0 +1,3 @@
+ - Prefer `.svg` icons.
+ - If `.svg` icons are not available, only then use `.png` icons.
+ - Try not to use `.jpg`/`.jpeg` icons.
