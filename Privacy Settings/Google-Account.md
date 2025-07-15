@@ -68,9 +68,13 @@ To setup 2FA, first a phone needs to be added.
 Once the above step is completed, 
 - Authenticator app: Set Up > Next > Scan the barcode using an authenticator app > Enter 6 digit code > Verify
 
-> :information_source: **NOTE 1**: Don't use Google Authenticator as mentioned there. Instead use a privacy respecting authenticator app. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
+> :information_source: **NOTE 1**:
 >
-> :information_source: **NOTE 2**: The backup codes downloaded in the first step is required to login, if 2FA method is lost, broken or unavailable. Keep these codes somewhere safe, to prevent loss or unauthorized access. They can be stored in a password manager, in an encrypted note, or write them down somewhere safe.
+> Don't use Google Authenticator as mentioned there. Instead use a privacy respecting authenticator app. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
+>
+> :information_source: **NOTE 2**:
+>
+> The backup codes downloaded in the first step is required to login, if 2FA method is lost, broken or unavailable. Keep these codes somewhere safe, to prevent loss or unauthorized access. They can be stored in a password manager, in an encrypted note, or write them down somewhere safe.
 
 #### Your devices
 - Manage all devices > Remove any device you don't use anymore
@@ -89,7 +93,18 @@ Once the above step is completed,
 - Business personalization: Off
 
 #### Share recommendations in ads
-- Shared endorsements in ads > Uncheck "Based upon my activity, Google may show my profile name, profile photo, and activity in shared endorsements in ads"
+- Shared endorsements in ads > Uncheck `Based upon my activity, Google may show my profile name, profile photo, and activity in shared endorsements in ads`
+
+
+---
+
+
+## Disable Gemini Apps Activity
+ Go to [Gemini Apps Activity](https://myactivity.google.com/product/gemini) > Turn off > Turn off and delete activity
+
+> :information_source: **NOTE**:
+> 
+> When this is enabled, **your conversations may be reviewed by humans, stored for up to 3 years, and used for AI training**. <br> When this is disabled, **your data isn’t used for AI training, but it’s still stored for up to 72 hours** so Google can process your requests and feedback.
 
 
 ---

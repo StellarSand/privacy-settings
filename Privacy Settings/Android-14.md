@@ -28,7 +28,9 @@ Go to Settings
 - Nearby Share > Device visibility: Off
 - Android Auto: Off
 
-> :information_source: **NOTE**: Enable the above settings only when required. Remember to turn them off when no longer required.
+> :information_source: **NOTE**
+>
+> Enable the above settings only when required. Remember to turn them off when no longer required.
 
 
 
@@ -91,14 +93,20 @@ After setting screen lock, tap on gear icon.
 - Autofill service from Google >
     - Use Autofill with Google: Off
 - Usage & diagnostics: Off
-  > :information_source: **NOTE**: Additionally some OEMs include few more settings for personalized ads & diagnostics.
+  > :information_source: **NOTE**
+  >
+  > Additionally some OEMs include few more settings for personalized ads & diagnostics.
   <br>Search in your phone settings for `User Experience Program`, `Personalized ad recommendations`, `Send diagnostic data` or something similar.
 - SIM card lock >
   - Lock SIM card: On > Enter default PIN > OK
   - Change SIM PIN > Enter old and new SIM PIN > OK (Create a secure new SIM PIN)
-  > :information_source: **NOTE 1**: The default PIN code is usually `1234` or `0000`. However, if these two don't work, you should look on SIM card's packaging or contact your SIM provider's customer support.
+  > :information_source: **NOTE 1**
   >
-  > :information_source: **NOTE 2**: If you enter the PIN code wrong 3 times, you'll be asked to enter a PUK (Personal Unlock Key) code. This code can be obtained from the carrier, after they verify you are the rightful owner of the SIM. DO NOT try to guess the PUK code. If you enter it wrong 3 times, the SIM will be permanently locked and you might have to get a new SIM from your carrier.
+  > The default PIN code is usually `1234` or `0000`. However, if these two don't work, you should look on SIM card's packaging or contact your SIM provider's customer support.
+  >
+  > :information_source: **NOTE 2**
+  >
+  > If you enter the PIN code wrong 3 times, you'll be asked to enter a PUK (Personal Unlock Key) code. This code can be obtained from the carrier, after they verify you are the rightful owner of the SIM. DO NOT try to guess the PUK code. If you enter it wrong 3 times, the SIM will be permanently locked and you might have to get a new SIM from your carrier.
 - Encryption & credentials >
   - Encrypt phone: Encrypted
 - Trust agents >

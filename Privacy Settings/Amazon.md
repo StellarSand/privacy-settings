@@ -11,7 +11,9 @@ From top right go to Account & Lists > Your Account
 #### Two-Step Verification (2SV) Settings
 - Edit > Get Started > select Authenticator App > Scan the barcode using an authenticator app > Enter 6 digit code > Verify OTP and continue > uncheck Don't require OTP on this browser > Turn on
 
-> :information_source: **NOTE** : Use a privacy respecting authenticator app. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
+> :information_source: **NOTE**
+>
+> Use a privacy respecting authenticator app. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
 
 
 

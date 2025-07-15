@@ -10,7 +10,11 @@ Tap on your profile pic > Username > Save
 
 
 ## Account
-- Create your PIN > Create a secure PIN (`1234` or `0987` is not a secure pin. Create with at least 6-8 numbers.)
+- Create your PIN > Create a secure PIN
+    > :information_source: **NOTE**
+    >
+    > `1234` or `0987` is not a secure pin. Create with at least 6-8 numbers.
+
 - Registration Lock: On (after PIN is created)
 
 
@@ -43,8 +47,11 @@ Remove any device you don't use.
 
 #### Disappearing messages
 - Default timer for new chats: Select whatever suits you
-- For enabling disappearing messages for existing chats:
-    - Go to a particular chat > Tap 3 dots on top > Disappearing messages
+
+> :information_source: **NOTE**
+>
+> You can enable disappearing messages for existing chats:
+> <br>Go to a particular chat > Tap on 3 dots on top > Disappearing messages
 
 #### App security
 - Screen lock: On
@@ -56,7 +63,11 @@ Remove any device you don't use.
 - Payment lock: On
 
 #### Advanced
-- Always relay calls: On (Call quality will be reduced, but it'll prevent your location from being exposed through your IP address to the other person on the call.)
+- Always relay calls: On
+
+> :information_source: **NOTE**
+>
+> Call quality will be reduced, but it'll prevent your location from being exposed through your IP address to the other person on the call.
 
 ---
 

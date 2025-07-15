@@ -6,6 +6,23 @@ Go to Settings
 
 
 
+## Google
+
+Tap on `All services`
+
+#### Search, Assistant & Voice
+- Privacy & Safety > Search customization >
+    - Search customization: Off
+    - Ad personalization on Search: Off
+- Other settings >
+    - Discover: Off
+    - Autocomplete settings > Autocomplete with trending searches: Off
+
+#### Personalize using shared data
+- Device Contacts: Off
+
+
+
 ## Network & internet
 
 #### Internet
@@ -25,6 +42,7 @@ Go to Settings
 
 #### Connection preferences
 - Bluetooth: Off
+- Thread: Off
 - Printing > Default Print Service: Off
 - Quick Share > Who can share with you > Visibility to nearby devices: Off
 - Android Auto: Off
@@ -55,13 +73,11 @@ Go to Settings
 
 
 
-## Accessibility
+## System
 
-#### Text-to-speech output
-
-Tap on the gear icon next to `Preferred engine`
-
-- Anonymous usage reports: Off
+#### Users
+- Delete guest activity: On
+- Add users from lock screen: Off
 
 
 
@@ -127,27 +143,13 @@ After setting screen lock, tap on gear icon.
 
 
 
-## Google
+## Accessibility
 
-Tap on `All services`
+#### Text-to-speech output
 
-#### Search, Assistant & Voice
-- Privacy & Safety >
-    - Search customization: Off
-- Other settings >
-    - Discover: Off
-    - Autocomplete settings > Autocomplete with trending searches: Off
+Tap on the gear icon next to `Preferred engine`
 
-#### Personalize using shared data
-- Device Contacts: Off
-
-
-
-## System
-
-#### Users
-- Delete guest activity: On
-- Add users from lock screen: Off
+- Anonymous usage reports: Off
 
 
 

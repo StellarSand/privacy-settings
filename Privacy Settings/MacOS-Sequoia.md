@@ -16,9 +16,13 @@ Go to System Settings by any of the following methods:
 - Advanced Data Protection: On
 - Access iCloud Data on the Web: Off
 
-> :information_source: **IMPORTANT NOTE 1**: Advanced Data Protection means you'll be handling your own encryption keys. If you lose this information Apple will not be able to recover your data!
+> :information_source: **IMPORTANT NOTE 1**
 >
-> :information_source: **NOTE 2**: Keep tabs on what you're using iCloud for and make sure it's only enabled for applications you need.
+> Advanced Data Protection means you'll be handling your own encryption keys. If you lose this information Apple will not be able to recover your data!
+>
+> :information_source: **NOTE 2**
+>
+> Keep tabs on what you're using iCloud for and make sure it's only enabled for applications you need.
 
 
 
@@ -28,7 +32,9 @@ Go to System Settings by any of the following methods:
 - Ask to join hotspots: Off
 - Wifi Network `Details` >
   - Private Wi-Fi address: Rotating
-    > :information_source: **NOTE**: `Rotating` will cycle through new MAC addresses periodically. `Fixed` will use a new, unique MAC address on that specific network.
+    > :information_source: **NOTE**
+    >
+    > `Rotating` will cycle through new MAC addresses periodically. `Fixed` will use a new, unique MAC address on that specific network.
   - Limit IP address tracking: On
 
 
@@ -42,7 +48,9 @@ Go to System Settings by any of the following methods:
 - Firewall > Firewall: On
   - Options >
     - Block all incoming connections: On
-      > :information_source: **NOTE**: **EXTREME** and **may** break many programs unless you manually exclude them.
+      > :information_source: **NOTE**
+      >
+      > **EXTREME** and **may** break many programs unless you manually exclude them.
     - Enable stealth mode: On
 
 
@@ -105,7 +113,9 @@ Generally keep tabs on all permissions and restrict as many as possible. The few
 
 #### Security
 - Allow applications from: App Store
-  > :information_source: **NOTE**: Malware can still be hosted on the App Store & denying other sources may heavily restrict software you can run. Enable this feature only if you don't trust other sources for installing applications.
+  > :information_source: **NOTE**
+  >
+  > Malware can still be hosted on the App Store & denying other sources may heavily restrict software you can run. Enable this feature only if you don't trust other sources for installing applications.
 - Allow accessories to connect: Ask Every Time
 - FileVault: On
 - Lockdown Mode: On

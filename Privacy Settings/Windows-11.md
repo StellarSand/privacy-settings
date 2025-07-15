@@ -128,7 +128,9 @@ Delete your account picture and set it to default as mentioned below:
 - Go to `C:\Users\JohnDoe\AppData\Roaming\Microsoft\Windows\AccountPictures` and delete your picture. (Replace `JohnDoe` with your username)
 - Go to `C:\ProgramData\Microsoft\User Account Pictures` and select `guest.png`.
 
-> :information_source: **NOTE**: `AppData` is a hidden folder by default. To enable: in file explorer on top click `View` > Show > select `Hidden items`.
+> :information_source: **NOTE**
+>
+> `AppData` is a hidden folder by default. To enable: in file explorer on top click `View` > Show > select `Hidden items`.
 
 #### Sign-in options
 - Show account details such as my email address on the sign-in screen: Off
@@ -153,7 +155,9 @@ Delete your account picture and set it to default as mentioned below:
 - Firewall & network protection > Firewall should be on for domain, public and private networks.
 - Device security > Core isolation details >
   - Enable everything
-    > :information_source: **NOTE**: Sometimes some of these can't be enabled due to an incompatible driver or software.
+    > :information_source: **NOTE**
+    >
+    > Sometimes some of these can't be enabled due to an incompatible driver or software.
 
 #### Find my device
 - Find my device: Off

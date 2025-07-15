@@ -13,7 +13,9 @@ Go to Settings.
     - Clear Cache > Clear
     - Clear History > Clear
     - Search Engine > Select `DuckDuckGo` or `Brave Search`.
-    > :information_source: **NOTE:** You can disable this feature if you want to open webpages in External Browser.
+    > :information_source: **NOTE**
+    >
+    > You can disable this feature if you want to open webpages in External Browser.
 
 - Raise to Listen: Off
 - Raise to Speak: Off
@@ -26,24 +28,35 @@ Go to Settings.
 #### Two-Step Verification
 - Set Password > Create a secure Password
 
-> :information_source: **NOTE 1:** `123456`, `098765`, `abcde`, `qwerty` are not secure passwords. Create with at least 6-8 characters containing upper case, lower case, numbers and special characters.
+> :information_source: **NOTE 1**
 >
-> :information_source: **NOTE 2:** When asked for Recovery Email, make sure you provide an email which has adequate security measures like a strong password and 2FA enabled. Alternatively you can skip this, but then if you forget your password, you'll lose access to your Telegram account and there'll be no way to restore it.
+> `123456`, `098765`, `abcde`, `qwerty` are not secure passwords. Create with at least 6-8 characters containing upper case, lower case, numbers and special characters.
 >
-> :information_source: **NOTE 3**: Use a password manager to generate and store strong & unique passwords. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
+> :information_source: **NOTE 2**
+>
+> When asked for Recovery Email, make sure you provide an email which has adequate security measures like a strong password and 2FA enabled. Alternatively you can skip this, but then if you forget your password, you'll lose access to your Telegram account and there'll be no way to restore it.
+>
+> :information_source: **NOTE 3**
+>
+> Use a password manager to generate and store strong & unique passwords. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
 
 #### Auto-Delete messages
 - Self destruct timer: Shortest duration that suits you
 
-> :information_source: **NOTE:** You can enable Auto-Delete messages for existing chats.
-> 
-> Go to a particular chat > Tap on contact name on top > Click 3 dots on top > Auto-Delete > Shortest duration that suits you
+> :information_source: **NOTE**
+>
+> You can enable Auto-Delete messages for existing chats:
+<br>Go to a particular chat > Tap on contact name on top > Click 3 dots on top > Auto-Delete > Shortest duration that suits you
 
 #### Passcode Lock
 - Enable Passcode > Create a passcode or password
-    > :information_source: **NOTE 1:** `1234` or `0987` is not a secure passcode.
+    > :information_source: **NOTE 1**
+    >
+    > `1234` or `0987` is not a secure passcode.
     > 
-    > :information_source: **NOTE 2:** `qwerty` or `abcdef1` is not a secure password.
+    > :information_source: **NOTE 2**
+    >
+    > `qwerty` or `abcdef1` is not a secure password.
 
 - After Passcode is created >
   - Auto-lock: Shortest duration that suits you
@@ -71,7 +84,9 @@ Go to Settings.
 #### Calls
 - Who can call me?: Don't select `Everybody`
 - Use Peer-to-Peer with: Nobody
-    > :information_source: **NOTE**: Call quality will be reduced, but it'll prevent your location from being exposed through your IP address to the other person on the call.
+    > :information_source: **NOTE**
+    >
+    > Call quality will be reduced, but it'll prevent your location from being exposed through your IP address to the other person on the call.
 
 #### Voice Messages
 **This feature is available only with Telegram Premium**
@@ -116,7 +131,9 @@ Go to Settings.
     - Auto-remove cached media: Tap on each one of them & set ​​to `1 day`
     - Maximum cache size: 5GB
   
-> :information_source: **NOTE:** All media will stay in the Telegram cloud and can be re-downloaded if you need them again.
+> :information_source: **NOTE**
+>
+> All media will stay in the Telegram cloud and can be re-downloaded if you need them again.
 
 #### Automatic media download
 - When using mobile data: Off

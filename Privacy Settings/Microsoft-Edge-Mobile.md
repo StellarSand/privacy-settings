@@ -12,7 +12,9 @@ Go to Settings
 - Autofill for other apps: Off
 - Require biometric or PIN: On
  
- > :information_source: **NOTE**: Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
+ > :information_source: **NOTE**
+ >
+ > Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
  
  #### Addresses and more
 - Save and fill addresses: Off
@@ -20,7 +22,9 @@ Go to Settings
 #### Payment info
 - Save and fill payment info: Off
 
-> :information_source: **NOTE**: Never save payment info in browsers. A password manager can be used to also save payment information.
+> :information_source: **NOTE**
+>
+> Never save payment info in browsers. A password manager can be used to also save payment information.
 
 
 
