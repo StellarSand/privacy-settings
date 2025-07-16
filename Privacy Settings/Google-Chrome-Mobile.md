@@ -50,7 +50,7 @@ Go to Settings.
 - Offer to save passwords: Off
 - Auto sign-in: Off
 
-> :information_source: **NOTE**
+> <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
 >
 > Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
 
@@ -59,7 +59,7 @@ Go to Settings.
 ## Payment methods
 - Save and fill payment methods: Off
 
-> :information_source: **NOTE**
+> <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
 >
 > Never save payment info in browsers. A password manager can be used to also save payment information.
 

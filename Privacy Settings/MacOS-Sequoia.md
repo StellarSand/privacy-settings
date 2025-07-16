@@ -14,15 +14,13 @@ Go to System Settings by any of the following methods:
 
 #### iCloud
 - Advanced Data Protection: On
+  > <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
+  >
+  > Advanced Data Protection means you'll be handling your own encryption keys. If you lose this information Apple will not be able to recover your data!
 - Access iCloud Data on the Web: Off
-
-> :information_source: **IMPORTANT NOTE 1**
->
-> Advanced Data Protection means you'll be handling your own encryption keys. If you lose this information Apple will not be able to recover your data!
->
-> :information_source: **NOTE 2**
->
-> Keep tabs on what you're using iCloud for and make sure it's only enabled for applications you need.
+  > <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
+  >
+  > Keep tabs on what you're using iCloud for and make sure it's only enabled for applications you need.
 
 
 
@@ -32,7 +30,7 @@ Go to System Settings by any of the following methods:
 - Ask to join hotspots: Off
 - Wifi Network `Details` >
   - Private Wi-Fi address: Rotating
-    > :information_source: **NOTE**
+    > <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
     >
     > `Rotating` will cycle through new MAC addresses periodically. `Fixed` will use a new, unique MAC address on that specific network.
   - Limit IP address tracking: On
@@ -48,7 +46,7 @@ Go to System Settings by any of the following methods:
 - Firewall > Firewall: On
   - Options >
     - Block all incoming connections: On
-      > :information_source: **NOTE**
+      > <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
       >
       > **EXTREME** and **may** break many programs unless you manually exclude them.
     - Enable stealth mode: On
@@ -113,7 +111,7 @@ Generally keep tabs on all permissions and restrict as many as possible. The few
 
 #### Security
 - Allow applications from: App Store
-  > :information_source: **NOTE**
+  > <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
   >
   > Malware can still be hosted on the App Store & denying other sources may heavily restrict software you can run. Enable this feature only if you don't trust other sources for installing applications.
 - Allow accessories to connect: Ask Every Time
@@ -145,7 +143,9 @@ Open `Photos` > Settings > General (on top) >
 - Type your password & press enter.
 - Use the down arrow key on your keyboard to move the cursor to the bottom of the hosts file.
 - Copy & paste everything from [this list](https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/hosts/native.apple.txt) at the bottom of the hosts file & save it.
-  > :bulb: **Tip**: To save the file press `Ctrl + x`, type `y`, press enter.
+  > <img src="../icons/ic_tip.svg" width="22" align="top"> **Tip**
+  >
+  > To save the file press `Ctrl + x`, type `y`, press enter.
 - Type (or copy & paste) the following in the terminal window & press enter:
   ```zsh
   dscacheutil -flushcache

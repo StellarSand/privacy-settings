@@ -85,7 +85,7 @@ Delete your account picture and set it to default as mentioned below:
 - Go to `C:\Users\JohnDoe\AppData\Roaming\Microsoft\Windows\AccountPictures` and delete your picture. (Replace `JohnDoe` with your username)
 - Go to `C:\ProgramData\Microsoft\User Account Pictures` and select `guest.png`.
 
-> :information_source: **NOTE**
+> <img src="../icons/ic_tip.svg" width="22" align="top"> **Tip**
 >
 > `AppData` is a hidden folder by default. To enable: in file explorer on top click `View` > select `Hidden items`.
 
@@ -144,7 +144,7 @@ Delete your account picture and set it to default as mentioned below:
 - Firewall & network protection > Firewall should be on for domain, public and private networks.
 - Device security > Core isolation details >
   - Enable everything
-    > :information_source: **NOTE**
+    > <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
     >
     > Sometimes some of these can't be enabled due to an incompatible driver or software.
 
@@ -201,7 +201,9 @@ Press `Windows key + r` > type `services.msc` > press enter
 
 
 ## Block & uninstall Quick Assist
-Reason: [Threat actors misusing Quick Assist in social engineering attacks leading to ransomware](https://www.microsoft.com/en-us/security/blog/2024/05/15/threat-actors-misusing-quick-assist-in-social-engineering-attacks-leading-to-ransomware/).
+> <img src="../icons/ic_insight.svg" width="22" align="top"> **INSIGHT**
+>
+> [Threat actors misusing Quick Assist in social engineering attacks leading to ransomware](https://www.microsoft.com/en-us/security/blog/2024/05/15/threat-actors-misusing-quick-assist-in-social-engineering-attacks-leading-to-ransomware/).
 
 Press `Win key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
 

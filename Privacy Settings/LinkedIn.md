@@ -32,13 +32,10 @@ Remove any device you don't use.
 - Scan the QR code with the authenticator app and enter the 6 digit code > Continue
 - Generate your recovery codes and save them
 
-> :information_source: **NOTE 1**
+> <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
 >
-> Don't use Microsoft Authenticator as mentioned there. Instead use a privacy respecting authenticator app. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
->
-> :information_source: **NOTE 2**
->
-> The recovery codes downloaded is required to login, if 2FA method is lost, broken or unavailable. Keep these codes somewhere safe, to prevent loss or unauthorized access. They can be stored in a password manager, in an encrypted note, or write them down somewhere safe.
+> - Don't use Microsoft Authenticator as mentioned there. Instead use a privacy respecting authenticator app. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
+> - The recovery codes downloaded is required to login, if 2FA method is lost, broken or unavailable. Keep these codes somewhere safe, to prevent loss or unauthorized access. They can be stored in a password manager, in an encrypted note, or write them down somewhere safe.
 
 
 

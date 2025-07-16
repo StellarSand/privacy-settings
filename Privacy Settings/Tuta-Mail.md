@@ -9,13 +9,10 @@ Login to your [Tuta Mail](https://tuta.com/) from browser > Click gear icon on b
 #### Second factor authentication
 Click on `+` > Authenticator (TOTP) > Scan the QR code using an authenticator app > Enter Authenticator code > Save > Save the backup codes > Ok
 
-> :information_source: **NOTE 1**
+> <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
 >
-> Use a privacy respecting authenticator app. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
->
-> :information_source: **NOTE 2**
->
-> The backup code is required to login, if 2FA method is lost, broken or unavailable. Keep this code somewhere safe, to prevent loss or unauthorized access. It can be stored in a password manager, in an encrypted note, or write it down somewhere safe.
+> - Use a privacy respecting authenticator app. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
+> - The backup code is required to login, if 2FA method is lost, broken or unavailable. Keep this code somewhere safe, to prevent loss or unauthorized access. It can be stored in a password manager, in an encrypted note, or write it down somewhere safe.
 
 #### Usage data
 - Usage data decision: Deactivated

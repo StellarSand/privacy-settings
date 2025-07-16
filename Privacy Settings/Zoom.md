@@ -15,13 +15,10 @@ Go to your profile.
   - Authentication App: Setup
   - Scan QR code with authentication app > Next > Enter 6 digit code > Verify > Download recovery codes > Done
 
-> :information_source: **NOTE 1**
+> <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
 >
-> Use a privacy respecting authenticator app. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
->
-> :information_source: **NOTE 2**
->
-> The recovery codes downloaded is required to login, if 2FA method is lost, broken or unavailable. Keep these codes somewhere safe, to prevent loss or unauthorised access. They can be stored in a password manager, in an encrypted note, or write them down somewhere safe.
+> - Use a privacy respecting authenticator app. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
+> - The recovery codes downloaded is required to login, if 2FA method is lost, broken or unavailable. Keep these codes somewhere safe, to prevent loss or unauthorized access. They can be stored in a password manager, in an encrypted note, or write them down somewhere safe.
 
 
 

@@ -22,13 +22,10 @@ Go to Settings
 - View and autofill passwords and passkeys: Off
 - Save and fill basic info: Off
 
-> :information_source: **NOTE 1**
+> <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
 >
-> Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
->
-> :information_source: **NOTE 2**
->
-> Never save payment info in browsers. A password manager can be used to also save payment information.
+> - Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
+> - Never save payment info in browsers. A password manager can be used to also save payment information.
 
 
 

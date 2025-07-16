@@ -8,6 +8,6 @@ Go to File > Settings
 
 #### System Settings
 - Data Sharing >
-    - Send usage statistics to google: Off
+    - Send usage statistics: Off
 
-**Click OK**
+Click `OK`

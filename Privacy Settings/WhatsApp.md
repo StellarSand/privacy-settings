@@ -18,13 +18,10 @@ Tap on the 3 dots on top > Settings
 ## Account
 - Two-step verification > Turn on > Create a secure PIN.
 
-> :information_source: **NOTE 1**
+> <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
 >
-> `123456` or `098765` is not a secure PIN.
-> 
-> :information_source: **NOTE 2**
->
-> When asked for Email, make sure you provide an email which has adequate security measures like a strong password and 2FA enabled. Alternatively you can skip this, but then if you forget your PIN, you won't be able to re-register your phone number with WhatsApp.
+> - `123456` or `098765` is not a secure PIN.
+> - When asked for Email, make sure you provide an email which has adequate security measures like a strong password and 2FA enabled. Alternatively you can skip this, but then if you forget your PIN, you won't be able to re-register your phone number with WhatsApp.
 
 
 
@@ -46,9 +43,9 @@ Tap on the 3 dots on top > Settings
 #### Default message timer
 - Shortest duration that suits you
 
-> :information_source: **NOTE**
+> <img src="../icons/ic_tip.svg" width="22" align="top"> **Tip**
 >
-> You can enable disappearing messages for existing chats:
+> To enable disappearing messages for existing chats:
 > <br>Go to a particular chat > Tap on 3 dots on top > Disappearing messages
 
 #### Groups
@@ -70,12 +67,12 @@ Tap on the 3 dots on top > Settings
 
 #### Advanced
 - Block unknown account messages: On
-    > :information_source: **NOTE**
+    > <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
     >
     > This will block messages from unknown accounts only when they exceed a high volume, though WhatsApp doesn't specify the exact threshold.
 
 - Protect IP address in calls: On
-    > :information_source: **NOTE**
+    > <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
     >
     > Call quality will be reduced, but it'll prevent your location from being exposed through your IP address to the other person on the call.
 
@@ -90,13 +87,10 @@ Tap on the 3 dots on top > Settings
 
 #### Chat backup
 - End-to-end encrypted backup > Turn on > Create a secure password.
-    > :information_source: **NOTE 1**
+    > <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
     >
-    > `abcdef` or `qwerty` is not a secure password.
-    >
-    > :information_source: **NOTE 2**
-    >
-    > Use a password manager to generate and store strong & unique passwords. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
+    > - `abcdef` or `qwerty` is not a secure password.
+    > - Use a password manager to generate and store strong & unique passwords. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
 
 
 

@@ -85,7 +85,7 @@ privacy respecting search engine from `Manage search engines and site search`.
   - Offer to save passwords and passkeys: Off
   - Sign in automatically: Off
 
-> :information_source: **NOTE**
+> <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
 >
 > Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
 
@@ -93,7 +93,7 @@ privacy respecting search engine from `Manage search engines and site search`.
 - Save and fill payment methods: Off
 - Allow sites to check if you have payment methods saved: Off
 
-> :information_source: **NOTE**
+> <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
 >
 > Never save payment info in browsers. A password manager can be used to also save payment information.
 

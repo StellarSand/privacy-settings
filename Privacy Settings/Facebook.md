@@ -13,13 +13,10 @@ Go to [Meta Accounts centre](https://accountscenter.facebook.com/) (clicking on 
 - Two-factor authentication >
     - Use two-factor authentication > Edit > Use Authentication App > Scan the QR code using an authenticator app > Continue > Enter 6 digit code > Continue > Done
     - After the above step is complete, setup recovery codes and save them.
-    > :information_source: **NOTE 1**
+    > <img src="../icons/ic_note.svg" width="22" align="top"> **NOTE**
     >
-    > Don't use Google Authenticator or Duo as mentioned there. Instead use a privacy respecting authenticator app. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
-    >
-    > :information_source: **NOTE 2**
-    >
-    > The backup codes downloaded is required to login, if 2FA method is lost, broken or unavailable. Keep these codes somewhere safe, to prevent loss or unauthorized access. They can be stored in a password manager, in an encrypted note, or write them down somewhere safe.
+    > - Don't use Google Authenticator or Duo as mentioned there. Instead use a privacy respecting authenticator app. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
+    > - The backup codes downloaded is required to login, if 2FA method is lost, broken or unavailable. Keep these codes somewhere safe, to prevent loss or unauthorized access. They can be stored in a password manager, in an encrypted note, or write them down somewhere safe.
 - Where you're logged in >
     - Select your account > click on `Select devices to log out` > select any device you don't use and click on `Log out`
 - Login alerts >
