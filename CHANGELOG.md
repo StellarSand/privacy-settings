@@ -4,14 +4,20 @@
 ## Sep 01, 2025
 
 #### Brave Desktop
-- Added `Block Microsoft Recall` in [Privacy and security]()
-- Added `Survey Panelist` in [Privacy and security]() > [Data collection]()
-- Added `Tab Focus Mode` in [Leo]()
+- Added `Block Microsoft Recall` in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#privacy-and-security)
+- Added `Survey Panelist` in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#privacy-and-security) > [Data collection](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#data-collection)
+- Added `Tab Focus Mode` in [Leo](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#leo)
+
+#### DuckDuckGo Browser Desktop
+- Updated all settings
+
+#### Firefox Desktop
+- Added [Disable AI](https://github.com/StellarSand/privacy-settings/blob/main/Privacy Settings/Firefox.md#disable-ai)
 
 #### Firefox Mobile
-- Added `Suggestions from Firefox` & `Suggestions from sponsors` in [Search]()
-- Added `Use screen lock to hide tabs in private browsing` in [Private browsing]()
-- Added `Campaign measurement data` in [Data collection]()
+- Added `Suggestions from Firefox` & `Suggestions from sponsors` in [Search](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md#search)
+- Added `Use screen lock to hide tabs in private browsing` in [Private browsing](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md#private-browsing)
+- Added `Campaign measurement data` in [Data collection](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md#data-collection)
 
 
 ## Jul 15, 2025
