@@ -1,4 +1,4 @@
-# Google Search Privacy Settings
+# <img src="../icons/google.svg" width="42" align="top"> Google Search Privacy Settings
 
 Go to [Google Search settings](https://www.google.com/preferences) (located at the bottom of the `Google Search` page).
 

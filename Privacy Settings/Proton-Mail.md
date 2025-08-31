@@ -1,4 +1,4 @@
-# Proton Mail Privacy Settings
+# <img src="../icons/proton_mail.svg" width="42" align="top"> Proton Mail Privacy Settings
 
 Login to your [Proton Mail](https://mail.proton.me) from browser.
 

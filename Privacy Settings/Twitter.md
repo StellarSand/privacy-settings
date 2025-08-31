@@ -1,4 +1,4 @@
-# X (Twitter) Privacy Settings
+# <img src="../icons/twitter.svg" width="42" align="top"> X (Twitter) Privacy Settings
 
 Go to Settings & Support > Settings and privacy
 

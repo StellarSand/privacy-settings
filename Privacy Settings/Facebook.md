@@ -1,4 +1,4 @@
-# Facebook Privacy Settings
+# <img src="../icons/facebook.svg" width="42" align="top"> Facebook Privacy Settings
 
 Login to [Facebook](https://www.facebook.com) from browser.
 

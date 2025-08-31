@@ -1,4 +1,4 @@
-# Snapchat Privacy Settings
+# <img src="../icons/snapchat.svg" width="42" align="top"> Snapchat Privacy Settings
 
 On Android, tap on your Bitmoji on left of home screen > tap settings gear (in top right corner).
 

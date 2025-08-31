@@ -1,4 +1,4 @@
-# DuckDuckGo Browser Mobile Privacy Settings
+# <img src="../icons/duckduckgo.svg" width="42" align="top"> DuckDuckGo Browser Mobile Privacy Settings
 
 Go to Settings
 

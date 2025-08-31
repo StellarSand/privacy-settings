@@ -1,4 +1,4 @@
-# Android 13 Privacy Settings
+# <img src="../icons/android.svg" width="42" align="top"> Android 13 Privacy Settings
 
 Go to Settings
 

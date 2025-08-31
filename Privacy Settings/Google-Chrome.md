@@ -1,4 +1,4 @@
-# Google Chrome Privacy Settings
+# <img src="../icons/google_chrome.svg" width="42" align="top"> Google Chrome Privacy Settings
 
 **Following settings also apply to Ungoogled Chromium, except where mentioned otherwise.**
 

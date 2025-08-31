@@ -1,4 +1,4 @@
-# DuckDuckGo Search Privacy Settings
+# <img src="../icons/duckduckgo.svg" width="42" align="top"> DuckDuckGo Search Privacy Settings
 
 Go to [DuckDuckGo Search settings](https://duckduckgo.com/settings).
 

@@ -1,4 +1,4 @@
-# ChatGPT Privacy Settings
+# <img src="../icons/chatgpt.svg" width="42" align="top"> ChatGPT Privacy Settings
 
 If you're using ChatGPT without an account, click on the question mark icon on top right > Settings
 - Improve the model for everyone: Off

@@ -1,4 +1,4 @@
-# Brave Privacy Settings
+# <img src="../icons/brave.svg" width="42" align="top"> Brave Browser Desktop Privacy Settings
 
 Go to Settings
 
@@ -41,11 +41,14 @@ Go to Settings
 - Auto-redirect tracking URLs: On
 - Prevent sites from fingerprinting me based on my language preferences: On
 - Send a "Do Not Track" Request with your browser traffic: Off
+- Block Microsoft Recall: On
 
 #### Data collection
 - Allow privacy-preserving product analytics (P3A): Off
 - Automatically send daily usage ping to Brave: Off
 - Automatically send diagnostic reports: Off
+- Survey Panelist >
+  - Allow Brave surveys: Off
 
 
 
@@ -65,6 +68,7 @@ Go to Settings
 ## Leo
 - Show Leo icon in the sidebar: Off
 - Show Leo in context menu on websites: Off
+- Tab Focus Mode: Off
 
 
 

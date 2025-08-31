@@ -1,4 +1,4 @@
-# Cromite Privacy Settings
+# <img src="../icons/cromite.png" width="42" align="top"> Cromite Privacy Settings
 
 Go to Settings.
 

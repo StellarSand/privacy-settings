@@ -1,4 +1,4 @@
-# WhatsApp Privacy Settings
+# <img src="../icons/whatsapp.svg" width="42" align="top"> WhatsApp Privacy Settings
 
 Tap on the 3 dots on top > Linked devices
 

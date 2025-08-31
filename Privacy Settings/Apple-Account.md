@@ -1,4 +1,4 @@
-# Apple Account Privacy Settings
+# <img src="../icons/apple.svg" width="42" align="top"> Apple Account Privacy Settings
 
 Login to [Apple Account](https://account.apple.com/account/manage) using browser.
 

@@ -1,4 +1,4 @@
-# Microsoft Edge Mobile Privacy Settings
+# <img src="../icons/microsoft_edge.svg" width="42" align="top"> Microsoft Edge Mobile Privacy Settings
 
 Go to Settings
 

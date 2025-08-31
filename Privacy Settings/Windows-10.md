@@ -1,4 +1,4 @@
-# Windows 10 Privacy Settings
+# <img src="../icons/windows_10.svg" width="42" align="top"> Windows 10 Privacy Settings
 
 Go to Settings (Shortcut: `Windows key + i`).
 

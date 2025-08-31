@@ -1,4 +1,4 @@
-# MacOS Sequoia Privacy Settings
+# <img src="../icons/macos_sequoia.png" width="42" align="top"> MacOS Sequoia Privacy Settings
 
 Go to System Settings by any of the following methods:
 - Apple Icon on top left > System Settings

@@ -1,4 +1,4 @@
-# Microsoft 365/Office Privacy Settings
+# <img src="../icons/microsoft_365.svg" width="42" align="top"> Microsoft 365/Office Privacy Settings
 
 Open Microsoft Word > Options (at the bottom) > Trust Center > Trust Center Settings
 

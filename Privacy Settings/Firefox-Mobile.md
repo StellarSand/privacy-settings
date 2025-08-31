@@ -1,4 +1,4 @@
-# Firefox Mobile Privacy Settings
+# <img src="../icons/firefox.svg" width="42" align="top"> Firefox Mobile Privacy Settings
 
 **Following settings also apply to Fennec, except the Data collection section.**
 
@@ -9,6 +9,8 @@ Go to Settings.
 ## Search
 - Default search engine: DuckDuckGo or add any other privacy respecting search engine.
 - Show search suggestions: Off
+- Suggestions from Firefox: Off
+- Suggestions from sponsors: Off
 - Show clipboard suggestions: Off
 - Autocomplete URLs: Off
 
@@ -42,6 +44,7 @@ Go to Settings.
 
 ## Private browsing
 - Allow screenshots in private browsing: Off
+- Use screen lock to hide tabs in private browsing: On
 
 
 
@@ -71,7 +74,8 @@ Go to Settings.
 **This section does not apply to Fennec**
 - Send technical & interaction data: Off
 - Daily usage ping: Off (optional)
-- Automatically send crash reports: Off
+- Crash reports: Never send
+- Campaign measurement data: Off
 
 
 

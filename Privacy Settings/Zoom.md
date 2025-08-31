@@ -1,4 +1,4 @@
-# Zoom Privacy Settings
+# <img src="../icons/zoom.svg" width="42" align="top"> Zoom Privacy Settings
 
 Go to your profile.
 

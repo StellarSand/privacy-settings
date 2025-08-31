@@ -1,4 +1,4 @@
-# Gboard Privacy Settings
+# <img src="../icons/gboard.svg" width="42" align="top"> Gboard Privacy Settings
 
 Go to phone Settings > System >
 - up to Android 13: Languages & input > Virtual keyboard (or `On-screen keyboard`) > Gboard

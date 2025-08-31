@@ -1,4 +1,4 @@
-# Windows 11 Privacy Settings
+# <img src="../icons/windows_11.svg" width="42" align="top"> Windows 11 Privacy Settings
 
 Go to Settings (Shortcut: `Windows key + i`).
 

@@ -1,6 +1,19 @@
 # Changelog
 
 
+## Sep 01, 2025
+
+#### Brave Desktop
+- Added `Block Microsoft Recall` in [Privacy and security]()
+- Added `Survey Panelist` in [Privacy and security]() > [Data collection]()
+- Added `Tab Focus Mode` in [Leo]()
+
+#### Firefox Mobile
+- Added `Suggestions from Firefox` & `Suggestions from sponsors` in [Search]()
+- Added `Use screen lock to hide tabs in private browsing` in [Private browsing]()
+- Added `Campaign measurement data` in [Data collection]()
+
+
 ## Jul 15, 2025
 - Added [Android 16](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-16.md)
 - Added [Snapchat](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Snapchat.md) (by [fynks](https://github.com/fynks))

@@ -1,4 +1,4 @@
-# Gmail Privacy Settings
+# <img src="../icons/gmail.svg" width="42" align="top"> Gmail Privacy Settings
 
 Login to your [Gmail](https://mail.google.com) from browser.
 

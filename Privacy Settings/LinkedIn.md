@@ -1,4 +1,4 @@
-# LinkedIn Privacy Settings
+# <img src="../icons/linkedin.svg" width="42" align="top"> LinkedIn Privacy Settings
 
 Go to [Settings & Privacy](https://www.linkedin.com/mypreferences/d/categories/account).
 

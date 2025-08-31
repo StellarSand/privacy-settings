@@ -1,4 +1,4 @@
-# Vivaldi Privacy Settings
+# <img src="../icons/vivaldi.svg" width="42" align="top"> Vivaldi Privacy Settings
 
 Go to Settings.
 

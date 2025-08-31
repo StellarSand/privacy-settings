@@ -1,4 +1,4 @@
-# Google Account Privacy Settings
+# <img src="../icons/google.svg" width="42" align="top"> Google Account Privacy Settings
 
 Login to [Google Account](https://myaccount.google.com) from browser.
 

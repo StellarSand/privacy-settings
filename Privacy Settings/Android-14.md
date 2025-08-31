@@ -1,4 +1,4 @@
-# Android 14 Privacy Settings
+# <img src="../icons/android.svg" width="42" align="top"> Android 14 Privacy Settings
 
 Go to Settings
 

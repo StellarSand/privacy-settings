@@ -1,4 +1,4 @@
-# Google Chrome Mobile Privacy Settings
+# <img src="../icons/google_chrome.svg" width="42" align="top"> Google Chrome Mobile Privacy Settings
 
 Go to Settings.
 

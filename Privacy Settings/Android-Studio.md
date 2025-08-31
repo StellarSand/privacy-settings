@@ -1,4 +1,4 @@
-# Android Studio Privacy Settings
+# <img src="../icons/android_studio.svg" width="42" align="top"> Android Studio Privacy Settings
 
 Go to File > Settings
 

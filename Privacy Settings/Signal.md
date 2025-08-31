@@ -1,4 +1,4 @@
-# Signal Privacy Settings
+# <img src="../icons/signal.svg" width="42" align="top"> Signal Privacy Settings
 
 Go to Settings.
 

@@ -1,4 +1,4 @@
-# YouTube Privacy Settings
+# <img src="../icons/youtube.svg" width="32"> YouTube Privacy Settings
 
 Go to [YouTube Settings](https://www.youtube.com/account)
 

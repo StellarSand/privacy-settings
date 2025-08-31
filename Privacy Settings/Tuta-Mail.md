@@ -1,4 +1,4 @@
-# Tuta Mail Privacy Settings
+# <img src="../icons/tuta_mail.svg" width="42" align="top"> Tuta Mail Privacy Settings
 
 Login to your [Tuta Mail](https://tuta.com/) from browser > Click gear icon on bottom left
 

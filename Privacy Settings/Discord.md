@@ -1,4 +1,4 @@
-# Discord Privacy Settings
+# <img src="../icons/discord.svg" width="42" align="top"> Discord Privacy Settings
 
 Go to User settings
 

@@ -1,4 +1,4 @@
-# Android 11 Privacy Settings
+# <img src="../icons/android.svg" width="42" align="top"> Android 11 Privacy Settings
 
 > [!WARNING]
 > Support for Android 11 has officially ended on Feb 05, 2024.

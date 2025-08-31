@@ -1,4 +1,4 @@
-# Firefox Focus Privacy Settings
+# <img src="../icons/firefox_focus.svg" width="42" align="top"> Firefox Focus Privacy Settings
 
 Go to Settings.
 

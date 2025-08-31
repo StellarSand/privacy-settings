@@ -1,4 +1,4 @@
-# Telegram Privacy Settings
+# <img src="../icons/telegram.svg" width="42" align="top"> Telegram Privacy Settings
 
 > [!WARNING]
 > Telegram chats are not [end-to-end encrypted](https://en.wikipedia.org/wiki/End-to-end_encryption) **by default**.

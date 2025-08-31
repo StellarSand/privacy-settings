@@ -1,4 +1,4 @@
-# Amazon Privacy Settings
+# <img src="../icons/amazon.svg" width="42" align="top"> Amazon Privacy Settings
 
 Login to Amazon from browser.
 

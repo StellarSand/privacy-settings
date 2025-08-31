@@ -1,4 +1,4 @@
-# Brave Mobile Privacy Settings
+# <img src="../icons/brave.svg" width="42" align="top"> Brave Browser Mobile Privacy Settings
 
 Go to Settings
 

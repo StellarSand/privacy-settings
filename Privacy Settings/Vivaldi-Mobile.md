@@ -1,4 +1,4 @@
-# Vivaldi Mobile Privacy Settings
+# <img src="../icons/vivaldi.svg" width="42" align="top"> Vivaldi Mobile Privacy Settings
 
 Go to Settings.
 

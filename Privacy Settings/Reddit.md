@@ -1,4 +1,4 @@
-# Reddit Privacy Settings
+# <img src="../icons/reddit.svg" width="42" align="top"> Reddit Privacy Settings
 
 Go to [Settings](https://www.reddit.com/settings/account).
 

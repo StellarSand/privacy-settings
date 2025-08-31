@@ -1,4 +1,4 @@
-# Firefox Privacy Settings
+# <img src="../icons/firefox.svg" width="42" align="top"> Firefox Privacy Settings
 
 Go to Settings.
 
