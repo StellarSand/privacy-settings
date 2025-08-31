@@ -12,7 +12,7 @@
 - Updated all settings
 
 #### Firefox Desktop
-- Added [Disable AI](https://github.com/StellarSand/privacy-settings/blob/main/Privacy Settings/Firefox.md#disable-ai)
+- Added [Disable AI](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#disable-ai)
 
 #### Firefox Mobile
 - Added `Suggestions from Firefox` & `Suggestions from sponsors` in [Search](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md#search)
