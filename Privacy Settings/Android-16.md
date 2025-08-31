@@ -1,4 +1,4 @@
-# <img src="../icons/android.svg" width="42" align="top"> Android 16 Privacy Settings
+# <img src="../icons/android.svg" width="42" align="bottom"> Android 16 Privacy Settings
 
 Go to Settings
 

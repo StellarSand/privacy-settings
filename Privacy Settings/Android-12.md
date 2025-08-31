@@ -1,4 +1,4 @@
-# <img src="../icons/android.svg" width="42" align="top"> Android 12/12.1 Privacy Settings
+# <img src="../icons/android.svg" width="42" align="bottom"> Android 12/12.1 Privacy Settings
 
 > [!WARNING]
 > Support for Android 12/12.1 has officially ended on Mar 03, 2025.

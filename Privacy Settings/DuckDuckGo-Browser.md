@@ -4,12 +4,12 @@ Go to Settings
 
 
 
-## Privacy
+## Private Search
+- Autocomplete Suggestions: Off
 
-#### Cookie Consent Pop-ups
-- Let DuckDuckGo manage cookie consent pop-ups: On
 
-#### Global Privacy Control (GPC)
+
+## Web Tracking Protection
 - Enable Global Privacy Control: Enable only for jurisdictions mentioned in the note below
   > <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
   >
@@ -18,7 +18,19 @@ Go to Settings
 
 
 
-## Appearance
+## Threat Protection
+
+#### Scam Blocker
+- Warn me on sites flagged for scams, phishing or malware: On
+
+
+
+## Cookie Pop-up Protection
+- Automatically handle cookie pop-ups: On
+
+
+
+## Appearance & Language
 
 #### Address Bar
 - Show full website address: On
@@ -29,6 +41,8 @@ Go to Settings
 
 #### Ask To Save and Autofill
 - Passwords: Off
+- Identities: Off
+- Credit cards: Off
 
 > <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
 >

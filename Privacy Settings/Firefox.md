@@ -1,4 +1,4 @@
-# <img src="../icons/firefox.svg" width="42" align="top"> Firefox Privacy Settings
+# <img src="../icons/firefox.svg" width="42" align="top"> Firefox Desktop Privacy Settings
 
 Go to Settings.
 
@@ -78,7 +78,21 @@ Go to Settings.
   
     Example: For Quad9, enter https://dns.quad9.net/dns-query
 
+
 ---
+
+
+## Disable AI
+In the urlbar on top, type `about:config` and press enter > click on `Accept the Risk and Continue`
+
+In the searchbar, search for each of the following and change their value to `false`:
+- `browser.ml.chat.enabled`
+- `browser.ml.enable`
+- `browser.tabs.groups.smart.enabled`
+
+
+---
+
 
 ## Further Hardening
 - For further hardening of Firefox, check out [arkenfox user.js](https://github.com/arkenfox/user.js).
