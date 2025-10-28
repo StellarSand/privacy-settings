@@ -1,7 +1,7 @@
 # <img src="../icons/instagram.svg" width="42" align="top"> Instagram Privacy Settings
 
 > [!NOTE]
-> I **may** not be able to update these settings in the future, as I haven't been able to create a new temporary account on Instagram. If you're an Instagram user & you notice the settings are outdated, feel free to submit a [pull request](https://github.com/StellarSand/privacy-settings/pulls) with the updated settings.
+> I **may** not be able to update these settings in the future, as I haven't been able to create a new temporary account on Instagram. If you're an Instagram user & you notice the settings are outdated, please submit a [pull request](https://github.com/StellarSand/privacy-settings/pulls) with the updated settings.
 >
 > **Last updated on: Jan 22, 2025**
 

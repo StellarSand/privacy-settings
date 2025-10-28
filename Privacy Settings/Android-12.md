@@ -122,7 +122,7 @@ After setting screen lock, tap on gear icon.
 
 #### Usage & diagnostics
 - Off
-> <img src="../icons/ic_note.svg" width="22" align="top"> **Tip**
+> <img src="../icons/ic_tip.svg" width="22" align="top"> **Tip**
 >
 > Additionally some OEMs include few more settings for personalized ads & diagnostics.
 <br>Search in your phone settings for `User Experience Program`, `Personalized ad recommendations`, `Send diagnostic data` or something similar.

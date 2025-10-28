@@ -31,9 +31,12 @@ Go to Profile > Account
 
 Click `Save profile`
 
-#### Privacy Settings
+#### Account Privacy
 
 This can also be accessed from `Spotify Ad Partner Preferences` in the app, which will then redirect to the website.
 
 - Process my personal data for tailored ads: Off
 - Process my Facebook data: Off
+
+#### Ad preferences
+- Turn off everything

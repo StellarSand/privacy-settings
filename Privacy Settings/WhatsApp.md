@@ -11,7 +11,7 @@ Tap on the 3 dots on top > Linked devices
 ---
 
 
-Tap on the 3 dots on top > Settings
+Tap on your profile picture, next to the 3 dots on top.
 
 
 
@@ -37,6 +37,14 @@ Tap on the 3 dots on top > Settings
 #### About
 - Who can see my About: Do not select `Everyone`
 
+#### Links
+- Who can see links on my profile: Do not select `Everyone`
+
+#### Status
+- Allow sharing: Off
+- Facebook Story: Off
+- Instagram Story: Off
+
 #### Read receipts
 - Off
 
@@ -60,7 +68,7 @@ Tap on the 3 dots on top > Settings
 #### App lock
 - Unlock with biometric: On
 - Automatically lock: Shortest duration that suits you
-- Show content in: Off
+- Show content in notifications: Off
 
 #### Allow camera effects
 - Off

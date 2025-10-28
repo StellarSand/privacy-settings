@@ -27,14 +27,16 @@ Go to [Settings](https://www.reddit.com/settings/account).
 - About description: Remove everything.
 - Avatar: Don't use your own picture or completely remove it.
 - Banner: Don't use your own picture or completely remove it.
-- Show active communities: Off
+
+#### Curate your profile
+- Select `Hide all`
+- Followers: Off
 
 
 
 ## Privacy
 
 #### Social interactions
-- Who can send you inbox messages: select `Everyone` or `People I choose` and manually add users who can send private messages
 - Allow chat requests from: Accounts older than 30 days
 
 #### Discoverability

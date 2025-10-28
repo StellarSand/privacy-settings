@@ -9,8 +9,6 @@ Go to Settings.
 ## Search
 - Default search engine: DuckDuckGo or add any other privacy respecting search engine.
 - Show search suggestions: Off
-- Suggestions from Firefox: Off
-- Suggestions from sponsors: Off
 - Show clipboard suggestions: Off
 - Autocomplete URLs: Off
 
@@ -18,7 +16,7 @@ Go to Settings.
 
 ## Homepage
 - Sponsored shortcuts: Off
-- Thought-provoking stories: Off (Does not apply to Fennec)
+- Stories: Off (Does not apply to Fennec)
 
 
 
@@ -51,6 +49,14 @@ Go to Settings.
 ## HTTPS-Only Mode
 - On
 - Enable in all tabs
+
+
+
+## DNS over HTTPS
+- Max Protection
+  - Choose provider: `NextDNS`/`Cloudflare` or select `Custom` and provide URL for other secure DNS from [this list](https://www.privacyguides.org/en/dns/#recommended-providers).
+  
+    Example: For Quad9, enter https://dns.quad9.net/dns-query
 
 
 

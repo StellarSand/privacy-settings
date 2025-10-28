@@ -324,19 +324,18 @@ Press `Windows key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
 #### Bypass Microsoft account requirement
 After the installation media setup wizard completes & the device begins to restart, disconnect your internet connection (even if you're unable to disconnect for any reason, keep following the process).
 <br>After the device restarts, it'll reach the country or region selection screen.
-- Press `Shift + F10`. On some devices you may require to press `Fn + Shift + F10`.
+- Press `Shift + F10`. On some devices you may have to press `Fn + Shift + F10`.
 - In the command prompt, type the following & press enter:
   ```cmd
-  oobe\bypassnro
+  reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OOBE" /v BypassNRO /t REG_DWORD /d 1 /f
   ```
-  Your device will restart.
 - If for some reason you were unable to disconnect from the internet earlier, press `Shift + F10` or `Fn + Shift + F10` again. In the command prompt, type the following & press enter:
   ```cmd
   ipconfig /release
   ```
-- Select `I don't have internet` & continue with the local account creation.
+- Continue with the local account creation.
 - If you used `ipconfig /release` command previously, once the whole setup process is complete:
-  - Press `Win key + r` > type `cmd` & press enter.
+  - Press `Windows key + r` > type `cmd` & press enter.
   - In the command prompt, type the following & press enter:
     ```cmd
     ipconfig /renew
