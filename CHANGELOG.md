@@ -1,6 +1,27 @@
 # Changelog
 
 
+## Oct 28, 2025
+
+#### Firefox Mobile
+- Added [DNS over HTTPS](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md#dns-over-https)
+
+#### Google Chrome Desktop
+- Added `Warns you for insecure public & private sites` in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md#privacy-and-security) > [Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md#security) > Always use secure connections
+
+#### Microsoft Edge Desktop
+- Added `Automatically switch to more secure connections with Automatic HTTPS` in [Privacy, search, and services](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#privacy-search-and-services) > [Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#security)
+
+#### Reddit
+- Added [Curate your profile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Reddit.md#curate-your-profile) in [Profile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Reddit.md#profile)
+
+#### Spotify
+- Added [Ad preferences](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Spotify.md#ad-preferences) in [Website](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Spotify.md#website) > Profile > Account
+
+#### WhatsApp
+- Added [Links](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#links) & [Status](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#status) in [Privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#privacy)
+
+
 ## Sep 01, 2025
 
 #### Brave Desktop
