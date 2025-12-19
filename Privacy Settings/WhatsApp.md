@@ -108,3 +108,11 @@ Tap on your profile picture, next to the 3 dots on top.
 - When using mobile data: Uncheck everything
 - When connected on Wi-Fi: Uncheck everything
 - When roaming: Uncheck everything
+
+
+---
+
+
+## Advanced chat privacy
+Go to each chat > Tap on the contact name on top > Advanced chat privacy >
+- Advanced chat privacy: On

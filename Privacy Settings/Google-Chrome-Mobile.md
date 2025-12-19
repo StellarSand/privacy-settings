@@ -38,8 +38,8 @@ Go to Settings.
 
     Example: For Quad9, enter https://dns.quad9.net/dns-query
 
-- Manage V8 security >
-  - V8 optimizer: Off
+- JavaScript optimization & security >
+  - On
 - Access payment methods: Off
 
 
@@ -83,4 +83,12 @@ Go to Settings.
 ---
 
 
-On new tab page > Discover by Google > tap on 3 dots icon > Turn off
+On new tab page > tap on the 3 dots icon on top > Customize new tab page > 
+
+#### New tab page cards
+- Chrome tips: Off
+
+#### Discover feed
+**This section is available only if `Google` is selected in the `Search engine` settings**
+
+- Off 

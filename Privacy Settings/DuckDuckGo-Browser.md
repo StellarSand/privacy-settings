@@ -33,7 +33,7 @@ Go to Settings
 ## Appearance & Language
 
 #### Address Bar
-- Show full website address: On
+- Full website address: On
 
 
 

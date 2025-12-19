@@ -5,12 +5,11 @@ Go to Settings
 
 
 ## Appearance
-- Show Brave News button: Off
-- Show Leo AI button: Off
-- Show Brave Rewards button: Off
-- Show Brave Wallet button: Off
+- Customize your toolbar >
+  - Wallet: Off
+  - Leo AI: Off
+  - Rewards: Off
 - Show autocomplete suggestions in address bar >
-  - Top sites: Off
   - Leo AI Assistant: Off
 - Always show full URLs: On
 
@@ -30,7 +29,7 @@ Go to Settings
   - Use secure DNS: On
   - Select DNS provider: `NextDNS`/`Cloudflare`, or select `Add custom DNS service provider` and provide URL for other secure DNS from [this list](https://www.privacyguides.org/en/dns/#recommended-providers)
   <br>Example: For Quad9, enter https://dns.quad9.net/dns-query
-  - Manage V8 security: Don’t allow sites to use the V8 optimizer
+  - Manage JavaScript optimization & security: Don’t allow sites to use the JavaScript optimizer
 
 - Site and Shields Settings > Additional permissions >
   - Ethereum: Block sites from accessing the Ethereum provider API
@@ -40,8 +39,8 @@ Go to Settings
 - Auto-redirect AMP pages: On
 - Auto-redirect tracking URLs: On
 - Prevent sites from fingerprinting me based on my language preferences: On
-- Send a "Do Not Track" Request with your browser traffic: Off
 - Block Microsoft Recall: On
+- Send a "Do Not Track" Request with your browser traffic: Off
 
 #### Data collection
 - Allow privacy-preserving product analytics (P3A): Off
@@ -77,7 +76,7 @@ Go to Settings
 privacy respecting search engine from `Manage search engines and site search`.
 - Private window: `DuckDuckGo`/`Brave`/`Startpage` or add any other 
 privacy respecting search engine from `Manage search engines and site search`.
-- Show search suggestions: Off
+- Improve search suggestions: Off
 - Web Discovery Project: Off
 
 
@@ -127,14 +126,13 @@ To disable Brave Rewards go to `brave://rewards` using the URL bar on top.
 
 
 ## Additional settings
-Open a new tab. Click on `Customize` at the bottom
+Open a new tab. Click on the gear icon on top right
 
 #### Background Image
-- Show Sponsored Images: Off
+- Show new tab page ads: Off
 
 #### Brave News
 - Show Brave News: Off
 
 #### Cards
-- Click Hide for all of them
-- Cards: Off
+- Brave Rewards: Off

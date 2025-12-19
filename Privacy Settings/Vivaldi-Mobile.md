@@ -5,9 +5,13 @@ Go to Settings.
 
 
 ## Search engine
-- Standard Tab: DuckDuckGo or Startpage.com
-- Private Tab: DuckDuckGo or Startpage.com
-- Show Search Suggestion: Off
+- Standard Tab: `DuckDuckGo` or `Startpage`
+- Private Tab: `DuckDuckGo` or `Startpage`
+
+
+
+## Address Bar
+- Enable Search Suggestions: Off
 
 
 
@@ -32,6 +36,11 @@ Go to Settings.
 
 ## Addresses and more
 - Save and fill addresses: Off
+
+
+
+## Start Page
+- Show Top sites: Off
 
 
 
@@ -78,7 +87,7 @@ Go to Settings.
   - Block third-party cookies
   - Block third-party cookies > Allow related sites to see your activity in the group: Off
 - Intrusive ads: Off
-- V8 optimizer: Off
+- JavaScript optimization & security: Off
 
 #### Downloads
 - Ask where to save files: On

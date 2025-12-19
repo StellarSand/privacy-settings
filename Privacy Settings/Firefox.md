@@ -19,8 +19,8 @@ Go to Settings.
 ## Home
 
 #### Firefox Home Content
-- Shortcuts > Sponsored shortcuts: Off
 - Recommended stories: Off
+- Support Firefox : Off
 
 
 
@@ -57,7 +57,7 @@ Go to Settings.
 - Warn you when websites try to install add-ons: On
 
 #### Firefox Data Collection and Use
-- Turn off everything
+- Disable everything
 
 #### Website Advertising Preferences
 - Allow websites to perform privacy-preserving ad measurement: Off

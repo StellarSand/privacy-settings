@@ -40,12 +40,11 @@ Go to Settings
 ## Privacy, search, and services
 
 #### Tracking prevention
-- On
+- Enable tracking prevention: On
 - Strict
 
 #### Privacy
 - Send "Do Not Track" requests: Off
-- Allow sites to check if you have payment methods saved: Off
 - Help improve Microsoft products by sending the results from searches on the web: Off
 - Allow Microsoft to use your browsing activity including history, favorites, usage and other browsing data to personalize Microsoft Edge and Microsoft services like ads, search, shopping and news: Off
 
@@ -86,7 +85,7 @@ Go to Settings
 
   - Search on new tabs uses search box or address bar: Address bar (if `Search box` is selected it will continue searching with Bing as the search engine)
   - Search suggestions and filters >
-    - Show me search and site suggestions using my typed characters: Off
+    - Show search and site suggestions using your typed characters: Off
 
 
 
@@ -109,13 +108,8 @@ Go to Settings
 
 
 
-## Downloads
-- Ask me what to do with each download: On
-- Show downloads menu when a download starts: On
-
-
-
 ## Languages
+- Use Copilot for writing on the web: Off
 - Use text prediction: Off
 - Enable grammar and spellcheck assistance: Off
 
@@ -123,12 +117,22 @@ Go to Settings
 - Share additional operating system region: Never
 
 
+
+## Downloads
+- Ask where to save each file before downloading: On
+- Show downloads menu when a download starts: On
+
+
+
+## AI innovations
+- Copilot Mode: Off
+
+
 ---
 
 
-Open a new tab. Click the gear icon on top right
-
-- Copilot Discover: Off
-- Show promoted links: Off
-- Show content: Off
-- Show feed: Off
+Open a new tab. Click the gear icon on top right >
+  - Copilot Discover: Off
+  - Show promoted links: Off
+  - Show content: Off
+  - Show feed: Off

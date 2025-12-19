@@ -48,10 +48,10 @@ Go to Settings.
   - Allow related sites to see your activity in the group: Off
 - Send a "Do Not Track" request with your browsing traffic: Off
 
-#### Ads privacy
+#### Ad privacy
 - Ad topics: Off
 - Site-suggested ads: Off
-- Ads measurement: Off
+- Ad measurement: Off
 
 #### Security
 - Standard Protection

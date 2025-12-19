@@ -108,5 +108,5 @@ Once the above step is completed,
 
 
 - Go to [Google Dashboard](https://myaccount.google.com/dashboard) and check all services you use.
-- Go to [Google Takeout](https://takeout.google.com/?continue=https://myaccount.google.com/dashboard) and download your data that Google has collected about you. Uncheck `Drive` & `Gmail` or else it will result in a huge file size.
 - Go to [Google Activity](https://myactivity.google.com/more-activity?continue=https%3A%2F%2Fmyactivity.google.com%2Fmyactivity) and delete/manage every activity you can.
+- Gmail settings are available [here](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Gmail.md).

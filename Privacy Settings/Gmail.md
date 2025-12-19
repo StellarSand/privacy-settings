@@ -15,4 +15,14 @@ Click gear icon on top right > See all settings
 - Smart Compose: Writing suggestions off
 - Smart Compose personalization: Personalization off
 - Smart Reply: Smart Reply off
-- Smart features and personalization in other Google products: Off
+- Google Workspace smart features: Manage Workspace smart features settings >
+    - Smart features in Google Workspace: Off
+    - Smart features in other Google products: Off
+    <br><br>Click on `Save`
+    > [!NOTE]
+    > When these are enabled, your emails & attachments are used for AI training.
+
+
+---
+
+Google account settings are available [here](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md).

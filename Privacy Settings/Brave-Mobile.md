@@ -15,7 +15,9 @@ Go to Settings
 - Content Filtering >
   - Fanboy's Annoyances + uBO Annoyances: On
   - Select other filter lists based on your language & preferences
-- Safe Browsing: Standard protection
+- Safe Browsing >
+  - Standard protection
+  - Standard Protection > Help improve security on the web for everyone: Off
 - Allow screenshots in private tabs: Off
 - Lock Private tabs when you leave Brave: On
 - Allow sites to check if you have payment methods saved: Off
@@ -30,13 +32,13 @@ Go to Settings
     
     Example: For Quad9, enter https://dns.quad9.net/dns-query
 
-- Manage V8 security >
-  - V8 optimizer: Off
-- Block cookie consent notices: On
+- JavaScript optimization & security >
+  - On
 - Send a "Do Not Track" request: Off
 - Allow privacy-preserving product analytics (P3A): Off
 - Automatically send diagnostic reports: Off
 - Automatically send daily usage ping to Brave: Off
+- Allow Brave surveys: Off
 
 
 
@@ -53,7 +55,7 @@ Go to Settings
 
 
 
-## Leo
+## Leo AI
 - Show autocomplete suggestions in address bar: Off
 - Store my conversation history: Off
 
@@ -63,18 +65,7 @@ Go to Settings
 - Standard Tab: `DuckDuckGo` or any other privacy respecting search engine like `Brave`, `Startpage` etc.
 - Private Tab: `DuckDuckGo` or any other privacy respecting search engine like `Brave`, `Startpage` etc.
 - Show search suggestions: Off
-- Show top suggestions: Off
 - Web Discovery Project: Off
-
-
-
-## Brave Password Manager
-- Save passwords: Off
-- Auto Sign-in: Off
-
-> <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
->
-> Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
 
 
 
@@ -106,6 +97,16 @@ Go to Settings
 ## New Tab Page
 - Show Sponsored Images: Off
 - Show Top Sites: Off
+
+
+
+## Brave Password Manager
+- Save passwords: Off
+- Auto Sign-in: Off
+
+> <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
+>
+> Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
 
 
 
