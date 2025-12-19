@@ -1,6 +1,32 @@
 # Changelog
 
 
+## Dec 20, 2025
+
+#### Brave Browser Desktop
+- Added `Show new tab page ads` in new tab page > [Background Image](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#background-image)
+
+#### Brave Browser Mobile
+- Added `Help improve security on the web for everyone` in [Brave shields & privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy) > Safe Browsing > Standard Protection
+- Added `Allow Brave surveys` in [Brave shields & privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
+
+#### Gmail
+- Added `Google Workspace smart features` in [General](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Gmail.md#general)
+
+#### Microsoft Edge Desktop
+- Added `Use Copilot for writing on the web` in [Languages](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#languages)
+- Added [AI innovations](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#ai-innovations)
+
+#### Microsoft Edge Mobile
+- Updated all settings
+
+#### Vivaldi Mobile
+- Added [Address Bar](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#address-bar) & [Start Page](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#start-page)
+
+#### WhatsApp
+- Added [Advanced chat privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#advanced-chat-privacy)
+
+
 ## Oct 28, 2025
 
 #### Firefox Mobile
@@ -24,7 +50,7 @@
 
 ## Sep 01, 2025
 
-#### Brave Desktop
+#### Brave Browser Desktop
 - Added `Block Microsoft Recall` in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#privacy-and-security)
 - Added `Survey Panelist` in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#privacy-and-security) > [Data collection](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#data-collection)
 - Added `Tab Focus Mode` in [Leo](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#leo)
@@ -51,9 +77,9 @@
 
 ## May 24, 2025
 
-#### Brave Mobile
+#### Brave Browser Mobile
 - Added `Allow screenshots in private tabs` and `Manage V8 security` in [Brave shields & privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
-- Added `Store my conversation history` in [Leo](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#leo)
+- Added `Store my conversation history` in [Leo AI](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#leo-ai)
 - Added `Web Discovery Project` in [Search engines](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#search-engines)
 - Added `Allow related sites to see your activity in the group` in [Site settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#site-settings) > Third-party cookies > Block third-party cookies
 
@@ -171,7 +197,7 @@ By [d1ndz1nd](https://github.com/d1ndz1nd)
 ## Oct 08, 2024
 - Added [MacOS Sequoia](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/MacOS-Sequoia.md) (by [Henry](https://github.com/henry-fisher))
 
-#### Brave Mobile
+#### Brave Browser Mobile
 - Added `Content Filtering` in [Brave shields & privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
 - Added `Show search suggestions` & `Show top sites suggestions` in [Search engines](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#search-engines)
 
@@ -212,7 +238,7 @@ By [d1ndz1nd](https://github.com/d1ndz1nd)
 
 ## Aug 25, 2024
 
-#### Brave Mobile
+#### Brave Browser Mobile
 - Added [Autofill in private tabs](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#autofill-in-private-tabs)
 
 #### Twitter (X)
@@ -237,7 +263,7 @@ By [d1ndz1nd](https://github.com/d1ndz1nd)
 
 ## Jul 12, 2024
 
-#### Brave Mobile
+#### Brave Browser Mobile
 - Added `Default Ethereum wallet` & `Default Solana wallet` in [Brave Wallet](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-wallet)
 - Added `Show Top Sites` in [New Tab Page](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#new-tab-page)
 
@@ -264,8 +290,8 @@ By [d1ndz1nd](https://github.com/d1ndz1nd)
 
 ## Jun 02, 2024
 
-#### Brave Mobile
-- Added [Leo](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#leo)
+#### Brave Browser Mobile
+- Added [Leo AI](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#leo-ai)
 
 #### ChatGPT
 - Added [Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/ChatGPT.md#security)
@@ -289,10 +315,10 @@ By [d1ndz1nd](https://github.com/d1ndz1nd)
 
 ## Apr 09, 2024
 
-#### Brave Desktop
+#### Brave Browser Desktop
 - Added `Show Leo in context menu on websites` in [Leo](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#leo)
 
-#### Brave Mobile
+#### Brave Browser Mobile
 - Added `Lock Private tabs when you leave Brave` in [Brave shields & privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
 
 #### Microsoft Edge Desktop
@@ -315,7 +341,7 @@ By [d1ndz1nd](https://github.com/d1ndz1nd)
 
 ## Feb 23, 2024
 
-#### Brave Desktop
+#### Brave Browser Desktop
 - Added `Manage V8 security` in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#privacy-and-security) > [Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#security)
 
 #### ChatGPT
@@ -357,7 +383,7 @@ By [d1ndz1nd](https://github.com/d1ndz1nd)
 ## Dec 18, 2023
 - Disabled "Do not track" on all browsers
 
-#### Brave Mobile
+#### Brave Browser Mobile
 - Added `ENS offchain lookup` in [Brave shields & privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy) > `Ethereum Name Service`
 
 #### Cromite
@@ -383,12 +409,12 @@ By [d1ndz1nd](https://github.com/d1ndz1nd)
 
 ## Nov 13, 2023
 
-#### Brave Desktop
+#### Brave Browser Desktop
 - Added `Leo AI Assistant` in [Appearance](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#appearance) > `Show autocomplete suggestions in address bar`
 - Added [Leo](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#leo)
 - Added [Allow auto-fill in private windows](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#allow-auto-fill-in-private-windows) in [Autofill and passwords](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#autofill-and-passwords)
 
-#### Brave Mobile
+#### Brave Browser Mobile
 - Added `Block cookie consent notices` in [Brave shields & privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
 
 ##### Google Chrome Desktop
@@ -440,10 +466,10 @@ By [d1ndz1nd](https://github.com/d1ndz1nd)
 
 ## Sep 15, 2023
 
-#### Brave Desktop
+#### Brave Browser Desktop
 - Added `New tab page ads` and `Notification ads` in [Brave Rewards](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#brave-rewards)
 
-#### Brave Mobile
+#### Brave Browser Mobile
 - Added `Always use secure connections` in [Brave shields & privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
 
 #### Cromite
@@ -478,12 +504,12 @@ By [d1ndz1nd](https://github.com/d1ndz1nd)
 <br>Since [Bromite](https://github.com/bromite/bromite) has been abandoned, it has been replaced with [Cromite](https://github.com/uazo/cromite).
 <br>To download, you can either add their [F-droid repo](https://www.cromite.org/fdroid/repo/) in the F-droid app or download directly from [GitHub](https://github.com/uazo/cromite/releases/latest).
 
-#### Brave Desktop
+#### Brave Browser Desktop
 - Added [Brave Rewards](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#brave-rewards)
 - Added [Site and Shields Settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#site-and-shields-settings) in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#privacy-and-security)
 - Added [Web3](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#web3)
 
-#### Brave Mobile
+#### Brave Browser Mobile
 - Added `Unstoppable Domains`, `Ethereum Name Service` and `Solana Name Service` in [Brave shields & privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
 - Added [Brave wallet](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-wallet) and [Appearance](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#appearance)
 
@@ -499,7 +525,7 @@ Added
 - [Logitech Options](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Logitech-Options.md)
 - [Visual Studio Code](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Visual-Studio-Code.md)
 
-#### Brave Desktop
+#### Brave Browser Desktop
 - Added `Improve search suggestions` in [Search engine](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#search-engine)
 
 #### Google Chrome Desktop
@@ -518,7 +544,7 @@ Added
 
 ## July 25, 2023
 
-#### Brave Mobile
+#### Brave Browser Mobile
 - Some changes to `Upgrade connections to HTTPS` in [Brave shields & privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
 - Added `Safe Browsing` and `Improve search suggestions` in [Brave shields & privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
 - Added `Show download progress notifications` in [Downloads](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#downloads)
@@ -551,14 +577,14 @@ Added
 
 ## March 29, 2023
 
-#### Brave Mobile
+#### Brave Browser Mobile
 - Added `Auto-redirect tracking URLs` in [Brave shields & privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
 
 
 
 ## Feb 11, 2023
 
-#### Brave Desktop
+#### Brave Browser Desktop
 - Added `Auto-redirect tracking URLs` in [Shields](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#shields)
 
 #### Firefox Mobile
@@ -600,7 +626,7 @@ Added
 
 ## Nov 29, 2022
 
-#### Brave Mobile
+#### Brave Browser Mobile
 - Added `Prevent fingerprinting via language settings` in [Brave shields & privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
 
 #### Firefox Mobile
@@ -643,7 +669,7 @@ Added
 
 ## Aug 06, 2022
 
-#### Brave Desktop
+#### Brave Browser Desktop
 - Minor changes in [Appearance](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#appearance)
 
 #### Microsoft Edge Desktop
@@ -672,7 +698,7 @@ Added
 
 ## Jun 04, 2022:
 
-#### Brave Desktop
+#### Brave Browser Desktop
 - Added `Prevent sites from fingerprinting me based on my language preferences` in [Shields](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#shields)
 
 #### Google Chrome Desktop
@@ -694,12 +720,12 @@ Added
 
 
 ## Apr 30, 2022
-- Updated URL of [DNS providers list](https://www.privacyguides.org/dns) and added encrypted DNS examples for non-technical users in [Android 11](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-11.md#advanced), [Android 12](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-12.md#private-dns), [Brave Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#security), [Brave Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy), [Firefox Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#network-settings), [Google Chrome Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md#security), [Google Chrome Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md#privacy-and-security), [Microsoft Edge Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#security), [Vivaldi Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#privacy-and-security), [Windows 10](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#encrypted-dns) and [Windows 11](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#encrypted-dns)
+- Updated URL of [DNS providers list](https://www.privacyguides.org/dns) and added encrypted DNS examples for non-technical users in [Android 11](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-11.md#advanced), [Android 12](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-12.md#private-dns), [Brave Browser Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#security), [Brave Browser Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy), [Firefox Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#network-settings), [Google Chrome Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md#security), [Google Chrome Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md#privacy-and-security), [Microsoft Edge Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#security), [Vivaldi Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#privacy-and-security), [Windows 10](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#encrypted-dns) and [Windows 11](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#encrypted-dns)
 
-#### Brave Desktop
+#### Brave Browser Desktop
 - Added `Auto-redirect AMP pages` in [Shields](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#shields)
 
-#### Brave mobile
+#### Brave Browser Mobile
 - Added `Auto-redirect AMP pages` in [Brave shields & privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
 
 #### Vivaldi Mobile
@@ -709,11 +735,11 @@ Added
 
 ## Mar 13, 2022
 
-#### Brave Desktop
+#### Brave Browser Desktop
 - Added `Show autocomplete in address bar` in [Appearance](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#appearance)
 - Added Automatically send diagnostic reports in [Security and Privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#security-and-privacy)
 
-#### Brave Mobile
+#### Brave Browser Mobile
 - Added [Brave News](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-news)
 
 #### Firefox Mobile

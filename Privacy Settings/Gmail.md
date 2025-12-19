@@ -19,8 +19,9 @@ Click gear icon on top right > See all settings
     - Smart features in Google Workspace: Off
     - Smart features in other Google products: Off
     <br><br>Click on `Save`
-    > [!NOTE]
-    > When these are enabled, your emails & attachments are used for AI training.
+    > <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
+    >
+    > When these are disabled, your emails & attachments are not used for AI training.
 
 
 ---
