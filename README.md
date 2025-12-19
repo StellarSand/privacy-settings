@@ -73,7 +73,7 @@
 
 
 ## Extension Settings
-<img src="icons/ublock.svg" width="20" align="center"> [uBlock Origin](https://github.com/StellarSand/privacy-settings/blob/main/Extensions%20Settings/uBlock-Origin.md)
+<img src="icons/ublock.svg" width="20" align="top"> [uBlock Origin](https://github.com/StellarSand/privacy-settings/blob/main/Extensions%20Settings/uBlock-Origin.md)
 
 <details>
   <summary><b>Download uBlock Origin</b></summary> 
@@ -128,7 +128,7 @@ For better privacy respecting alternatives, reviews and more information, check 
 
 #### Recommendations, alternatives & reviews
 - [Privacy Guides](https://www.privacyguides.org/en/tools/)
-- [Techlore Resources](https://www.techlore.tech/resources#all-resources)
+- [Techlore Resources](https://privacytools.techlore.tech/#all-resources)
 - [PRISM Break](https://prism-break.org/)
 - [Awesome Privacy](https://github.com/pluja/awesome-privacy)
 - [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
@@ -163,7 +163,6 @@ For better privacy respecting alternatives, reviews and more information, check 
 
 ## Contributing
 If you want to help out with the project, here are some ideas:
-
 - iOS/macOS privacy settings.
 - Suggest new services/software or help improve the existing ones.
 - Translate it to your own language.
