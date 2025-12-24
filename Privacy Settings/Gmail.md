@@ -21,7 +21,7 @@ Click gear icon on top right > See all settings
     <br><br>Click on `Save`
     > <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
     >
-    > When these are disabled, your emails & attachments are not used for AI training.
+    > When `Google Workspace smart features` are disabled, your emails & attachments are **not** used for AI training.
 
 
 ---

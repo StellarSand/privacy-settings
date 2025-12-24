@@ -11,7 +11,7 @@ Tap on the 3 dots on top > Linked devices
 ---
 
 
-Tap on your profile picture, next to the 3 dots on top.
+Tap on the 3 dots on top > Settings
 
 
 

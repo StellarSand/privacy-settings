@@ -142,11 +142,10 @@ Delete your account picture and set it to default as mentioned below:
 #### Windows Security
 - Virus & threat protection > Virus & threat protection settings > Manage settings > All protections on (Except `Automatic sample submission`)
 - Firewall & network protection > Firewall should be on for domain, public and private networks.
-- Device security > Core isolation details >
-  - Enable everything
-    > <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
-    >
-    > Sometimes some of these can't be enabled due to an incompatible driver or software.
+- Device security > Core isolation details > Enable everything
+  > <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
+  >
+  > Sometimes some of these can't be enabled due to an incompatible driver or software.
 
 
 

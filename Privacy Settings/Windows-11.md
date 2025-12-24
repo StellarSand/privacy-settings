@@ -153,11 +153,10 @@ Delete your account picture and set it to default as mentioned below:
   - All protections on (Except `Automatic sample submission`)
   - Manage controlled folder access > Controlled folder access: On
 - Firewall & network protection > Firewall should be on for domain, public and private networks.
-- Device security > Core isolation details >
-  - Enable everything
-    > <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
-    >
-    > Sometimes some of these can't be enabled due to an incompatible driver or software.
+- Device security > Core isolation details > Enable everything
+  > <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
+  >
+  > Sometimes some of these can't be enabled due to an incompatible driver or software.
 
 #### Find my device
 - Find my device: Off
