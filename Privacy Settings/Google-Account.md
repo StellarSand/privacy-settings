@@ -6,62 +6,31 @@ Login to [Google Account](https://myaccount.google.com) from browser.
 
 ## Personal info
 
-### Addresses
+#### Profile picture
+- Remove your current profile picture
+- Click on 3 dots on top right > Past profile pictures > Profile Photos > select each photo > click on 3 dots on top right > Delete photo > Delete
+
+#### Gender
+- Choose who can see your gender: Only you
+
+#### Birthday
+- Provide false info if you can
+- Choose who can see your birthday: Only you
+
+#### Home address
 Remove everything
 
-### Choose what others see
-
-#### Basic info
-- Profile Picture > Remove > Remove
-- Profile Picture > click on 3 dots on top right > Past profile pictures > Profile Photos > select each photo > click on 3 dots on top right > Delete photo > Delete
-- Gender: Only you
-- Birthday: Only you (Provide false info if you can)
-
-#### About
+#### Work address
 Remove everything
 
-#### Work & education
+#### Other address
 Remove everything
 
 
 
-## Data & privacy
+## Security & sign-in
 
-### History settings
-
-#### Web & App Activity
-- Turn off > Pause
-- Manage all Web & App Activity > Delete any past activity
-
-#### Location History
-- Turn off > Pause
-- Auto Delete > Auto-delete activity older than > 3 months
-
-#### YouTube History
-- Turn off > Pause (Turning it off will not save your future watch and search history. If you want it don't change the setting.)
-- Manage history > Delete any past activity
-
-
-### Personalized ads
-
-#### My Ad Center
-- Personalized ads > Turn off
-
-
-### Personal results in Search
-- Show personal results: Off
-
-
-### Data from apps and services you use
-
-#### Third-party apps with account access
-Remove anything you don't use
-
-
-
-## Security
-
-#### Signing in to Google
+#### How you sign in to Google
 To setup 2FA, first a phone needs to be added.
 - 2-Step Verification > Get Started > Continue > Use Another Backup Option > Download the backup codes > Next > Turn On
 
@@ -81,6 +50,44 @@ Once the above step is completed,
 
 
 
+## Third-party connections
+Remove anything you don't use
+
+
+
+## Data & privacy
+
+### History settings
+
+#### Web & App Activity
+- Turn off > Pause
+- Manage all Web & App Activity > Delete any past activity
+
+#### Timeline
+- Turn off > Pause
+- Auto Delete > Auto-delete activity older than > 3 months
+
+#### YouTube History
+- Turn off > Pause (Turning it off will not save your future watch and search history. If you want it don't change the setting.)
+- Manage history > Delete any past activity
+
+
+### Personalized ads
+
+#### My Ad Center
+- Personalized ads > Turn off
+
+#### Search personalization
+- Personal search: Off
+
+
+### Info you can share with others
+
+#### Profile
+- About: Remove everything
+- Work & education: Remove everything
+
+
 ## People & sharing
 
 #### Location sharing
@@ -92,6 +99,12 @@ Once the above step is completed,
 #### Share recommendations in ads
 - Shared endorsements in ads > Uncheck `Based upon my activity, Google may show my profile name, profile photo, and activity in shared endorsements in ads`
 
+
+
+## Payments & subscriptions
+
+#### Payments info
+- Personalization within Google Pay: Off
 
 ---
 
