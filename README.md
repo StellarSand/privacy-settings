@@ -105,15 +105,15 @@ Settings don't always require updates with every new version. They will only be 
 
 
 ## Privacy Best Practices
-- Create [strong passwords](https://en.wikipedia.org/wiki/Password_strength) (preferably 10+ characters with a mix of letters, numbers, and special characters).
+- [Create strong passwords](https://ssd.eff.org/module/creating-strong-passwords) (preferably 10+ characters with a mix of letters, numbers, and special characters).
 - Avoid reusing passwords.
-- Utilize a [password manager](https://en.wikipedia.org/wiki/Password_manager) to generate and securely store unique passwords.
-- Enable [multi-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) for added security.
+- Utilize a [password manager](https://ssd.eff.org/module/choosing-the-password-manager-that-s-right-for-you) to generate and securely store unique passwords.
+- Enable [multi-factor authentication](https://ssd.eff.org/module/how-enable-two-factor-authentication) for added security.
 - Opt for privacy respecting alternatives for search engines, browsers, emails etc.
-- Utilize [End-to-End Encrypted (E2EE)](https://en.wikipedia.org/wiki/End-to-end_encryption) messaging services.
+- Utilize [End-to-End Encrypted (E2EE)](https://ssd.eff.org/module/what-should-i-know-about-encryption) messaging services.
 - Follow the privacy settings recommended here.
 - Keep your apps and operating system updated.
-- Encrypt your devices for enhanced security.
+- [Encrypt your devices](https://ssd.eff.org/module/how-encrypt-your-windows-device) for enhanced security.
 - Perform regular backups of your data.
 - Use open-source software and apps whenever possible (open-source doesn't always necessarily mean secure).
 - Regularly review and revoke unnecessary permissions for software and apps.
@@ -130,11 +130,12 @@ For better privacy respecting alternatives, reviews and more information, check 
 - [Privacy Guides](https://www.privacyguides.org/en/tools/)
 - [Techlore Resources](https://privacytools.techlore.tech/#all-resources)
 - [PRISM Break](https://prism-break.org/)
-- [Awesome Privacy](https://github.com/pluja/awesome-privacy)
-- [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)
+- [Lissy93/awesome-privacy](https://awesome-privacy.xyz/)
 
 #### Privacy news, blogs, guides & more
-- [EFF](https://www.eff.org/)
+- EFF: [Website](https://www.eff.org/), [Surveillance
+Self-Defense](https://ssd.eff.org/), [GitHub](https://github.com/EFForg)
 - Mozilla: [Privacy & Security](https://blog.mozilla.org/en/category/privacy-security/), [Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded/)
 - [Spread Privacy](https://spreadprivacy.com/)
 - [Proton - Privacy guides](https://proton.me/blog/privacy-guides)
