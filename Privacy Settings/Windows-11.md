@@ -316,6 +316,7 @@ Open Notepad > click gear icon on top >
 
 ## Disable AI based image categorization
 **This feature is available only on some devices**
+
 Open Photos > click gear icon on top >
   - Allow image categorization: Off
 
