@@ -1,6 +1,18 @@
 # Changelog
 
 
+## Jan 13, 2026
+
+#### Firefox Desktop
+- Added `browser.ml.linkPreview.optin` preference in [Disable AI](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#disable-ai)
+
+#### Windows 11
+- Added [Actions](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#actions) in [Apps](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#apps)
+- Added `Text and image generation` in [Privacy & security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#privacy--security) > [App permissions](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#app-permissions)
+- Added [Disable Copilot in Notepad](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#disable-copilot-in-notepad)
+- Added [Disable AI based image categorization](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#disable-ai-based-image-categorization)
+
+
 ## Dec 20, 2025
 
 #### Brave Browser Desktop
