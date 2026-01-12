@@ -39,7 +39,7 @@ Go to Settings.
     Example: For Quad9, enter https://dns.quad9.net/dns-query
 
 - JavaScript optimization & security >
-  - On
+  - Off
 - Access payment methods: Off
 
 

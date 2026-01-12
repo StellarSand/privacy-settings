@@ -85,10 +85,17 @@ Go to Settings.
 ## Disable AI
 In the urlbar on top, type `about:config` and press enter > click on `Accept the Risk and Continue`
 
-In the searchbar, search for each of the following and change their value to `false`:
-- `browser.ml.chat.enabled`
-- `browser.ml.enable`
-- `browser.tabs.groups.smart.enabled`
+In the searchbar, search for each of the following keys and change their values:
+| Key | Value |
+| --- | --- |
+| browser.ml.chat.enabled | false |
+| browser.ml.enable | false |
+| browser.tabs.groups.smart.enabled | false |
+| browser.ml.linkPreview.optin | false |
+
+> <img src="../icons/ic_tip.svg" width="22" align="top"> **Tip**
+>
+> Click on the &#x21CC; icon to change the values.
 
 
 ---

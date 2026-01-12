@@ -33,7 +33,7 @@ Go to Settings
     Example: For Quad9, enter https://dns.quad9.net/dns-query
 
 - JavaScript optimization & security >
-  - On
+  - Off
 - Send a "Do Not Track" request: Off
 - Allow privacy-preserving product analytics (P3A): Off
 - Automatically send diagnostic reports: Off

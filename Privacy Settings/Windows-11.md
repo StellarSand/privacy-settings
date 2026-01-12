@@ -106,7 +106,7 @@ Go to Settings (Shortcut: `Windows key + i`).
 - Show recommendations for tips, shortcuts, new apps and more: Off
 
 #### Device usage
-- Turn everything off
+- Turn off everything
 
 
 
@@ -115,6 +115,9 @@ Go to Settings (Shortcut: `Windows key + i`).
 #### Installed apps
 Uninstall anything you don't use like XBox, candy crush, some other preinstalled apps/games etc.
 Be sure not to uninstall anything important. If you have doubts about any app, search the net.
+
+#### Actions
+- Turn off everything
 
 
 
@@ -195,7 +198,10 @@ Delete your account picture and set it to default as mentioned below:
 
 #### App permissions
 - Review each permission and disable accordingly (choose which apps can have access to location, camera, microphone, notifications etc. If any app doesn't need something, turn it off.)
-- App diagnostics > App diagnostic access: Off
+- App diagnostics >
+  - App diagnostic access: Off
+- Text and image generation >
+  - Text and image generation: Off
 
 
 
@@ -301,6 +307,17 @@ Press `Windows key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
   ```
 
 - Open Task Manager > Processes > select `Windows Explorer` > Right click > Restart
+
+#### Disable Copilot in Notepad
+Open Notepad > click gear icon on top >
+  - Copilot: Off
+
+
+
+## Disable AI based image categorization
+**This feature is available only on some devices**
+Open Photos > click gear icon on top >
+  - Allow image categorization: Off
 
 
 ---
