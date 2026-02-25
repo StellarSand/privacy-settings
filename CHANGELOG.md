@@ -1,10 +1,14 @@
 # Changelog
 
 
-## Jan 13, 2026
+## Feb 25, 2026
 
 #### Firefox Desktop
-- Added `browser.ml.linkPreview.optin` preference in [Disable AI](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#disable-ai)
+- Added [Address Bar](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#address-bar) in [Search](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#search) 
+- Added [AI Controls](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#ai-controls)
+
+
+## Jan 13, 2026
 
 #### Windows 11
 - Added [Actions](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#actions) in [Apps](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#apps)
@@ -69,9 +73,6 @@
 
 #### DuckDuckGo Browser Desktop
 - Updated all settings
-
-#### Firefox Desktop
-- Added [Disable AI](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#disable-ai)
 
 #### Firefox Mobile
 - Added `Suggestions from Firefox` & `Suggestions from sponsors` in [Search](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md#search)
