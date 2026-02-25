@@ -289,7 +289,9 @@ Press `Windows key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
 
 
 
-## Disable Copilot
+## Disable AI
+
+#### Disable Copilot
 <!-- 
 Press `Win key + r` > type `regedit` > press enter > Yes
 
@@ -312,9 +314,7 @@ Press `Windows key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
 Open Notepad > click gear icon on top >
   - Copilot: Off
 
-
-
-## Disable AI based image categorization
+#### Disable AI based image categorization
 **This feature is available only on some devices**
 
 Open Photos > click gear icon on top >

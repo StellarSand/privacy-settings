@@ -32,6 +32,9 @@ Go to Settings.
 #### Search Suggestions
 - Show search suggestions: Off
 
+#### Address Bar
+- Suggestions from Firefox: Off
+
 
 
 ## Privacy & Security
@@ -79,23 +82,9 @@ Go to Settings.
     Example: For Quad9, enter https://dns.quad9.net/dns-query
 
 
----
 
-
-## Disable AI
-In the urlbar on top, type `about:config` and press enter > click on `Accept the Risk and Continue`
-
-In the searchbar, search for each of the following keys and change their values:
-| Key | Value |
-| --- | --- |
-| browser.ml.chat.enabled | false |
-| browser.ml.enable | false |
-| browser.tabs.groups.smart.enabled | false |
-| browser.ml.linkPreview.optin | false |
-
-> <img src="../icons/ic_tip.svg" width="22" align="top"> **Tip**
->
-> Click on the &#x21CC; icon to change the values.
+## AI Controls
+- Block AI enhancements: On
 
 
 ---
