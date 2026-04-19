@@ -16,7 +16,11 @@ Go to [DuckDuckGo Search settings](https://duckduckgo.com/settings).
 ## Privacy
 - GET Requests: Off
 
----
+
+
+## AI Features
+- Search Assist: Select according to your preferences
+- Hide AI-Generated Images: On
 
 
 **Click Save and Exit**

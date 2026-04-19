@@ -2,12 +2,6 @@
 
 Go to [Brave Search settings](https://search.brave.com/settings)
 
-
-
-## Anonymous local results
-- On
-
-
-
-## Anonymous usage metrics
-- Off
+- Answer with AI: Select according to your preferences
+- Anonymous local results: On
+- Anonymous usage metrics: Off
