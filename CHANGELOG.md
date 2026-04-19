@@ -1,6 +1,16 @@
 # Changelog
 
 
+## Apr 19, 2026
+- Added [GitHub](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/GitHub.md)
+
+#### Brave Search
+- Added [Answer with AI](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Search.md)
+
+#### DuckDuckGo Search
+- Added [AI Features](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/DuckDuckGo-Search.md#ai-features)
+
+
 ## Feb 25, 2026
 
 #### Firefox Desktop
