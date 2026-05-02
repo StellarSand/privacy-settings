@@ -129,7 +129,7 @@ For better privacy respecting alternatives, reviews and more information, check 
 
 #### Recommendations, alternatives & reviews
 - [Privacy Guides](https://www.privacyguides.org/en/tools/)
-- [Techlore Resources](https://privacytools.techlore.tech/#all-resources)
+- [Techlore Resources](https://essentials.techlore.tech/#all-resources)
 - [PRISM Break](https://prism-break.org/)
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)
 - [Lissy93/awesome-privacy](https://awesome-privacy.xyz/)
@@ -154,7 +154,7 @@ Self-Defense](https://ssd.eff.org/), [GitHub](https://github.com/EFForg)
 - [XDA - Privacy](https://www.xda-developers.com/tag/privacy/)
 - [TechRadar - Cyber Security](https://www.techradar.com/computing/computing-security/cyber-security)
 - [IVPN Privacy Guides](https://www.ivpn.net/privacy-guides/)
-- [Bitwarden - Security Tips](https://bitwarden.com/blog/#tag:security-tips)
+- [Bitwarden - Security Tips](https://bitwarden.com/blog/tag/security-tips/)
 - [r/privacy](https://www.reddit.com/r/privacy/)
 - [Fossbytes - Security](https://fossbytes.com/category/security/)
 - [Access Now Blog](https://www.accessnow.org/blog/)
