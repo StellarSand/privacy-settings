@@ -142,12 +142,6 @@ After setting screen lock, tap on gear icon.
 -  Add users from lock screen: Off
 
 
-
-## Wi-Fi MAC Randomization
-Go to `About phone` > tap `Build Number` 7 times. This will unlock Developer options.
-<br> Now go to `System` > Developer options > Wi-fi non persistent MAC randomization: On
-
-
 ---
 
 

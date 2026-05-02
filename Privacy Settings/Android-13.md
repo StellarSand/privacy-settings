@@ -1,5 +1,9 @@
 # <img src="../icons/android.svg" width="42" align="bottom"> Android 13 Privacy Settings
 
+> [!WARNING]
+> Support for Android 13 has officially ended on Mar 02, 2026.
+<br>To ensure your device's security, please upgrade to the latest Android version.
+
 Go to Settings
 
 **The actual location of the settings might differ from device to device. The following are according to stock android.**
@@ -149,12 +153,6 @@ After setting screen lock, tap on gear icon.
 
 #### Multiple users
 -  Add users from lock screen: Off
-
-
-
-## Wi-Fi MAC Randomization
-Go to `About phone` > tap `Build Number` 7 times. This will unlock Developer options.
-<br>Now go to `System` > Developer options > Wi-fi non persistent MAC randomization: On
 
 
 ---

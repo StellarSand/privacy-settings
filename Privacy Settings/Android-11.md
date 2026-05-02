@@ -143,12 +143,6 @@ Tap on gear icon next to `Preferred engine`
 - Multiple users > Add users from lock screen: Off
 
 
-
-## Wi-Fi MAC Randomization
-Go to `About phone` > tap `Build Number` 7 times. This will unlock Developer options.
-<br>Now go to `System` > Advanced > Developer options > Wi-fi-enhanced MAC randomization: On
-
-
 ---
 
 

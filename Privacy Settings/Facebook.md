@@ -38,7 +38,7 @@ Click on `See all` next to `Ad topics` > in the popup, click on the search bar a
 - Ads shown outside of Meta >
     - Not allowed
 - Social interactions >
-    - select your account > select `Only Me`
+    - Select your account > select `Only Me`
 
 
 
