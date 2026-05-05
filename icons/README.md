@@ -1,3 +1,3 @@
  - Prefer `.svg` icons.
- - If `.svg` icons are not available, only then use `.png` icons.
+ - If `.svg` icons are not available, only then use `.png`/`.webp` icons.
  - Try not to use `.jpg`/`.jpeg` icons.
