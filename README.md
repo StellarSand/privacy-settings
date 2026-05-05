@@ -53,7 +53,7 @@
 - <img src="icons/microsoft_365.svg" width="20" align="top"> [Microsoft 365/Office](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-365.md)
 - <img src="icons/microsoft_edge.svg" width="20" align="top"> [Microsoft Edge Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md)
 - <img src="icons/microsoft_edge.svg" width="20" align="top"> [Microsoft Edge Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md)
-- <img src="icons/microsoft_swiftkey.webp" width="30" align="top"> [Microsoft SwiftKey](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-SwiftKey.md)
+- <img src="icons/microsoft_swiftkey.webp" width="25" align="top"> [Microsoft SwiftKey](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-SwiftKey.md)
 - <img src="icons/proton_mail.svg" width="20" align="top"> [Proton Mail](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Proton-Mail.md)
 - <img src="icons/reddit.svg" width="20" align="top"> [Reddit](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Reddit.md)
 - <img src="icons/signal.svg" width="20" align="top"> [Signal](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Signal.md)

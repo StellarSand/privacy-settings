@@ -1,6 +1,10 @@
 # Changelog
 
 
+## May 05, 2026
+- Added [Microsoft SwiftKey](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-SwiftKey.md)
+
+
 ## Apr 19, 2026
 - Added [GitHub](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/GitHub.md)
 
