@@ -1,6 +1,16 @@
 # Changelog
 
 
+## May 30, 2026
+
+#### Android Studio
+- Added [Plugins](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-Studio.md#plugins)
+
+#### Firefox Mobile
+- Added `Suggestions from Firefox` & `Suggestions from sponsors` in [Search](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md#search)
+- Added [AI controls](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md#ai-controls)
+
+
 ## May 05, 2026
 - Added [Microsoft SwiftKey](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-SwiftKey.md)
 
