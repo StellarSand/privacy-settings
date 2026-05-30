@@ -10,4 +10,9 @@ Go to File > Settings
 - Data Sharing >
     - Send usage statistics: Off
 
+
+
+## Plugins
+- Gemini: Off
+
 Click `OK`

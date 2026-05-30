@@ -9,6 +9,8 @@ Go to Settings.
 ## Search
 - Default search engine: DuckDuckGo or add any other privacy respecting search engine.
 - Show search suggestions: Off
+- Suggestions from Firefox: Off
+- Suggestions from sponsors: Off
 - Show clipboard suggestions: Off
 - Autocomplete URLs: Off
 
@@ -30,6 +32,7 @@ Go to Settings.
 > Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
 
 
+
 ## Autofill
 - Save and fill addresses: Off
 - Save and fill payment methods: Off
@@ -37,6 +40,11 @@ Go to Settings.
 > <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
 >
 > Never save payment info or credit card details in browsers. A password manager can be used to also save payment information or card details.
+
+
+
+## AI controls
+- Block AI enhancements: Off
 
 
 
@@ -81,7 +89,6 @@ Go to Settings.
 - Send technical & interaction data: Off
 - Daily usage ping: Off (optional)
 - Crash reports: Never send
-- Campaign measurement data: Off
 
 
 

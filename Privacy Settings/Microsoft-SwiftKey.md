@@ -1,4 +1,4 @@
-# <img src="../icons/microsoft_swiftkey.webp" width="52" align="top"> Microsoft SwiftKey Privacy Settings
+# <img src="../icons/microsoft_swiftkey.webp" width="42" align="top"> Microsoft SwiftKey Privacy Settings
 
 ## Rich input
 - Microsoft Copilot Search: Off
