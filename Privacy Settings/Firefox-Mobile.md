@@ -44,7 +44,7 @@ Go to Settings.
 
 
 ## AI controls
-- Block AI enhancements: Off
+- Block AI enhancements: On
 
 
 
