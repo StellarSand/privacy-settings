@@ -2,7 +2,6 @@
 
 Go to [Settings & Privacy](https://www.linkedin.com/mypreferences/d/categories/account).
 
-
 ## Account preferences
 
 #### Profile information
@@ -15,8 +14,6 @@ Go to [Settings & Privacy](https://www.linkedin.com/mypreferences/d/categories/a
 #### Partners & services
 - Microsoft: Don't connect or remove if already connected
 - Twitter: Don't connect or remove if already connected
-
-
 
 ## Sign in & security
 
@@ -36,8 +33,6 @@ Remove any device you don't use.
 >
 > - Don't use Microsoft Authenticator as mentioned there. Instead use a privacy respecting authenticator app. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
 > - The recovery codes downloaded is required to login, if 2FA method is lost, broken or unavailable. Keep these codes somewhere safe, to prevent loss or unauthorized access. They can be stored in a password manager, in an encrypted note, or write them down somewhere safe.
-
-
 
 ## Visibility
 
@@ -64,8 +59,6 @@ Remove any device you don't use.
 - Share profile updates with your network >
   - Share key profile updates: Off
 
-
-
 ## Data privacy
 
 #### How LinkedIn uses your data 
@@ -90,8 +83,6 @@ Remove any device you don't use.
 
 #### Permitted services
 Remove anything not required anymore
-
-
 
 ## Advertising data
 

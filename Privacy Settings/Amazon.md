@@ -4,8 +4,6 @@ Login to Amazon from browser.
 
 From top right go to Account & Lists > Your Account
 
-
-
 ## Login & security
 
 #### Two-Step Verification (2SV) Settings
@@ -14,8 +12,6 @@ From top right go to Account & Lists > Your Account
 > <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
 >
 > Use a privacy respecting authenticator app. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
-
-
 
 ## Ordering and shopping preferences
 
@@ -34,14 +30,10 @@ Click on Edit your public profile
 - Your public information (optional): Remove everything
 - Add social links to your public profile (optional): Remove everything
 
-
-
 ## Email alerts, messages, and ads
 
 #### Advertising preferences
 - select Do not show me interest-based ads provided by Amazon
-
-
 
 ## Browsing History
 - On the upper menu under the search bar, go to Browsing History > View and Edit

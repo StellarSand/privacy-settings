@@ -2,8 +2,6 @@
 
 On Android, tap on your Bitmoji on left of home screen > tap settings gear (in top right corner).
 
-
-
 ## My Account
 
 #### Two-Factor Authentication
@@ -19,8 +17,6 @@ On Android, tap on your Bitmoji on left of home screen > tap settings gear (in t
 
 #### Session Management
 -  Delete any previously logged in sessions.
-
-
 
 ## Privacy Control
 
@@ -50,8 +46,6 @@ On Android, tap on your Bitmoji on left of home screen > tap settings gear (in t
 - Turn `Off` everything in Ads Preferences
 - Uncheck everything in Lifestyle and Interests section
 - Clear All in Autofill Settings
-
-
 
 ## Account Actions
 

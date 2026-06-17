@@ -2,8 +2,6 @@
 
 Go to settings.
 
-
-
 ## Application
 
 #### Telemetry

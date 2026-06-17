@@ -2,12 +2,8 @@
 
 Go to Settings.
 
-
-
 ## Set username
 Tap on your profile pic > Username > Save
-
-
 
 ## Account
 - Create your PIN > Create a secure PIN
@@ -17,24 +13,16 @@ Tap on your profile pic > Username > Save
 
 - Registration Lock: On (after PIN is created)
 
-
-
 ## Linked devices
 Remove any device you don't use.
 
-
-
 ## Chats
 - Generate link previews: Off
-
-
 
 ## Notifications
 
 #### Messages
 - Show: Select whatever suits you
-
-
 
 ## Privacy
 

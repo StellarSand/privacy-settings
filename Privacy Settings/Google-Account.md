@@ -2,8 +2,6 @@
 
 Login to [Google Account](https://myaccount.google.com) from browser.
 
-
-
 ## Personal info
 
 #### Profile picture
@@ -26,8 +24,6 @@ Remove everything
 #### Other address
 Remove everything
 
-
-
 ## Security & sign-in
 
 #### How you sign in to Google
@@ -48,12 +44,8 @@ Once the above step is completed,
 #### Enhanced Safe Browsing for your account
 - Enhanced Safe Browsing: Off
 
-
-
 ## Third-party connections
 Remove anything you don't use
-
-
 
 ## Data & privacy
 
@@ -71,7 +63,6 @@ Remove anything you don't use
 - Turn off > Pause (Turning it off will not save your future watch and search history. If you want it don't change the setting.)
 - Manage history > Delete any past activity
 
-
 ### Personalized ads
 
 #### My Ad Center
@@ -80,13 +71,11 @@ Remove anything you don't use
 #### Search personalization
 - Personal search: Off
 
-
 ### Info you can share with others
 
 #### Profile
 - About: Remove everything
 - Work & education: Remove everything
-
 
 ## People & sharing
 
@@ -99,15 +88,12 @@ Remove anything you don't use
 #### Share recommendations in ads
 - Shared endorsements in ads > Uncheck `Based upon my activity, Google may show my profile name, profile photo, and activity in shared endorsements in ads`
 
-
-
 ## Payments & subscriptions
 
 #### Payments info
 - Personalization within Google Pay: Off
 
 ---
-
 
 ## Disable Gemini Apps Activity
  Go to [Gemini Apps Activity](https://myactivity.google.com/product/gemini) > Turn off > Turn off and delete activity
@@ -116,9 +102,7 @@ Remove anything you don't use
 > 
 > When this is enabled, **your conversations may be reviewed by humans, stored for up to 3 years, and used for AI training**. <br> When this is disabled, **your data isn’t used for AI training, but it’s still stored for up to 72 hours** so Google can process your requests and feedback.
 
-
 ---
-
 
 - Go to [Google Dashboard](https://myaccount.google.com/dashboard) and check all services you use.
 - Go to [Google Activity](https://myactivity.google.com/more-activity?continue=https%3A%2F%2Fmyactivity.google.com%2Fmyactivity) and delete/manage every activity you can.

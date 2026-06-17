@@ -2,8 +2,6 @@
 
 Go to Settings (Shortcut: `Windows key + i`).
 
-
-
 ## System
 
 #### Notifications
@@ -19,8 +17,6 @@ Go to Settings (Shortcut: `Windows key + i`).
 **This feature is not available in Home editions**
 - Off (Enable this only when needed. Remember to turn it off when no longer required.)
 - Require device to use Network Level Authentication to connect: On
-
-
 
 ## Bluetooth & devices
 
@@ -89,8 +85,6 @@ Go to Settings (Shortcut: `Windows key + i`).
 
   Click `Save`
 
-
-
 ## Personalization
 
 #### Lock screen
@@ -108,8 +102,6 @@ Go to Settings (Shortcut: `Windows key + i`).
 #### Device usage
 - Turn off everything
 
-
-
 ## Apps
 
 #### Installed apps
@@ -118,8 +110,6 @@ Be sure not to uninstall anything important. If you have doubts about any app, s
 
 #### Actions
 - Turn off everything
-
-
 
 ## Accounts
 
@@ -138,16 +128,11 @@ Delete your account picture and set it to default as mentioned below:
 #### Sign-in options
 - Show account details such as my email address on the sign-in screen: Off
 
-
-
-
 ## Time & language
 
 #### Typing
 - Show text suggestions when typing on the physical keyboard: Off
 - Typing insights: Off
-
-
 
 ## Privacy & security
 
@@ -203,16 +188,12 @@ Delete your account picture and set it to default as mentioned below:
 - Text and image generation >
   - Text and image generation: Off
 
-
-
 ## Windows Update
 
 #### Advanced options
 - Delivery Optimization > Allow downloads from other PCs: Off
 
-
 ---
-
 
 ## Disable ads in file explorer
 Open file explorer. Click 3 dots menu on top > Options >
@@ -221,8 +202,6 @@ Open file explorer. Click 3 dots menu on top > Options >
     - Click `Apply`
     - Also click "Apply to Folders" on top (if available)
 
-
-
 ## Disable telemetry service
 Press `Windows key + r` > type `services.msc` > press enter
 
@@ -230,8 +209,6 @@ Press `Windows key + r` > type `services.msc` > press enter
   - Service Status: Stopped (Click on `Stop`, if service is running)
   - Startup Type: Disabled 
   - Click `OK`
-
-
 
 ## Block & uninstall Quick Assist
 >  <img src="../icons/ic_insight.svg" width="22" align="top"> **Insight**
@@ -253,8 +230,6 @@ Press `Windows key + r` > type `services.msc` > press enter
   Get-AppxPackage -Name MicrosoftCorporationII.QuickAssist | Remove-AppxPackage -AllUsers
   ```
 
-
-
 ## Block all Microsoft telemetry
 Press `Windows key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
 
@@ -266,8 +241,6 @@ Press `Windows key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
 
 The list is updated regularly, so remember to check back often & replace old entries in the hosts file with the most recent ones.
 Windows updates will function normally even with these additions.
-
-
 
 ## Disable trending searches & web search in search bar
 <!--
@@ -286,8 +259,6 @@ Press `Windows key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
   ```
 
 - Open Task Manager > Processes > select `Windows Explorer` > Right click > Restart
-
-
 
 ## Disable AI
 
@@ -320,16 +291,12 @@ Open Notepad > click gear icon on top >
 Open Photos > click gear icon on top >
   - Allow image categorization: Off
 
-
 ---
-
 
 - Microsoft 365/Office settings are available [here](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-365.md).
 - Microsoft Edge Desktop settings are available [here](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md).
 
-
 ---
-
 
 ## Fresh install
 

@@ -4,8 +4,6 @@
 
 Go to Settings.
 
-
-
 ## Search
 - Default search engine: DuckDuckGo or add any other privacy respecting search engine.
 - Show search suggestions: Off
@@ -14,13 +12,9 @@ Go to Settings.
 - Show clipboard suggestions: Off
 - Autocomplete URLs: Off
 
-
-
 ## Homepage
 - Sponsored shortcuts: Off
 - Stories: Off (Does not apply to Fennec)
-
-
 
 ## Passwords
 - Save passwords: Never save
@@ -31,8 +25,6 @@ Go to Settings.
 >
 > Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
 
-
-
 ## Autofill
 - Save and fill addresses: Off
 - Save and fill payment methods: Off
@@ -41,32 +33,22 @@ Go to Settings.
 >
 > Never save payment info or credit card details in browsers. A password manager can be used to also save payment information or card details.
 
-
-
 ## AI controls
 - Block AI enhancements: On
-
-
 
 ## Private browsing
 - Allow screenshots in private browsing: Off
 - Use screen lock to hide tabs in private browsing: On
 
-
-
 ## HTTPS-Only Mode
 - On
 - Enable in all tabs
-
-
 
 ## DNS over HTTPS
 - Max Protection
   - Choose provider: `NextDNS`/`Cloudflare` or select `Custom` and provide URL for other secure DNS from [this list](https://www.privacyguides.org/en/dns/#recommended-providers).
   
     Example: For Quad9, enter https://dns.quad9.net/dns-query
-
-
 
 ## Enhanced Tracking Protection
 - On
@@ -77,12 +59,8 @@ Go to Settings.
   > [Global Privacy Control (GPC)](https://globalprivacycontrol.org/) operates as a “Do Not Sell” mechanism in some US states such as California, Colorado and Connecticut. It may also be used to indicate an opt-out of targeted advertising or general request to limit the sale or sharing of your personal data in those jurisdictions, as well as in jurisdictions such as the EU, UK, Nevada, Utah and Virginia.
   > <br>If you don't reside in these jurisdictions, disable this, as it **may** be used for potential browser fingerprinting purposes.
 
-
-
 ## Site settings
 - Cross-site cookies: Blocked
-
-
 
 ## Data collection
 **This section does not apply to Fennec**
@@ -90,14 +68,10 @@ Go to Settings.
 - Daily usage ping: Off (optional)
 - Crash reports: Never send
 
-
-
 ## Extensions
 Check [recommended extensions](https://github.com/StellarSand/privacy-settings#recommended-extensions) to add
 
-
 ---
-
 
 ## Further Hardening
 

@@ -2,8 +2,6 @@
 
 Go to Settings.
 
-
-
 ## General
 
 #### Files and Applications
@@ -14,15 +12,11 @@ Go to Settings.
 - Recommend extensions as you browse: Off
 - Recommend features as you browse: Off
 
-
-
 ## Home
 
 #### Firefox Home Content
 - Recommended stories: Off
 - Support Firefox : Off
-
-
 
 ## Search
 
@@ -34,8 +28,6 @@ Go to Settings.
 
 #### Address Bar
 - Suggestions from Firefox: Off
-
-
 
 ## Privacy & Security
 
@@ -81,14 +73,10 @@ Go to Settings.
   
     Example: For Quad9, enter https://dns.quad9.net/dns-query
 
-
-
 ## AI Controls
 - Block AI enhancements: On
 
-
 ---
-
 
 ## Further Hardening
 - For further hardening of Firefox, check out [arkenfox user.js](https://github.com/arkenfox/user.js).

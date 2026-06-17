@@ -1,17 +1,19 @@
 ## Contents
+- [Contents](#contents)
 - [Privacy Settings](#privacy-settings)
 - [Extension Settings](#extension-settings)
 - [Changelog](#changelog)
 - [FAQs](#faqs)
+    - [Will following the settings mentioned here ensure complete privacy?](#will-following-the-settings-mentioned-here-ensure-complete-privacy)
+    - [Why are privacy invading services like Facebook, Google, Zoom etc. mentioned here if this repo is focused on privacy?](#why-are-privacy-invading-services-like-facebook-google-zoom-etc-mentioned-here-if-this-repo-is-focused-on-privacy)
+    - [The settings for a particular software/service was updated months ago, when will it be updated according to latest version?](#the-settings-for-a-particular-softwareservice-was-updated-months-ago-when-will-it-be-updated-according-to-latest-version)
 - [Privacy Best Practices](#privacy-best-practices)
 - [Additional Resources](#additional-resources)
-  - [Recommendations, alternatives & reviews](#recommendations-alternatives--reviews)
-  - [Privacy news, blogs, guides & more](#privacy-news-blogs-guides--more)
+    - [Recommendations, alternatives \& reviews](#recommendations-alternatives--reviews)
+    - [Privacy news, blogs, guides \& more](#privacy-news-blogs-guides--more)
 - [Contributing](#contributing)
 - [Credits](#credits)
 - [License](#license)
-
-
 
 ## Privacy Settings
 <!-- Keep the list alphabetically ordered -->
@@ -72,8 +74,6 @@
 - <img src="icons/youtube.svg" width="20" align="bottom"> [YouTube](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/YouTube.md)
 - <img src="icons/zoom.svg" width="20" align="top"> [Zoom](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Zoom.md)
 
-
-
 ## Extension Settings
 <img src="icons/ublock.svg" width="20" align="top"> [uBlock Origin](https://github.com/StellarSand/privacy-settings/blob/main/Extensions%20Settings/uBlock-Origin.md)
 
@@ -85,12 +85,8 @@
   - [Microsoft Edge Desktop](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)
 </details>
 
-
-
 ## Changelog
 All notable changes are accounted in the [changelog](https://github.com/StellarSand/privacy-settings/blob/main/CHANGELOG.md).
-
-
 
 ## FAQs
 
@@ -103,8 +99,6 @@ Although the aim of this repo is to promote privacy, there may be instances wher
 #### The settings for a particular software/service was updated months ago, when will it be updated according to latest version?
 Settings don't always require updates with every new version. They will only be updated if there are significant changes.
 <br>Check out the [changelog](https://github.com/StellarSand/privacy-settings/blob/main/CHANGELOG.md) for all the changes.
-
-
 
 ## Privacy Best Practices
 - [Create strong passwords](https://ssd.eff.org/module/creating-strong-passwords) (preferably 10+ characters with a mix of letters, numbers, and special characters).
@@ -122,8 +116,6 @@ Settings don't always require updates with every new version. They will only be 
 - Share information sparingly & only provide what is necessary.
 - Consider using false information when appropriate (Never provide false information to legal entities, law enforcement, medical professionals, banks, etc.).
 - Educate others and raise awareness about digital privacy. Spread the word!
-
-
 
 ## Additional Resources
 For better privacy respecting alternatives, reviews and more information, check out:
@@ -162,8 +154,6 @@ Self-Defense](https://ssd.eff.org/), [GitHub](https://github.com/EFForg)
 - [Bleeping Computer](https://www.bleepingcomputer.com/)
 - [The Hacker News](https://thehackernews.com/)
 
-
-
 ## Contributing
 If you want to help out with the project, here are some ideas:
 - iOS/macOS privacy settings.
@@ -172,12 +162,8 @@ If you want to help out with the project, here are some ideas:
 
 Pull requests can be submitted [here](https://github.com/StellarSand/privacy-settings/pulls).
 
-
-
 ## Credits
 - [Contributors](https://github.com/StellarSand/privacy-settings/graphs/contributors) for making this project better.
-
-
 
 ## License
 This project is licensed under the terms of [MIT License](https://github.com/StellarSand/privacy-settings/blob/main/LICENSE), except for the icons which are owned by their respective trademark holders and are subject to their own licenses.

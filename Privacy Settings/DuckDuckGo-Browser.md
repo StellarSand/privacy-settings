@@ -2,12 +2,8 @@
 
 Go to Settings
 
-
-
 ## Private Search
 - Autocomplete Suggestions: Off
-
-
 
 ## Web Tracking Protection
 - Enable Global Privacy Control: Enable only for jurisdictions mentioned in the note below
@@ -16,26 +12,18 @@ Go to Settings
   > [Global Privacy Control (GPC)](https://globalprivacycontrol.org/) operates as a “Do Not Sell” mechanism in some US states such as California, Colorado and Connecticut. It may also be used to indicate an opt-out of targeted advertising or general request to limit the sale or sharing of your personal data in those jurisdictions, as well as in jurisdictions such as the EU, UK, Nevada, Utah and Virginia.
   > <br>If you don't reside in these jurisdictions, disable this, as it **may** be used for potential browser fingerprinting purposes.
 
-
-
 ## Threat Protection
 
 #### Scam Blocker
 - Warn me on sites flagged for scams, phishing or malware: On
 
-
-
 ## Cookie Pop-up Protection
 - Automatically handle cookie pop-ups: On
-
-
 
 ## Appearance & Language
 
 #### Address Bar
 - Full website address: On
-
-
 
 ## Passwords & Autofill
 

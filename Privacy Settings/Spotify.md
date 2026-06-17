@@ -2,8 +2,6 @@
 
 Spotify requires changing some settings from the app and some others from the website.
 
-
-
 ## App
 
 Go to Settings.
@@ -16,8 +14,6 @@ Tap on Edit Profile.
 #### Social
 - Private session: On
 - Listening activity: Off
-
-
 
 ## Website
 

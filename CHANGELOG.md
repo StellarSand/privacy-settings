@@ -1,6 +1,5 @@
 # Changelog
 
-
 ## May 30, 2026
 
 #### Android Studio
@@ -10,10 +9,8 @@
 - Added `Suggestions from Firefox` & `Suggestions from sponsors` in [Search](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md#search)
 - Added [AI controls](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md#ai-controls)
 
-
 ## May 05, 2026
 - Added [Microsoft SwiftKey](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-SwiftKey.md)
-
 
 ## Apr 19, 2026
 - Added [GitHub](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/GitHub.md)
@@ -24,13 +21,11 @@
 #### DuckDuckGo Search
 - Added [AI Features](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/DuckDuckGo-Search.md#ai-features)
 
-
 ## Feb 25, 2026
 
 #### Firefox Desktop
 - Added [Address Bar](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#address-bar) in [Search](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#search) 
 - Added [AI Controls](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#ai-controls)
-
 
 ## Jan 13, 2026
 
@@ -39,7 +34,6 @@
 - Added `Text and image generation` in [Privacy & security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#privacy--security) > [App permissions](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#app-permissions)
 - Added [Disable Copilot in Notepad](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#disable-copilot-in-notepad)
 - Added [Disable AI based image categorization](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#disable-ai-based-image-categorization)
-
 
 ## Dec 20, 2025
 
@@ -66,7 +60,6 @@
 #### WhatsApp
 - Added [Advanced chat privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#advanced-chat-privacy)
 
-
 ## Oct 28, 2025
 
 #### Firefox Mobile
@@ -87,7 +80,6 @@
 #### WhatsApp
 - Added [Links](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#links) & [Status](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#status) in [Privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#privacy)
 
-
 ## Sep 01, 2025
 
 #### Brave Browser Desktop
@@ -103,14 +95,12 @@
 - Added `Use screen lock to hide tabs in private browsing` in [Private browsing](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md#private-browsing)
 - Added `Campaign measurement data` in [Data collection](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md#data-collection)
 
-
 ## Jul 15, 2025
 - Added [Android 16](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-16.md)
 - Added [Snapchat](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Snapchat.md) (by [fynks](https://github.com/fynks))
 
 #### Google Account
 - Added [Disable Gemini Apps Activity](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md#disable-gemini-apps-activity)
-
 
 ## May 24, 2025
 
@@ -136,13 +126,11 @@
 - Added `Allow related sites to see your activity in the group` in [Content Settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#content-settings) > [Site settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#site-settings) > Third-party cookies > Block third-party cookies
 - Added `V8 optimizer` in [Content Settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#content-settings) > [Site settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#site-settings)
 
-
 ## Feb 03, 2025
 
 #### MacOS Sequoia
 - Added `Limit IP address tracking` in [Wi-Fi](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/MacOS-Sequoia.md#wi-fi) > [Network Settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/MacOS-Sequoia.md#network-settings) > Wifi Network Details
 - Added [Block all Apple telemetry](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/MacOS-Sequoia.md#block-all-apple-telemetry)
-
 
 ## Jan 30, 2025
 
@@ -174,7 +162,6 @@ By [d1ndz1nd](https://github.com/d1ndz1nd)
 - Added `Automatically lock` & `Show content in` in [Privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#privacy) > [App lock](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#app-lock)
 - Added [Chats](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#chats)
 
-
 ## Jan 22, 2025
 
 #### Instagram
@@ -188,7 +175,6 @@ By [d1ndz1nd](https://github.com/d1ndz1nd)
 - Added `Lock screen status` & `Screen saver` in [Personalization](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#personalization) > [Lock screen](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#lock-screen)
 - Added `Manage controlled folder access` in [Privacy & security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#privacy--security) > [Windows Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#windows-security) > `Virus & threat protection`
 - Added `Device security` in [Privacy & security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#privacy--security) > [Windows Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#windows-security)
-
 
 ## Jan 16, 2025
 
@@ -217,8 +203,6 @@ By [d1ndz1nd](https://github.com/d1ndz1nd)
 #### Microsoft Edge Desktop
 - Added `Show content` in [Page settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#page-settings)
 
-
-
 ## Oct 13, 2024
 - Added [Android 15](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-15.md)
 - Added [Tuta Mail](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Tuta-Mail.md)
@@ -228,8 +212,6 @@ By [d1ndz1nd](https://github.com/d1ndz1nd)
 
 #### WhatsApp
 - Added `Block unknown account messages` in [Privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#privacy) > [Advanced](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#advanced)
-
-
 
 ## Oct 08, 2024
 - Added [MacOS Sequoia](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/MacOS-Sequoia.md) (by [Henry](https://github.com/henry-fisher))
@@ -244,14 +226,10 @@ By [d1ndz1nd](https://github.com/d1ndz1nd)
 #### Microsoft Edge Mobile
 - Added [Let Microsoft Edge help keep your tabs organized](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#let-microsoft-edge-help-keep-your-tabs-organized) & [Website Typo Protection](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#website-typo-protection) in [Privacy, security and services](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#privacy-security-and-services)
 
-
-
 ## Sep 19, 2024
 
 #### LinkedIn
 - Updated all settings.
-
-
 
 ## Sep 13, 2024
 
@@ -261,8 +239,6 @@ By [d1ndz1nd](https://github.com/d1ndz1nd)
 #### Windows 11
 - Added [Fresh install](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#fresh-install)
 
-
-
 ## Aug 28, 2024
 
 #### Windows 10
@@ -270,8 +246,6 @@ By [d1ndz1nd](https://github.com/d1ndz1nd)
 
 #### Windows 11
 - Added [Block all Microsoft telemetry](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#block-all-microsoft-telemetry)
-
-
 
 ## Aug 25, 2024
 
@@ -281,8 +255,6 @@ By [d1ndz1nd](https://github.com/d1ndz1nd)
 #### Twitter (X)
 - Added [Grok](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Twitter.md#grok) in [Privacy and safety](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Twitter.md#privacy-and-safety) (by [Calvineries](https://github.com/Calvineries))
 
-
-
 ## Aug 08, 2024
 
 #### Windows 10
@@ -291,12 +263,8 @@ By [d1ndz1nd](https://github.com/d1ndz1nd)
 #### Windows 11
 - Added [Block & uninstall Quick Assist](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#block--uninstall-quick-assist)
 
-
-
 ## Jul 27, 2024
 - Added [DuckDuckGo Browser Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/DuckDuckGo-Browser.md) & [DuckDuckGo Browser Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/DuckDuckGo-Browser-Mobile.md)
-
-
 
 ## Jul 12, 2024
 
@@ -306,8 +274,6 @@ By [d1ndz1nd](https://github.com/d1ndz1nd)
 
 #### Firefox Desktop
 - Added [Website Advertising Preferences](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#website-advertising-preferences) in [Privacy & Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#privacy--security)
-
-
 
 ## Jun 13, 2024
 
@@ -322,8 +288,6 @@ By [d1ndz1nd](https://github.com/d1ndz1nd)
   - TechCrunch: [Privacy](https://techcrunch.com/category/privacy/), [Security](https://techcrunch.com/category/security/)
   - [XDA - Privacy](https://www.xda-developers.com/tag/privacy/)
   - [TechRadar - Cyber Security](https://www.techradar.com/computing/computing-security/cyber-security)
-
-
 
 ## Jun 02, 2024
 
@@ -348,8 +312,6 @@ By [d1ndz1nd](https://github.com/d1ndz1nd)
 #### Vivaldi Desktop
 - Added [Crash reporting](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md#crash-reporting) in [Privacy and Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md#privacy-and-security)
 
-
-
 ## Apr 09, 2024
 
 #### Brave Browser Desktop
@@ -373,8 +335,6 @@ By [d1ndz1nd](https://github.com/d1ndz1nd)
 
 #### Vivaldi Mobile
 - Added `Lock Private tabs when you leave Vivaldi` in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#privacy-and-security)
-
-
 
 ## Feb 23, 2024
 
@@ -415,8 +375,6 @@ By [d1ndz1nd](https://github.com/d1ndz1nd)
 - Added [Search Engine settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#search-engine-settings)
 - Added `AdBlock Warning Removal List` in [Tracker and Ad Blocking](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#tracker-and-ad-blocking) > [Manage Ad Blocking Sources](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#manage-ad-blocking-sources)
 
-
-
 ## Dec 18, 2023
 - Disabled "Do not track" on all browsers
 
@@ -432,8 +390,6 @@ By [d1ndz1nd](https://github.com/d1ndz1nd)
 #### Vivaldi Desktop
 - Added `Block Hyperlink Audit Tracking` in [Privacy and Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md#privacy-and-security) > [Tracking prevention](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md#tracking-prevention)
 
-
-
 ## Nov 25, 2023
 
 #### Firefox Desktop
@@ -441,8 +397,6 @@ By [d1ndz1nd](https://github.com/d1ndz1nd)
 
 #### Windows 11
 - Added [Disable Copilot](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#disable-copilot)
-
-
 
 ## Nov 13, 2023
 
@@ -470,8 +424,6 @@ By [d1ndz1nd](https://github.com/d1ndz1nd)
 #### Whatsapp
 - Added [Calls](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#calls), [App lock](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#app-lock) and [Advanced](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#advanced) in [Privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md#privacy)
 
-
-
 ## Oct 08, 2023
 - Added [Android 14](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-14.md)
 
@@ -498,8 +450,6 @@ By [d1ndz1nd](https://github.com/d1ndz1nd)
 - Added `Show the Windows welcome experience after updates and when signed in to show what's new and suggested` in [System](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#system) > [Notifications](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#notifications) > Additional settings
 - Added [Start](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#start) in [Personalization](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#personalization)
 - Added `Feedback frequency` in [Privacy & security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#privacy--security) > [Diagnostics & feedback](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#diagnostics--feedback)
-
-
 
 ## Sep 15, 2023
 
@@ -534,8 +484,6 @@ By [d1ndz1nd](https://github.com/d1ndz1nd)
 - Added `Form Autofill` in [Privacy and Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md#privacy-and-security) > [Autofill](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md#autofill)
 - Added `Notify on Completed Downloads` in [Downloads](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi.md#downloads)
 
-
-
 ## Sep 11, 2023
 - Added [Cromite](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Cromite.md)
 <br>Since [Bromite](https://github.com/bromite/bromite) has been abandoned, it has been replaced with [Cromite](https://github.com/uazo/cromite).
@@ -552,8 +500,6 @@ By [d1ndz1nd](https://github.com/d1ndz1nd)
 
 #### Google Chrome Desktop
 - Added [Ads privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md#ads-privacy) in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md#privacy-and-security)
-
-
 
 ## Aug 21, 2023
 Added
@@ -572,12 +518,8 @@ Added
 - Added `Show Express checkout on sites when you shop` in [Profiles](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#profiles) > [Payment info](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#payment-info)
 - Added `Include related matches in Find on Page` in [Privacy, search, and services](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#privacy-search-and-services) > [Services](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#services)
 
-
-
 ## July 28, 2023
 - Added [Google Search settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Search.md)
-
-
 
 ## July 25, 2023
 
@@ -586,15 +528,11 @@ Added
 - Added `Safe Browsing` and `Improve search suggestions` in [Brave shields & privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
 - Added `Show download progress notifications` in [Downloads](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#downloads)
 
-
-
 ## June 21, 2023
 
 #### Firefox Desktop
 - Added `Certificates` in [Privacy & Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#privacy--security) > [Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#security)
 - Moved [DNS over HTTPS](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#dns-over-https) from [General](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#general) to [Privacy & Security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#privacy--security)
-
-
 
 ## May 27, 2023
 
@@ -605,19 +543,13 @@ Added
  - Added [Microsoft Rewards](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#microsoft-rewards) in [Profiles](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#profiles)
  - Added [Sidebar](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#sidebar)
 
-
-
 ## May 04, 2023
 - Added [ChatGPT privacy settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/ChatGPT.md)
-
-
 
 ## March 29, 2023
 
 #### Brave Browser Mobile
 - Added `Auto-redirect tracking URLs` in [Brave shields & privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)
-
-
 
 ## Feb 11, 2023
 
@@ -627,12 +559,8 @@ Added
 #### Firefox Mobile
 - Added `Thought-provoking stories` in [Homepage](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md#homepage)
 
-
-
 ## Jan 15, 2023
 - Added [Telegram](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Telegram.md) and [WhatsApp](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/WhatsApp.md)
-
-
 
 ## Dec 21, 2022
 - Added [Android 13](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-13.md)
@@ -643,8 +571,6 @@ Added
 
 #### Microsoft Edge Desktop
 - Added `Search on new tabs uses search box or address bar` in [Privacy, search, and services](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#privacy-search-and-services) > [Services](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#services) > [Address bar and search](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#address-bar-and-search)
-
-
 
 ## Dec 10, 2022
 
@@ -658,8 +584,6 @@ Added
 
 #### Windows 11
 - Added [Disable trending searches & web search in search bar](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#disable-trending-searches--web-search-in-search-bar)
-
-
 
 ## Nov 29, 2022
 
@@ -682,8 +606,6 @@ Added
 - Added [Nearby sharing](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#nearby-sharing) in [System](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#system)
 - Updated DNS settings in [Network & internet](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#network--internet) > [Ethernet](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#ethernet) and [Wi-Fi](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#wi-fi)
 
-
-
 ## Sep 05, 2022
 
 #### Firefox Focus
@@ -695,14 +617,10 @@ Added
 #### Windows 11
 - Added [Disable telemetry service](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#disable-telemetry-service)
 
-
-
 ## Aug 08, 2022
 
 #### Windows 11
 - Added [Disable ads in file explorer](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#disable-ads-in-file-explorer)
-
-
 
 ## Aug 06, 2022
 
@@ -723,15 +641,11 @@ Added
 - Added [Device usage](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#device-usage) in [Personalization](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#personalization)
 - Added `More settings` in [Search permissions](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#search-permissions)
 
-
-
 ## Jul 24, 2022:
 Added
 - [Brave Search](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Search.md)
 - [Gmail](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Gmail.md)
 - [Proton Mail](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Proton-Mail.md)
-
-
 
 ## Jun 04, 2022:
 
@@ -747,14 +661,10 @@ Added
 #### Microsoft Edge Desktop
 - Added [Share browsing data with other Windows features](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#share-browsing-data-with-other-windows-features)
 
-
-
 ## May 05, 2022:
 
 #### Firefox Mobile
 - Added [Homepage](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md#homepage) and [HTTPS-Only Mode](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md#https-only-mode)
-
-
 
 ## Apr 30, 2022
 - Updated URL of [DNS providers list](https://www.privacyguides.org/dns) and added encrypted DNS examples for non-technical users in [Android 11](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-11.md#advanced), [Android 12](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-12.md#private-dns), [Brave Browser Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#security), [Brave Browser Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy), [Firefox Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md#network-settings), [Google Chrome Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome.md#security), [Google Chrome Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Chrome-Mobile.md#privacy-and-security), [Microsoft Edge Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md#security), [Vivaldi Mobile](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#privacy-and-security), [Windows 10](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-10.md#encrypted-dns) and [Windows 11](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#encrypted-dns)
@@ -767,8 +677,6 @@ Added
 
 #### Vivaldi Mobile
 - Added `Touch to Search` in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Vivaldi-Mobile.md#privacy-and-security)
-
-
 
 ## Mar 13, 2022
 
@@ -788,13 +696,9 @@ Added
 #### Microsoft Edge Mobile
 - Added [New tab page](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge-Mobile.md#new-tab-page) and some other home page settings.
 
-
-
 ## Feb 23, 2022
 
 - Added [Startpage Search](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Startpage-Search.md)
-
-
 
 ## Feb 18, 2022
 
@@ -813,8 +717,6 @@ Added
 #### Windows 11
 - Added [Encrypted DNS](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md#encrypted-dns)
 
-
-
 ## Jan 28, 2022
 
 #### Privacy Settings
@@ -823,8 +725,6 @@ Added
 #### Additional Resources
 - Privacy news, blogs, guides & more
   - Added [The New Oil](https://thenewoil.org/)'s [Youtube channel](https://www.youtube.com/c/TheNewOil)
-
-
 
 ## Jan 26, 2022
 
@@ -839,8 +739,6 @@ Added
   - [Twitter](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Twitter.md#security-and-account-access)
 
 - Added [Verify safety number](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Signal.md#verify-safety-number) in [Signal](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Signal.md)
-
-
 
 ## Jan 24, 2022
 
@@ -857,8 +755,6 @@ Added
   - Added [CR Security Planner](https://securityplanner.consumerreports.org/)
   - Added [National Cybersecurity Alliance - Stay Safe Online](https://staysafeonline.org/stay-safe-online/)
   - Added [Zebra Crossing: An easy-to-use digital safety checklist](https://github.com/narwhalacademy/zebra-crossing)
-
-
 
 ## Jan 10, 2022
 

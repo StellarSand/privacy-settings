@@ -112,4 +112,3 @@ Click on `Ad topics` > in the popup, click on the search bar at the top > click 
 - Link / Banners: remove it
 - Music: remove it
 - Show account suggestions on profiles: Off
-

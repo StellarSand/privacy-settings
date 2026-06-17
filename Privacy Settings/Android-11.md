@@ -8,8 +8,6 @@ Go to Settings
 
 **The actual location of the settings might differ from device to device. The following are according to stock android.**
 
-
-
 ## Network & internet
 
 #### Wi-Fi
@@ -22,8 +20,6 @@ Go to Settings
 - Private DNS > Private DNS provider hostname: enter the hostname of DNS provider from [this list](https://www.privacyguides.org/en/dns/#recommended-providers) > Save
 
   Example: For Quad9, enter dns.quad9.net
-
-
 
 ## Connected devices
 
@@ -39,8 +35,6 @@ Go to Settings
 >
 > Enable the above settings only when required. Remember to turn them off when no longer required.
 
-
-
 ## Apps & notifications
 
 #### Notifications
@@ -50,15 +44,11 @@ Go to Settings
 #### Advanced
 - Permission manager > Review each permission and disable accordingly (choose which apps can have access to camera, microphone, gps, contacts etc. If any app doesn't need something, turn it off.)
 
-
-
 ## Display
 
 #### Advanced
 - Screen timeout: Shortest duration that suits you
 - Lock screen > Notifications on lock screen: Show sensitive content only when unlocked
-
-
 
 ## Privacy
 
@@ -85,8 +75,6 @@ Go to Settings
 > Additionally some OEMs include few more settings for personalized ads & diagnostics.
 <br>Search in your phone settings for `User Experience Program`, `Personalized ad recommendations`, `Send diagnostic data` or something similar.
 
-
-
 ## Location
 - Use location: Off (enable only when needed, like for navigation apps, and turn off when not required)
 
@@ -96,8 +84,6 @@ Go to Settings
 
 #### Advanced
 - Google Location Accuracy > Improve Location Accuracy: Off
-
-
 
 ## Security
 
@@ -125,8 +111,6 @@ After setting screen lock, tap on gear icon.
 #### Trust agents
 - Smart Lock (Google): Off
 
-
-
 ## Accessibility
 
 #### Text-to-speech output
@@ -135,16 +119,12 @@ Tap on gear icon next to `Preferred engine`
 
 - Anonymous usage reports: Off
 
-
-
 ## System
 
 #### Advanced
 - Multiple users > Add users from lock screen: Off
 
-
 ---
-
 
 - Some other settings are same as [Google Account settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md).
 - Gboard settings are available [here](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Gboard.md).

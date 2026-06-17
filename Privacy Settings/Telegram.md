@@ -21,8 +21,6 @@ Go to Settings.
 - Raise to Speak: Off
 - Direct Share: Off
 
-
-
 ## Privacy and Security
 
 #### Two-Step Verification
@@ -112,8 +110,6 @@ Go to Settings.
 - Map Preview Provider: `No Previews`
 - Link Previews: Off
 
-
-
 ## Data and Storage
 
 #### Disk and network usage
@@ -139,15 +135,11 @@ Go to Settings.
 #### Streaming
 - Stream Videos and Audio Files: Off
 
-
-
 ## Power Saving
 
 #### Power saving options
 - Autoplay Videos: Off
 - Autoplay GIFs: Off
-
-
 
 ## Language
 

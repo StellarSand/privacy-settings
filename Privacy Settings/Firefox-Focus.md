@@ -2,8 +2,6 @@
 
 Go to Settings.
 
-
-
 ## Privacy & Security
 - Block ad trackers: On
 - Block analytic trackers: On
@@ -15,8 +13,6 @@ Go to Settings.
 - Block potentially dangerous and deceptive sites: On
 - HTTPS-Only Mode: On
 - Daily usage ping: Off (optional)
-
-
 
 ## Search
 

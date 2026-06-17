@@ -4,8 +4,6 @@
 
 Go to Settings.
 
-
-
 ## You and Google
 
 #### Sync and Google services
@@ -14,8 +12,6 @@ Go to Settings.
 - Make searches and browsing better: Off
 - Enhanced spell check: Off (Does not apply to Ungoogled Chromium)
 - Improve search suggestions: Off
-
-
 
 ## Autofill and passwords
 
@@ -38,8 +34,6 @@ Go to Settings.
 
 #### Addresses and more
 - Save and fill addresses: Off
-
-
 
 ## Privacy and security
 
@@ -68,24 +62,16 @@ Go to Settings.
 - Additional content settings > Intrusive ads > Ads are blocked on sites known to show intrusive or misleading ads
 - Automatically remove permissions from unused sites: On
 
-
-
 ## Performance
 
 #### Speed
 - Preload pages: Off
 
-
-
 ## Search engine
 - Search engine > Change > `DuckDuckGo` or add any other privacy respecting search engine from `Manage search engines and site search`.
 
-
-
 ## Languages
 - Spell check: Off
-
-
 
 ## Downloads
 - Ask where to save each file before downloading: On

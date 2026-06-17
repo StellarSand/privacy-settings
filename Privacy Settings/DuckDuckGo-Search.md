@@ -2,8 +2,6 @@
 
 Go to [DuckDuckGo Search settings](https://duckduckgo.com/settings).
 
-
-
 ## General
 - Autocomplete Suggestions: Off
 - Advertisements: Off
@@ -11,16 +9,11 @@ Go to [DuckDuckGo Search settings](https://duckduckgo.com/settings).
 - Homepage Privacy Tips: Off
 - Help Improve DuckDuckGo: Off
 
-
-
 ## Privacy
 - GET Requests: Off
-
-
 
 ## AI Features
 - Search Assist: Select according to your preferences
 - Hide AI-Generated Images: On
-
 
 **Click Save and Exit**

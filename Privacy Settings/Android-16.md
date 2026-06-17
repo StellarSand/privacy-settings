@@ -4,8 +4,6 @@ Go to Settings
 
 **The actual location of the settings might differ from device to device. The following are according to stock android.**
 
-
-
 ## Google
 
 Tap on `All services`
@@ -21,8 +19,6 @@ Tap on `All services`
 #### Personalize using shared data
 - Device Contacts: Off
 
-
-
 ## Network & internet
 
 #### Internet
@@ -35,8 +31,6 @@ Tap on `All services`
 - Private DNS > Private DNS provider hostname: enter the hostname of DNS provider from [this list](https://www.privacyguides.org/en/dns/#recommended-providers) > Save
 
   Example: For Quad9, enter dns.quad9.net
-
-
 
 ## Connected devices
 
@@ -51,8 +45,6 @@ Tap on `All services`
 >
 > Enable the above settings only when required. Remember to turn them off when no longer required.
 
-
-
 ## Notifications
 
 #### Notification history
@@ -60,8 +52,6 @@ Tap on `All services`
 
 #### Sensitive notifications
 - Off
-
-
 
 ## Display & touch
 
@@ -71,15 +61,11 @@ Tap on `All services`
 #### Screen timeout
 - Shortest duration that suits you
 
-
-
 ## System
 
 #### Users
 - Delete guest activity: On
 - Add users from lock screen: Off
-
-
 
 ## Security & privacy
 
@@ -128,8 +114,6 @@ After setting screen lock, tap on gear icon.
 - Trust agents >
   - Extend Unlock: Off
 
-
-
 ## Location
 - Use location: Off (enable only when needed, like for navigation apps, and turn off when not required)
 
@@ -137,8 +121,6 @@ After setting screen lock, tap on gear icon.
 - Location Accuracy > Improve Location Accuracy: Off
 - Wi-Fi scanning: Off
 - Bluetooth scanning: Off
-
-
 
 ## Accessibility
 
@@ -148,9 +130,7 @@ Tap on the gear icon next to `Preferred engine`
 
 - Anonymous usage reports: Off
 
-
 ---
-
 
 - Some other settings are same as [Google Account settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md).
 - Gboard settings are available [here](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Gboard.md).

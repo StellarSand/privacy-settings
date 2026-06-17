@@ -4,8 +4,6 @@ Go to Settings
 
 **The actual location of the settings might differ from device to device. The following are according to stock android.**
 
-
-
 ## Network & internet
 
 #### Internet
@@ -19,8 +17,6 @@ Go to Settings
 
   Example: For Quad9, enter dns.quad9.net
 
-
-
 ## Connected devices
 
 #### Connection preferences
@@ -33,8 +29,6 @@ Go to Settings
 >
 > Enable the above settings only when required. Remember to turn them off when no longer required.
 
-
-
 ## Notifications
 
 #### Notification history
@@ -42,8 +36,6 @@ Go to Settings
 
 #### Sensitive notifications
 - Off
-
-
 
 ## Display & touch
 
@@ -53,8 +45,6 @@ Go to Settings
 #### Screen timeout
 - Shortest duration that suits you
 
-
-
 ## Accessibility
 
 #### Text-to-speech output
@@ -62,8 +52,6 @@ Go to Settings
 Tap on the gear icon next to `Preferred engine`
 
 - Anonymous usage reports: Off
-
-
 
 ## Security & privacy
 
@@ -112,8 +100,6 @@ After setting screen lock, tap on gear icon.
 - Trust agents >
   - Extend Unlock: Off
 
-
-
 ## Location
 - Use location: Off (enable only when needed, like for navigation apps, and turn off when not required)
 
@@ -121,8 +107,6 @@ After setting screen lock, tap on gear icon.
 - Location Accuracy > Improve Location Accuracy: Off
 - Wi-Fi scanning: Off
 - Bluetooth scanning: Off
-
-
 
 ## Google
 
@@ -138,17 +122,13 @@ Tap on `All services`
 #### Personalize using shared data
 - Device Contacts: Off
 
-
-
 ## System
 
 #### Users
 - Delete guest activity: On
 - Add users from lock screen: Off
 
-
 ---
-
 
 - Some other settings are same as [Google Account settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md).
 - Gboard settings are available [here](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Gboard.md).

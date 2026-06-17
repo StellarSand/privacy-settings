@@ -2,8 +2,6 @@
 
 Go to [Settings](https://www.reddit.com/settings/account).
 
-
-
 ## Account
 
 #### General
@@ -18,8 +16,6 @@ Go to [Settings](https://www.reddit.com/settings/account).
 > - Don't use Google Authenticator or Authy as mentioned there. Instead use a privacy respecting authenticator app. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
 > - The backup codes is required to login, if 2FA method is lost, broken or unavailable. Keep these codes somewhere safe, to prevent loss or unauthorized access. They can be stored in a password manager, in an encrypted note, or write them down somewhere safe.
 
-
-
 ## Profile
 
 #### General
@@ -31,8 +27,6 @@ Go to [Settings](https://www.reddit.com/settings/account).
 #### Curate your profile
 - Select `Hide all`
 - Followers: Off
-
-
 
 ## Privacy
 
@@ -47,8 +41,6 @@ Go to [Settings](https://www.reddit.com/settings/account).
 
 #### Advanced
 - Third-party app authorizations: Remove anything you don't use.
-
-
 
 ## Preferences
 

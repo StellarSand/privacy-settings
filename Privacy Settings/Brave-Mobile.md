@@ -2,7 +2,6 @@
 
 Go to Settings
 
-
 # Features
 
 ## Brave shields & privacy
@@ -24,7 +23,6 @@ Go to Settings
 
 ### Clear browsing data
 - Clear data on exit: Off
-
 
 ### Social Media Blocking
 - Allow Facebook logins and embedded posts: Off
@@ -66,7 +64,6 @@ Go to Settings
 ## Brave News
 - Brave News >
   - Show Brave News: Off
-
 
 ## Brave Wallet
 - Default Ethereum wallet >

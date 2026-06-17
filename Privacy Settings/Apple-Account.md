@@ -14,17 +14,11 @@ Don't save any password. Use a password manager instead. Check out [recommendati
 #### Date of Birth
 - Provide false info
 
-
-
 ## Payment Methods
 Don't save any payment info. A password manager can be used to also save payment information.
 
-
-
 ## Devices
 - Remove any device you don't use
-
-
 
 ## Privacy
 

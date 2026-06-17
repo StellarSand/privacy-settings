@@ -2,18 +2,12 @@
 
 Go to Settings.
 
-
-
 ## Google services
 - All off
-
-
 
 ## Search engine
 - Google Chrome: DuckDuckGo
 - Ungoogled Chromium: `DuckDuckGo` or any other privacy respecting search engine like `Searx`, `Startpage` etc.
-
-
 
 ## Privacy and security
 - Third-party cookies >
@@ -42,8 +36,6 @@ Go to Settings.
   - Off
 - Access payment methods: Off
 
-
-
 ## Google Password Manager
 
 #### Settings
@@ -54,8 +46,6 @@ Go to Settings.
 >
 > Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
 
-
-
 ## Payment methods
 - Save and fill payment methods: Off
 
@@ -63,25 +53,17 @@ Go to Settings.
 >
 > Never save payment info in browsers. A password manager can be used to also save payment information.
 
-
-
 ## Addresses and more
 - Save and fill addresses: Off
-
-
 
 ## Site settings
 - Your device use: Off
 - Intrusive ads: Off
 
-
-
 ## Downloads
 - Ask where to save files: On
 
-
 ---
-
 
 On new tab page > tap on the 3 dots icon on top > Customize new tab page > 
 
@@ -91,4 +73,4 @@ On new tab page > tap on the 3 dots icon on top > Customize new tab page >
 #### Discover feed
 **This section is available only if `Google` is selected in the `Search engine` settings**
 
-- Off 
+- Off

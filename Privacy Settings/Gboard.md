@@ -6,18 +6,12 @@ Go to phone Settings > System >
 
 **The above location is according to stock android and might differ from device to device.**
 
-
-
 ## Corrections & suggestions
 - Smart compose: Off
 - Suggest contacts: Off
 
-
-
 ## Clipboard
 - Disable everything
-
-
 
 ## Privacy
 - Share usage statistics: Off

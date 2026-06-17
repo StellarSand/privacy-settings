@@ -3,9 +3,7 @@
 If you're using ChatGPT without an account, click on `Settings` from the left menu > Data controls
 - Improve the model for everyone: Off
 
-
 ---
-
 
 **The following settings are applicable only if you have a ChatGPT account.**
 
@@ -31,9 +29,7 @@ If you're using ChatGPT without an account, click on `Settings` from the left me
 7. Fill out `ChatGPT Personal Data Removal Request` form
 8. Click `Submit Request`
 
-
 ---
-
 
 **The following settings are applicable only if you've logged in to ChatGPT.**
 

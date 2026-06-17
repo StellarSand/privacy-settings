@@ -2,8 +2,6 @@
 
 Go to Settings (Shortcut: `Windows key + i`).
 
-
-
 ## System
 
 #### Notifications & actions
@@ -20,8 +18,6 @@ Go to Settings (Shortcut: `Windows key + i`).
 **This feature is not available in Home editions**
 - Off (Enable this only when needed. Remember to turn it off when no longer required.)
 - Require device to use Network Level Authentication to connect: On
-
-
 
 ## Devices
 
@@ -40,18 +36,13 @@ Go to Settings (Shortcut: `Windows key + i`).
 #### AutoPlay
 - Use AutoPlay for all media and devices: Off
 
-
 ## Phone
 - Do not link (use something else like [KDE Connect](https://kdeconnect.kde.org/), [LocalSend](https://localsend.org/), etc.)
-
-
 
 ## Network & Internet
 
 #### Wi-Fi
 - Random hardware addresses (if available): On
-
-
 
 ## Personalization
 
@@ -65,15 +56,11 @@ Go to Settings (Shortcut: `Windows key + i`).
 #### Start
 - Show suggestions occasionally in Start: Off
 
-
-
 ## Apps
 
 #### Apps & features
 Uninstall anything you don't use like XBox, candy crush, some other preinstalled apps/games etc.
 Be sure not to uninstall anything important. If you have doubts about any app, search the net.
-
-
 
 ## Accounts
 
@@ -94,8 +81,6 @@ Delete your account picture and set it to default as mentioned below:
 - Privacy
   - Show account details such as my email address on the sign-in screen: Off
 
-
-
 ## Search
 
 #### Permissions & History
@@ -105,8 +90,6 @@ Delete your account picture and set it to default as mentioned below:
 - History
   - Search history on this device: Off
   - Clear device search history
-
-
 
 ## Privacy
 
@@ -132,8 +115,6 @@ Delete your account picture and set it to default as mentioned below:
 - Review each permission and disable accordingly (choose which apps can have access to camera, microphone, gps, notifications etc. If any app doesn't need something, turn it off.)
 - App diagnostics > Change > Off
 
-
-
 ## Update & Security
 
 #### Delivery Optimization
@@ -146,8 +127,6 @@ Delete your account picture and set it to default as mentioned below:
   > <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
   >
   > Sometimes some of these can't be enabled due to an incompatible driver or software.
-
-
 
 ## Encrypted DNS
 Press `Windows key + r` > type `ncpa.cpl` > press enter
@@ -176,9 +155,7 @@ Right click on Ethernet or Wifi depending on what you are using > Properties
   
   Click `OK`
 
-
 ---
-
 
 ## Disable ads in file explorer
 Open file explorer > click `View` on top > Options > Change folder and search options
@@ -187,8 +164,6 @@ Open file explorer > click `View` on top > Options > Change folder and search op
   - Click `Apply`
   - Also click `Apply to Folders` on top (if available)
 
-
-
 ## Disable telemetry service
 Press `Windows key + r` > type `services.msc` > press enter
 
@@ -196,8 +171,6 @@ Press `Windows key + r` > type `services.msc` > press enter
   - Service Status: Stopped (Click on `Stop`, if service is running)
   - Startup Type: Disabled
   - Click `OK`
-
-
 
 ## Block & uninstall Quick Assist
 > <img src="../icons/ic_insight.svg" width="22" align="top"> **INSIGHT**
@@ -219,8 +192,6 @@ Press `Win key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
   Get-AppxPackage -Name MicrosoftCorporationII.QuickAssist | Remove-AppxPackage -AllUsers
   ```
 
-
-
 ## Block all Microsoft telemetry
 Press `Windows key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
 
@@ -233,12 +204,8 @@ Press `Windows key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
 The list is updated regularly, so remember to check back often & replace old entries in the hosts file with the most recent ones.
 Windows updates will function normally even with these additions.
 
-
-
 ## Disable search highlights in search bar
 Right click on taskbar > Search > uncheck `Show search highlights`
-
-
 
 ## Disable trending searches & web search in search bar
 <!--
@@ -257,9 +224,7 @@ Press `Windows key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
 
 - Open Task Manager > Processes > select `Windows Explorer` > Right click > Restart
 
-
 ---
-
 
 - Microsoft 365/Office settings are available [here](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-365.md).
 - Microsoft Edge Desktop settings are available [here](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Microsoft-Edge.md).

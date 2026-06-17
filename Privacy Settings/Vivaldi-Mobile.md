@@ -2,18 +2,12 @@
 
 Go to Settings.
 
-
-
 ## Search engine
 - Standard Tab: `DuckDuckGo` or `Startpage`
 - Private Tab: `DuckDuckGo` or `Startpage`
 
-
-
 ## Address Bar
 - Enable Search Suggestions: Off
-
-
 
 ## Password Manager
 - Save passwords: Off
@@ -23,8 +17,6 @@ Go to Settings.
 >
 > Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
 
-
-
 ## Payment methods
 - Save and fill payment methods: Off
 
@@ -32,17 +24,11 @@ Go to Settings.
 >
 > Never save payment info in browsers. A password manager can be used to also save payment information.
 
-
-
 ## Addresses and more
 - Save and fill addresses: Off
 
-
-
 ## Start Page
 - Show Top sites: Off
-
-
 
 ## Privacy and security
 - Always use secure connections >
@@ -61,8 +47,6 @@ Go to Settings.
 - Touch to Search: Off
 - Broadcast IP for best WebRTC performance: Off
 
-
-
 ## Tracker and Ad Blocking
 - Default Blocking Level: Block Trackers and Ads
 
@@ -76,8 +60,6 @@ Go to Settings.
 - Allow ads from our partners: Off
 - EasyList: On
 - Depending on your region turn on other lists if required like English, German etc.
-
-
 
 ## Content Settings
 

@@ -4,13 +4,10 @@ Go to System Settings by any of the following methods:
 - Apple Icon on top left > System Settings
 - Spotlight Search for `System Settings` by pressing `command + space` on your keyboard.
 
-
-
 ## Apple Account
 
 #### Sign-In & Security
 - Two-Factor Authentication: On
-
 
 #### iCloud
 - Advanced Data Protection: On
@@ -21,8 +18,6 @@ Go to System Settings by any of the following methods:
   > <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
   >
   > Keep tabs on what you're using iCloud for and make sure it's only enabled for applications you need.
-
-
 
 ## Wi-Fi
 
@@ -35,12 +30,8 @@ Go to System Settings by any of the following methods:
     > `Rotating` will cycle through new MAC addresses periodically. `Fixed` will use a new, unique MAC address on that specific network.
   - Limit IP address tracking: On
 
-
-
 ## Bluetooth
 - Bluetooth: Off
-
-
 
 ## Network
 - Firewall > Firewall: On
@@ -50,8 +41,6 @@ Go to System Settings by any of the following methods:
       >
       > **EXTREME** and **may** break many programs unless you manually exclude them.
     - Enable stealth mode: On
-
-
 
 ## General
 
@@ -72,14 +61,10 @@ Go to System Settings by any of the following methods:
 #### Login Items & Extensions
 Generally keep tabs on programs and extensions in this menu and keep it as minimal as possible. 
 
-
-
 ## Apple Intelligence & Siri
 - Apple Intelligence: Off > Turn Off Apple Intelligence
 - Siri: Off
 - Siri history: Delete Siri & Dictation History
-
-
 
 ## Notifications
 
@@ -88,8 +73,6 @@ Generally keep tabs on programs and extensions in this menu and keep it as minim
 
 ## Focus
 - Focus status: Off
-
-
 
 ## Privacy & Security
 
@@ -118,21 +101,15 @@ Generally keep tabs on all permissions and restrict as many as possible. The few
 - FileVault: On
 - Lockdown Mode: On
 
-
-
 ## Spotlight
 - Siri Suggestions: Off
 - Improve Search: Off
 
-
 ---
-
 
 ## Disable AI photo analysis
 Open `Photos` > Settings > General (on top) >
   - Enhanced Visual Search: Off
-
-
 
 ## Block all Apple telemetry
 - Spotlight Search for `terminal` & open it.
@@ -154,8 +131,6 @@ Open `Photos` > Settings > General (on top) >
 The list is updated regularly, so remember to check back often & replace old entries in the hosts file with the most recent ones.
 macOS updates will function normally even with these additions.
 
-
 ---
-
 
 Apple Account settings are available [here](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Apple-Account.md).

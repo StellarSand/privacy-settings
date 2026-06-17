@@ -2,14 +2,10 @@
 
 Go to Settings & Support > Settings and privacy
 
-
-
 ## Your account
 
 #### Account information
 - Phone: Remove phone number if added
-
-
 
 ## Security and account access
 
@@ -26,8 +22,6 @@ Go to Settings & Support > Settings and privacy
 
 #### Apps and sessions
 - Connected Apps > Remove anything you don't use
-
-
 
 ## Privacy and safety
 
@@ -68,9 +62,7 @@ Go to Settings & Support > Settings and privacy
 #### Grok
 - Allow your posts as well as your interactions, inputs, and results with Grok to be used for training and fine-tuning: Off
 
-
 ---
-
 
 - Remove `Location` and `Birth date` from your bio or provide false info if you want.
 - Remove any other personally identifiable info like phone numbers, emails etc. you might have added in your bio.

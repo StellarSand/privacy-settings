@@ -2,8 +2,6 @@
 
 Go to Settings
 
-
-
 ## Profiles
 
 #### Microsoft Rewards
@@ -11,8 +9,6 @@ Go to Settings
 
 #### Share browsing data with other Windows features
 - Share browsing data with other Windows features: Off
-
-
 
 ## Passwords and autofill
 
@@ -35,8 +31,6 @@ Go to Settings
 #### Personal info
 - Save and autofill personal info: Off
 
-
-
 ## Privacy, search, and services
 
 #### Tracking prevention
@@ -47,7 +41,6 @@ Go to Settings
 - Send "Do Not Track" requests: Off
 - Help improve Microsoft products by sending the results from searches on the web: Off
 - Allow Microsoft to use your browsing activity including history, favorites, usage and other browsing data to personalize Microsoft Edge and Microsoft services like ads, search, shopping and news: Off
-
 
 #### Security
 - Website Typo Protection: On
@@ -87,8 +80,6 @@ Go to Settings
   - Search suggestions and filters >
     - Show search and site suggestions using your typed characters: Off
 
-
-
 ## Appearance
 
 #### Browser behavior and features
@@ -99,14 +90,10 @@ Go to Settings
 - Copilot >
   - Show Copilot: Off
 
-
-
 ## Start, home, and new tabs
 
 #### New tab page
 - Preload your new tab page for a faster experience: Off
-
-
 
 ## Languages
 - Use Copilot for writing on the web: Off
@@ -116,20 +103,14 @@ Go to Settings
 #### Share additional OS regional format
 - Share additional operating system region: Never
 
-
-
 ## Downloads
 - Ask where to save each file before downloading: On
 - Show downloads menu when a download starts: On
 
-
-
 ## AI innovations
 - Copilot Mode: Off
 
-
 ---
-
 
 Open a new tab. Click the gear icon on top right >
   - Copilot Discover: Off

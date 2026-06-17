@@ -4,8 +4,6 @@ Login to [Facebook](https://www.facebook.com) from browser.
 
 Click on your profile picture on top right > Settings & Privacy > Settings
 
-
-
 ## Meta Accounts Centre
 Go to [Meta Accounts centre](https://accountscenter.facebook.com/) (clicking on `See more in Accounts Centre` will also redirect you there).
 
@@ -40,12 +38,8 @@ Click on `See all` next to `Ad topics` > in the popup, click on the search bar a
 - Social interactions >
     - Select your account > select `Only Me`
 
-
-
 ## Profile locking
 - Lock your profile > OK
-
-
 
 ## Profile details
 
@@ -65,9 +59,6 @@ Click on `See all` next to `Ad topics` > in the popup, click on the search bar a
 - Remove phone number if added
 - Provide false birth date & year and set them to `Only me`
 
-
-
-
 ## How people can find and contact you
 
 #### Your Friends
@@ -80,25 +71,17 @@ Click on `See all` next to `Ad topics` > in the popup, click on the search bar a
 #### Do you want search engines outside Facebook to link to your profile?
 - Off
 
-
-
 ## Posts
 - Who can see your future posts?: Friends
-
-
 
 ## Stories
 - Who can see your stories?: Don't select `Public`
 - Allow others to share your public stories to their own story?: Off
 - Archiving your stories: Off
 
-
-
 ## Reels
 - Allow others to share your reels to their stories?: Off
 - Who can see your reels?: Don't select `Public`
-
-
 
 ## Followers and public content
 - Who can follow me: Friends
@@ -106,9 +89,6 @@ Click on `See all` next to `Ad topics` > in the popup, click on the search bar a
 - Who can see the people, Pages and lists you follow?: Don't select `Public`
 - Who can comment on your public posts?: Friends
 - Public profile info: Friends
-
-
-
 
 ## Profile and tagging
 - Who can post on your profile?: Friends
@@ -119,13 +99,9 @@ Click on `See all` next to `Ad topics` > in the popup, click on the search bar a
 - Review tags that friends add to your posts before the tags appear on Facebook?: On
 - Review posts that you're tagged in before the post appears on your profile?: On
 
-
-
 ## Apps and websites
 Remove anything you don't use
 
-
 ---
-
 
 Remove any personally identifiable info like phone numbers, email, location etc. from your Facebook bio.

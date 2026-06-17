@@ -2,8 +2,6 @@
 
 Go to User settings
 
-
-
 ## Privacy & safety
 
 #### Safe Direct Messaging

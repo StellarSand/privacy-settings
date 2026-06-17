@@ -2,8 +2,6 @@
 
 Go to Settings
 
-
-
 ## Microsoft password manager
 - Password settings
   - Offer to save passwords: Off
@@ -15,21 +13,15 @@ Go to Settings
   >
   > Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
 
-
-
  ## Payment methods
 - Save and fill payment methods: Off
 
 > <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
 >
 > Never save payment info in browsers. A password manager can be used to also save payment information.
- 
-
 
  ## Personal info
 - Save and fill personal info: Off
-
-
 
 ## Privacy and security
 - Diagnostic data >
@@ -42,26 +34,18 @@ Go to Settings
   - Strict
 - Website Typo Protection: On
 
-
-
 ## Microsoft services
 - Copilot >
   - Show Copilot: Off
 - Personalize for your browsing: Off
 - Improve quality of shortcuts on homepage: Off
 
-
-
 ## Search
 - Search engine: DuckDuckGo
 - Show me search and site suggestions using my typed characters: Off
 
-
-
 ## Tabs
 - Let Microsoft Edge help keep your tabs organized: Off
-
-
 
 ## Site settings
 - Block ads >
@@ -76,9 +60,7 @@ Go to Settings
   - JavaScript optimization & security >
     - Off
 
-
 ---
-
 
 On home page > Tap the icon on top right >
   - Show sponsored shortcuts: Off

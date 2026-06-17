@@ -2,12 +2,8 @@
 
 Go to Settings.
 
-
-
 ## Search engine
 - DuckDuckGo
-
-
 
 ## Privacy and security
 - Third-party cookies: Block third-party cookies
@@ -33,8 +29,6 @@ Go to Settings.
 
 - Improve search suggestions: Off
 
-
-
 ## Password Manager
 - Save passwords: Off
 - Auto Sign-in: Off
@@ -43,19 +37,13 @@ Go to Settings.
 >
 > Never save passwords in browsers. Use a password manager instead. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
 
-
-
 ## Adblock Plus settings
 - Enable Adblock Plus: On
 - Filter lists: Select lists based on your language
 - Enable anti-circumvention and snippets: On
 
-
-
 ## Legacy Adblock settings
 - Autoupdate disabled: Off
-
-
 
 ## Payment methods
 - Save and fill payment methods: Off
@@ -64,12 +52,8 @@ Go to Settings.
 >
 > Never save payment info in browsers. A password manager can be used to also save payment information.
 
-
-
 ## Addresses and more
 - Save and fill addresses: Off
-
-
 
 ## Site settings
 - Your device use: Off
@@ -78,8 +62,6 @@ Go to Settings.
 - JavaScript JIT: Off
 - Timezone override: Random
 - Viewport Size Protection: On
-
-
 
 ## Downloads
 - Ask where to save files: On

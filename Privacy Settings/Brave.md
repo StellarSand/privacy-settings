@@ -2,8 +2,6 @@
 
 Go to Settings
 
-
-
 ## Appearance
 - Customize your toolbar >
   - Wallet: Off
@@ -13,15 +11,11 @@ Go to Settings
   - Leo AI Assistant: Off
 - Always show full URLs: On
 
-
-
 ## Shields
 - Trackers & ads blocking: Aggressive
 - Upgrade connections to HTTPS: Strict
 - Block fingerprinting: On
 - Block cookies: Block third-party cookies
-
-
 
 ## Privacy and security
 - Security >
@@ -49,8 +43,6 @@ Go to Settings
 - Survey Panelist >
   - Allow Brave surveys: Off
 
-
-
 ## Web3
 
 #### Wallet
@@ -62,14 +54,10 @@ Go to Settings
 - Resolve Ethereum Name Service (ENS) domain names: Disabled
 - Resolve Solana Name Service (SNS) domain names: Disabled
 
-
-
 ## Leo
 - Show Leo icon in the sidebar: Off
 - Show Leo in context menu on websites: Off
 - Tab Focus Mode: Off
-
-
 
 ## Search engine
 - Normal window: `DuckDuckGo`/`Brave`/`Startpage` or add any other 
@@ -78,8 +66,6 @@ privacy respecting search engine from `Manage search engines and site search`.
 privacy respecting search engine from `Manage search engines and site search`.
 - Improve search suggestions: Off
 - Web Discovery Project: Off
-
-
 
 ## Autofill and passwords
 
@@ -106,19 +92,13 @@ privacy respecting search engine from `Manage search engines and site search`.
 #### Allow auto-fill in private windows
 - Off
 
-
-
 ## Languages
 - Spell check: Off
-
-
 
 ## Downloads
 - Ask where to save each file before downloading: On
 
-
 ---
-
 
 ## Brave Rewards
 To disable Brave Rewards go to `brave://rewards` using the URL bar on top.

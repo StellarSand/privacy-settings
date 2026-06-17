@@ -2,8 +2,6 @@
 
 Login to your [Tuta Mail](https://tuta.com/) from browser > Click gear icon on bottom left
 
-
-
 ## Login
 
 #### Second factor authentication
@@ -17,14 +15,10 @@ Click on `+` > Authenticator (TOTP) > Scan the QR code using an authenticator ap
 #### Usage data
 - Usage data decision: Deactivated
 
-
-
 ## Email
 
 #### Sending emails
 - Default delivery: Confidential
-
-
 
 ## Global settings
 

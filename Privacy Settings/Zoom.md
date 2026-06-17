@@ -2,8 +2,6 @@
 
 Go to your profile.
 
-
-
 ## Profile
 - Remove everything except First Name, Last Name and Display Name.
 
@@ -20,8 +18,6 @@ Go to your profile.
 > - Use a privacy respecting authenticator app. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
 > - The recovery codes downloaded is required to login, if 2FA method is lost, broken or unavailable. Keep these codes somewhere safe, to prevent loss or unauthorized access. They can be stored in a password manager, in an encrypted note, or write them down somewhere safe.
 
-
-
 ## Meetings
 (If on Personal Room tab, click edit)
 
@@ -37,8 +33,6 @@ When scheduling a new meeting:
 #### Options
 - Allow participants to join anytime: Off
 - Automatically record meeting on the local computer: Off
-
-
 
 ## Settings
 
@@ -63,10 +57,8 @@ When scheduling a new meeting:
 #### In Meeting (Advanced)
 - Virtual background: On
 
-
 ### Recording
 - Automatic recording: Off
-
 
 ### Audio Conferencing
 - Mask phone number in the participant list: On

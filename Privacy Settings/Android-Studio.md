@@ -2,15 +2,11 @@
 
 Go to File > Settings
 
-
-
 ## Appearance & Behavior
 
 #### System Settings
 - Data Sharing >
     - Send usage statistics: Off
-
-
 
 ## Plugins
 - Gemini: Off

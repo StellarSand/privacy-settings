@@ -2,8 +2,6 @@
 
 Go to Settings.
 
-
-
 ## Address Bar
 
 #### Address Field Options
@@ -16,8 +14,6 @@ Go to Settings.
 - Always Use Secure Connection (HTTPS): On
 - Strip javaScript From Pasted Text: On
 - Highlight Base Domain in Address: On
-
-
 
 ## Search
 
@@ -33,8 +29,6 @@ Go to Settings.
 #### Allow Search Suggestions
 - In Address Field: Off
 - In Search Field: Off
-
-
 
 ## Privacy and Security
 
@@ -79,8 +73,6 @@ Go to Settings.
 
 #### Cookies
 - Third-Party Cookies: Block All
-
-
 
 ## Downloads
 - Save Files to Default Location Without Asking: Off

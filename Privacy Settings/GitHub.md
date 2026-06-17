@@ -2,12 +2,8 @@
 
 Click on your profile picture on top right > Settings
 
-
-
 ## Public profile
 Remove any other personally identifiable info like phone numbers, location, birth date etc. from your bio.
-
-
 
 ## Password and authentication
 
@@ -19,15 +15,11 @@ Remove any other personally identifiable info like phone numbers, location, birt
 > - Use a privacy respecting authenticator app. Check out [recommendations, alternatives & reviews](https://github.com/StellarSand/privacy-settings#recommendations-alternatives--reviews).
 > - The recovery codes are required to login, if 2FA method is lost, broken or unavailable. Keep these codes somewhere safe, to prevent loss or unauthorized access. They can be stored in a password manager, in an encrypted note, or write them down somewhere safe.
 
-
-
 ## Sessions
 Remove anything you don't use
 
-
 ## Applications
 Remove anything you don't use
-
 
 ## Copilot
 

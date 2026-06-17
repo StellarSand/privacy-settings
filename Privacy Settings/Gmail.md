@@ -4,8 +4,6 @@ Login to your [Gmail](https://mail.google.com) from browser.
 
 Click gear icon on top right > See all settings
 
-
-
 ## General
 - Undo Send: 30 seconds (Not necessarily a privacy feature but might come in handy)
 - Images: Ask before displaying external images
@@ -22,7 +20,6 @@ Click gear icon on top right > See all settings
     > <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
     >
     > When `Google Workspace smart features` are disabled, your emails & attachments are **not** used for AI training.
-
 
 ---
 

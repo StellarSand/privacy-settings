@@ -4,8 +4,6 @@ Login to your [Proton Mail](https://mail.proton.me) from browser.
 
 Click gear icon on top right > Go to settings
 
-
-
 ## Recovery
 
 #### Data recovery
@@ -14,7 +12,6 @@ Click gear icon on top right > Go to settings
 > <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
 >
 > A recovery phrase lets you access your account and recover your encrypted emails after a password reset. Keep this phrase somewhere safe, to prevent loss or unauthorized access. It can be stored in a password manager, in an encrypted note, or write it down somewhere safe.
-
 
 ## Account and password
 - Two-factor authentication > 
@@ -26,8 +23,6 @@ Click gear icon on top right > Go to settings
   > - The backup code is required to login, if 2FA method is lost, broken or unavailable. Keep this code somewhere safe, to prevent loss or unauthorized access. It can be stored in a password manager, in an encrypted note, or write it down somewhere safe.
 
 - Two-password mode: On (Optional, but can be enabled for one extra layer of security.)
-
-
 
 ## Security and privacy
 
@@ -42,8 +37,6 @@ If you suspect that someone else has access to your account, you can check your 
 #### Privacy and data collection
 - Send crash reports: Off
 
-
-
 ## Messages and composing
 
 #### Messages
@@ -53,13 +46,9 @@ If you suspect that someone else has access to your account, you can check your 
 #### Composing
 - Undo send: 20 seconds (Not necessarily a privacy feature but might come in handy)
 
-
-
 ## Email privacy
 - Auto show remote images: On (Make sure to enable the next setting below too)
 - Block email tracking: On
-
-
 
 ## Encryption and keys
 
