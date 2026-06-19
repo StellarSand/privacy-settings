@@ -4,6 +4,13 @@ Login to [Google Account](https://myaccount.google.com) from browser.
 
 
 
+## Payments & subscriptions
+
+#### Google Pay experience
+- Personalization within Google Pay: Off
+
+
+
 ## Personal info
 
 #### Profile picture
@@ -50,42 +57,26 @@ Once the above step is completed,
 
 
 
-## Third-party connections
+## Linked apps
 Remove anything you don't use
 
 
 
 ## Data & privacy
 
-### History settings
-
-#### Web & App Activity
-- Turn off > Pause
-- Manage all Web & App Activity > Delete any past activity
+#### Personalization settings
+- Personalized Recommendations in Search services: Turn off > Turn off
+- Play Personalization: Turn off > Turn off
+- Web & App Activity: Turn off
+    - Manage all Web & App Activity > Delete any past activity
+- YouTube History: Turn off > Pause (Turning it off will not save your future watch and search history. If you want it don't change the setting.)
+    - Manage YouTube history > Delete any past activity
+- My Ad Center >
+    - Personalized ads > Turn off
 
 #### Timeline
-- Turn off > Pause
-- Auto Delete > Auto-delete activity older than > 3 months
+- Turn off
 
-#### YouTube History
-- Turn off > Pause (Turning it off will not save your future watch and search history. If you want it don't change the setting.)
-- Manage history > Delete any past activity
-
-
-### Personalized ads
-
-#### My Ad Center
-- Personalized ads > Turn off
-
-#### Search personalization
-- Personal search: Off
-
-
-### Info you can share with others
-
-#### Profile
-- About: Remove everything
-- Work & education: Remove everything
 
 
 ## People & sharing
@@ -99,12 +90,6 @@ Remove anything you don't use
 #### Share recommendations in ads
 - Shared endorsements in ads > Uncheck `Based upon my activity, Google may show my profile name, profile photo, and activity in shared endorsements in ads`
 
-
-
-## Payments & subscriptions
-
-#### Payments info
-- Personalization within Google Pay: Off
 
 ---
 

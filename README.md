@@ -23,6 +23,7 @@
 - <img src="icons/android.svg" width="20" align="bottom"> [Android 14](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-14.md)
 - <img src="icons/android.svg" width="20" align="bottom"> [Android 15](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-15.md)
 - <img src="icons/android.svg" width="20" align="bottom"> [Android 16](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-16.md)
+- <img src="icons/android.svg" width="20" align="bottom"> [Android 17](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-17.md)
 - <img src="icons/android_studio.svg" width="20" align="top"> [Android Studio](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-Studio.md)
 - <img src="icons/apple.svg" width="20" align="top"> [Apple Account](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Apple-Account.md)
 - <img src="icons/brave.svg" width="20" align="top"> [Brave Browser Desktop](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md)
@@ -129,19 +130,23 @@ Settings don't always require updates with every new version. They will only be 
 For better privacy respecting alternatives, reviews and more information, check out:
 
 #### Recommendations, alternatives & reviews
+<!-- Do NOT alphabetically arrange the list -->
+
 - [Privacy Guides](https://www.privacyguides.org/en/tools/)
-- [Techlore Resources](https://essentials.techlore.tech/#all-resources)
+- [Techlore Resources](https://tools.techlore.tech/)
 - [PRISM Break](https://prism-break.org/)
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)
 - [Lissy93/awesome-privacy](https://awesome-privacy.xyz/)
 
 #### Privacy news, blogs, guides & more
+<!-- Do NOT alphabetically arrange the list -->
+
 - EFF: [Website](https://www.eff.org/), [Surveillance
 Self-Defense](https://ssd.eff.org/), [GitHub](https://github.com/EFForg)
 - Mozilla: [Privacy & Security](https://blog.mozilla.org/en/category/privacy-security/), [Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded/)
 - [Spread Privacy](https://spreadprivacy.com/)
 - [Proton - Privacy guides](https://proton.me/blog/privacy-guides)
-- Techlore: [Website](https://www.techlore.tech), [YouTube](https://www.youtube.com/@techlore/videos), [GitHub](https://github.com/techlore)
+- Techlore: [Website](https://techlore.tech/), [YouTube](https://www.youtube.com/@techlore/videos), [GitHub](https://github.com/techlore)
 - [Naomi Brockwell - YouTube](https://www.youtube.com/@NaomiBrockwellTV/videos)
 - The New Oil: [Website](https://thenewoil.org/), [YouTube](https://www.youtube.com/@TheNewOil/videos)
 - [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide/)
@@ -169,6 +174,8 @@ If you want to help out with the project, here are some ideas:
 - iOS/macOS privacy settings.
 - Suggest new services/software or help improve the existing ones.
 - Translate it to your own language.
+
+Please read the [contributing guidelines](https://github.com/StellarSand/privacy-settings/blob/main/CONTRIBUTING.md) before contributing.
 
 Pull requests can be submitted [here](https://github.com/StellarSand/privacy-settings/pulls).
 

@@ -1,8 +1,25 @@
-# <img src="../icons/android.svg" width="42" align="bottom"> Android 15 Privacy Settings
+# <img src="../icons/android.svg" width="42" align="bottom"> Android 17 Privacy Settings
 
 Go to Settings
 
 **The actual location of the settings might differ from device to device. The following are according to stock android.**
+
+
+
+## Google
+
+Tap on `All services`
+
+#### Personalize using shared data
+- Device Contacts: Off
+
+#### Search, Assistant & Voice
+- Privacy & Safety > Search customization >
+    - Search customization: Off
+    - Ad personalization on Search: Off
+- Other settings >
+    - Discover: Off
+    - Autocomplete settings > Autocomplete with trending searches: Off
 
 
 
@@ -19,14 +36,19 @@ Go to Settings
 
   Example: For Quad9, enter dns.quad9.net
 
+#### Mobile network security
+Enable everything
+
 
 
 ## Connected devices
 
 #### Connection preferences
 - Bluetooth: Off
-- Printing > Default Print Service: Off
-- Quick Share > Who can share with you > Visibility to nearby devices: Off
+- Printing >
+    - Default Print Service: Off
+- Quick Share > Who can share with you >
+    - Visibility to nearby devices: Off
 - Android Auto: Off
 
 > <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
@@ -40,28 +62,23 @@ Go to Settings
 #### Notification history
 - Use notification history: Off
 
-#### Sensitive notifications
-- Off
+#### Notifications on lock screen
+- Show sensitive content: Off
 
 
 
 ## Display & touch
-
-#### Lock screen
-- Privacy: Show sensitive content only when unlocked
 
 #### Screen timeout
 - Shortest duration that suits you
 
 
 
-## Accessibility
+## System
 
-#### Text-to-speech output
-
-Tap on the gear icon next to `Preferred engine`
-
-- Anonymous usage reports: Off
+#### Users
+- Delete guest activity: On
+- Add users from lock screen: Off
 
 
 
@@ -83,7 +100,7 @@ After setting screen lock, tap on gear icon.
 - Ads >
     - Reset advertising ID > Confirm
     - Delete advertising ID > Delete advertising ID
-- Show passwords: Off
+- Show passwords for touchscreen: Off
 
 #### More security & privacy
 - Notifications on lock screen: Show sensitive content only when unlocked
@@ -100,7 +117,7 @@ After setting screen lock, tap on gear icon.
   <br>Search in your phone settings for `User Experience Program`, `Personalized ad recommendations`, `Send diagnostic data` or something similar.
 - Scanning for deceptive apps >
   - Use scanning for deceptive apps: On
-- SIM lock >
+- Protect SIM card >
   - Lock SIM: On > Enter default PIN > OK
   - Change SIM PIN > Enter old and new SIM PIN > OK (Create a secure new SIM PIN)
   > <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
@@ -124,27 +141,13 @@ After setting screen lock, tap on gear icon.
 
 
 
-## Google
+## Accessibility
 
-Tap on `All services`
+#### Text-to-speech output
 
-#### Search, Assistant & Voice
-- Privacy & Safety >
-    - Search customization: Off
-- Other settings >
-    - Discover: Off
-    - Autocomplete settings > Autocomplete with trending searches: Off
+Tap on the gear icon next to `Preferred engine`
 
-#### Personalize using shared data
-- Device Contacts: Off
-
-
-
-## System
-
-#### Users
-- Delete guest activity: On
-- Add users from lock screen: Off
+- Anonymous usage reports: Off
 
 
 ---

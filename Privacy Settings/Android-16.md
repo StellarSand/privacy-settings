@@ -36,6 +36,9 @@ Tap on `All services`
 
   Example: For Quad9, enter dns.quad9.net
 
+#### Mobile network security
+Enable everything
+
 
 
 ## Connected devices
@@ -58,15 +61,12 @@ Tap on `All services`
 #### Notification history
 - Use notification history: Off
 
-#### Sensitive notifications
-- Off
+#### Notifications on lock screen
+- Show sensitive content: Off
 
 
 
 ## Display & touch
-
-#### Lock screen
-- Privacy: Show sensitive content only when unlocked
 
 #### Screen timeout
 - Shortest duration that suits you
@@ -114,15 +114,15 @@ After setting screen lock, tap on gear icon.
   >
   > Additionally some OEMs include few more settings for personalized ads & diagnostics.
   <br>Search in your phone settings for `User Experience Program`, `Personalized ad recommendations`, `Send diagnostic data` or something similar.
-- SIM card lock >
-  - Lock SIM card: On > Enter default PIN > OK
+- Scanning for deceptive apps >
+  - Use scanning for deceptive apps: On
+- SIM lock >
+  - Lock SIM: On > Enter default PIN > OK
   - Change SIM PIN > Enter old and new SIM PIN > OK (Create a secure new SIM PIN)
   > <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
   >
   > - The default PIN code is usually `1234` or `0000`. However, if these two don't work, you should look on SIM card's packaging or contact your SIM provider's customer support.
   > - If you enter the PIN code wrong 3 times, you'll be asked to enter a PUK (Personal Unlock Key) code. This code can be obtained from the carrier, after they verify you are the rightful owner of the SIM. DO NOT try to guess the PUK code. If you enter it wrong 3 times, the SIM will be permanently locked and you might have to get a new SIM from your carrier.
-- Scanning for deceptive apps >
-    - Use scanning for deceptive apps: On
 - Encryption & credentials >
   - Encrypt phone: Encrypted
 - Trust agents >
