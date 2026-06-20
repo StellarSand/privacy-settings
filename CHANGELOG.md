@@ -1,7 +1,7 @@
 # Changelog
 
 
-## DATE
+## Jun 20, 2026
 - Added [Android 17](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-17.md)
 
 #### Brave Browser Mobile
