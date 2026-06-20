@@ -1,6 +1,39 @@
 # Changelog
 
 
+## DATE
+- Added [Android 17](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-17.md)
+
+#### Brave Browser Mobile
+By [MRCYODev](https://github.com/MRCYODev)
+
+- Added the following in [Brave shields & privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy):
+  - Store contact information for future broken site reports
+  - Auto shred
+  - Allow element blocking in private windows
+  - Forget me when I close this site
+  - Allow Facebook logins and embedded posts
+  - Allow Twitter/X embedded tweets
+  - Allow LinkedIn embedded posts
+  - Allow app links to open in apps outside of Brave
+  - WebRTC IP handling policy
+- Added `Show in quick search engines bar` in [Leo AI](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#leo-ai)
+- Added `Show quick search bar` in [Search engines](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#search-engines)
+- Added `Pop-ups and redirects` in [Site settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#site-settings)
+- Added `Customize menu` & `Disable Sharing Hub` in [Appearance](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#appearance)
+
+#### Brave Search
+By [MRCYODev](https://github.com/MRCYODev)
+
+- Added `Google fallback mixing`
+
+#### Android 16
+- Added [Mobile network security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-16.md#mobile-network-security) in [Network & internet](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-16.md#network--internet)
+
+#### Google Account
+- Added `Personalized Recommendations in Search services` & `Play Personalization` in [Data & privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md#data--privacy) > [Personalization settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md#personalization-settings)
+
+
 ## May 30, 2026
 
 #### Android Studio
@@ -232,7 +265,7 @@ By [d1ndz1nd](https://github.com/d1ndz1nd)
 
 
 ## Oct 08, 2024
-- Added [MacOS Sequoia](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/MacOS-Sequoia.md) (by [Henry](https://github.com/henry-fisher))
+- Added [MacOS Sequoia](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/MacOS-Sequoia.md) (by [henry-fisher](https://github.com/henry-fisher))
 
 #### Brave Browser Mobile
 - Added `Content Filtering` in [Brave shields & privacy](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave-Mobile.md#brave-shields--privacy)

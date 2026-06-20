@@ -44,24 +44,10 @@
     #### Additional protections
     ```
 - Decide what should be a section vs subsection based on the UI. Sections are usually the first level of clicks/taps (usually, but not always), while subsections can vary. Sometimes subsections appear in small font that users skip over, or they might not be needed if the settings are clear enough to list as bullet points. Check the examples below:
-    - Brave Mobile:
-        <img src="images/brave_m_1.png" width="250"> <img src="images/brave_m_2.png" width="250">
-        > ## Brave shields & privacy
-        > - Block trackers and ads: Block trackers & ads (Aggressive)
-        > - Auto-redirect AMP pages: On
-        > - Auto-redirect tracking URLs: On
-        >
-        > ## Brave News
-        > - Show Brave News: Off
-        >
-        > ## Leo AI
-        > - Store my conversation history: Off
-        >
-        > ## New Tab Page
-        > - Show New Tab Page Ads: Off
-        > - Show Top Sites: Off
     - Firefox Desktop:
-        <img src="images/firefox.png" width="350">
+
+        <img src="images/firefox.png" width="600">
+
         > ## Home and startup
         > #### Firefox Home
         > - Stories: Off
@@ -76,6 +62,20 @@
         > #### Connection and software security
         > - Advanced settings >
         >   - HTTPS-Only Mode: Enable HTTPS-Only Mode in all windows
+    - Brave Browser Mobile:
+
+        <img src="images/brave_m_1.png" width="219"> <img src="images/brave_m_2.png" width="250">
+
+        > ## Brave shields & privacy
+        > - Block trackers and ads: Block trackers & ads (Aggressive)
+        > - Auto-redirect AMP pages: On
+        >
+        > ## Leo AI
+        > - Store my conversation history: Off
+        >
+        > ## New Tab Page
+        > - Show New Tab Page Ads: Off
+        > - Show Top Sites: Off
 - Don't use GitHub's `> [!NOTE]` or `> [!TIP]` blocks since they don't support indentation. Use this custom format instead:
     - Note:
         ```
