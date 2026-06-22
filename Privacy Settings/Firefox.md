@@ -107,5 +107,5 @@ Go to Settings.
 ---
 
 
-## Further Hardening
+## Further Hardening (optional)
 - For further hardening of Firefox, check out [arkenfox user.js](https://github.com/arkenfox/user.js).

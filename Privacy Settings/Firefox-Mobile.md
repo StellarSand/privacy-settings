@@ -99,7 +99,7 @@ Check [recommended extensions](https://github.com/StellarSand/privacy-settings#r
 ---
 
 
-## Further Hardening
+## Further Hardening (optional)
 
 - For further hardening of Firefox Beta and Fennec, check out [arkenfox user.js](https://github.com/arkenfox/user.js).
 

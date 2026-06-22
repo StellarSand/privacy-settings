@@ -170,14 +170,13 @@ Self-Defense](https://ssd.eff.org/), [GitHub](https://github.com/EFForg)
 
 
 ## Contributing
+Please read the [contributing guidelines](https://github.com/StellarSand/privacy-settings/blob/main/CONTRIBUTING.md) before contributing.
+<br>Pull requests can be submitted [here](https://github.com/StellarSand/privacy-settings/pulls).
+
 If you want to help out with the project, here are some ideas:
 - iOS/macOS privacy settings.
 - Suggest new services/software or help improve the existing ones.
 - Translate it to your own language.
-
-Please read the [contributing guidelines](https://github.com/StellarSand/privacy-settings/blob/main/CONTRIBUTING.md) before contributing.
-
-Pull requests can be submitted [here](https://github.com/StellarSand/privacy-settings/pulls).
 
 
 

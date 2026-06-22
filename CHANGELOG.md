@@ -11,7 +11,6 @@ By [MRCYODev](https://github.com/MRCYODev)
   - Store contact information for future broken site reports
   - Auto shred
   - Allow element blocking in private windows
-  - Forget me when I close this site
   - Allow Facebook logins and embedded posts
   - Allow Twitter/X embedded tweets
   - Allow LinkedIn embedded posts
