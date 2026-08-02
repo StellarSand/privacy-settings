@@ -1,5 +1,9 @@
 # Changelog
 
+## Aug 2, 2026
+
+#### Windows 11
+- Updated Hagezi DNS blocklist host file URLs
 
 ## Jun 20, 2026
 - Added [Android 17](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-17.md)
