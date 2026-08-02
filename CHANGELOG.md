@@ -2,8 +2,14 @@
 
 ## Aug 2, 2026
 
+#### Windows 10
+- Updated Hagezi DNS blocklist host file URL
+
 #### Windows 11
-- Updated Hagezi DNS blocklist host file URLs
+- Updated Hagezi DNS blocklist host file URL
+
+#### MacOS Sequoia
+- Updated Hagezi DNS blocklist host file URL
 
 ## Jun 20, 2026
 - Added [Android 17](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-17.md)
