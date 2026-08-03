@@ -142,7 +142,7 @@ Open `Photos` > Settings > General (on top) >
   ```
 - Type your password & press enter.
 - Use the down arrow key on your keyboard to move the cursor to the bottom of the hosts file.
-- Copy & paste everything from [this list](https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/hosts/native.apple.txt) at the bottom of the hosts file & save it.
+- Copy & paste everything from [this list](https://raw.githubusercontent.com/hagezi/dns-blocklists-legacy/refs/heads/main/hosts/native.apple.txt) at the bottom of the hosts file & save it.
   > <img src="../icons/ic_tip.svg" width="22" align="top"> **Tip**
   >
   > To save the file press `Ctrl + x`, type `y`, press enter.

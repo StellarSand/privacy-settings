@@ -262,7 +262,7 @@ Press `Windows key + r` > type `powershell` > press `ctrl + shift + enter` > Yes
   ```Powershell
   notepad C:\Windows\System32\drivers\etc\hosts
   ```
-- Add everything from [this list](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.winoffice.txt) at the bottom of the hosts file & save it.
+- Add everything from [this list](https://raw.githubusercontent.com/hagezi/dns-blocklists-legacy/refs/heads/main/hosts/native.winoffice.txt) at the bottom of the hosts file & save it.
 
 The list is updated regularly, so remember to check back often & replace old entries in the hosts file with the most recent ones.
 Windows updates will function normally even with these additions.
