@@ -1,15 +1,22 @@
 # Changelog
 
-## Aug 2, 2026
+## Aug 28, 2026
+
+#### Brave Browser Desktop
+- Added `WebRTC IP handling policy` in [Privacy and security](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Brave.md#privacy-and-security)
+
+## Aug 02, 2026
+By [taylor-hileman](https://github.com/taylor-hileman)
 
 #### Windows 10
-- Updated Hagezi DNS blocklist host file URL
+- Updated host file block list URLs
 
 #### Windows 11
-- Updated Hagezi DNS blocklist host file URL
+- Updated host file block list URLs
 
 #### MacOS Sequoia
-- Updated Hagezi DNS blocklist host file URL
+- Updated host file block list URLs
+
 
 ## Jun 20, 2026
 - Added [Android 17](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-17.md)
