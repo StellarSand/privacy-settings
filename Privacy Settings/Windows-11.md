@@ -12,8 +12,8 @@ Go to Settings (Shortcut: `Windows key + i`).
   - Suggest ways to get the most out of Windows and finish setting up this device: Off
   - Get tips and suggestions when using Windows: Off
 
-#### Nearby sharing
-- Off (Enable this only when needed. Remember to turn it off when no longer required.)
+#### Share
+- Nearby sharing: Off (Enable this only when needed. Remember to turn it off when no longer required.)
 
 #### Remote Desktop
 **This feature is not available in Home editions**
@@ -164,7 +164,7 @@ Delete your account picture and set it to default as mentioned below:
 #### Find my device
 - Find my device: Off
 
-#### General
+#### Recommendations & offers
 - All off
 
 #### Recall & Snapshots
@@ -219,7 +219,7 @@ Open file explorer. Click 3 dots menu on top > Options >
   - Click `View` on top of the new popup >
     - Uncheck `Show sync provider notifications`
     - Click `Apply`
-    - Also click "Apply to Folders" on top (if available)
+    - Also click `Apply to Folders` on top (if available)
 
 
 

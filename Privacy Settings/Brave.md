@@ -35,6 +35,12 @@ Go to Settings
   - Ethereum: Block sites from accessing the Ethereum provider API
   - Solana: Block sites from accessing the Solana provider API
 
+- WebRTC IP handling policy: Select one of options from the note below
+  > <img src="../icons/ic_note.svg" width="22" align="top"> **Note**
+  >
+  > - **Disable non-proxied UDP:** Call/video quality may be reduced if you're using a proxy server that does not support UDP, but it'll prevent your location from being exposed through your IP address to the other person on the call/video.
+  > - **Default public interface only:** Call/video quality won't be reduced, but your public IP address will remain visible & only the private local network address will be hidden.
+
 - Use Google services for push messaging: Off
 - Auto-redirect AMP pages: On
 - Auto-redirect tracking URLs: On
