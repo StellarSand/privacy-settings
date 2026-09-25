@@ -143,13 +143,13 @@ For better privacy respecting alternatives, reviews and more information, check 
 
 - EFF: [Website](https://www.eff.org/), [Surveillance
 Self-Defense](https://ssd.eff.org/), [GitHub](https://github.com/EFForg)
-- Mozilla: [Privacy & Security](https://blog.mozilla.org/en/category/privacy-security/), [Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded/)
+- Mozilla: [Privacy & Security](https://blog.mozilla.org/en/category/privacy-security/), [Privacy Not Included](https://web.archive.org/web/20260811020234/https://www.mozillafoundation.org/en/privacynotincluded/), [Nothing Personal](https://www.mozillafoundation.org/en/nothing-personal/)
 - [Spread Privacy](https://spreadprivacy.com/)
-- [Proton - Privacy guides](https://proton.me/blog/privacy-guides)
+- [Proton - Privacy guides](https://proton.me/blog/guides)
 - Techlore: [Website](https://techlore.tech/), [YouTube](https://www.youtube.com/@techlore/videos), [GitHub](https://github.com/techlore)
 - [Naomi Brockwell - YouTube](https://www.youtube.com/@NaomiBrockwellTV/videos)
 - The New Oil: [Website](https://thenewoil.org/), [YouTube](https://www.youtube.com/@TheNewOil/videos)
-- [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide/)
+- [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.net/guide/)
 - [The Data Detox Kit](https://datadetoxkit.org)
 - [Personal security checklist](https://digital-defense.io/)
 - [Security in a Box](https://securityinabox.org/)
@@ -181,7 +181,7 @@ If you want to help out with the project, here are some ideas:
 
 
 ## Credits
-- [Contributors](https://github.com/StellarSand/privacy-settings/graphs/contributors) for making this project better.
+- [Contributors](https://github.com/StellarSand/privacy-settings/graphs/contributors?all=1) for making this project better.
 
 
 
